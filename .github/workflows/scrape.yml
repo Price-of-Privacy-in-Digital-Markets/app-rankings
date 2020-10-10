@@ -1,0 +1,26 @@
+name: Scrape latest data
+
+on:
+  schedule:
+    - cron: '0 0,12 * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v1
+      with:
+        node-version: '12'
+    - run: npm install
+    - name: Scrape
+      run: ./scrape.sh
+    - name: Commit and push
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
