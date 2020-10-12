@@ -1,35 +1,5 @@
 [
   {
-    "title": "Torque Pro (OBD 2 & Car)",
-    "appId": "org.prowl.torque",
-    "url": "https://play.google.com/store/apps/details?id=org.prowl.torque",
-    "icon": "https://play-lh.googleusercontent.com/jCmUBkfai1vJhnCYXDefs706hLCrBAPtzDX4JI4aFuVza2MS-ZMSSJnJFSFEHciDU9s",
-    "developer": "Ian Hawkins",
-    "developerId": "Ian+Hawkins",
-    "priceText": "€3.55",
-    "currency": "€",
-    "price": 3.55,
-    "free": false,
-    "summary": "Measure BHP, Torque &amp; 0-60<br>Clear car OBD faults<br>View engine data in Google Earth",
-    "scoreText": "3.7",
-    "score": 3.7326794
-  },
-  {
-    "title": "Bonus mobilità 2020 Live Updates",
-    "appId": "it.koodi.bm2020pro",
-    "url": "https://play.google.com/store/apps/details?id=it.koodi.bm2020pro",
-    "icon": "https://lh3.googleusercontent.com/UOMOfXWEkTwdoZIj7hVaGOwwF2hyOObs6CJi-VE_3dd-WTJqWiCJczpxP-xIb44YpqU",
-    "developer": "An.dS.",
-    "developerId": "An.dS.",
-    "priceText": "€0.89",
-    "currency": "€",
-    "price": 0.89,
-    "free": false,
-    "summary": "Information application for the procedure for obtaining the 2020 mobility bonus",
-    "scoreText": "3.0",
-    "score": 2.9846153
-  },
-  {
     "title": "Navigation Pro: Google Maps Navi on Samsung Watch",
     "appId": "smartwatchstudios.app.gears3navigation",
     "url": "https://play.google.com/store/apps/details?id=smartwatchstudios.app.gears3navigation",
@@ -42,7 +12,22 @@
     "free": false,
     "summary": "Navigate with your watch and keep the phone in your pocket!",
     "scoreText": "4.6",
-    "score": 4.5994196
+    "score": 4.6
+  },
+  {
+    "title": "Torque Pro (OBD 2 & Car)",
+    "appId": "org.prowl.torque",
+    "url": "https://play.google.com/store/apps/details?id=org.prowl.torque",
+    "icon": "https://play-lh.googleusercontent.com/jCmUBkfai1vJhnCYXDefs706hLCrBAPtzDX4JI4aFuVza2MS-ZMSSJnJFSFEHciDU9s",
+    "developer": "Ian Hawkins",
+    "developerId": "Ian+Hawkins",
+    "priceText": "€3.55",
+    "currency": "€",
+    "price": 3.55,
+    "free": false,
+    "summary": "Measure BHP, Torque &amp; 0-60<br>Clear car OBD faults<br>View engine data in Google Earth",
+    "scoreText": "3.7",
+    "score": 3.7324514
   },
   {
     "title": "e-Connect",
@@ -58,6 +43,21 @@
     "summary": "Management, centralization and supervision system service",
     "scoreText": "3.5",
     "score": 3.49
+  },
+  {
+    "title": "Bonus mobilità 2020 Live Updates",
+    "appId": "it.koodi.bm2020pro",
+    "url": "https://play.google.com/store/apps/details?id=it.koodi.bm2020pro",
+    "icon": "https://lh3.googleusercontent.com/UOMOfXWEkTwdoZIj7hVaGOwwF2hyOObs6CJi-VE_3dd-WTJqWiCJczpxP-xIb44YpqU",
+    "developer": "An.dS.",
+    "developerId": "An.dS.",
+    "priceText": "€0.89",
+    "currency": "€",
+    "price": 0.89,
+    "free": false,
+    "summary": "Information application for the procedure for obtaining the 2020 mobility bonus",
+    "scoreText": "3.0",
+    "score": 2.9846153
   },
   {
     "title": "IPTV Extreme Pro",
@@ -105,19 +105,19 @@
     "score": 4.604356
   },
   {
-    "title": "PeakFinder",
-    "appId": "org.peakfinder.area.alps",
-    "url": "https://play.google.com/store/apps/details?id=org.peakfinder.area.alps",
-    "icon": "https://lh3.googleusercontent.com/wsqU67HWA5vmQmlMxMJLPb2am89mPGmS1XNb3xTZIHW0C3jAbZBgVuSDWJ_y8h46yUg",
-    "developer": "Fabio Soldati",
-    "developerId": "Fabio+Soldati",
-    "priceText": "€4.69",
+    "title": "Tasker",
+    "appId": "net.dinglisch.android.taskerm",
+    "url": "https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm",
+    "icon": "https://lh3.googleusercontent.com/Z32CI1HB_7uGRIyKhKGd6rt9jLBzRxFasowSEzUt0kGJJeFUYeKChxti4x8USm4xAg",
+    "developer": "joaomgcd",
+    "developerId": "8102570190170276456",
+    "priceText": "€3.69",
     "currency": "€",
-    "price": 4.69,
+    "price": 3.69,
     "free": false,
-    "summary": "The mobile panorama panel.<br>Works offline - worldwide!",
-    "scoreText": "4.6",
-    "score": 4.570406
+    "summary": "Automate everything from settings to photos, SMS to speech. ADC2 prize winner.",
+    "scoreText": "4.4",
+    "score": 4.381283
   },
   {
     "title": "TeamSpeak 3 - Voice Chat Software",
@@ -135,34 +135,19 @@
     "score": 3.39596
   },
   {
-    "title": "Tasker",
-    "appId": "net.dinglisch.android.taskerm",
-    "url": "https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm",
-    "icon": "https://lh3.googleusercontent.com/Z32CI1HB_7uGRIyKhKGd6rt9jLBzRxFasowSEzUt0kGJJeFUYeKChxti4x8USm4xAg",
-    "developer": "joaomgcd",
-    "developerId": "8102570190170276456",
-    "priceText": "€3.69",
+    "title": "PeakFinder",
+    "appId": "org.peakfinder.area.alps",
+    "url": "https://play.google.com/store/apps/details?id=org.peakfinder.area.alps",
+    "icon": "https://lh3.googleusercontent.com/wsqU67HWA5vmQmlMxMJLPb2am89mPGmS1XNb3xTZIHW0C3jAbZBgVuSDWJ_y8h46yUg",
+    "developer": "Fabio Soldati",
+    "developerId": "Fabio+Soldati",
+    "priceText": "€4.69",
     "currency": "€",
-    "price": 3.69,
+    "price": 4.69,
     "free": false,
-    "summary": "Automate everything from settings to photos, SMS to speech. ADC2 prize winner.",
-    "scoreText": "4.4",
-    "score": 4.381283
-  },
-  {
-    "title": "GPX Viewer PRO - Tracks, Routes & Waypoints",
-    "appId": "com.vecturagames.android.app.gpxviewer.pro",
-    "url": "https://play.google.com/store/apps/details?id=com.vecturagames.android.app.gpxviewer.pro",
-    "icon": "https://lh3.googleusercontent.com/Vxl7vAYgKa4pfXPfNpH1GA7kq5oWMgrDBwwSQrnHCAqoWCDMVLjFLzzk7s3WeEq7P0M",
-    "developer": "Vectura Games OÜ",
-    "developerId": "7257657370093547812",
-    "priceText": "€4.99",
-    "currency": "€",
-    "price": 4.99,
-    "free": false,
-    "summary": "GPX Viewer PRO shows tracks, routes and waypoints from gpx and kml files.",
-    "scoreText": "4.5",
-    "score": 4.5100503
+    "summary": "The mobile panorama panel.<br>Works offline - worldwide!",
+    "scoreText": "4.6",
+    "score": 4.570406
   },
   {
     "title": "WazzapMigrator",
@@ -180,6 +165,21 @@
     "score": 4.014218
   },
   {
+    "title": "GPX Viewer PRO - Tracks, Routes & Waypoints",
+    "appId": "com.vecturagames.android.app.gpxviewer.pro",
+    "url": "https://play.google.com/store/apps/details?id=com.vecturagames.android.app.gpxviewer.pro",
+    "icon": "https://lh3.googleusercontent.com/Vxl7vAYgKa4pfXPfNpH1GA7kq5oWMgrDBwwSQrnHCAqoWCDMVLjFLzzk7s3WeEq7P0M",
+    "developer": "Vectura Games OÜ",
+    "developerId": "7257657370093547812",
+    "priceText": "€4.99",
+    "currency": "€",
+    "price": 4.99,
+    "free": false,
+    "summary": "GPX Viewer PRO shows tracks, routes and waypoints from gpx and kml files.",
+    "scoreText": "4.5",
+    "score": 4.5100503
+  },
+  {
     "title": "Simple Gallery Pro - Photo Manager & Editor",
     "appId": "com.simplemobiletools.gallery.pro",
     "url": "https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery.pro",
@@ -192,7 +192,7 @@
     "free": false,
     "summary": "Your favorite photo album with no ads👍 Crop pictures, edit photos &amp; more",
     "scoreText": "4.7",
-    "score": 4.727684
+    "score": 4.728237
   },
   {
     "title": "Universe in a Nutshell",
@@ -210,21 +210,6 @@
     "score": 4.869565
   },
   {
-    "title": "Toca Life: Hospital",
-    "appId": "com.tocaboca.tocahospital",
-    "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocahospital",
-    "icon": "https://lh3.googleusercontent.com/Jeoff_0VjrZ52ou5ghwKoCinaKcOYvWKOASuUNorrhN1nOkBTKn4yqEf0xFViz-3K_L4",
-    "developer": "Toca Boca",
-    "developerId": "8567646723268777320",
-    "priceText": "€4.49",
-    "currency": "€",
-    "price": 4.49,
-    "free": false,
-    "summary": "Experience the excitement of a busy medical center with Toca Life: Hospital!",
-    "scoreText": "4.4",
-    "score": 4.391969
-  },
-  {
     "title": "Nova Launcher Prime",
     "appId": "com.teslacoilsw.launcher.prime",
     "url": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher.prime",
@@ -238,6 +223,36 @@
     "summary": "Customize your home screen",
     "scoreText": "4.7",
     "score": 4.6740065
+  },
+  {
+    "title": "DiskDigger Pro file recovery",
+    "appId": "com.defianttech.diskdiggerpro",
+    "url": "https://play.google.com/store/apps/details?id=com.defianttech.diskdiggerpro",
+    "icon": "https://lh3.googleusercontent.com/9-I35xyyNx5O-b_E2XXT_JMhiQ8yyLEMVl2VRMKf4m5CNMXBNIziBbHloS-nlOqFOzw",
+    "developer": "Defiant Technologies, LLC",
+    "developerId": "Defiant+Technologies,+LLC",
+    "priceText": "€3.37",
+    "currency": "€",
+    "price": 3.37,
+    "free": false,
+    "summary": "Undelete and recover your lost or deleted files with DiskDigger!",
+    "scoreText": "3.0",
+    "score": 2.9813664
+  },
+  {
+    "title": "Toca Life: Hospital",
+    "appId": "com.tocaboca.tocahospital",
+    "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocahospital",
+    "icon": "https://lh3.googleusercontent.com/Jeoff_0VjrZ52ou5ghwKoCinaKcOYvWKOASuUNorrhN1nOkBTKn4yqEf0xFViz-3K_L4",
+    "developer": "Toca Boca",
+    "developerId": "8567646723268777320",
+    "priceText": "€4.49",
+    "currency": "€",
+    "price": 4.49,
+    "free": false,
+    "summary": "Experience the excitement of a busy medical center with Toca Life: Hospital!",
+    "scoreText": "4.4",
+    "score": 4.391969
   },
   {
     "title": "Threema. Secure and private Messenger",
@@ -270,21 +285,6 @@
     "score": 3.4780793
   },
   {
-    "title": "DiskDigger Pro file recovery",
-    "appId": "com.defianttech.diskdiggerpro",
-    "url": "https://play.google.com/store/apps/details?id=com.defianttech.diskdiggerpro",
-    "icon": "https://lh3.googleusercontent.com/9-I35xyyNx5O-b_E2XXT_JMhiQ8yyLEMVl2VRMKf4m5CNMXBNIziBbHloS-nlOqFOzw",
-    "developer": "Defiant Technologies, LLC",
-    "developerId": "Defiant+Technologies,+LLC",
-    "priceText": "€3.37",
-    "currency": "€",
-    "price": 3.37,
-    "free": false,
-    "summary": "Undelete and recover your lost or deleted files with DiskDigger!",
-    "scoreText": "3.0",
-    "score": 2.9813664
-  },
-  {
     "title": "Flixy 3D - Icon Pack",
     "appId": "com.cris87.flixy_3d",
     "url": "https://play.google.com/store/apps/details?id=com.cris87.flixy_3d",
@@ -300,36 +300,6 @@
     "score": 5
   },
   {
-    "title": "Verifica RCA Italia PRO",
-    "appId": "it.verificaassicurazione_pro",
-    "url": "https://play.google.com/store/apps/details?id=it.verificaassicurazione_pro",
-    "icon": "https://lh3.googleusercontent.com/5dkgLwuiSNaDZpvdwwplbS2SZQL1pn_9V3LmDdUo2-CnARt7rWt1ExZfKW3e5k48gg",
-    "developer": "MakingApp Studio",
-    "developerId": "MakingApp+Studio",
-    "priceText": "€3.29",
-    "currency": "€",
-    "price": 3.29,
-    "free": false,
-    "summary": "Check-registered vehicles and Italian Foreign in one click! Simple, Fast, PRO!",
-    "scoreText": "4.5",
-    "score": 4.478788
-  },
-  {
-    "title": "iReal Pro - Music Book & Backing Tracks",
-    "appId": "com.massimobiolcati.irealb",
-    "url": "https://play.google.com/store/apps/details?id=com.massimobiolcati.irealb",
-    "icon": "https://lh3.googleusercontent.com/5gteFEMWJXdTTTtPBRei-6PhL_b_teGM4gXjXj_7_dxhKwA5_QXQWW2In_ozulCuME0",
-    "developer": "Technimo",
-    "developerId": "Technimo",
-    "priceText": "€14.99",
-    "currency": "€",
-    "price": 14.99,
-    "free": false,
-    "summary": "Collect 1000s of chord charts and have a virtual band accompany your practice",
-    "scoreText": "4.6",
-    "score": 4.5813203
-  },
-  {
     "title": "The Weather Plus - Weather forecast and widget",
     "appId": "com.ilmeteo.android.ilmeteoplus",
     "url": "https://play.google.com/store/apps/details?id=com.ilmeteo.android.ilmeteoplus",
@@ -342,37 +312,7 @@
     "free": false,
     "summary": "The best weather forecast app for your Android device",
     "scoreText": "4.1",
-    "score": 4.146761
-  },
-  {
-    "title": "D-Space",
-    "appId": "it.dspot.dspace.app",
-    "url": "https://play.google.com/store/apps/details?id=it.dspot.dspace.app",
-    "icon": "https://lh3.googleusercontent.com/AcKR9g4sO7MOqAkoZGVFZVpa-e9AQQqexYMCERKYQf8tfdnBeH9F6bto04p3UyhdABQ",
-    "developer": "WebAtWork Development",
-    "developerId": "WebAtWork+Development",
-    "priceText": "€6.99",
-    "currency": "€",
-    "price": 6.99,
-    "free": false,
-    "summary": "D-space is an app dedicated to those who use the drone",
-    "scoreText": "4.6",
-    "score": 4.5544553
-  },
-  {
-    "title": "Metronet",
-    "appId": "com.metronet.econnect",
-    "url": "https://play.google.com/store/apps/details?id=com.metronet.econnect",
-    "icon": "https://lh3.googleusercontent.com/TTvcklRawLrfw1bAJBoKsuqnIDTbvyPhT5_KzqVGzRbnW7OU0uEb9pQ7BhyAg05H54k",
-    "developer": "IESS S.r.l.",
-    "developerId": "IESS+S.r.l.",
-    "priceText": "€5.99",
-    "currency": "€",
-    "price": 5.99,
-    "free": false,
-    "summary": "Supervision and centralization system for your intrusion detection systems",
-    "scoreText": "3.4",
-    "score": 3.4489796
+    "score": 4.1466126
   },
   {
     "title": "KWGT Kustom Widget Pro Key",
@@ -390,21 +330,6 @@
     "score": 4.314985
   },
   {
-    "title": "Locus Map Pro - Outdoor GPS navigation and maps",
-    "appId": "menion.android.locus.pro",
-    "url": "https://play.google.com/store/apps/details?id=menion.android.locus.pro",
-    "icon": "https://lh3.googleusercontent.com/ackLPaYexBteLrJd896qhjfsedg9uAq9D7nYIHdFhBqk87Iyj5imHSWTebSP5tMsJhc",
-    "developer": "Asamm Software, s. r. o.",
-    "developerId": "7720396540331346600",
-    "priceText": "€9.99",
-    "currency": "€",
-    "price": 9.99,
-    "free": false,
-    "summary": "Multi-purpose navigation application for outdoor specialists and professionals.",
-    "scoreText": "4.6",
-    "score": 4.586663
-  },
-  {
     "title": "Game Booster 4x Faster Pro - GFX Tool & Lag Fix",
     "appId": "com.g19mobile.gameboosterplus",
     "url": "https://play.google.com/store/apps/details?id=com.g19mobile.gameboosterplus",
@@ -417,37 +342,22 @@
     "free": false,
     "summary": "Safest Booster GFX Tool on Google Play is now compatible with newer game update",
     "scoreText": "4.5",
-    "score": 4.5227785
+    "score": 4.5236893
   },
   {
-    "title": "WolframAlpha",
-    "appId": "com.wolfram.android.alpha",
-    "url": "https://play.google.com/store/apps/details?id=com.wolfram.android.alpha",
-    "icon": "https://lh3.googleusercontent.com/fkytTLBPEEAOZhLHtmV8IC93iETvKDyS71bTXL5hAmNqyYk4-rPBUQbZLLrh0BDzTt0",
-    "developer": "Wolfram Group",
-    "developerId": "Wolfram+Group",
-    "priceText": "€3.19",
+    "title": "Verifica RCA Italia PRO",
+    "appId": "it.verificaassicurazione_pro",
+    "url": "https://play.google.com/store/apps/details?id=it.verificaassicurazione_pro",
+    "icon": "https://lh3.googleusercontent.com/5dkgLwuiSNaDZpvdwwplbS2SZQL1pn_9V3LmDdUo2-CnARt7rWt1ExZfKW3e5k48gg",
+    "developer": "MakingApp Studio",
+    "developerId": "MakingApp+Studio",
+    "priceText": "€3.29",
     "currency": "€",
-    "price": 3.19,
+    "price": 3.29,
     "free": false,
-    "summary": "Wolfram|Alpha: the ultimate tool for getting answers",
+    "summary": "Check-registered vehicles and Italian Foreign in one click! Simple, Fast, PRO!",
     "scoreText": "4.5",
-    "score": 4.536894
-  },
-  {
-    "title": "Navigator for Mi Band 5/4/3, Bip and Cor",
-    "appId": "com.re.mibandmaps",
-    "url": "https://play.google.com/store/apps/details?id=com.re.mibandmaps",
-    "icon": "https://lh3.googleusercontent.com/mKTJqziVV7eWwwvuFOnNH_lei0H84SS4c8ORjMqUwdtsUPe0bVjEp1VmPecfe-6FeEc",
-    "developer": "Francesco Re",
-    "developerId": "6284374824436038177",
-    "priceText": "€0.99",
-    "currency": "€",
-    "price": 0.99,
-    "free": false,
-    "summary": "Receive Google Maps directions to your Mi Band 5/4/3, Bip or Cor",
-    "scoreText": "4.1",
-    "score": 4.1399417
+    "score": 4.478788
   },
   {
     "title": "CamSam PLUS",
@@ -465,19 +375,109 @@
     "score": 4.277151
   },
   {
-    "title": "Stellarium Mobile Sky Map",
-    "appId": "com.noctuasoftware.stellarium",
-    "url": "https://play.google.com/store/apps/details?id=com.noctuasoftware.stellarium",
-    "icon": "https://lh3.googleusercontent.com/5WWLLLiMNOdSeQ4j0vIbKMhMiuta5WWtnJ2qa95KDoSQJx3J28yNSWgvpuFEebXu_vw",
-    "developer": "Noctua Software",
-    "developerId": "Noctua+Software",
-    "priceText": "€2.99",
+    "title": "D-Space",
+    "appId": "it.dspot.dspace.app",
+    "url": "https://play.google.com/store/apps/details?id=it.dspot.dspace.app",
+    "icon": "https://lh3.googleusercontent.com/AcKR9g4sO7MOqAkoZGVFZVpa-e9AQQqexYMCERKYQf8tfdnBeH9F6bto04p3UyhdABQ",
+    "developer": "WebAtWork Development",
+    "developerId": "WebAtWork+Development",
+    "priceText": "€6.99",
     "currency": "€",
-    "price": 2.99,
+    "price": 6.99,
     "free": false,
-    "summary": "The most realistic sky map to observe stars, planets and constellations!",
-    "scoreText": "4.4",
-    "score": 4.430924
+    "summary": "D-space is an app dedicated to those who use the drone",
+    "scoreText": "4.6",
+    "score": 4.5544553
+  },
+  {
+    "title": "iReal Pro - Music Book & Backing Tracks",
+    "appId": "com.massimobiolcati.irealb",
+    "url": "https://play.google.com/store/apps/details?id=com.massimobiolcati.irealb",
+    "icon": "https://lh3.googleusercontent.com/5gteFEMWJXdTTTtPBRei-6PhL_b_teGM4gXjXj_7_dxhKwA5_QXQWW2In_ozulCuME0",
+    "developer": "Technimo",
+    "developerId": "Technimo",
+    "priceText": "€14.99",
+    "currency": "€",
+    "price": 14.99,
+    "free": false,
+    "summary": "Collect 1000s of chord charts and have a virtual band accompany your practice",
+    "scoreText": "4.6",
+    "score": 4.5813203
+  },
+  {
+    "title": "Panda Gamepad Pro (BETA)",
+    "appId": "com.panda.gamepad",
+    "url": "https://play.google.com/store/apps/details?id=com.panda.gamepad",
+    "icon": "https://lh3.googleusercontent.com/UxIyw5BjDfBuFUxens_AgmHuniBAji6zmUzNBRSUkwgU-7AwDYk6Pe61vbU97X0okCY",
+    "developer": "Panda Gaming Studio",
+    "developerId": "Panda+Gaming+Studio",
+    "priceText": "€4.39",
+    "currency": "€",
+    "price": 4.39,
+    "free": false,
+    "summary": "Play hot games with gamepad!",
+    "scoreText": "3.0",
+    "score": 2.9825306
+  },
+  {
+    "title": "Metronet",
+    "appId": "com.metronet.econnect",
+    "url": "https://play.google.com/store/apps/details?id=com.metronet.econnect",
+    "icon": "https://lh3.googleusercontent.com/TTvcklRawLrfw1bAJBoKsuqnIDTbvyPhT5_KzqVGzRbnW7OU0uEb9pQ7BhyAg05H54k",
+    "developer": "IESS S.r.l.",
+    "developerId": "IESS+S.r.l.",
+    "priceText": "€5.99",
+    "currency": "€",
+    "price": 5.99,
+    "free": false,
+    "summary": "Supervision and centralization system for your intrusion detection systems",
+    "scoreText": "3.4",
+    "score": 3.4489796
+  },
+  {
+    "title": "Locus Map Pro - Outdoor GPS navigation and maps",
+    "appId": "menion.android.locus.pro",
+    "url": "https://play.google.com/store/apps/details?id=menion.android.locus.pro",
+    "icon": "https://lh3.googleusercontent.com/ackLPaYexBteLrJd896qhjfsedg9uAq9D7nYIHdFhBqk87Iyj5imHSWTebSP5tMsJhc",
+    "developer": "Asamm Software, s. r. o.",
+    "developerId": "7720396540331346600",
+    "priceText": "€9.99",
+    "currency": "€",
+    "price": 9.99,
+    "free": false,
+    "summary": "Multi-purpose navigation application for outdoor specialists and professionals.",
+    "scoreText": "4.6",
+    "score": 4.586663
+  },
+  {
+    "title": "Navigator for Mi Band 5/4/3, Bip and Cor",
+    "appId": "com.re.mibandmaps",
+    "url": "https://play.google.com/store/apps/details?id=com.re.mibandmaps",
+    "icon": "https://lh3.googleusercontent.com/mKTJqziVV7eWwwvuFOnNH_lei0H84SS4c8ORjMqUwdtsUPe0bVjEp1VmPecfe-6FeEc",
+    "developer": "Francesco Re",
+    "developerId": "6284374824436038177",
+    "priceText": "€0.99",
+    "currency": "€",
+    "price": 0.99,
+    "free": false,
+    "summary": "Receive Google Maps directions to your Mi Band 5/4/3, Bip or Cor",
+    "scoreText": "4.1",
+    "score": 4.1399417
+  },
+  {
+    "title": "WolframAlpha",
+    "appId": "com.wolfram.android.alpha",
+    "url": "https://play.google.com/store/apps/details?id=com.wolfram.android.alpha",
+    "icon": "https://lh3.googleusercontent.com/fkytTLBPEEAOZhLHtmV8IC93iETvKDyS71bTXL5hAmNqyYk4-rPBUQbZLLrh0BDzTt0",
+    "developer": "Wolfram Group",
+    "developerId": "Wolfram+Group",
+    "priceText": "€3.19",
+    "currency": "€",
+    "price": 3.19,
+    "free": false,
+    "summary": "Wolfram|Alpha: the ultimate tool for getting answers",
+    "scoreText": "4.5",
+    "score": 4.536894
   },
   {
     "title": "Veicolo+ (senza pubblicità)",
@@ -493,6 +493,21 @@
     "summary": "Vehicle + app is the number # 1 in Italy for the information of cars and motorcycles. (PLUS)",
     "scoreText": "4.1",
     "score": 4.06
+  },
+  {
+    "title": "FL Studio Mobile",
+    "appId": "com.imageline.FLM",
+    "url": "https://play.google.com/store/apps/details?id=com.imageline.FLM",
+    "icon": "https://lh3.googleusercontent.com/Pxdgk7UjvfpihQv_WaAIndFJS0f_NcGvKGoKDN6HovXmnAQexYTgxDtPWdFRErJ_NRs",
+    "developer": "Image-Line",
+    "developerId": "8228703397536036345",
+    "priceText": "€14.90",
+    "currency": "€",
+    "price": 14.9,
+    "free": false,
+    "summary": "The fastest way from your brain to your speakers.",
+    "scoreText": "4.2",
+    "score": 4.244251
   },
   {
     "title": "Bentel Security Absoluta PRO",
@@ -525,6 +540,51 @@
     "score": 4.775862
   },
   {
+    "title": "Stellarium Mobile Sky Map",
+    "appId": "com.noctuasoftware.stellarium",
+    "url": "https://play.google.com/store/apps/details?id=com.noctuasoftware.stellarium",
+    "icon": "https://lh3.googleusercontent.com/5WWLLLiMNOdSeQ4j0vIbKMhMiuta5WWtnJ2qa95KDoSQJx3J28yNSWgvpuFEebXu_vw",
+    "developer": "Noctua Software",
+    "developerId": "Noctua+Software",
+    "priceText": "€2.99",
+    "currency": "€",
+    "price": 2.99,
+    "free": false,
+    "summary": "The most realistic sky map to observe stars, planets and constellations!",
+    "scoreText": "4.4",
+    "score": 4.430924
+  },
+  {
+    "title": "Call Recorder License - ACR",
+    "appId": "com.nll.acr.license",
+    "url": "https://play.google.com/store/apps/details?id=com.nll.acr.license",
+    "icon": "https://lh3.googleusercontent.com/1-06-GJG2RkHbaNueszZW9BxIBcJ5COm4qfCBGc6bXdz_RkHH5_ocs4sKbiJbfq-HbE",
+    "developer": "NLL",
+    "developerId": "8530342249973296088",
+    "priceText": "€1.99",
+    "currency": "€",
+    "price": 1.99,
+    "free": false,
+    "summary": "Access to premium features of ACR",
+    "scoreText": "2.9",
+    "score": 2.8576653
+  },
+  {
+    "title": "Automatic Call Recorder Pro",
+    "appId": "com.appstar.callrecorderpro",
+    "url": "https://play.google.com/store/apps/details?id=com.appstar.callrecorderpro",
+    "icon": "https://lh3.googleusercontent.com/D0aNLHymns1PmLqXtyVgOuzdu9dlKyQXvynPUo2BxDkR7mpnnh2xksynvvV3taYg4Ow",
+    "developer": "Appliqato",
+    "developerId": "Appliqato",
+    "priceText": "€5.99",
+    "currency": "€",
+    "price": 5.99,
+    "free": false,
+    "summary": "The best way to record your phone calls.",
+    "scoreText": "2.6",
+    "score": 2.5511825
+  },
+  {
     "title": "Toca Hair Salon 3",
     "appId": "com.tocaboca.tocahairsalon3",
     "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocahairsalon3",
@@ -555,96 +615,6 @@
     "score": 4.526854
   },
   {
-    "title": "PATENTE NAUTICA A QUIZ",
-    "appId": "com.frangente.quiz",
-    "url": "https://play.google.com/store/apps/details?id=com.frangente.quiz",
-    "icon": "https://lh3.googleusercontent.com/JweTAoY0hsOSyKD90gmFlsJJIKy7E2lMC65-Pvx7nyYd886XaNZ-IY7LpOLnIugWoH0",
-    "developer": "Edizioni il Frangente",
-    "developerId": "Edizioni+il+Frangente",
-    "priceText": "€10.99",
-    "currency": "€",
-    "price": 10.99,
-    "free": false,
-    "summary": "264 images, 63 animations.<br>With the photographic memory, studying is easier",
-    "scoreText": "4.4",
-    "score": 4.4444447
-  },
-  {
-    "title": "NFC Tools - Pro Edition",
-    "appId": "com.wakdev.nfctools.pro",
-    "url": "https://play.google.com/store/apps/details?id=com.wakdev.nfctools.pro",
-    "icon": "https://lh3.googleusercontent.com/I9rEvn6tBL3ordlauqKTYihV5plSetn1t_JY6rmAI80WlSRq9MThjrcFDVEvCgepHsc",
-    "developer": "wakdev",
-    "developerId": "6943435756825055171",
-    "priceText": "€3.49",
-    "currency": "€",
-    "price": 3.49,
-    "free": false,
-    "summary": "NFC Tools can read and write NFC tags.",
-    "scoreText": "4.5",
-    "score": 4.476773
-  },
-  {
-    "title": "FL Studio Mobile",
-    "appId": "com.imageline.FLM",
-    "url": "https://play.google.com/store/apps/details?id=com.imageline.FLM",
-    "icon": "https://lh3.googleusercontent.com/Pxdgk7UjvfpihQv_WaAIndFJS0f_NcGvKGoKDN6HovXmnAQexYTgxDtPWdFRErJ_NRs",
-    "developer": "Image-Line",
-    "developerId": "8228703397536036345",
-    "priceText": "€14.90",
-    "currency": "€",
-    "price": 14.9,
-    "free": false,
-    "summary": "The fastest way from your brain to your speakers.",
-    "scoreText": "4.2",
-    "score": 4.243951
-  },
-  {
-    "title": "Call Recorder License - ACR",
-    "appId": "com.nll.acr.license",
-    "url": "https://play.google.com/store/apps/details?id=com.nll.acr.license",
-    "icon": "https://lh3.googleusercontent.com/1-06-GJG2RkHbaNueszZW9BxIBcJ5COm4qfCBGc6bXdz_RkHH5_ocs4sKbiJbfq-HbE",
-    "developer": "NLL",
-    "developerId": "8530342249973296088",
-    "priceText": "€1.99",
-    "currency": "€",
-    "price": 1.99,
-    "free": false,
-    "summary": "Access to premium features of ACR",
-    "scoreText": "2.9",
-    "score": 2.8576653
-  },
-  {
-    "title": "DroidCamX Webcam Pro",
-    "appId": "com.dev47apps.droidcamx",
-    "url": "https://play.google.com/store/apps/details?id=com.dev47apps.droidcamx",
-    "icon": "https://lh3.googleusercontent.com/kAhNquV2zT_o_gbrIH2zL9SlcpnFBoIPc3kCArateSR-9khqSp36gE0dPJFJK5Vetno",
-    "developer": "Dev47Apps",
-    "developerId": "Dev47Apps",
-    "priceText": "€4.99",
-    "currency": "€",
-    "price": 4.99,
-    "free": false,
-    "summary": "Use your phone as a webcam on your computer over WiFi or USB.",
-    "scoreText": "4.5",
-    "score": 4.468354
-  },
-  {
-    "title": "Automatic Call Recorder Pro",
-    "appId": "com.appstar.callrecorderpro",
-    "url": "https://play.google.com/store/apps/details?id=com.appstar.callrecorderpro",
-    "icon": "https://lh3.googleusercontent.com/D0aNLHymns1PmLqXtyVgOuzdu9dlKyQXvynPUo2BxDkR7mpnnh2xksynvvV3taYg4Ow",
-    "developer": "Appliqato",
-    "developerId": "Appliqato",
-    "priceText": "€5.99",
-    "currency": "€",
-    "price": 5.99,
-    "free": false,
-    "summary": "The best way to record your phone calls.",
-    "scoreText": "2.6",
-    "score": 2.5511825
-  },
-  {
     "title": "Poweramp Full Version Unlocker",
     "appId": "com.maxmpz.audioplayer.unlock",
     "url": "https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer.unlock",
@@ -657,7 +627,7 @@
     "free": false,
     "summary": "Unlocks Poweramp - Powerful Music Player for Android",
     "scoreText": "4.5",
-    "score": 4.5294747
+    "score": 4.5294924
   },
   {
     "title": "MarineTraffic ship positions",
@@ -675,49 +645,64 @@
     "score": 4.452393
   },
   {
-    "title": "SD Maid Pro - Unlocker",
-    "appId": "eu.thedarken.sdm.unlocker",
-    "url": "https://play.google.com/store/apps/details?id=eu.thedarken.sdm.unlocker",
-    "icon": "https://lh3.googleusercontent.com/LSzx-MtueW0rkK7fUbYYwDZmjqAfqAdPhIfOXALP847hNT-zkOpAvpu5yx6GOrD9lQk",
-    "developer": "darken",
-    "developerId": "darken",
-    "priceText": "€3.69",
-    "currency": "€",
-    "price": 3.69,
-    "free": false,
-    "summary": "A maid for your Android, to keep it clean &amp; tidy.",
-    "scoreText": "4.6",
-    "score": 4.5769362
-  },
-  {
-    "title": "Star Walk 2 - Night Sky View and Stargazing Guide",
-    "appId": "com.vitotechnology.StarWalk2",
-    "url": "https://play.google.com/store/apps/details?id=com.vitotechnology.StarWalk2",
-    "icon": "https://lh3.googleusercontent.com/tHhp99TaGpTXRopCjuT_LMbsKty2v1bmoPjGa8u40xeExeSDts8Eriqg0_gvvjtzYOw",
-    "developer": "Vito Technology",
-    "developerId": "8260185806738829255",
+    "title": "NFC Tools - Pro Edition",
+    "appId": "com.wakdev.nfctools.pro",
+    "url": "https://play.google.com/store/apps/details?id=com.wakdev.nfctools.pro",
+    "icon": "https://lh3.googleusercontent.com/I9rEvn6tBL3ordlauqKTYihV5plSetn1t_JY6rmAI80WlSRq9MThjrcFDVEvCgepHsc",
+    "developer": "wakdev",
+    "developerId": "6943435756825055171",
     "priceText": "€3.49",
     "currency": "€",
     "price": 3.49,
     "free": false,
-    "summary": "Astronomy app. Map of the stars and constellations. Solar system planets finder.",
+    "summary": "NFC Tools can read and write NFC tags.",
     "scoreText": "4.5",
-    "score": 4.4905453
+    "score": 4.476773
   },
   {
-    "title": "MyShiftWork Pro",
-    "appId": "org.miturno",
-    "url": "https://play.google.com/store/apps/details?id=org.miturno",
-    "icon": "https://play-lh.googleusercontent.com/lTiFgGFpPv_S2_ahj_2FlVZp0uK1J1dcLFe2dQ-z7t73uDG1ZvzUag3nspA8H_0KKw",
-    "developer": "MT Soft",
-    "developerId": "MT+Soft",
-    "priceText": "€2.79",
+    "title": "DroidCamX Webcam Pro",
+    "appId": "com.dev47apps.droidcamx",
+    "url": "https://play.google.com/store/apps/details?id=com.dev47apps.droidcamx",
+    "icon": "https://lh3.googleusercontent.com/kAhNquV2zT_o_gbrIH2zL9SlcpnFBoIPc3kCArateSR-9khqSp36gE0dPJFJK5Vetno",
+    "developer": "Dev47Apps",
+    "developerId": "Dev47Apps",
+    "priceText": "€4.99",
     "currency": "€",
-    "price": 2.79,
+    "price": 4.99,
     "free": false,
-    "summary": "MyShiftWork Pro is a calendar for people who work shifts.",
-    "scoreText": "3.5",
-    "score": 3.51
+    "summary": "Use your phone as a webcam on your computer over WiFi or USB.",
+    "scoreText": "4.5",
+    "score": 4.469314
+  },
+  {
+    "title": "PATENTE NAUTICA A QUIZ",
+    "appId": "com.frangente.quiz",
+    "url": "https://play.google.com/store/apps/details?id=com.frangente.quiz",
+    "icon": "https://lh3.googleusercontent.com/JweTAoY0hsOSyKD90gmFlsJJIKy7E2lMC65-Pvx7nyYd886XaNZ-IY7LpOLnIugWoH0",
+    "developer": "Edizioni il Frangente",
+    "developerId": "Edizioni+il+Frangente",
+    "priceText": "€10.99",
+    "currency": "€",
+    "price": 10.99,
+    "free": false,
+    "summary": "264 images, 63 animations.<br>With the photographic memory, studying is easier",
+    "scoreText": "4.4",
+    "score": 4.4444447
+  },
+  {
+    "title": "iOS Widgets for KWGT",
+    "appId": "com.vexcode.ioskwgt",
+    "url": "https://play.google.com/store/apps/details?id=com.vexcode.ioskwgt",
+    "icon": "https://lh3.googleusercontent.com/aREDHkgI6neg4twGjlc7ti2ntcSuLxxvrvpRXXb7R4FshFkHX8_WEYDj48iGjNvW5VM",
+    "developer": "VexCode",
+    "developerId": "VexCode",
+    "priceText": "€0.79",
+    "currency": "€",
+    "price": 0.79,
+    "free": false,
+    "summary": "Get a taste of the newest IOS Widgets on Android with the help of KWGT!",
+    "scoreText": "3.7",
+    "score": 3.7
   },
   {
     "title": "Electrical Calculations PRO Key",
@@ -735,19 +720,34 @@
     "score": 4.7926507
   },
   {
-    "title": "STUNLOCKER",
-    "appId": "com.stunlocker.app.su",
-    "url": "https://play.google.com/store/apps/details?id=com.stunlocker.app.su",
-    "icon": "https://lh3.googleusercontent.com/FXmqW6p4u8Zapc038HSDo_gbnTat7wAL3ejnIEN7_pQBMud0xfHy28e_ANU3DhYNi8KT",
-    "developer": "STUnlocker.com",
-    "developerId": "STUnlocker.com",
-    "priceText": "€1.69",
+    "title": "Star Walk 2 - Night Sky View and Stargazing Guide",
+    "appId": "com.vitotechnology.StarWalk2",
+    "url": "https://play.google.com/store/apps/details?id=com.vitotechnology.StarWalk2",
+    "icon": "https://lh3.googleusercontent.com/tHhp99TaGpTXRopCjuT_LMbsKty2v1bmoPjGa8u40xeExeSDts8Eriqg0_gvvjtzYOw",
+    "developer": "Vito Technology",
+    "developerId": "8260185806738829255",
+    "priceText": "€3.49",
     "currency": "€",
-    "price": 1.69,
+    "price": 3.49,
     "free": false,
-    "summary": "Unleash the power of your E-bike",
-    "scoreText": "4.6",
-    "score": 4.6019416
+    "summary": "Astronomy app. Map of the stars and constellations. Solar system planets finder.",
+    "scoreText": "4.5",
+    "score": 4.490828
+  },
+  {
+    "title": "CryptoTab Browser Pro—mine on a PRO level",
+    "appId": "pro.cryptotab.android",
+    "url": "https://play.google.com/store/apps/details?id=pro.cryptotab.android",
+    "icon": "https://lh3.googleusercontent.com/ZhFlRgY094ZawJ2fu7IUWqfSmGcKt5ygPBu4OOVR_GFOi4m-8g59z5_husjK_F4hyQ",
+    "developer": "CryptoCompany OU",
+    "developerId": "CryptoCompany+OU",
+    "priceText": "€2.39",
+    "currency": "€",
+    "price": 2.39,
+    "free": false,
+    "summary": "Increase your mining speed with a special version of CryptoTab Browser",
+    "scoreText": "4.2",
+    "score": 4.227362
   },
   {
     "title": "Car Launcher Pro",
@@ -807,7 +807,7 @@
     "free": false,
     "summary": "Feel the Armoni ♥️",
     "scoreText": "4.2",
-    "score": 4.2485547
+    "score": 4.244186
   },
   {
     "title": "Bird Sound",
@@ -837,7 +837,7 @@
     "free": false,
     "summary": "Stunningly Different look with Line Icons and Neon Colors",
     "scoreText": "4.7",
-    "score": 4.658854
+    "score": 4.6597404
   },
   {
     "title": "SD Maid Pro - Unlocker",
@@ -1167,7 +1167,7 @@
     "free": false,
     "summary": "Play PS4 games remotely with any controller and mobile internet connection...",
     "scoreText": "4.4",
-    "score": 4.446602
+    "score": 4.4326925
   },
   {
     "title": "Shadow KWGT",
@@ -1572,7 +1572,7 @@
     "free": false,
     "summary": "Unlock the full potential of your DJI drone with Litchi",
     "scoreText": "3.6",
-    "score": 3.6125402
+    "score": 3.6074314
   },
   {
     "title": "AlpineQuest Off-Road Explorer",
@@ -1601,8 +1601,8 @@
     "price": 2.59,
     "free": false,
     "summary": "Hide and disable system and user applications with CCSWE App Manager.",
-    "scoreText": "3.7",
-    "score": 3.6666667
+    "scoreText": "4.1",
+    "score": 4.111111
   },
   {
     "title": "iCON PACK 14 Pro  (ORIGINAL)",
@@ -1662,7 +1662,7 @@
     "free": false,
     "summary": "Easy Voice Recorder Pro is your everyday companion to record important moments.",
     "scoreText": "4.7",
-    "score": 4.7183957
+    "score": 4.7185187
   },
   {
     "title": "HRV4Training",
@@ -1902,7 +1902,7 @@
     "free": false,
     "summary": "Improve your reading speed with 12 challenging and fun exercises.",
     "scoreText": "4.7",
-    "score": 4.6795154
+    "score": 4.679692
   },
   {
     "title": "Full MirrorLink | Floating Apps for Auto",
@@ -2082,7 +2082,7 @@
     "free": false,
     "summary": "PowerAudio Music Player Is The Most Powerful Music Player.",
     "scoreText": "4.1",
-    "score": 4.106648
+    "score": 4.1065745
   },
   {
     "title": "Face Swap Live",
@@ -2307,7 +2307,7 @@
     "free": false,
     "summary": "Baby&#39;s leap guide based on the world wide bestseller The Wonder Weeks.",
     "scoreText": "4.6",
-    "score": 4.6055965
+    "score": 4.605388
   },
   {
     "title": "CDisplayEx Comic Reader",
@@ -2322,7 +2322,7 @@
     "free": false,
     "summary": "The most popular comic book reader.",
     "scoreText": "4.8",
-    "score": 4.822485
+    "score": 4.821429
   },
   {
     "title": "Beastmaker 1000 training PRO",
@@ -2367,7 +2367,7 @@
     "free": false,
     "summary": "Application that Recover your pictures, videos or files after you delete them.",
     "scoreText": "4.7",
-    "score": 4.736559
+    "score": 4.7150536
   },
   {
     "title": "Call Recorder Unlock",
@@ -2862,7 +2862,7 @@
     "free": false,
     "summary": "Make only perfect Coils and E-Liquids with Vape Tool Pro",
     "scoreText": "4.7",
-    "score": 4.6815834
+    "score": 4.683305
   },
   {
     "title": "Librera PRO - eBook and PDF Reader (no Ads!)",
