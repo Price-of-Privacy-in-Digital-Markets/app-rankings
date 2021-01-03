@@ -11,7 +11,7 @@
     "free": true,
     "summary": "The best of Disney, Pixar, Marvel, Star Wars, and National Geographic",
     "scoreText": "4.4",
-    "score": 4.435201
+    "score": 4.4256163
   },
   {
     "title": "Google One",
@@ -25,7 +25,7 @@
     "free": true,
     "summary": "Automatic phone backup, expanded storage for Drive, Gmail, Photos, and more.",
     "scoreText": "4.4",
-    "score": 4.4377174
+    "score": 4.441049
   },
   {
     "title": "Duolingo: Learn Languages Free",
@@ -39,7 +39,7 @@
     "free": true,
     "summary": "Learn Spanish, French, German, Italian, English and more languages for free.",
     "scoreText": "4.6",
-    "score": 4.6285057
+    "score": 4.6279283
   },
   {
     "title": "Twitch: Livestream Multiplayer Games & Esports",
@@ -53,7 +53,7 @@
     "free": true,
     "summary": "Multiplayer Gaming, Live Esports &amp; Gamer Chat: Watch Fortnite, Minecraft &amp; PUBG",
     "scoreText": "4.4",
-    "score": 4.4356337
+    "score": 4.4353933
   },
   {
     "title": "Tinder - Dating, Make Friends and Meet New People",
@@ -67,7 +67,7 @@
     "free": true,
     "summary": "App to Match, Chat &amp; Date with New People - online, near you &amp; around the world!",
     "scoreText": "3.4",
-    "score": 3.3957603
+    "score": 3.3956466
   },
   {
     "title": "Facebook",
@@ -81,7 +81,7 @@
     "free": true,
     "summary": "Find friends, watch live videos, play games &amp; save photos in your social network",
     "scoreText": "4.1",
-    "score": 4.1314516
+    "score": 4.131153
   },
   {
     "title": "Fitbit",
@@ -95,7 +95,7 @@
     "free": true,
     "summary": "Fitbit is dedicated to helping people lead healthier, more active lives.",
     "scoreText": "3.7",
-    "score": 3.698035
+    "score": 3.697731
   },
   {
     "title": "Microsoft OneDrive",
@@ -109,7 +109,7 @@
     "free": true,
     "summary": "Access and share your photos, docs, and more from anywhere for free.",
     "scoreText": "4.5",
-    "score": 4.5158887
+    "score": 4.5158477
   },
   {
     "title": "Strava: Track Running, Cycling & Swimming",
@@ -123,35 +123,7 @@
     "free": true,
     "summary": "Activity tracker - Run, ride or swim with GPS: track distance &amp; record routes",
     "scoreText": "4.4",
-    "score": 4.3743377
-  },
-  {
-    "title": "BIGO LIVE–Live Stream, Live Chat, Go Live",
-    "appId": "sg.bigo.live",
-    "url": "https://play.google.com/store/apps/details?id=sg.bigo.live",
-    "icon": "https://play-lh.googleusercontent.com/kuL_vLE0Cicj7IR3-pHzXZi0kPar9nwjVV-mIE5Px8YFw42EWDS5FtDB-46Z-rMo2xY",
-    "developer": "BIGO TECHNOLOGY PTE. LTD.",
-    "developerId": "BIGO+TECHNOLOGY+PTE.+LTD.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Live stream, Live video, talk to people around the world and make new friends.",
-    "scoreText": "4.4",
-    "score": 4.3501167
-  },
-  {
-    "title": "Hinge - Dating & Relationships",
-    "appId": "co.hinge.app",
-    "url": "https://play.google.com/store/apps/details?id=co.hinge.app",
-    "icon": "https://play-lh.googleusercontent.com/5P5svqXNCWqE0NtHSV91pl2YUGKJ2aitjaUWIVZd-65AtskDVO2o9bpYx1oAV9fr0-nt",
-    "developer": "Hinge",
-    "developerId": "Hinge",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Designed to be Deleted",
-    "scoreText": "3.5",
-    "score": 3.503611
+    "score": 4.3745737
   },
   {
     "title": "TikTok",
@@ -165,21 +137,35 @@
     "free": true,
     "summary": "Short Videos For You",
     "scoreText": "4.5",
-    "score": 4.5211253
+    "score": 4.5215616
   },
   {
-    "title": "Dropbox: Cloud Storage to Backup, Sync, File Share",
-    "appId": "com.dropbox.android",
-    "url": "https://play.google.com/store/apps/details?id=com.dropbox.android",
-    "icon": "https://play-lh.googleusercontent.com/Tcxceg1D7JGYGmxcrnyjDY8EafLg9VQPW2dqu3kHczfvERGd0h6vgS6KaYPKsW4ZE7z6",
-    "developer": "Dropbox, Inc.",
-    "developerId": "Dropbox,+Inc.",
+    "title": "Hinge - Dating & Relationships",
+    "appId": "co.hinge.app",
+    "url": "https://play.google.com/store/apps/details?id=co.hinge.app",
+    "icon": "https://play-lh.googleusercontent.com/5P5svqXNCWqE0NtHSV91pl2YUGKJ2aitjaUWIVZd-65AtskDVO2o9bpYx1oAV9fr0-nt",
+    "developer": "Hinge",
+    "developerId": "Hinge",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "File &amp; photo storage and sharing for all your docs, photos, videos, and more.",
-    "scoreText": "4.2",
-    "score": 4.196927
+    "summary": "Designed to be Deleted",
+    "scoreText": "3.5",
+    "score": 3.503528
+  },
+  {
+    "title": "BIGO LIVE–Live Stream, Live Chat, Go Live",
+    "appId": "sg.bigo.live",
+    "url": "https://play.google.com/store/apps/details?id=sg.bigo.live",
+    "icon": "https://play-lh.googleusercontent.com/kuL_vLE0Cicj7IR3-pHzXZi0kPar9nwjVV-mIE5Px8YFw42EWDS5FtDB-46Z-rMo2xY",
+    "developer": "BIGO TECHNOLOGY PTE. LTD.",
+    "developerId": "BIGO+TECHNOLOGY+PTE.+LTD.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Live stream, Live video, talk to people around the world and make new friends.",
+    "scoreText": "4.3",
+    "score": 4.349932
   },
   {
     "title": "Flex for Alexa App: Echo App For Echo Dot",
@@ -193,7 +179,7 @@
     "free": true,
     "summary": "Use Flex For Alexa App To Set Up &amp; Control Your Echo Dot &amp; Echo Devices",
     "scoreText": "3.8",
-    "score": 3.8093023
+    "score": 3.84375
   },
   {
     "title": "Headspace: Meditation & Sleep",
@@ -206,8 +192,22 @@
     "price": 0,
     "free": true,
     "summary": "Meditation made simple.",
-    "scoreText": "4.7",
-    "score": 4.654134
+    "scoreText": "4.6",
+    "score": 4.646872
+  },
+  {
+    "title": "Dropbox: Cloud Storage to Backup, Sync, File Share",
+    "appId": "com.dropbox.android",
+    "url": "https://play.google.com/store/apps/details?id=com.dropbox.android",
+    "icon": "https://play-lh.googleusercontent.com/Tcxceg1D7JGYGmxcrnyjDY8EafLg9VQPW2dqu3kHczfvERGd0h6vgS6KaYPKsW4ZE7z6",
+    "developer": "Dropbox, Inc.",
+    "developerId": "Dropbox,+Inc.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "File &amp; photo storage and sharing for all your docs, photos, videos, and more.",
+    "scoreText": "4.2",
+    "score": 4.196793
   },
   {
     "title": "Grindr - Gay chat",
@@ -221,7 +221,7 @@
     "free": true,
     "summary": "Grindr - exclusively for gay, bi and curious men. Chat, share pics, and meet up.",
     "scoreText": "3.2",
-    "score": 3.2147074
+    "score": 3.2196805
   },
   {
     "title": "Calm - Meditate, Sleep, Relax",
@@ -235,7 +235,7 @@
     "free": true,
     "summary": "Join the millions discovering the life-changing benefits of meditation with Calm",
     "scoreText": "4.2",
-    "score": 4.202567
+    "score": 4.2018943
   },
   {
     "title": "Calorie Counter - MyFitnessPal",
@@ -249,7 +249,7 @@
     "free": true,
     "summary": "Lose weight with MyFitnessPal, the easiest calorie counter and macro tracker",
     "scoreText": "4.4",
-    "score": 4.448955
+    "score": 4.448917
   },
   {
     "title": "Crunchyroll",
@@ -263,7 +263,7 @@
     "free": true,
     "summary": "Watch the newest anime on Crunchyroll just 1 hour after Japan",
     "scoreText": "3.3",
-    "score": 3.2877157
+    "score": 3.2870455
   },
   {
     "title": "NordVPN – fast VPN privacy and security app for UK",
@@ -277,7 +277,7 @@
     "free": true,
     "summary": "Get the VPN app to enjoy fast and secure internet access on your Android device",
     "scoreText": "4.3",
-    "score": 4.270779
+    "score": 4.270344
   },
   {
     "title": "Bumble – Dating, Make New Friends & Networking",
@@ -291,7 +291,7 @@
     "free": true,
     "summary": "Bumble helps you chat &amp; meet new people, and women always make the first move 💛",
     "scoreText": "3.4",
-    "score": 3.4315004
+    "score": 3.4332993
   },
   {
     "title": "Google Drive",
@@ -305,7 +305,7 @@
     "free": true,
     "summary": "Free online storage from Google.",
     "scoreText": "4.3",
-    "score": 4.308584
+    "score": 4.3083587
   },
   {
     "title": "The Guardian - Live World News, Sport & Opinion",
@@ -319,7 +319,7 @@
     "free": true,
     "summary": "World news, sport, business &amp; opinion. Read award-winning news live &amp; on the go.",
     "scoreText": "4.8",
-    "score": 4.7533674
+    "score": 4.753285
   },
   {
     "title": "OS Maps: Explore hiking trails & walking routes",
@@ -333,7 +333,7 @@
     "free": true,
     "summary": "Explore the outdoors with mapped routes &amp; footpaths - cycle, walk, hike &amp; more!",
     "scoreText": "4.0",
-    "score": 4.0438957
+    "score": 4.047288
   },
   {
     "title": "Calorie Counter +",
@@ -347,7 +347,7 @@
     "free": true,
     "summary": "Nutracheck food diary &amp; macro tracker with barcode scanning",
     "scoreText": "4.7",
-    "score": 4.6801844
+    "score": 4.6853023
   },
   {
     "title": "Courtney Black Fitness",
@@ -375,7 +375,7 @@
     "free": true,
     "summary": "Your place to talk, video chat, and hang out with friends and communities.",
     "scoreText": "4.5",
-    "score": 4.5003815
+    "score": 4.5004272
   },
   {
     "title": "PNP–Portable North Pole™ Calls & Videos from Santa",
@@ -389,77 +389,7 @@
     "free": true,
     "summary": "Send kids personalized Christmas messages from the real Santa Claus &amp; his elves!",
     "scoreText": "4.7",
-    "score": 4.677948
-  },
-  {
-    "title": "Reface: Face swap videos and memes with your photo",
-    "appId": "video.reface.app",
-    "url": "https://play.google.com/store/apps/details?id=video.reface.app",
-    "icon": "https://play-lh.googleusercontent.com/C75pm0OwfckbJAueHn2psJXr43vF9CypVOHydVgRHA8JHXEFJbO479DIBpfUo1mc2Q",
-    "developer": "NEOCORTEXT, INC.",
-    "developerId": "NEOCORTEXT,+INC.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "ex-Doublicat app: Swap your face with celebrities, and make memes!",
-    "scoreText": "4.7",
-    "score": 4.704441
-  },
-  {
-    "title": "yoomee – Dating App for Singles to Chat & Date",
-    "appId": "de.mobiletrend.lovidoo",
-    "url": "https://play.google.com/store/apps/details?id=de.mobiletrend.lovidoo",
-    "icon": "https://play-lh.googleusercontent.com/uCPCPeHE9RrQKpDuBQxL6TLxZbQsPZIf5_Nqi74S2MPZEbd7wWOQR68QlpErI6xFl7Re",
-    "developer": "Mobile Trend GmbH",
-    "developerId": "Mobile+Trend+GmbH",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Dating app to meet new people &amp; singles for chats and flirts. Swipe for free 🧡",
-    "scoreText": "4.5",
-    "score": 4.485417
-  },
-  {
-    "title": "Dreame",
-    "appId": "com.dreame.reader",
-    "url": "https://play.google.com/store/apps/details?id=com.dreame.reader",
-    "icon": "https://play-lh.googleusercontent.com/au4fegqzZ19SNx6yTc2mP6thHl9MgMup8ILWJPr6u5Xog86WyWUYN9W2pxIUhgrNyw",
-    "developer": "Dreame Media",
-    "developerId": "Dreame+Media",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Read Best Romance",
-    "scoreText": "4.4",
-    "score": 4.3867354
-  },
-  {
-    "title": "Ultimate Guitar: Chords & Tabs",
-    "appId": "com.ultimateguitar.tabs",
-    "url": "https://play.google.com/store/apps/details?id=com.ultimateguitar.tabs",
-    "icon": "https://play-lh.googleusercontent.com/T3XmKkZNeJ-2x-lDI4X27Xjdz4yHenOWHUvw_ZZKKYdFtkYSSO4sMK88f9SR1b5vNA",
-    "developer": "Ultimate Guitar USA LLC",
-    "developerId": "7532879156454387436",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Discover over 1.400.000 free tabs &amp; chords for guitar, bass or ukulele!",
-    "scoreText": "4.4",
-    "score": 4.3615346
-  },
-  {
-    "title": "Dil Mil: South Asian singles, dating & marriage",
-    "appId": "co.dilmil.android",
-    "url": "https://play.google.com/store/apps/details?id=co.dilmil.android",
-    "icon": "https://play-lh.googleusercontent.com/g8P-Eb2SyJ0pRnHONL9RLbtGm9_8F_J3f0tolxpUwAnFyHGR0-xEnQqhvMJT_oGGBQ",
-    "developer": "Dil Mil Inc.",
-    "developerId": "4659392411820958099",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Leading South Asian singles dating &amp; marriage app",
-    "scoreText": "2.5",
-    "score": 2.4851937
+    "score": 4.6780252
   },
   {
     "title": "iDates - Chat, Flirt with Singles & Fall in Love",
@@ -473,35 +403,77 @@
     "free": true,
     "summary": "Find single men &amp; women for chats 💌, flirts, dating and relations around you ❤️",
     "scoreText": "4.6",
-    "score": 4.643407
+    "score": 4.639764
   },
   {
-    "title": "Microsoft Word: Write, Edit & Share Docs on the Go",
-    "appId": "com.microsoft.office.word",
-    "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.word",
-    "icon": "https://play-lh.googleusercontent.com/9kABykeGovHPy-dN19lRxxnCp8IZK3Pkl8qLFNxrEe-hhKVZeiyhTBEIRUt6t-vhxQ",
-    "developer": "Microsoft Corporation",
-    "developerId": "6720847872553662727",
+    "title": "Reface: Face swap videos and memes with your photo",
+    "appId": "video.reface.app",
+    "url": "https://play.google.com/store/apps/details?id=video.reface.app",
+    "icon": "https://play-lh.googleusercontent.com/C75pm0OwfckbJAueHn2psJXr43vF9CypVOHydVgRHA8JHXEFJbO479DIBpfUo1mc2Q",
+    "developer": "NEOCORTEXT, INC.",
+    "developerId": "NEOCORTEXT,+INC.",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Powerful mobile writing app. Use Office to easily create, share &amp; edit documents",
-    "scoreText": "4.4",
-    "score": 4.403803
-  },
-  {
-    "title": "AVG AntiVirus - Free Mobile Security",
-    "appId": "com.antivirus",
-    "url": "https://play.google.com/store/apps/details?id=com.antivirus",
-    "icon": "https://play-lh.googleusercontent.com/x5HuQ710BenglLFnGfxNyutXIjrOkTCHBy6HaQPts5pIhFGEXK23MszmDkfgTF4B_hs",
-    "developer": "AVG Mobile",
-    "developerId": "9097425538418209452",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Malware protection, App Lock, Photo Vault, Junk and Virus Cleaner, Anti-Theft.",
+    "summary": "ex-Doublicat app: Swap your face with celebrities, and make memes!",
     "scoreText": "4.7",
-    "score": 4.7081914
+    "score": 4.7065873
+  },
+  {
+    "title": "Dreame",
+    "appId": "com.dreame.reader",
+    "url": "https://play.google.com/store/apps/details?id=com.dreame.reader",
+    "icon": "https://play-lh.googleusercontent.com/au4fegqzZ19SNx6yTc2mP6thHl9MgMup8ILWJPr6u5Xog86WyWUYN9W2pxIUhgrNyw",
+    "developer": "Dreame Media",
+    "developerId": "Dreame+Media",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Read Best Romance",
+    "scoreText": "4.4",
+    "score": 4.386513
+  },
+  {
+    "title": "Ultimate Guitar: Chords & Tabs",
+    "appId": "com.ultimateguitar.tabs",
+    "url": "https://play.google.com/store/apps/details?id=com.ultimateguitar.tabs",
+    "icon": "https://play-lh.googleusercontent.com/T3XmKkZNeJ-2x-lDI4X27Xjdz4yHenOWHUvw_ZZKKYdFtkYSSO4sMK88f9SR1b5vNA",
+    "developer": "Ultimate Guitar USA LLC",
+    "developerId": "7532879156454387436",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Discover over 1.400.000 free tabs &amp; chords for guitar, bass or ukulele!",
+    "scoreText": "4.4",
+    "score": 4.360988
+  },
+  {
+    "title": "yoomee – Dating App for Singles to Chat & Date",
+    "appId": "de.mobiletrend.lovidoo",
+    "url": "https://play.google.com/store/apps/details?id=de.mobiletrend.lovidoo",
+    "icon": "https://play-lh.googleusercontent.com/uCPCPeHE9RrQKpDuBQxL6TLxZbQsPZIf5_Nqi74S2MPZEbd7wWOQR68QlpErI6xFl7Re",
+    "developer": "Mobile Trend GmbH",
+    "developerId": "Mobile+Trend+GmbH",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Dating app to meet new people &amp; singles for chats and flirts. Swipe for free 🧡",
+    "scoreText": "4.5",
+    "score": 4.4884777
+  },
+  {
+    "title": "Dil Mil: South Asian singles, dating & marriage",
+    "appId": "co.dilmil.android",
+    "url": "https://play.google.com/store/apps/details?id=co.dilmil.android",
+    "icon": "https://play-lh.googleusercontent.com/g8P-Eb2SyJ0pRnHONL9RLbtGm9_8F_J3f0tolxpUwAnFyHGR0-xEnQqhvMJT_oGGBQ",
+    "developer": "Dil Mil Inc.",
+    "developerId": "4659392411820958099",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Leading South Asian singles dating &amp; marriage app",
+    "scoreText": "2.5",
+    "score": 2.4818182
   },
   {
     "title": "Badoo — Dating App to Chat, Date & Meet New People",
@@ -515,7 +487,35 @@
     "free": true,
     "summary": "Enjoy meeting new people near you, join the best free online dating app today.",
     "scoreText": "4.0",
-    "score": 4.0297427
+    "score": 4.02961
+  },
+  {
+    "title": "Microsoft Word: Write, Edit & Share Docs on the Go",
+    "appId": "com.microsoft.office.word",
+    "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.word",
+    "icon": "https://play-lh.googleusercontent.com/9kABykeGovHPy-dN19lRxxnCp8IZK3Pkl8qLFNxrEe-hhKVZeiyhTBEIRUt6t-vhxQ",
+    "developer": "Microsoft Corporation",
+    "developerId": "6720847872553662727",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Powerful mobile writing app. Use Office to easily create, share &amp; edit documents",
+    "scoreText": "4.4",
+    "score": 4.403789
+  },
+  {
+    "title": "AVG AntiVirus - Free Mobile Security",
+    "appId": "com.antivirus",
+    "url": "https://play.google.com/store/apps/details?id=com.antivirus",
+    "icon": "https://play-lh.googleusercontent.com/x5HuQ710BenglLFnGfxNyutXIjrOkTCHBy6HaQPts5pIhFGEXK23MszmDkfgTF4B_hs",
+    "developer": "AVG Mobile",
+    "developerId": "9097425538418209452",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Malware protection, App Lock, Photo Vault, Junk and Virus Cleaner, Anti-Theft.",
+    "scoreText": "4.7",
+    "score": 4.7081685
   },
   {
     "title": "Azar",
@@ -529,7 +529,7 @@
     "free": true,
     "summary": "Azar is a new friend discovery app through video chats.",
     "scoreText": "4.0",
-    "score": 4.002281
+    "score": 4.0024996
   },
   {
     "title": "NBA: Live Games & Scores",
@@ -543,7 +543,7 @@
     "free": true,
     "summary": "Official home of NBA League Pass, live basketball, stats, highlights &amp; more!",
     "scoreText": "4.0",
-    "score": 4.006519
+    "score": 4.005936
   },
   {
     "title": "muzmatch: Muslim & Arab Singles, Marriage & Dating",
@@ -557,7 +557,7 @@
     "free": true,
     "summary": "Where Single Muslims Meet",
     "scoreText": "4.2",
-    "score": 4.2152085
+    "score": 4.216082
   },
   {
     "title": "Video Chat - Joi",
@@ -571,7 +571,7 @@
     "free": true,
     "summary": "Random video chat to meet new friends! Start Chatting now tap &amp; enjoy Joi! 🙋🎥",
     "scoreText": "4.2",
-    "score": 4.197222
+    "score": 4.190808
   },
   {
     "title": "MeetMe: Chat & Meet New People",
@@ -585,7 +585,7 @@
     "free": true,
     "summary": "Go Live, Chat &amp; Meet New People!\nFriends. And more than friends.❤️",
     "scoreText": "3.8",
-    "score": 3.7979066
+    "score": 3.797215
   },
   {
     "title": "Tango - Live Video Broadcasts and Streaming Chats",
@@ -599,7 +599,7 @@
     "free": true,
     "summary": "The top social video app to livestream, get discovered, and meet new people.",
     "scoreText": "4.4",
-    "score": 4.364565
+    "score": 4.3644743
   },
   {
     "title": "Funimation",
@@ -613,7 +613,7 @@
     "free": true,
     "summary": "Stream Anime. Anytime. Anywhere.\n\nFunimation",
     "scoreText": "3.1",
-    "score": 3.105734
+    "score": 3.1032817
   },
   {
     "title": "Flo Health & Period tracker. My Ovulation Calendar",
@@ -627,7 +627,7 @@
     "free": true,
     "summary": "Plan your well-being journey: menstrual calendar,fertility &amp; pregnancy tracker",
     "scoreText": "4.8",
-    "score": 4.7756634
+    "score": 4.7752557
   },
   {
     "title": "GoodNovel -  Books, WebNovel, Romance Story",
@@ -641,7 +641,7 @@
     "free": true,
     "summary": "Read Romantic Books, Fantasy Novels, Romance Novels, Horror Story &amp; Fan Fiction!",
     "scoreText": "4.6",
-    "score": 4.6309524
+    "score": 4.6484423
   },
   {
     "title": "Yoga-Go: Yoga For Weight Loss",
@@ -654,8 +654,8 @@
     "price": 0,
     "free": true,
     "summary": "Daily yoga workouts for beginners and pro to lose weight",
-    "scoreText": "4.1",
-    "score": 4.072581
+    "scoreText": "4.0",
+    "score": 4.033941
   },
   {
     "title": "Canva: Graphic Design, Video Collage, Logo Maker",
@@ -669,7 +669,7 @@
     "free": true,
     "summary": "Helping you create Instagram worthy photos - one like at a time. 👍",
     "scoreText": "4.7",
-    "score": 4.687622
+    "score": 4.6874065
   },
   {
     "title": "PicsArt Photo Editor: Pic, Video & Collage Maker",
@@ -683,7 +683,7 @@
     "free": true,
     "summary": "Remix free-to-edit pictures &amp; stickers into awesome collages and memes",
     "scoreText": "4.2",
-    "score": 4.216041
+    "score": 4.216167
   },
   {
     "title": "Udemy - Online Courses",
@@ -697,7 +697,7 @@
     "free": true,
     "summary": "Watch 130,000+ video courses. Check out 3M+ reviews by students. Learn anything!",
     "scoreText": "4.5",
-    "score": 4.4693365
+    "score": 4.4716287
   },
   {
     "title": "Invoice Maker: Estimate & Invoice App",
@@ -711,7 +711,7 @@
     "free": true,
     "summary": "Easy to use estimate &amp; invoice maker. Simply professional and organized",
     "scoreText": "4.8",
-    "score": 4.7839694
+    "score": 4.784824
   },
   {
     "title": "hayu - Watch Reality Shows And Celebrity TV Series",
@@ -725,35 +725,7 @@
     "free": true,
     "summary": "Start Your Free Trial Now -Stream or download &amp; watch on any device",
     "scoreText": "3.1",
-    "score": 3.1004305
-  },
-  {
-    "title": "QuickBooks Self-Employed:Mileage Tracker and Taxes",
-    "appId": "com.intuit.qbse",
-    "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse",
-    "icon": "https://play-lh.googleusercontent.com/jd5glBjoonGuIJO_Q_Y9aVtwIaEeKDiTr05ftxQ1Mf8MyNAu9_LniIr8sSGOAvt169dq",
-    "developer": "Intuit Inc",
-    "developerId": "7987416923533646496",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Track mileage, expenses &amp; create invoices! Syncs with TurboTax Self-Employed!",
-    "scoreText": "3.7",
-    "score": 3.6773286
-  },
-  {
-    "title": "Adobe Acrobat Reader: PDF Viewer, Editor & Creator",
-    "appId": "com.adobe.reader",
-    "url": "https://play.google.com/store/apps/details?id=com.adobe.reader",
-    "icon": "https://play-lh.googleusercontent.com/nufRXPpDI9XP8mPdAvOoJULuBIH_OK4YbZZVu8i_-eDPulZpgb-Xp-EmI8Z53AlXHpqX",
-    "developer": "Adobe",
-    "developerId": "4734916851270416020",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Send PDFs for e signatures, edit on the go &amp; help save battery with dark mode.",
-    "scoreText": "4.6",
-    "score": 4.612112
+    "score": 3.1031518
   },
   {
     "title": "Smule: Social Karaoke Singing",
@@ -767,7 +739,7 @@
     "free": true,
     "summary": "Enjoy karaoke on your phone. Sing karaoke with top artists &amp; friends!",
     "scoreText": "3.9",
-    "score": 3.8934984
+    "score": 3.8934255
   },
   {
     "title": "LivU: Meet new people & Video chat with strangers",
@@ -781,7 +753,21 @@
     "free": true,
     "summary": "free video chatting APP",
     "scoreText": "4.5",
-    "score": 4.5129647
+    "score": 4.5134377
+  },
+  {
+    "title": "Webnovel",
+    "appId": "com.qidian.Int.reader",
+    "url": "https://play.google.com/store/apps/details?id=com.qidian.Int.reader",
+    "icon": "https://play-lh.googleusercontent.com/SSEuGqDVtYwHKRDd35c3dRH1ImB1p35b7Ey5eBToXlz7yuKcqn6GgoYjrSqo9gPCnQ",
+    "developer": "Cloudary",
+    "developerId": "Cloudary",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "So many great fantasy and romance webnovels here!",
+    "scoreText": "4.0",
+    "score": 4.0458603
   },
   {
     "title": "Video Editor & Video Maker - VivaVideo",
@@ -795,21 +781,35 @@
     "free": true,
     "summary": "Pro video editor app and free video maker: edit video with music and photo!",
     "scoreText": "4.5",
-    "score": 4.452424
+    "score": 4.452204
   },
   {
-    "title": "WalkFit: Walking & Weight Loss",
-    "appId": "com.walkfit.weightloss.steptracker.pedometer",
-    "url": "https://play.google.com/store/apps/details?id=com.walkfit.weightloss.steptracker.pedometer",
-    "icon": "https://play-lh.googleusercontent.com/p1YUQpzmUYfg3UyxBJNniPcrjeK9TLxtO016qnQR92vG3PK1IHrwQ738n04M-jNC1g",
-    "developer": "Mobilious Limited",
-    "developerId": "Mobilious+Limited",
+    "title": "QuickBooks Self-Employed:Mileage Tracker and Taxes",
+    "appId": "com.intuit.qbse",
+    "url": "https://play.google.com/store/apps/details?id=com.intuit.qbse",
+    "icon": "https://play-lh.googleusercontent.com/jd5glBjoonGuIJO_Q_Y9aVtwIaEeKDiTr05ftxQ1Mf8MyNAu9_LniIr8sSGOAvt169dq",
+    "developer": "Intuit Inc",
+    "developerId": "7987416923533646496",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Pedometer &amp; Step Tracker",
-    "scoreText": "2.8",
-    "score": 2.8232932
+    "summary": "Track mileage, expenses &amp; create invoices! Syncs with TurboTax Self-Employed!",
+    "scoreText": "3.7",
+    "score": 3.6763778
+  },
+  {
+    "title": "Adobe Acrobat Reader: PDF Viewer, Editor & Creator",
+    "appId": "com.adobe.reader",
+    "url": "https://play.google.com/store/apps/details?id=com.adobe.reader",
+    "icon": "https://play-lh.googleusercontent.com/nufRXPpDI9XP8mPdAvOoJULuBIH_OK4YbZZVu8i_-eDPulZpgb-Xp-EmI8Z53AlXHpqX",
+    "developer": "Adobe",
+    "developerId": "4734916851270416020",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Send PDFs for e signatures, edit on the go &amp; help save battery with dark mode.",
+    "scoreText": "4.6",
+    "score": 4.6122756
   },
   {
     "title": "SWEAT: Fitness App For Women",
@@ -823,7 +823,7 @@
     "free": true,
     "summary": "Workout At Home Or In The Gym. BBG, PWR, HIIT, Circuits, Strength &amp; Yoga.",
     "scoreText": "4.6",
-    "score": 4.56135
+    "score": 4.562691
   },
   {
     "title": "WEBTOON",
@@ -837,7 +837,7 @@
     "free": true,
     "summary": "Stories to Obsess Over",
     "scoreText": "4.6",
-    "score": 4.6176276
+    "score": 4.61766
   },
   {
     "title": "Tumile - Meet new people via free video chat",
@@ -851,21 +851,21 @@
     "free": true,
     "summary": "Free online chatting app",
     "scoreText": "4.5",
-    "score": 4.505972
+    "score": 4.5066333
   },
   {
-    "title": "Facetune2 by Lightricks: Selfie Editor Retouch App",
-    "appId": "com.lightricks.facetune.free",
-    "url": "https://play.google.com/store/apps/details?id=com.lightricks.facetune.free",
-    "icon": "https://play-lh.googleusercontent.com/PZMWnpFtmhKbVl1fm6HJS3Mru4O9_RTtz5LK1dGlFe2cLMJ4QWun1mfQO5GAJWEl8w",
-    "developer": "Lightricks Ltd.",
-    "developerId": "Lightricks+Ltd.",
+    "title": "Geocaching®",
+    "appId": "com.groundspeak.geocaching.intro",
+    "url": "https://play.google.com/store/apps/details?id=com.groundspeak.geocaching.intro",
+    "icon": "https://play-lh.googleusercontent.com/6zRsomkLxwya9yiXd9GKQS8_VrZpY0A83CWqChkDkF7GFx8-MDtvkwc-ZZpuvjSWJzg",
+    "developer": "Groundspeak Inc.",
+    "developerId": "Groundspeak+Inc.",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Edit photos with a magical touch, share amazing pictures, gain likes &amp; followers",
-    "scoreText": "3.8",
-    "score": 3.7928438
+    "summary": "This app has everything you need to begin your geocaching adventure.",
+    "scoreText": "4.4",
+    "score": 4.4230957
   },
   {
     "title": "FaceApp - Face Editor, Makeover & Beauty App",
@@ -879,7 +879,7 @@
     "free": true,
     "summary": "Perfect selfie with just one tap",
     "scoreText": "4.6",
-    "score": 4.6361923
+    "score": 4.635699
   },
   {
     "title": "Driving Theory Test 4 in 1 Kit + Hazard Perception",
@@ -894,35 +894,21 @@
     "free": false,
     "summary": "🚗 Practise ALL 2021 DVSA Theory Test revision questions + 85 Hazard Perception",
     "scoreText": "4.8",
-    "score": 4.7746544
+    "score": 4.77148
   },
   {
-    "title": "Webnovel",
-    "appId": "com.qidian.Int.reader",
-    "url": "https://play.google.com/store/apps/details?id=com.qidian.Int.reader",
-    "icon": "https://play-lh.googleusercontent.com/SSEuGqDVtYwHKRDd35c3dRH1ImB1p35b7Ey5eBToXlz7yuKcqn6GgoYjrSqo9gPCnQ",
-    "developer": "Cloudary",
-    "developerId": "Cloudary",
+    "title": "Facetune2 by Lightricks: Selfie Editor Retouch App",
+    "appId": "com.lightricks.facetune.free",
+    "url": "https://play.google.com/store/apps/details?id=com.lightricks.facetune.free",
+    "icon": "https://play-lh.googleusercontent.com/PZMWnpFtmhKbVl1fm6HJS3Mru4O9_RTtz5LK1dGlFe2cLMJ4QWun1mfQO5GAJWEl8w",
+    "developer": "Lightricks Ltd.",
+    "developerId": "Lightricks+Ltd.",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "So many great fantasy and romance webnovels here!",
-    "scoreText": "4.0",
-    "score": 4.047571
-  },
-  {
-    "title": "happn – Local dating app",
-    "appId": "com.ftw_and_co.happn",
-    "url": "https://play.google.com/store/apps/details?id=com.ftw_and_co.happn",
-    "icon": "https://play-lh.googleusercontent.com/O1XquBzqm2MjscNtAI84wmnR2Q89L6aO9xjPm9MwFeu-_1CLqGV4LBSIfhUjeTWByQQ",
-    "developer": "happn",
-    "developerId": "happn",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Find the people you’ve crossed paths with!",
-    "scoreText": "4.0",
-    "score": 4.0182676
+    "summary": "Edit photos with a magical touch, share amazing pictures, gain likes &amp; followers",
+    "scoreText": "3.8",
+    "score": 3.7912476
   },
   {
     "title": "Fastic: Fasting App & Intermittent Fasting Tracker",
@@ -936,7 +922,21 @@
     "free": true,
     "summary": "Intermittent fasting tracker for weight loss without dieting or calorie counter",
     "scoreText": "4.6",
-    "score": 4.645253
+    "score": 4.6418586
+  },
+  {
+    "title": "happn – Local dating app",
+    "appId": "com.ftw_and_co.happn",
+    "url": "https://play.google.com/store/apps/details?id=com.ftw_and_co.happn",
+    "icon": "https://play-lh.googleusercontent.com/O1XquBzqm2MjscNtAI84wmnR2Q89L6aO9xjPm9MwFeu-_1CLqGV4LBSIfhUjeTWByQQ",
+    "developer": "happn",
+    "developerId": "happn",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Find the people you’ve crossed paths with!",
+    "scoreText": "4.0",
+    "score": 4.0180697
   },
   {
     "title": "Freeletics Training Coach - Bodyweight Fitness",
@@ -950,7 +950,7 @@
     "free": true,
     "summary": "A personal trainer in your pocket. At-home HIIT workouts &amp; custom training plans",
     "scoreText": "4.2",
-    "score": 4.150765
+    "score": 4.152561
   },
   {
     "title": "IMVU: Avatar Virtual life game 3d. Chat and Social",
@@ -964,7 +964,7 @@
     "free": true,
     "summary": "Virtual life game! Make New Friends, Style your Avatar in 3D and Enjoy the Chat",
     "scoreText": "4.2",
-    "score": 4.2437
+    "score": 4.246804
   },
   {
     "title": "Circuit Route Planner",
@@ -978,7 +978,7 @@
     "free": true,
     "summary": "Reorder your delivery route and get home earlier with Circuit route planner.",
     "scoreText": "4.7",
-    "score": 4.690576
+    "score": 4.6840205
   },
   {
     "title": "Radish — Free Fiction & Chat Stories",
@@ -992,7 +992,7 @@
     "free": true,
     "summary": "Read romance, fantasy, and more",
     "scoreText": "4.2",
-    "score": 4.2222447
+    "score": 4.2219048
   },
   {
     "title": "UFC",
@@ -1005,134 +1005,8 @@
     "price": 0,
     "free": true,
     "summary": "Watch live events on PAY-PER-VIEW or UFC FIGHT PASS, &amp; find the latest UFC news!",
-    "scoreText": "4.7",
-    "score": 4.650781
-  },
-  {
-    "title": "Geocaching®",
-    "appId": "com.groundspeak.geocaching.intro",
-    "url": "https://play.google.com/store/apps/details?id=com.groundspeak.geocaching.intro",
-    "icon": "https://play-lh.googleusercontent.com/6zRsomkLxwya9yiXd9GKQS8_VrZpY0A83CWqChkDkF7GFx8-MDtvkwc-ZZpuvjSWJzg",
-    "developer": "Groundspeak Inc.",
-    "developerId": "Groundspeak+Inc.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "This app has everything you need to begin your geocaching adventure.",
-    "scoreText": "4.4",
-    "score": 4.420806
-  },
-  {
-    "title": "Tagged - Meet, Chat & Dating",
-    "appId": "com.taggedapp",
-    "url": "https://play.google.com/store/apps/details?id=com.taggedapp",
-    "icon": "https://play-lh.googleusercontent.com/icjCQlWN3Y04d2-G84JzWWpTtGJIyk4R-Gp_QFHhyasgG_LmOd09VdoBG5e2YyQF9R8",
-    "developer": "Ifwe Inc.",
-    "developerId": "8315315095315966598",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Chill and Chat with Tagged Live Video 🥳<br>⚡The #1 App with Over 300Mil peeps⚡",
-    "scoreText": "4.4",
-    "score": 4.4270134
-  },
-  {
-    "title": "Elevate - Brain Training Games",
-    "appId": "com.wonder",
-    "url": "https://play.google.com/store/apps/details?id=com.wonder",
-    "icon": "https://play-lh.googleusercontent.com/CZ6XpP4sihh0VGkMFRif4FVplpvQnaUw5rujfc-xRz2GHDAa9eRwlsk23qegQEay",
-    "developer": "Elevate  Labs",
-    "developerId": "8349798590125374140",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Sharpen mental skills with 35+ games—Google&#39;s Editors&#39; Choice for brain training",
-    "scoreText": "4.5",
-    "score": 4.5186133
-  },
-  {
-    "title": "AllTrails: Hiking, Running & Mountain Bike Trails",
-    "appId": "com.alltrails.alltrails",
-    "url": "https://play.google.com/store/apps/details?id=com.alltrails.alltrails",
-    "icon": "https://play-lh.googleusercontent.com/Y8Fe2rRuRsUXx9JIyQ9xyYX9pwfFT0_tfudqgO8f_yvZJQICmN-rLIMPU6_IZTqNYg",
-    "developer": "AllTrails, LLC",
-    "developerId": "AllTrails,+LLC",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Explore the outdoors: hiking trail maps, bike trails, camping &amp; backpacking maps",
-    "scoreText": "3.9",
-    "score": 3.9287968
-  },
-  {
-    "title": "Smart TV Cast - Screen Mirroring for Smart TV",
-    "appId": "com.sensustech.smarttvcast",
-    "url": "https://play.google.com/store/apps/details?id=com.sensustech.smarttvcast",
-    "icon": "https://play-lh.googleusercontent.com/FWhQkWe77ZL1FChGNwGjC5VtXCu3Jei-WcVa-n-_rhfk4750DcmsJzZhz2aMTePLLg",
-    "developer": "SensusTech LLC",
-    "developerId": "SensusTech+LLC",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Mirror your phone screen or media content to any Smart TV in real-time!",
-    "scoreText": "3.6",
-    "score": 3.5726142
-  },
-  {
-    "title": "STARZPLAY",
-    "appId": "com.starz.starzplay.android",
-    "url": "https://play.google.com/store/apps/details?id=com.starz.starzplay.android",
-    "icon": "https://play-lh.googleusercontent.com/tvZU6jst_-CiPWFrm4c_Hs0K6ws0QVqMvX_oNQLkNnkzStLFnDd6kHvcnZXZkjWoAw",
-    "developer": "Starz Entertainment, LLC",
-    "developerId": "Starz+Entertainment,+LLC",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Obsessable Original Series. Hit movies. Full downloads. Start your free trial!",
-    "scoreText": "3.9",
-    "score": 3.854273
-  },
-  {
-    "title": "Bermuda Video Chat - Meet New People",
-    "appId": "vixr.bermuda",
-    "url": "https://play.google.com/store/apps/details?id=vixr.bermuda",
-    "icon": "https://play-lh.googleusercontent.com/Yb8xOkXtD1A3dMW2OzZz9zx7ULb6PCEl11ZIicbEA0Zinh9tFQqz4tIHdnlQ8hSWyM4",
-    "developer": "Bermuda Inc.",
-    "developerId": "Bermuda+Inc.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Random video chat to meet new friends! Swipe &amp; Match!",
-    "scoreText": "4.0",
-    "score": 4.0216646
-  },
-  {
-    "title": "Norton Secure VPN – Security & Privacy WiFi Proxy",
-    "appId": "com.symantec.securewifi",
-    "url": "https://play.google.com/store/apps/details?id=com.symantec.securewifi",
-    "icon": "https://play-lh.googleusercontent.com/P1O2Wo1hSK6a8BEjQ-31H7PhXoSK5UO4j9YGqS6KP0x7OOZGzV4MDXBcbeiRgwpt5NQ",
-    "developer": "NortonMobile",
-    "developerId": "5096233774909251047",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Encrypts your data &amp; helps protect you from hackers",
-    "scoreText": "4.3",
-    "score": 4.2538247
-  },
-  {
-    "title": "Avast Antivirus – Mobile Security & Virus Cleaner",
-    "appId": "com.avast.android.mobilesecurity",
-    "url": "https://play.google.com/store/apps/details?id=com.avast.android.mobilesecurity",
-    "icon": "https://play-lh.googleusercontent.com/FkyojkoCDdILq0yT7Uj4HLnauS1VFgN0PfRGt8MVibz0AwXyWixak5lbQahfe4O-aiQ",
-    "developer": "Avast Software",
-    "developerId": "5078220335056375043",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Android Mobile Security 2020 with Free Antivirus, Virus cleaner &amp; Phone cleaner",
-    "scoreText": "4.7",
-    "score": 4.6798472
+    "scoreText": "4.6",
+    "score": 4.6497474
   },
   {
     "title": "Babbel - Learn Languages - Spanish, French & More",
@@ -1146,105 +1020,119 @@
     "free": true,
     "summary": "Language learning app - Learn Spanish, Italian, German, Russian, English, etc.",
     "scoreText": "4.5",
-    "score": 4.4512186
+    "score": 4.451257
   },
   {
-    "title": "WHO - Live video chat & Match & Meet me",
-    "appId": "com.scorp.who",
-    "url": "https://play.google.com/store/apps/details?id=com.scorp.who",
-    "icon": "https://play-lh.googleusercontent.com/L9ORRk9D8WUX4sqd0Za0CTI7hpDdDmZSGlBpI9tR8c4GuP-6lML5Mk0UyqP5O5QyGcg",
-    "developer": "Loka Digital Teknoloji A.Ş.",
-    "developerId": "Loka+Digital+Teknoloji+A.%C5%9E.",
+    "title": "Elevate - Brain Training Games",
+    "appId": "com.wonder",
+    "url": "https://play.google.com/store/apps/details?id=com.wonder",
+    "icon": "https://play-lh.googleusercontent.com/CZ6XpP4sihh0VGkMFRif4FVplpvQnaUw5rujfc-xRz2GHDAa9eRwlsk23qegQEay",
+    "developer": "Elevate  Labs",
+    "developerId": "8349798590125374140",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "The hottest live chat app so far. Video chat and meet great people...",
-    "scoreText": "4.3",
-    "score": 4.2930217
+    "summary": "Sharpen mental skills with 35+ games—Google&#39;s Editors&#39; Choice for brain training",
+    "scoreText": "4.5",
+    "score": 4.5187807
   },
   {
-    "title": "QuickBooks Online Accounting, Invoicing & Expenses",
-    "appId": "com.intuit.quickbooks",
-    "url": "https://play.google.com/store/apps/details?id=com.intuit.quickbooks",
-    "icon": "https://play-lh.googleusercontent.com/cU-dWPccEGZ39MQawS17137v0CBq3OhcIdXTRu1dCuLzSOKf1H0g2oT5LIg3gKjCoA",
-    "developer": "Intuit Inc",
-    "developerId": "7987416923533646496",
+    "title": "AllTrails: Hiking, Running & Mountain Bike Trails",
+    "appId": "com.alltrails.alltrails",
+    "url": "https://play.google.com/store/apps/details?id=com.alltrails.alltrails",
+    "icon": "https://play-lh.googleusercontent.com/Y8Fe2rRuRsUXx9JIyQ9xyYX9pwfFT0_tfudqgO8f_yvZJQICmN-rLIMPU6_IZTqNYg",
+    "developer": "AllTrails, LLC",
+    "developerId": "AllTrails,+LLC",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Create invoices, manage expenses &amp; view your small business finances with ease.",
-    "scoreText": "4.1",
-    "score": 4.123822
+    "summary": "Explore the outdoors: hiking trail maps, bike trails, camping &amp; backpacking maps",
+    "scoreText": "3.9",
+    "score": 3.9282005
   },
   {
-    "title": "HOLLA - Live Random Video Chat",
-    "appId": "com.exutech.chacha",
-    "url": "https://play.google.com/store/apps/details?id=com.exutech.chacha",
-    "icon": "https://play-lh.googleusercontent.com/RDvoOMPBkcHQQZMlqfYaxKBA2SjaMZaskxcsh85GdkoG18RrxnWa8r3ZDuZxBztySrrh",
-    "developer": "HOLLA",
-    "developerId": "HOLLA",
+    "title": "Smart TV Cast - Screen Mirroring for Smart TV",
+    "appId": "com.sensustech.smarttvcast",
+    "url": "https://play.google.com/store/apps/details?id=com.sensustech.smarttvcast",
+    "icon": "https://play-lh.googleusercontent.com/FWhQkWe77ZL1FChGNwGjC5VtXCu3Jei-WcVa-n-_rhfk4750DcmsJzZhz2aMTePLLg",
+    "developer": "SensusTech LLC",
+    "developerId": "SensusTech+LLC",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Live random video chat, talk to strangers, meet new people",
-    "scoreText": "4.3",
-    "score": 4.28923
+    "summary": "Mirror your phone screen or media content to any Smart TV in real-time!",
+    "scoreText": "3.8",
+    "score": 3.768
   },
   {
-    "title": "Tapas – Comics and Novels",
-    "appId": "com.tapastic",
-    "url": "https://play.google.com/store/apps/details?id=com.tapastic",
-    "icon": "https://play-lh.googleusercontent.com/vqxJTH2xSwjU4BzDyrxjR827HanqfnPsKW7Oz9NGlxnIxK8gI0wOSwUvCJvevHey8A",
-    "developer": "Tapas Media, Inc.",
-    "developerId": "Tapas+Media,+Inc.",
+    "title": "STARZPLAY",
+    "appId": "com.starz.starzplay.android",
+    "url": "https://play.google.com/store/apps/details?id=com.starz.starzplay.android",
+    "icon": "https://play-lh.googleusercontent.com/tvZU6jst_-CiPWFrm4c_Hs0K6ws0QVqMvX_oNQLkNnkzStLFnDd6kHvcnZXZkjWoAw",
+    "developer": "Starz Entertainment, LLC",
+    "developerId": "Starz+Entertainment,+LLC",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Beyond Webtoons and Webnovels",
-    "scoreText": "3.7",
-    "score": 3.7229583
+    "summary": "Obsessable Original Series. Hit movies. Full downloads. Start your free trial!",
+    "scoreText": "3.8",
+    "score": 3.8493555
   },
   {
-    "title": "Kaspersky Mobile Antivirus: AppLock & Web Security",
-    "appId": "com.kms.free",
-    "url": "https://play.google.com/store/apps/details?id=com.kms.free",
-    "icon": "https://play-lh.googleusercontent.com/Fyg6qTlRGSGmUSRF9uUJR5mgAUyWXntgmJ6NSJZNpHWonUts1lKPUo-O8LcdU_V2DA",
-    "developer": "Kaspersky Lab Switzerland",
-    "developerId": "5282000619223025472",
+    "title": "Bermuda Video Chat - Meet New People",
+    "appId": "vixr.bermuda",
+    "url": "https://play.google.com/store/apps/details?id=vixr.bermuda",
+    "icon": "https://play-lh.googleusercontent.com/Yb8xOkXtD1A3dMW2OzZz9zx7ULb6PCEl11ZIicbEA0Zinh9tFQqz4tIHdnlQ8hSWyM4",
+    "developer": "Bermuda Inc.",
+    "developerId": "Bermuda+Inc.",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Free Security for Android to Secure phone from Malware, Viruses, Spyware, Theft",
-    "scoreText": "4.8",
-    "score": 4.8232584
+    "summary": "Random video chat to meet new friends! Swipe &amp; Match!",
+    "scoreText": "4.0",
+    "score": 4.021394
   },
   {
-    "title": "StreamKar - Live Streaming, Live Chat, Live Video",
-    "appId": "com.thankyo.hwgame",
-    "url": "https://play.google.com/store/apps/details?id=com.thankyo.hwgame",
-    "icon": "https://play-lh.googleusercontent.com/zBd96feiWRDPlLTNmKkEWw1Gdkh9-pm5mdhBv0DK_eITxFpRpd1r-_Rd474weOEOzviA",
-    "developer": "Tipping Points Technology Ltd.",
-    "developerId": "Tipping+Points+Technology+Ltd.",
+    "title": "Tagged - Meet, Chat & Dating",
+    "appId": "com.taggedapp",
+    "url": "https://play.google.com/store/apps/details?id=com.taggedapp",
+    "icon": "https://play-lh.googleusercontent.com/icjCQlWN3Y04d2-G84JzWWpTtGJIyk4R-Gp_QFHhyasgG_LmOd09VdoBG5e2YyQF9R8",
+    "developer": "Ifwe Inc.",
+    "developerId": "8315315095315966598",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "FREE Live Video Chat, Live Stream",
-    "scoreText": "4.1",
-    "score": 4.136823
-  },
-  {
-    "title": "Yubo – Join, play, Make new friends online",
-    "appId": "co.yellw.yellowapp",
-    "url": "https://play.google.com/store/apps/details?id=co.yellw.yellowapp",
-    "icon": "https://play-lh.googleusercontent.com/Z6EahmFrnbnCWUYHw73P_20_3IFinoA5B0b43kNDXg22FR7Ze9aP6HmbBe4LyluBmg",
-    "developer": "Twelve APP",
-    "developerId": "Twelve+APP",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Talk, chill, livestream, make friends, play games, make more friends.",
+    "summary": "Chill and Chat with Tagged Live Video 🥳<br>⚡The #1 App with Over 300Mil peeps⚡",
     "scoreText": "4.4",
-    "score": 4.401026
+    "score": 4.4272795
+  },
+  {
+    "title": "Norton Secure VPN – Security & Privacy WiFi Proxy",
+    "appId": "com.symantec.securewifi",
+    "url": "https://play.google.com/store/apps/details?id=com.symantec.securewifi",
+    "icon": "https://play-lh.googleusercontent.com/P1O2Wo1hSK6a8BEjQ-31H7PhXoSK5UO4j9YGqS6KP0x7OOZGzV4MDXBcbeiRgwpt5NQ",
+    "developer": "NortonMobile",
+    "developerId": "5096233774909251047",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Encrypts your data &amp; helps protect you from hackers",
+    "scoreText": "4.3",
+    "score": 4.2526646
+  },
+  {
+    "title": "Avast Antivirus – Mobile Security & Virus Cleaner",
+    "appId": "com.avast.android.mobilesecurity",
+    "url": "https://play.google.com/store/apps/details?id=com.avast.android.mobilesecurity",
+    "icon": "https://play-lh.googleusercontent.com/FkyojkoCDdILq0yT7Uj4HLnauS1VFgN0PfRGt8MVibz0AwXyWixak5lbQahfe4O-aiQ",
+    "developer": "Avast Software",
+    "developerId": "5078220335056375043",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Android Mobile Security 2020 with Free Antivirus, Virus cleaner &amp; Phone cleaner",
+    "scoreText": "4.7",
+    "score": 4.679816
   },
   {
     "title": "ViewRanger: Trail Maps for Hiking, Biking, Skiing",
@@ -1258,35 +1146,105 @@
     "free": true,
     "summary": "Find hiking trails and bike rides, navigate with GPS, and save offline topo maps",
     "scoreText": "4.3",
-    "score": 4.274733
+    "score": 4.275238
   },
   {
-    "title": "Adobe Lightroom - Photo Editor & Pro Camera",
-    "appId": "com.adobe.lrmobile",
-    "url": "https://play.google.com/store/apps/details?id=com.adobe.lrmobile",
-    "icon": "https://play-lh.googleusercontent.com/PcFt-0OYNIT3NQWwozJ4_9YcCXtsH1OmTJwKPqu4qDG7D3cC3SbXbxyMWZIHe4LmQg",
-    "developer": "Adobe",
-    "developerId": "4734916851270416020",
+    "title": "WHO - Live video chat & Match & Meet me",
+    "appId": "com.scorp.who",
+    "url": "https://play.google.com/store/apps/details?id=com.scorp.who",
+    "icon": "https://play-lh.googleusercontent.com/L9ORRk9D8WUX4sqd0Za0CTI7hpDdDmZSGlBpI9tR8c4GuP-6lML5Mk0UyqP5O5QyGcg",
+    "developer": "Loka Digital Teknoloji A.Ş.",
+    "developerId": "Loka+Digital+Teknoloji+A.%C5%9E.",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Shoot &amp; edit raw images, make advanced color &amp; lighting adjustments, easily.",
+    "summary": "The hottest live chat app so far. Video chat and meet great people...",
     "scoreText": "4.3",
-    "score": 4.2934737
+    "score": 4.293408
   },
   {
-    "title": "discovery+",
-    "appId": "com.discovery.discoplus",
-    "url": "https://play.google.com/store/apps/details?id=com.discovery.discoplus",
-    "icon": "https://play-lh.googleusercontent.com/m9IEZsfb6QOZb722udfQ7woKFItKaT6IAs7PHS2cRYbpdbrbUA5GkkfJtka6caXPyi88",
-    "developer": "Discovery Digital",
-    "developerId": "Discovery+Digital",
+    "title": "Tapas – Comics and Novels",
+    "appId": "com.tapastic",
+    "url": "https://play.google.com/store/apps/details?id=com.tapastic",
+    "icon": "https://play-lh.googleusercontent.com/vqxJTH2xSwjU4BzDyrxjR827HanqfnPsKW7Oz9NGlxnIxK8gI0wOSwUvCJvevHey8A",
+    "developer": "Tapas Media, Inc.",
+    "developerId": "Tapas+Media,+Inc.",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Stream what you love",
-    "scoreText": "4.5",
-    "score": 4.4972677
+    "summary": "Beyond Webtoons and Webnovels",
+    "scoreText": "3.7",
+    "score": 3.7222502
+  },
+  {
+    "title": "QuickBooks Online Accounting, Invoicing & Expenses",
+    "appId": "com.intuit.quickbooks",
+    "url": "https://play.google.com/store/apps/details?id=com.intuit.quickbooks",
+    "icon": "https://play-lh.googleusercontent.com/cU-dWPccEGZ39MQawS17137v0CBq3OhcIdXTRu1dCuLzSOKf1H0g2oT5LIg3gKjCoA",
+    "developer": "Intuit Inc",
+    "developerId": "7987416923533646496",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Create invoices, manage expenses &amp; view your small business finances with ease.",
+    "scoreText": "4.1",
+    "score": 4.124086
+  },
+  {
+    "title": "HOLLA - Live Random Video Chat",
+    "appId": "com.exutech.chacha",
+    "url": "https://play.google.com/store/apps/details?id=com.exutech.chacha",
+    "icon": "https://play-lh.googleusercontent.com/RDvoOMPBkcHQQZMlqfYaxKBA2SjaMZaskxcsh85GdkoG18RrxnWa8r3ZDuZxBztySrrh",
+    "developer": "HOLLA",
+    "developerId": "HOLLA",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Live random video chat, talk to strangers, meet new people",
+    "scoreText": "4.3",
+    "score": 4.2896914
+  },
+  {
+    "title": "Kaspersky Mobile Antivirus: AppLock & Web Security",
+    "appId": "com.kms.free",
+    "url": "https://play.google.com/store/apps/details?id=com.kms.free",
+    "icon": "https://play-lh.googleusercontent.com/Fyg6qTlRGSGmUSRF9uUJR5mgAUyWXntgmJ6NSJZNpHWonUts1lKPUo-O8LcdU_V2DA",
+    "developer": "Kaspersky Lab Switzerland",
+    "developerId": "5282000619223025472",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Free Security for Android to Secure phone from Malware, Viruses, Spyware, Theft",
+    "scoreText": "4.8",
+    "score": 4.8232512
+  },
+  {
+    "title": "StreamKar - Live Streaming, Live Chat, Live Video",
+    "appId": "com.thankyo.hwgame",
+    "url": "https://play.google.com/store/apps/details?id=com.thankyo.hwgame",
+    "icon": "https://play-lh.googleusercontent.com/zBd96feiWRDPlLTNmKkEWw1Gdkh9-pm5mdhBv0DK_eITxFpRpd1r-_Rd474weOEOzviA",
+    "developer": "Tipping Points Technology Ltd.",
+    "developerId": "Tipping+Points+Technology+Ltd.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "FREE Live Video Chat, Live Stream",
+    "scoreText": "4.1",
+    "score": 4.1372275
+  },
+  {
+    "title": "Yubo – Join, play, Make new friends online",
+    "appId": "co.yellw.yellowapp",
+    "url": "https://play.google.com/store/apps/details?id=co.yellw.yellowapp",
+    "icon": "https://play-lh.googleusercontent.com/Z6EahmFrnbnCWUYHw73P_20_3IFinoA5B0b43kNDXg22FR7Ze9aP6HmbBe4LyluBmg",
+    "developer": "Twelve APP",
+    "developerId": "Twelve+APP",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Talk, chill, livestream, make friends, play games, make more friends.",
+    "scoreText": "4.4",
+    "score": 4.401504
   },
   {
     "title": "Norton 360",
@@ -1300,7 +1258,21 @@
     "free": true,
     "summary": "Trust Norton’s experience in cyber security to help keep your device safe.",
     "scoreText": "4.6",
-    "score": 4.645918
+    "score": 4.6456547
+  },
+  {
+    "title": "discovery+",
+    "appId": "com.discovery.discoplus",
+    "url": "https://play.google.com/store/apps/details?id=com.discovery.discoplus",
+    "icon": "https://play-lh.googleusercontent.com/m9IEZsfb6QOZb722udfQ7woKFItKaT6IAs7PHS2cRYbpdbrbUA5GkkfJtka6caXPyi88",
+    "developer": "Discovery Digital",
+    "developerId": "Discovery+Digital",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Stream what you love",
+    "scoreText": "4.5",
+    "score": 4.4834833
   },
   {
     "title": "Reading Eggs - Learn to Read",
@@ -1314,7 +1286,7 @@
     "free": true,
     "summary": "The multi-award winning learn-to-read app for kids aged 2–13.",
     "scoreText": "3.6",
-    "score": 3.6037736
+    "score": 3.6103287
   },
   {
     "title": "Flightradar24 Flight Tracker",
@@ -1328,7 +1300,7 @@
     "free": true,
     "summary": "The #1 flight tracker - follow live air traffic around the world in real-time!",
     "scoreText": "4.6",
-    "score": 4.562507
+    "score": 4.5630026
   },
   {
     "title": "iFlirts – Flirt, Dating & Chatting for Singles",
@@ -1342,7 +1314,7 @@
     "free": true,
     "summary": "Chat with attractive singles, fall in love 💕 and date",
     "scoreText": "4.0",
-    "score": 4.010142
+    "score": 4.0244823
   },
   {
     "title": "Cricut Design Space",
@@ -1356,21 +1328,7 @@
     "free": true,
     "summary": "Welcome to Cricut Design Space for Android!",
     "scoreText": "4.4",
-    "score": 4.379743
-  },
-  {
-    "title": "Motionleap (formerly Pixaloop) - Photo Animator",
-    "appId": "com.lightricks.pixaloop",
-    "url": "https://play.google.com/store/apps/details?id=com.lightricks.pixaloop",
-    "icon": "https://play-lh.googleusercontent.com/WiHPPOpxewi8n6VMxj3p02QYAgkQWuACtWGq78DJx1dsWR24wTC5W3QbtzuaYpRFml4y",
-    "developer": "Lightricks Ltd.",
-    "developerId": "Lightricks+Ltd.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Bring your photos to life: Photo Animation with Filters, Effects, Blur, and more",
-    "scoreText": "4.3",
-    "score": 4.3354945
+    "score": 4.386585
   },
   {
     "title": "Tappytoon Comics & Webtoons",
@@ -1384,77 +1342,7 @@
     "free": true,
     "summary": "Official source for premium webtoons &amp; top comics! Access newest chapters now!",
     "scoreText": "3.9",
-    "score": 3.8888435
-  },
-  {
-    "title": "PURE Hookup 🌶 anonymous chat 💋 dating, flirt 18+",
-    "appId": "com.getpure.pure",
-    "url": "https://play.google.com/store/apps/details?id=com.getpure.pure",
-    "icon": "https://play-lh.googleusercontent.com/QHaNNXCjyHRudPH8PWwzkwT8zfVuikNaOTOYFVOY7rYmoF79EpEh_RTryB76L5RI9g",
-    "developer": "Misterico Limited",
-    "developerId": "Misterico+Limited",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "One night casual hook up dating 🔥 date nearby and meet new people in local chat",
-    "scoreText": "4.5",
-    "score": 4.5055933
-  },
-  {
-    "title": "Headway: Books' Key Ideas",
-    "appId": "com.headway.books",
-    "url": "https://play.google.com/store/apps/details?id=com.headway.books",
-    "icon": "https://play-lh.googleusercontent.com/11bTacZlalrCB2TPFYXn1Yz4ctxFKHItx6Z03pgJEstZWsWJgjIFqSbHo1IJwFWQEQ",
-    "developer": "Books Made Easy Corp",
-    "developerId": "Books+Made+Easy+Corp",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Become a better version of yourself in 28 days to achieve more in life and work",
-    "scoreText": "3.9",
-    "score": 3.8781266
-  },
-  {
-    "title": "PowerDirector - Video Editor App, Best Video Maker",
-    "appId": "com.cyberlink.powerdirector.DRA140225_01",
-    "url": "https://play.google.com/store/apps/details?id=com.cyberlink.powerdirector.DRA140225_01",
-    "icon": "https://play-lh.googleusercontent.com/IrG6JLYR-5HMK-vzxtKA4YZ5YxbaeAEx1ntpAfeFPaUUjsDv8y73Q6FI0tOMwdHGJg",
-    "developer": "Cyberlink Corp",
-    "developerId": "9164452242719817477",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "🏆Editors&#39; Choice 🎬Easy movie maker with collage and cool video fx✨ Try it now!",
-    "scoreText": "4.5",
-    "score": 4.51053
-  },
-  {
-    "title": "Ancestry: Discover your family history & origins",
-    "appId": "com.ancestry.android.apps.ancestry",
-    "url": "https://play.google.com/store/apps/details?id=com.ancestry.android.apps.ancestry",
-    "icon": "https://play-lh.googleusercontent.com/aUwzaz3DojL6KqnfMNw5Y3C2Lm2s1uj2U7dsiRGnq00eNY8_F-Gn3MlVLvOgUQLvsOU",
-    "developer": "Ancestry.com",
-    "developerId": "Ancestry.com",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Explore your family tree, story,  &amp; origins with photos, documents, &amp; genealogy",
-    "scoreText": "4.4",
-    "score": 4.3929334
-  },
-  {
-    "title": "ClassDojo",
-    "appId": "com.classdojo.android",
-    "url": "https://play.google.com/store/apps/details?id=com.classdojo.android",
-    "icon": "https://play-lh.googleusercontent.com/FUzIQanDvPv3Gl_4qmOWr74en-f16P-WKOeXTEu2LUvIEYvTeZ9USEf4O0FrH8tvCA",
-    "developer": "ClassDojo",
-    "developerId": "ClassDojo",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "ClassDojo is a beautiful communication app for teachers, parents, and students.",
-    "scoreText": "4.1",
-    "score": 4.1094613
+    "score": 3.884996
   },
   {
     "title": "Feeld: Dating & Chat For Couples & Singles",
@@ -1468,21 +1356,105 @@
     "free": true,
     "summary": "Chat &amp; connect on alternative dating platform for bisexual women and couples.",
     "scoreText": "2.4",
-    "score": 2.3505025
+    "score": 2.3567839
   },
   {
-    "title": "WWE",
-    "appId": "com.wwe.universe",
-    "url": "https://play.google.com/store/apps/details?id=com.wwe.universe",
-    "icon": "https://play-lh.googleusercontent.com/b1GoSE4BoDrga0duPETas3XN22Z11HSh0xYHpWPH8z8VA-IZGlwp4ymr76GSX1p8CjAX",
-    "developer": "WWE, Inc.",
-    "developerId": "WWE,+Inc.",
+    "title": "Motionleap (formerly Pixaloop) - Photo Animator",
+    "appId": "com.lightricks.pixaloop",
+    "url": "https://play.google.com/store/apps/details?id=com.lightricks.pixaloop",
+    "icon": "https://play-lh.googleusercontent.com/WiHPPOpxewi8n6VMxj3p02QYAgkQWuACtWGq78DJx1dsWR24wTC5W3QbtzuaYpRFml4y",
+    "developer": "Lightricks Ltd.",
+    "developerId": "Lightricks+Ltd.",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Every LIVE WWE pay-per-view and thousands of hours of video on demand",
+    "summary": "Bring your photos to life: Photo Animation with Filters, Effects, Blur, and more",
+    "scoreText": "4.3",
+    "score": 4.3329825
+  },
+  {
+    "title": "Adobe Lightroom - Photo Editor & Pro Camera",
+    "appId": "com.adobe.lrmobile",
+    "url": "https://play.google.com/store/apps/details?id=com.adobe.lrmobile",
+    "icon": "https://play-lh.googleusercontent.com/PcFt-0OYNIT3NQWwozJ4_9YcCXtsH1OmTJwKPqu4qDG7D3cC3SbXbxyMWZIHe4LmQg",
+    "developer": "Adobe",
+    "developerId": "4734916851270416020",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Shoot &amp; edit raw images, make advanced color &amp; lighting adjustments, easily.",
+    "scoreText": "4.3",
+    "score": 4.2935467
+  },
+  {
+    "title": "PURE Hookup 🌶 anonymous chat 💋 dating, flirt 18+",
+    "appId": "com.getpure.pure",
+    "url": "https://play.google.com/store/apps/details?id=com.getpure.pure",
+    "icon": "https://play-lh.googleusercontent.com/QHaNNXCjyHRudPH8PWwzkwT8zfVuikNaOTOYFVOY7rYmoF79EpEh_RTryB76L5RI9g",
+    "developer": "Misterico Limited",
+    "developerId": "Misterico+Limited",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "One night casual hook up dating 🔥 date nearby and meet new people in local chat",
     "scoreText": "4.5",
-    "score": 4.5199847
+    "score": 4.49676
+  },
+  {
+    "title": "Komoot — Cycling, Hiking & Mountain Biking Maps",
+    "appId": "de.komoot.android",
+    "url": "https://play.google.com/store/apps/details?id=de.komoot.android",
+    "icon": "https://play-lh.googleusercontent.com/Pbr3n81ImNUpAwhWBWQ_eytF26cNMoMF0b4YwroXGk7xyB_Ur-DsNibiukTVCIBi9ic",
+    "developer": "komoot GmbH",
+    "developerId": "komoot+GmbH",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Route planner, voice nav &amp; offline maps for your cycling and hiking experiences.",
+    "scoreText": "4.6",
+    "score": 4.575411
+  },
+  {
+    "title": "Headway: Books' Key Ideas",
+    "appId": "com.headway.books",
+    "url": "https://play.google.com/store/apps/details?id=com.headway.books",
+    "icon": "https://play-lh.googleusercontent.com/11bTacZlalrCB2TPFYXn1Yz4ctxFKHItx6Z03pgJEstZWsWJgjIFqSbHo1IJwFWQEQ",
+    "developer": "Books Made Easy Corp",
+    "developerId": "Books+Made+Easy+Corp",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Become a better version of yourself in 28 days to achieve more in life and work",
+    "scoreText": "3.9",
+    "score": 3.8766828
+  },
+  {
+    "title": "PowerDirector - Video Editor App, Best Video Maker",
+    "appId": "com.cyberlink.powerdirector.DRA140225_01",
+    "url": "https://play.google.com/store/apps/details?id=com.cyberlink.powerdirector.DRA140225_01",
+    "icon": "https://play-lh.googleusercontent.com/IrG6JLYR-5HMK-vzxtKA4YZ5YxbaeAEx1ntpAfeFPaUUjsDv8y73Q6FI0tOMwdHGJg",
+    "developer": "Cyberlink Corp",
+    "developerId": "9164452242719817477",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "🏆Editors&#39; Choice 🎬Easy movie maker with collage and cool video fx✨ Try it now!",
+    "scoreText": "4.5",
+    "score": 4.5105295
+  },
+  {
+    "title": "ClassDojo",
+    "appId": "com.classdojo.android",
+    "url": "https://play.google.com/store/apps/details?id=com.classdojo.android",
+    "icon": "https://play-lh.googleusercontent.com/FUzIQanDvPv3Gl_4qmOWr74en-f16P-WKOeXTEu2LUvIEYvTeZ9USEf4O0FrH8tvCA",
+    "developer": "ClassDojo",
+    "developerId": "ClassDojo",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "ClassDojo is a beautiful communication app for teachers, parents, and students.",
+    "scoreText": "4.1",
+    "score": 4.109688
   },
   {
     "title": "OmeTV Video Chat - Meet strangers, make friends",
@@ -1496,7 +1468,7 @@
     "free": true,
     "summary": "Launch the video chat and open the world of unlimited fun with one swipe!",
     "scoreText": "4.0",
-    "score": 3.9983914
+    "score": 3.9997075
   },
   {
     "title": "Asana Rebel: Get in Shape",
@@ -1510,7 +1482,21 @@
     "free": true,
     "summary": "Asana Rebel is the only Yoga Inspired Fitness app to feel sexy and healthy.",
     "scoreText": "4.2",
-    "score": 4.244632
+    "score": 4.2476153
+  },
+  {
+    "title": "Ancestry: Discover your family history & origins",
+    "appId": "com.ancestry.android.apps.ancestry",
+    "url": "https://play.google.com/store/apps/details?id=com.ancestry.android.apps.ancestry",
+    "icon": "https://play-lh.googleusercontent.com/aUwzaz3DojL6KqnfMNw5Y3C2Lm2s1uj2U7dsiRGnq00eNY8_F-Gn3MlVLvOgUQLvsOU",
+    "developer": "Ancestry.com",
+    "developerId": "Ancestry.com",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Explore your family tree, story,  &amp; origins with photos, documents, &amp; genealogy",
+    "scoreText": "4.4",
+    "score": 4.392785
   },
   {
     "title": "Official DVSA Theory Test Kit",
@@ -1525,7 +1511,7 @@
     "free": false,
     "summary": "Only official theory test kit app",
     "scoreText": "4.5",
-    "score": 4.4650455
+    "score": 4.4722223
   },
   {
     "title": "The Athletic: Sports News, Stories, Scores & More",
@@ -1539,7 +1525,7 @@
     "free": true,
     "summary": "Every team. In-depth. Ad-free. Expert coverage of the NFL, NBA, MLB, NHL &amp; EPL.",
     "scoreText": "3.6",
-    "score": 3.581295
+    "score": 3.5936139
   },
   {
     "title": "AirBrush: Easy Photo Editor",
@@ -1553,35 +1539,7 @@
     "free": true,
     "summary": "The Airbrush editor can retouch and filter your pics to create beautiful photos.",
     "scoreText": "4.7",
-    "score": 4.678189
-  },
-  {
-    "title": "Viki: Stream Asian TV Shows, Movies, and Kdramas",
-    "appId": "com.viki.android",
-    "url": "https://play.google.com/store/apps/details?id=com.viki.android",
-    "icon": "https://play-lh.googleusercontent.com/KaZuP7TWbC_zsfRceHb6Dc0SFYL6AHFB2RgQr0L2s2FWDPUb3tf2Qs0YbxCE5qoUpS4",
-    "developer": "Viki, Inc",
-    "developerId": "Viki,+Inc",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Watch Korean, Chinese, and Japanese TV Series &amp; Movies with Subtitles in HD",
-    "scoreText": "4.2",
-    "score": 4.2098575
-  },
-  {
-    "title": "Komoot — Cycling, Hiking & Mountain Biking Maps",
-    "appId": "de.komoot.android",
-    "url": "https://play.google.com/store/apps/details?id=de.komoot.android",
-    "icon": "https://play-lh.googleusercontent.com/Pbr3n81ImNUpAwhWBWQ_eytF26cNMoMF0b4YwroXGk7xyB_Ur-DsNibiukTVCIBi9ic",
-    "developer": "komoot GmbH",
-    "developerId": "komoot+GmbH",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Route planner, voice nav &amp; offline maps for your cycling and hiking experiences.",
-    "scoreText": "4.6",
-    "score": 4.575811
+    "score": 4.6783295
   },
   {
     "title": "Learn Languages with Memrise - Spanish, French",
@@ -1595,77 +1553,7 @@
     "free": true,
     "summary": "Have fun, learn fast and start speaking French, Spanish, German, Japanese...",
     "scoreText": "4.6",
-    "score": 4.600168
-  },
-  {
-    "title": "Cast for Chromecast - TV Streaming & Screen Share",
-    "appId": "chromecast.tv.streaming.screen.share",
-    "url": "https://play.google.com/store/apps/details?id=chromecast.tv.streaming.screen.share",
-    "icon": "https://play-lh.googleusercontent.com/6OJ92Mwa3UDC6lwHKGSBB0v6Wn6U7mT-NaveK1GySiNZ5xz-MqQe-jJRa_5-9VCYxhA",
-    "developer": "EVOLLY.APP",
-    "developerId": "7582351635402059272",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Stream music, photo, videos; play games; screen mirroring to your Chromecast.",
-    "scoreText": "3.8",
-    "score": 3.76014
-  },
-  {
-    "title": "Fabulous: Daily Motivation & Habit Tracker",
-    "appId": "co.thefabulous.app",
-    "url": "https://play.google.com/store/apps/details?id=co.thefabulous.app",
-    "icon": "https://play-lh.googleusercontent.com/NNppCqt_Ow-gViMhgSpSlY41Dd5fiIj7YZ167fyBQ4P7mQei9kvciRwxzVSKjtYXdnY",
-    "developer": "TheFabulous",
-    "developerId": "TheFabulous",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Get a custom morning routine recipe using behavioral science!",
-    "scoreText": "4.5",
-    "score": 4.520122
-  },
-  {
-    "title": "Waking Up: Guided Meditation & Daily Mindfulness",
-    "appId": "org.wakingup.android",
-    "url": "https://play.google.com/store/apps/details?id=org.wakingup.android",
-    "icon": "https://play-lh.googleusercontent.com/cOkr9SgWo6jDVSPQETMDuXrjArLqw8BCjRZqjB3wqGAl9qhvugIygpYMUPzX_6F1gg",
-    "developer": "Waking Up LLC",
-    "developerId": "Waking+Up+LLC",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Meditate daily &amp; explore mindfulness techniques with our 28-day meditation guide",
-    "scoreText": "4.9",
-    "score": 4.8744726
-  },
-  {
-    "title": "Hily Dating App: Meet New People & Get Great Dates",
-    "appId": "com.hily.app",
-    "url": "https://play.google.com/store/apps/details?id=com.hily.app",
-    "icon": "https://play-lh.googleusercontent.com/F1CmGE5-cWE8W1B9MDSKHkxStDjvmjhevOP21iHFPXwGX-DMDWo_5Bhdhdw7m0IdSg",
-    "developer": "Hily Corp.",
-    "developerId": "8466050068348543977",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Best Online Dating App! Find dates, make new friends, video chat &amp; go live! ❤️",
-    "scoreText": "4.4",
-    "score": 4.419824
-  },
-  {
-    "title": "Lifesum - Diet Plan, Macro Calculator & Food Diary",
-    "appId": "com.sillens.shapeupclub",
-    "url": "https://play.google.com/store/apps/details?id=com.sillens.shapeupclub",
-    "icon": "https://play-lh.googleusercontent.com/xbF2DUtTeEB7E4wy0hArgj2QoxlufPiXei72K9t_1PdfFmM-ws-zrJAB7ODRwGU8smg",
-    "developer": "Lifesum",
-    "developerId": "Lifesum",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Food tracker: meal planner, keto recipes &amp; diet tips. Eat healthy &amp; lose weight!",
-    "scoreText": "4.4",
-    "score": 4.439276
+    "score": 4.6001887
   },
   {
     "title": "FortuneScope: live palm reader and fortune teller",
@@ -1679,7 +1567,105 @@
     "free": true,
     "summary": "Future horoscope. Love, money, health horoscope by fortune teller &amp; palm readers",
     "scoreText": "2.9",
-    "score": 2.8805473
+    "score": 2.8776667
+  },
+  {
+    "title": "Cast for Chromecast - TV Streaming & Screen Share",
+    "appId": "chromecast.tv.streaming.screen.share",
+    "url": "https://play.google.com/store/apps/details?id=chromecast.tv.streaming.screen.share",
+    "icon": "https://play-lh.googleusercontent.com/6OJ92Mwa3UDC6lwHKGSBB0v6Wn6U7mT-NaveK1GySiNZ5xz-MqQe-jJRa_5-9VCYxhA",
+    "developer": "EVOLLY.APP",
+    "developerId": "7582351635402059272",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Stream music, photo, videos; play games; screen mirroring to your Chromecast.",
+    "scoreText": "3.7",
+    "score": 3.7334244
+  },
+  {
+    "title": "Fabulous: Daily Motivation & Habit Tracker",
+    "appId": "co.thefabulous.app",
+    "url": "https://play.google.com/store/apps/details?id=co.thefabulous.app",
+    "icon": "https://play-lh.googleusercontent.com/NNppCqt_Ow-gViMhgSpSlY41Dd5fiIj7YZ167fyBQ4P7mQei9kvciRwxzVSKjtYXdnY",
+    "developer": "TheFabulous",
+    "developerId": "TheFabulous",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Get a custom morning routine recipe using behavioral science!",
+    "scoreText": "4.5",
+    "score": 4.519986
+  },
+  {
+    "title": "Waking Up: Guided Meditation & Daily Mindfulness",
+    "appId": "org.wakingup.android",
+    "url": "https://play.google.com/store/apps/details?id=org.wakingup.android",
+    "icon": "https://play-lh.googleusercontent.com/cOkr9SgWo6jDVSPQETMDuXrjArLqw8BCjRZqjB3wqGAl9qhvugIygpYMUPzX_6F1gg",
+    "developer": "Waking Up LLC",
+    "developerId": "Waking+Up+LLC",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Meditate daily &amp; explore mindfulness techniques with our 28-day meditation guide",
+    "scoreText": "4.9",
+    "score": 4.875195
+  },
+  {
+    "title": "Hily Dating App: Meet New People & Get Great Dates",
+    "appId": "com.hily.app",
+    "url": "https://play.google.com/store/apps/details?id=com.hily.app",
+    "icon": "https://play-lh.googleusercontent.com/F1CmGE5-cWE8W1B9MDSKHkxStDjvmjhevOP21iHFPXwGX-DMDWo_5Bhdhdw7m0IdSg",
+    "developer": "Hily Corp.",
+    "developerId": "8466050068348543977",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Best Online Dating App! Find dates, make new friends, video chat &amp; go live! ❤️",
+    "scoreText": "4.4",
+    "score": 4.4047313
+  },
+  {
+    "title": "Blinkist - Nonfiction Books & Audio",
+    "appId": "com.blinkslabs.blinkist.android",
+    "url": "https://play.google.com/store/apps/details?id=com.blinkslabs.blinkist.android",
+    "icon": "https://play-lh.googleusercontent.com/I6jGTxeDATLQDkDcVogX18r0ol4--mRHQMu6_6r8ntuCOKJo-aKOXsZdJJy_IdVAphY",
+    "developer": "Blinks Labs GmbH",
+    "developerId": "7918090238771879535",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Listen to book &amp; podcast insights &amp; full-length audiobooks, all in one app!",
+    "scoreText": "4.5",
+    "score": 4.540461
+  },
+  {
+    "title": "Lifesum - Diet Plan, Macro Calculator & Food Diary",
+    "appId": "com.sillens.shapeupclub",
+    "url": "https://play.google.com/store/apps/details?id=com.sillens.shapeupclub",
+    "icon": "https://play-lh.googleusercontent.com/xbF2DUtTeEB7E4wy0hArgj2QoxlufPiXei72K9t_1PdfFmM-ws-zrJAB7ODRwGU8smg",
+    "developer": "Lifesum",
+    "developerId": "Lifesum",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Food tracker: meal planner, keto recipes &amp; diet tips. Eat healthy &amp; lose weight!",
+    "scoreText": "4.4",
+    "score": 4.4392185
+  },
+  {
+    "title": "Viki: Stream Asian TV Shows, Movies, and Kdramas",
+    "appId": "com.viki.android",
+    "url": "https://play.google.com/store/apps/details?id=com.viki.android",
+    "icon": "https://play-lh.googleusercontent.com/KaZuP7TWbC_zsfRceHb6Dc0SFYL6AHFB2RgQr0L2s2FWDPUb3tf2Qs0YbxCE5qoUpS4",
+    "developer": "Viki, Inc",
+    "developerId": "Viki,+Inc",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Watch Korean, Chinese, and Japanese TV Series &amp; Movies with Subtitles in HD",
+    "scoreText": "4.2",
+    "score": 4.208753
   },
   {
     "title": "Rosetta Stone: Learn and Speak New Languages",
@@ -1693,49 +1679,7 @@
     "free": true,
     "summary": "Learn English, Spanish, French, German, Italian, Japanese, Korean, and more!",
     "scoreText": "4.6",
-    "score": 4.6332827
-  },
-  {
-    "title": "Catch Santa in my house with Capture The Magic",
-    "appId": "com.capturethemagicofsanta",
-    "url": "https://play.google.com/store/apps/details?id=com.capturethemagicofsanta",
-    "icon": "https://play-lh.googleusercontent.com/llMX2WalBqsG9kSbZF_N3vq3xWDghQKZ_a-nE0_2lfHUQjdswwmCK-JJRBrlOe0LQC8",
-    "developer": "Capture The Magic",
-    "developerId": "Capture+The+Magic",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Catch Santa Claus in my House on Christmas Eve; Santa Camera Photo Gift",
-    "scoreText": "4.8",
-    "score": 4.7870526
-  },
-  {
-    "title": "Easy Invoice Maker - Create Estimates & Invoices",
-    "appId": "com.invoice2go.invoice2goplus",
-    "url": "https://play.google.com/store/apps/details?id=com.invoice2go.invoice2goplus",
-    "icon": "https://play-lh.googleusercontent.com/uD2ifuXX84RJU6rP4FRNe5bmNNgTEXMe3M48Hj8-SQeuAvYYpeOPHBguiSUtIQ1nQqQ",
-    "developer": "Invoice2go",
-    "developerId": "Invoice2go",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Save money and time with Invoice 2go. Create invoices &amp; estimates in minutes.",
-    "scoreText": "4.5",
-    "score": 4.523445
-  },
-  {
-    "title": "Peachat - Live Video Chat & Meet New People",
-    "appId": "video.chat.peachat",
-    "url": "https://play.google.com/store/apps/details?id=video.chat.peachat",
-    "icon": "https://play-lh.googleusercontent.com/SCCOFbjHHhAJWI7XuRNivUKmBjJ6no-cTdd-QkYYCLJYyKrfjoqwGxqEsnsyTx7EI792",
-    "developer": "Peachat Video Chat Apps",
-    "developerId": "8718611887807763139",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "It is time to make friends &amp; live video chat with new people! 👫",
-    "scoreText": "4.2",
-    "score": 4.2150774
+    "score": 4.632835
   },
   {
     "title": "Chamet - Live Video Chat & Meet & Party Rooms",
@@ -1749,7 +1693,35 @@
     "free": true,
     "summary": "Video Call, Live Chat, Make Chat Borderless",
     "scoreText": "3.9",
-    "score": 3.9049108
+    "score": 3.9033523
+  },
+  {
+    "title": "Easy Invoice Maker - Create Estimates & Invoices",
+    "appId": "com.invoice2go.invoice2goplus",
+    "url": "https://play.google.com/store/apps/details?id=com.invoice2go.invoice2goplus",
+    "icon": "https://play-lh.googleusercontent.com/uD2ifuXX84RJU6rP4FRNe5bmNNgTEXMe3M48Hj8-SQeuAvYYpeOPHBguiSUtIQ1nQqQ",
+    "developer": "Invoice2go",
+    "developerId": "Invoice2go",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Save money and time with Invoice 2go. Create invoices &amp; estimates in minutes.",
+    "scoreText": "4.5",
+    "score": 4.5203056
+  },
+  {
+    "title": "Peachat - Live Video Chat & Meet New People",
+    "appId": "video.chat.peachat",
+    "url": "https://play.google.com/store/apps/details?id=video.chat.peachat",
+    "icon": "https://play-lh.googleusercontent.com/SCCOFbjHHhAJWI7XuRNivUKmBjJ6no-cTdd-QkYYCLJYyKrfjoqwGxqEsnsyTx7EI792",
+    "developer": "Peachat Video Chat Apps",
+    "developerId": "8718611887807763139",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "It is time to make friends &amp; live video chat with new people! 👫",
+    "scoreText": "4.2",
+    "score": 4.225383
   },
   {
     "title": "YouNow: Live Stream Video Chat - Go Live!",
@@ -1763,7 +1735,7 @@
     "free": true,
     "summary": "Watch &amp; create interactive live stream videos and chat with broadcasters &amp; fans!",
     "scoreText": "4.0",
-    "score": 4.0135717
+    "score": 4.0130086
   },
   {
     "title": "Medium",
@@ -1777,7 +1749,35 @@
     "free": true,
     "summary": "Where good ideas find you.",
     "scoreText": "4.6",
-    "score": 4.5643344
+    "score": 4.562677
+  },
+  {
+    "title": "Hinovel",
+    "appId": "com.aynovel.vixs",
+    "url": "https://play.google.com/store/apps/details?id=com.aynovel.vixs",
+    "icon": "https://play-lh.googleusercontent.com/xyQ_VH4uxkaGdOA09Af_HLGkUkqQyInJrWpXIBP8sCXi0MsQ5mh07-imGG9nHPanPCqx",
+    "developer": "Hinovel",
+    "developerId": "Hinovel",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Bountiful Love &amp; Fantasy Stories",
+    "scoreText": "3.9",
+    "score": 3.9140692
+  },
+  {
+    "title": "Surfshark VPN - Secure VPN for privacy & security",
+    "appId": "com.surfshark.vpnclient.android",
+    "url": "https://play.google.com/store/apps/details?id=com.surfshark.vpnclient.android",
+    "icon": "https://play-lh.googleusercontent.com/bvwQfO37O9SD2N4qdbW3wv9od7kDO8MJESK2IoWLdkn6dk-kPuwHwv7qLqAsoX6RJoM",
+    "developer": "Surfshark VPN : Secure VPN app",
+    "developerId": "4879852419758739181",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Stay private &amp; anonymous online. Best secure VPN to hide IP address &amp; location",
+    "scoreText": "4.0",
+    "score": 4.0273275
   },
   {
     "title": "MTV Play - on demand reality tv",
@@ -1794,18 +1794,18 @@
     "score": 3.67
   },
   {
-    "title": "FaceCast:Make New Friends - Meet & Chat Livestream",
-    "appId": "com.guochao.faceshow",
-    "url": "https://play.google.com/store/apps/details?id=com.guochao.faceshow",
-    "icon": "https://play-lh.googleusercontent.com/sBPNF38i_HdcIfbFqc7EE4xJhplkvQI54Nd7SKViqp7oYoXMyqw1LAsCh6bOc8O5XQ",
-    "developer": "VPB LIVE VIDEO STREAMING",
-    "developerId": "VPB+LIVE+VIDEO+STREAMING",
+    "title": "Messenger – Text and Video Chat for Free",
+    "appId": "com.facebook.orca",
+    "url": "https://play.google.com/store/apps/details?id=com.facebook.orca",
+    "icon": "https://play-lh.googleusercontent.com/ldcQMpP7OaVmglCF6kGas9cY_K0PsJzSSosx2saw9KF1m3RHaEXpH_9mwBWaYnkmctk",
+    "developer": "Facebook",
+    "developerId": "Facebook",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Date,Chat,Meet single people worldwide, livestream with like-minder people",
-    "scoreText": "4.1",
-    "score": 4.143728
+    "summary": "Free group video chat, video calls, voice calls and text messaging.",
+    "scoreText": "4.2",
+    "score": 4.2260165
   },
   {
     "title": "iCatched - Flirt & Dating App",
@@ -1819,35 +1819,7 @@
     "free": true,
     "summary": "Flirt &amp; Dating App for Singles! Find the right partner for you today!",
     "scoreText": "4.6",
-    "score": 4.578574
-  },
-  {
-    "title": "MasterClass: Learn from the best",
-    "appId": "com.yanka.mc",
-    "url": "https://play.google.com/store/apps/details?id=com.yanka.mc",
-    "icon": "https://play-lh.googleusercontent.com/f9VJeBoXbPy6liy6hID6qv-uKNQ5U4q55FHz3akcdgYSwMmB2GRQwM-5rW2XTQvDdQfN",
-    "developer": "MasterClass Inc.",
-    "developerId": "6938482136206700895",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Cook, write, perform, play, &amp; more",
-    "scoreText": "4.6",
-    "score": 4.6438546
-  },
-  {
-    "title": "Microsoft Excel: View, Edit, & Create Spreadsheets",
-    "appId": "com.microsoft.office.excel",
-    "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.excel",
-    "icon": "https://play-lh.googleusercontent.com/37EzETO6gZyKmCg2kBIFX1e9gkubxZrVa5fHJ6yOaa7VvEShHjKv2RdtwnZt9Sk258s",
-    "developer": "Microsoft Corporation",
-    "developerId": "6720847872553662727",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Create powerful spreadsheets. Easily edit documents and collaborate on the go.",
-    "scoreText": "4.4",
-    "score": 4.404197
+    "score": 4.5910516
   },
   {
     "title": "Find My Kids: Child Cell Phone Location Tracker",
@@ -1861,7 +1833,7 @@
     "free": true,
     "summary": "Child GPS location tracker. Kids location on the map online.",
     "scoreText": "4.6",
-    "score": 4.6122174
+    "score": 4.6126933
   },
   {
     "title": "Omega – Random Video Chat",
@@ -1875,21 +1847,21 @@
     "free": true,
     "summary": "Live Random video chat app. Talk to strangers.",
     "scoreText": "4.1",
-    "score": 4.1113596
+    "score": 4.110689
   },
   {
-    "title": "Blinkist - Nonfiction Books & Audio",
-    "appId": "com.blinkslabs.blinkist.android",
-    "url": "https://play.google.com/store/apps/details?id=com.blinkslabs.blinkist.android",
-    "icon": "https://play-lh.googleusercontent.com/I6jGTxeDATLQDkDcVogX18r0ol4--mRHQMu6_6r8ntuCOKJo-aKOXsZdJJy_IdVAphY",
-    "developer": "Blinks Labs GmbH",
-    "developerId": "7918090238771879535",
+    "title": "FaceCast:Make New Friends - Meet & Chat Livestream",
+    "appId": "com.guochao.faceshow",
+    "url": "https://play.google.com/store/apps/details?id=com.guochao.faceshow",
+    "icon": "https://play-lh.googleusercontent.com/sBPNF38i_HdcIfbFqc7EE4xJhplkvQI54Nd7SKViqp7oYoXMyqw1LAsCh6bOc8O5XQ",
+    "developer": "VPB LIVE VIDEO STREAMING",
+    "developerId": "VPB+LIVE+VIDEO+STREAMING",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Listen to book &amp; podcast insights &amp; full-length audiobooks, all in one app!",
-    "scoreText": "4.5",
-    "score": 4.539724
+    "summary": "Date,Chat,Meet single people worldwide, livestream with like-minder people",
+    "scoreText": "4.1",
+    "score": 4.1323743
   },
   {
     "title": "GoPro: Quik Video + Photo Editor",
@@ -1903,7 +1875,7 @@
     "free": true,
     "summary": "Make Quik edits with ease, control your GoPro and share your shots on the spot.",
     "scoreText": "4.6",
-    "score": 4.5775247
+    "score": 4.5779305
   },
   {
     "title": "Likeyboard",
@@ -1916,92 +1888,8 @@
     "price": 0,
     "free": true,
     "summary": "Colorful Keyboard&amp;Cool Fonts",
-    "scoreText": "3.5",
-    "score": 3.5219512
-  },
-  {
-    "title": "Life360: Family Locator & GPS Tracker for Safety",
-    "appId": "com.life360.android.safetymapd",
-    "url": "https://play.google.com/store/apps/details?id=com.life360.android.safetymapd",
-    "icon": "https://play-lh.googleusercontent.com/wyADnq1wH6_x5wO5ug2meYP7TIKmLBvA9jS1Ovf20Skqz7crSq59FIKP5oYaEj8KZg",
-    "developer": "Life360",
-    "developerId": "Life360",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Comprehensive family safety membership plans for busy, modern life.",
-    "scoreText": "4.4",
-    "score": 4.400511
-  },
-  {
-    "title": "StarMaker: Sing free Karaoke, Record music videos",
-    "appId": "com.starmakerinteractive.starmaker",
-    "url": "https://play.google.com/store/apps/details?id=com.starmakerinteractive.starmaker",
-    "icon": "https://play-lh.googleusercontent.com/93H1tf40Tq_4rn9waqWa6Wm2wx_YBMfPuOsxbzovvrahm3ndyk6hdUzBzetmWTulsw7e",
-    "developer": "StarMaker Interactive",
-    "developerId": "8580624130716533255",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Sing karaoke &amp; Record Music videos &amp; Sing to be a Supernova",
-    "scoreText": "4.6",
-    "score": 4.623395
-  },
-  {
-    "title": "Microsoft Office: Word, Excel, PowerPoint & More",
-    "appId": "com.microsoft.office.officehubrow",
-    "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow",
-    "icon": "https://play-lh.googleusercontent.com/D6XDCje7pB0nNP1sOZkwD-tXkV0_As3ni21us5yZ71_sy0FTWv1s_MQBe1JUnHlgE94",
-    "developer": "Microsoft Corporation",
-    "developerId": "6720847872553662727",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "One app for documents, spreadsheets, presentations, PDFs, &amp; more",
-    "scoreText": "4.4",
-    "score": 4.3640246
-  },
-  {
-    "title": "Likee - Let You Shine",
-    "appId": "video.like",
-    "url": "https://play.google.com/store/apps/details?id=video.like",
-    "icon": "https://play-lh.googleusercontent.com/7hAq25yPmjdVuPeEpC8DQnHGsgo-BuNXhRVlSt0IYOXpKj8puu0PCDFsZHlJWkdN8kU",
-    "developer": "BIGO TECHNOLOGY PTE. LTD.",
-    "developerId": "BIGO+TECHNOLOGY+PTE.+LTD.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Make fantastic videos, go live stream, gain fans and earn gifts on Likee.",
-    "scoreText": "4.3",
-    "score": 4.277985
-  },
-  {
-    "title": "Carista OBD2",
-    "appId": "com.prizmos.carista",
-    "url": "https://play.google.com/store/apps/details?id=com.prizmos.carista",
-    "icon": "https://play-lh.googleusercontent.com/OC-XMBMfkARbWuBxUs3-k1IwIeP7yKRc4bN0XDNRXOwUBfPUHTllokeyAN4cf8R_fo4",
-    "developer": "Prizmos Ltd.",
-    "developerId": "Prizmos+Ltd.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Diagnose, customize and service your car with dealer-level technology.",
-    "scoreText": "3.7",
-    "score": 3.7221136
-  },
-  {
-    "title": "Surfshark VPN - Secure VPN for privacy & security",
-    "appId": "com.surfshark.vpnclient.android",
-    "url": "https://play.google.com/store/apps/details?id=com.surfshark.vpnclient.android",
-    "icon": "https://play-lh.googleusercontent.com/bvwQfO37O9SD2N4qdbW3wv9od7kDO8MJESK2IoWLdkn6dk-kPuwHwv7qLqAsoX6RJoM",
-    "developer": "Surfshark VPN : Secure VPN app",
-    "developerId": "4879852419758739181",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Stay private &amp; anonymous online. Best secure VPN to hide IP address &amp; location",
-    "scoreText": "4.0",
-    "score": 4.0224404
+    "scoreText": "2.4",
+    "score": 2.398148
   },
   {
     "title": "NovelCat - Read fiction & Write your story",
@@ -2015,7 +1903,105 @@
     "free": true,
     "summary": "Millions of ebook resources including various novels",
     "scoreText": "4.4",
-    "score": 4.358797
+    "score": 4.3554716
+  },
+  {
+    "title": "Life360: Family Locator & GPS Tracker for Safety",
+    "appId": "com.life360.android.safetymapd",
+    "url": "https://play.google.com/store/apps/details?id=com.life360.android.safetymapd",
+    "icon": "https://play-lh.googleusercontent.com/wyADnq1wH6_x5wO5ug2meYP7TIKmLBvA9jS1Ovf20Skqz7crSq59FIKP5oYaEj8KZg",
+    "developer": "Life360",
+    "developerId": "Life360",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Comprehensive family safety membership plans for busy, modern life.",
+    "scoreText": "4.4",
+    "score": 4.4001675
+  },
+  {
+    "title": "StarMaker: Sing free Karaoke, Record music videos",
+    "appId": "com.starmakerinteractive.starmaker",
+    "url": "https://play.google.com/store/apps/details?id=com.starmakerinteractive.starmaker",
+    "icon": "https://play-lh.googleusercontent.com/93H1tf40Tq_4rn9waqWa6Wm2wx_YBMfPuOsxbzovvrahm3ndyk6hdUzBzetmWTulsw7e",
+    "developer": "StarMaker Interactive",
+    "developerId": "8580624130716533255",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Sing karaoke &amp; Record Music videos &amp; Sing to be a Supernova",
+    "scoreText": "4.6",
+    "score": 4.6244206
+  },
+  {
+    "title": "Microsoft Office: Word, Excel, PowerPoint & More",
+    "appId": "com.microsoft.office.officehubrow",
+    "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow",
+    "icon": "https://play-lh.googleusercontent.com/D6XDCje7pB0nNP1sOZkwD-tXkV0_As3ni21us5yZ71_sy0FTWv1s_MQBe1JUnHlgE94",
+    "developer": "Microsoft Corporation",
+    "developerId": "6720847872553662727",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "One app for documents, spreadsheets, presentations, PDFs, &amp; more",
+    "scoreText": "4.4",
+    "score": 4.3628845
+  },
+  {
+    "title": "Likee - Let You Shine",
+    "appId": "video.like",
+    "url": "https://play.google.com/store/apps/details?id=video.like",
+    "icon": "https://play-lh.googleusercontent.com/7hAq25yPmjdVuPeEpC8DQnHGsgo-BuNXhRVlSt0IYOXpKj8puu0PCDFsZHlJWkdN8kU",
+    "developer": "BIGO TECHNOLOGY PTE. LTD.",
+    "developerId": "BIGO+TECHNOLOGY+PTE.+LTD.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Make fantastic videos, go live stream, gain fans and earn gifts on Likee.",
+    "scoreText": "4.3",
+    "score": 4.2767363
+  },
+  {
+    "title": "WWE",
+    "appId": "com.wwe.universe",
+    "url": "https://play.google.com/store/apps/details?id=com.wwe.universe",
+    "icon": "https://play-lh.googleusercontent.com/b1GoSE4BoDrga0duPETas3XN22Z11HSh0xYHpWPH8z8VA-IZGlwp4ymr76GSX1p8CjAX",
+    "developer": "WWE, Inc.",
+    "developerId": "WWE,+Inc.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Every LIVE WWE pay-per-view and thousands of hours of video on demand",
+    "scoreText": "4.5",
+    "score": 4.5199685
+  },
+  {
+    "title": "Carista OBD2",
+    "appId": "com.prizmos.carista",
+    "url": "https://play.google.com/store/apps/details?id=com.prizmos.carista",
+    "icon": "https://play-lh.googleusercontent.com/OC-XMBMfkARbWuBxUs3-k1IwIeP7yKRc4bN0XDNRXOwUBfPUHTllokeyAN4cf8R_fo4",
+    "developer": "Prizmos Ltd.",
+    "developerId": "Prizmos+Ltd.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Diagnose, customize and service your car with dealer-level technology.",
+    "scoreText": "3.7",
+    "score": 3.711501
+  },
+  {
+    "title": "FitOn - Free Fitness Workouts & Personalized Plans",
+    "appId": "com.fiton.android",
+    "url": "https://play.google.com/store/apps/details?id=com.fiton.android",
+    "icon": "https://play-lh.googleusercontent.com/3F1LsBjZ2p-UjP2hwJa--jk_5gzHHezaQ8n381RI4u11DSb647zt07UVUNO4ZHVtdQ",
+    "developer": "FitOn",
+    "developerId": "9135627884013724161",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Stop paying to workout - Sweat and get fit with HIIT, barre, cardio, yoga &amp; more",
+    "scoreText": "4.8",
+    "score": 4.7613597
   },
   {
     "title": "CamScanner - Scanner to scan PDF",
@@ -2029,7 +2015,7 @@
     "free": true,
     "summary": "Scan paperwork into PDF/JPG, generate your own e-signature and send fax or email",
     "scoreText": "4.7",
-    "score": 4.6962347
+    "score": 4.696206
   },
   {
     "title": "Taimi - LGBTQ+ Dating, Chat and Social Network",
@@ -2043,7 +2029,7 @@
     "free": true,
     "summary": "Gay, Lesbian, Bisexual &amp; Transgender community. Meet queer people, find friends.",
     "scoreText": "4.3",
-    "score": 4.307624
+    "score": 4.3088017
   },
   {
     "title": "GuruShots - Photography Game",
@@ -2057,7 +2043,7 @@
     "free": true,
     "summary": "Join the world’s #1 Photo Game. Have fun &amp; improve your skills. It&#39;s free!",
     "scoreText": "4.0",
-    "score": 4.007656
+    "score": 4.00815
   },
   {
     "title": "OfficeSuite - Office, PDF, Word, Excel, PowerPoint",
@@ -2071,7 +2057,7 @@
     "free": true,
     "summary": "ANDROID&#39;S TOP MOBILE OFFICE - Word, Excel, PowerPoint and PDF at your fingertips",
     "scoreText": "4.2",
-    "score": 4.1691513
+    "score": 4.1695504
   },
   {
     "title": "TuneIn Radio: Live News, Sports & Music Stations",
@@ -2085,7 +2071,49 @@
     "free": true,
     "summary": "Listen to live sports, breaking news, free music on local AM FM radio &amp; podcasts",
     "scoreText": "4.5",
-    "score": 4.501051
+    "score": 4.50108
+  },
+  {
+    "title": "Carly — OBD2 car scanner",
+    "appId": "com.iViNi.bmwhatLite",
+    "url": "https://play.google.com/store/apps/details?id=com.iViNi.bmwhatLite",
+    "icon": "https://play-lh.googleusercontent.com/G8oQqBQ4uTQvqCrEwe8XnZlygBKGgljJPysAiOb91E_POXS2BlIMAedonuF-uasjGFQ",
+    "developer": "Carly Solutions GmbH & Co KG",
+    "developerId": "7704144261174809075",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "OBD2 scanner — diagnostics, coding, maintenance for Audi, BMW, Mercedes, VW ...",
+    "scoreText": "4.3",
+    "score": 4.326969
+  },
+  {
+    "title": "Microsoft Excel: View, Edit, & Create Spreadsheets",
+    "appId": "com.microsoft.office.excel",
+    "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.excel",
+    "icon": "https://play-lh.googleusercontent.com/37EzETO6gZyKmCg2kBIFX1e9gkubxZrVa5fHJ6yOaa7VvEShHjKv2RdtwnZt9Sk258s",
+    "developer": "Microsoft Corporation",
+    "developerId": "6720847872553662727",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Create powerful spreadsheets. Easily edit documents and collaborate on the go.",
+    "scoreText": "4.4",
+    "score": 4.4041905
+  },
+  {
+    "title": "TuneIn Radio: Live News, Sports & Music Stations",
+    "appId": "tunein.player",
+    "url": "https://play.google.com/store/apps/details?id=tunein.player",
+    "icon": "https://play-lh.googleusercontent.com/KLI43egHmMQhCvDTH-EDWDdtxxPODJk6YO56Fa5cmmiYRd5LfBAXrVZmHcRCQ5j9_rZD",
+    "developer": "TuneIn Inc",
+    "developerId": "5756372639482561977",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Listen to live sports, breaking news, free music on local AM FM radio &amp; podcasts",
+    "scoreText": "4.5",
+    "score": 4.50108
   },
   {
     "title": "Carly — OBD2 car scanner",
@@ -2113,35 +2141,7 @@
     "free": true,
     "summary": "Home &amp; gym workout planner",
     "scoreText": "3.9",
-    "score": 3.8890479
-  },
-  {
-    "title": "Hinovel",
-    "appId": "com.aynovel.vixs",
-    "url": "https://play.google.com/store/apps/details?id=com.aynovel.vixs",
-    "icon": "https://play-lh.googleusercontent.com/xyQ_VH4uxkaGdOA09Af_HLGkUkqQyInJrWpXIBP8sCXi0MsQ5mh07-imGG9nHPanPCqx",
-    "developer": "Hinovel",
-    "developerId": "Hinovel",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Bountiful Love &amp; Fantasy Stories",
-    "scoreText": "3.9",
-    "score": 3.9261715
-  },
-  {
-    "title": "Messenger – Text and Video Chat for Free",
-    "appId": "com.facebook.orca",
-    "url": "https://play.google.com/store/apps/details?id=com.facebook.orca",
-    "icon": "https://play-lh.googleusercontent.com/ldcQMpP7OaVmglCF6kGas9cY_K0PsJzSSosx2saw9KF1m3RHaEXpH_9mwBWaYnkmctk",
-    "developer": "Facebook",
-    "developerId": "Facebook",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Free group video chat, video calls, voice calls and text messaging.",
-    "scoreText": "4.2",
-    "score": 4.226169
+    "score": 3.8865685
   },
   {
     "title": "Sleep Booster - Sleep Better",
@@ -2155,7 +2155,7 @@
     "free": true,
     "summary": "Meditation, Snore &amp; Voice tracking, Smart alarm",
     "scoreText": "3.0",
-    "score": 3.0202703
+    "score": 3.0209732
   },
   {
     "title": "Video Editor & Video Maker - InShot",
@@ -2169,7 +2169,7 @@
     "free": true,
     "summary": "Pro Video Editor🎥 with Music🎶, Transitions, Slideshow, Emoji😆, Meme...",
     "scoreText": "4.8",
-    "score": 4.789152
+    "score": 4.7891717
   },
   {
     "title": "Wim Hof Method -Making you strong, healthy & happy",
@@ -2183,7 +2183,7 @@
     "free": true,
     "summary": "Learn the power of breath and cold with the official Wim Hof Method app",
     "scoreText": "3.4",
-    "score": 3.3766778
+    "score": 3.4334471
   },
   {
     "title": "Uplive - Live Video Streaming App",
@@ -2197,7 +2197,7 @@
     "free": true,
     "summary": "Uplive is one of the top video social apps, hold in-house party online here",
     "scoreText": "4.1",
-    "score": 4.0772834
+    "score": 4.0803533
   },
   {
     "title": "flowkey: Learn piano",
@@ -2211,7 +2211,7 @@
     "free": true,
     "summary": "Learn to play the piano or keyboard with the songs you love &amp; become a piano pro",
     "scoreText": "4.2",
-    "score": 4.184893
+    "score": 4.184063
   },
   {
     "title": "Sleep Cycle: Sleep analysis & Smart alarm clock",
@@ -2225,7 +2225,7 @@
     "free": true,
     "summary": "Want to sleep better? Let Sleep Cycle coach you.",
     "scoreText": "4.4",
-    "score": 4.421929
+    "score": 4.421764
   },
   {
     "title": "AVG Secure VPN – Unlimited VPN & Proxy server",
@@ -2239,343 +2239,7 @@
     "free": true,
     "summary": "Get total internet security protection and privacy with our simple VPN app.",
     "scoreText": "4.3",
-    "score": 4.3308825
-  },
-  {
-    "title": "SeekingArrangement",
-    "appId": "com.infostream.seekingarrangement",
-    "url": "https://play.google.com/store/apps/details?id=com.infostream.seekingarrangement",
-    "icon": "https://play-lh.googleusercontent.com/3wj7INVN5_2fUUr__yJxgjuH4Jc5yjYadefgBEJFSnOdMfjXvnNeE-TKBduer_jU9JQ",
-    "developer": "W8 Tech Limited",
-    "developerId": "W8+Tech+Limited",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "The #1 dating app for millionaires, successful, beautiful and attractive people",
-    "scoreText": "3.9",
-    "score": 3.8544984
-  },
-  {
-    "title": "Mobile Security: VPN Proxy & Anti Theft Safe WiFi",
-    "appId": "com.wsandroid.suite",
-    "url": "https://play.google.com/store/apps/details?id=com.wsandroid.suite",
-    "icon": "https://play-lh.googleusercontent.com/ZZQ__pYKHdkGBHZFGcQcK71vq5f_kDf3FoJasTz32XBbV8jha7G2q7JrN2A3qUf6GA",
-    "developer": "McAfee LLC",
-    "developerId": "McAfee+LLC",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "The Ultimate Mobile Security Service! Wifi Scanner, Secure VPN, and Privacy App",
-    "scoreText": "4.5",
-    "score": 4.528733
-  },
-  {
-    "title": "SpareRoom UK — Flatmate, Room & Property Finder",
-    "appId": "com.spareroom.spareroomuk",
-    "url": "https://play.google.com/store/apps/details?id=com.spareroom.spareroomuk",
-    "icon": "https://play-lh.googleusercontent.com/ZyAjHeIgiSVOc3icuHyrTvmbf_QNMnmAJfSfY9tI6yWxPBPOCEDeh-EIhsnxwoyGuw",
-    "developer": "SpareRoom",
-    "developerId": "6223728622950716820",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Search for flatmates &amp; rooms to rent on UK&#39;s most popular flatsharing service",
-    "scoreText": "4.6",
-    "score": 4.606627
-  },
-  {
-    "title": "Replika: My AI Friend",
-    "appId": "ai.replika.app",
-    "url": "https://play.google.com/store/apps/details?id=ai.replika.app",
-    "icon": "https://play-lh.googleusercontent.com/KZgaIyRIeChm2DFZI5Bv_5nImsR89rvKFPl771UYIWOIQ8z9cBCuvF7o-CKQt3Epxvs",
-    "developer": "Luka, Inc",
-    "developerId": "Luka,+Inc",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Create your personal AI companion and talk about anything that&#39;s on your mind",
-    "scoreText": "4.1",
-    "score": 4.0611014
-  },
-  {
-    "title": "MICO: Make Friends, Live Chat and Go Live Stream",
-    "appId": "com.mico",
-    "url": "https://play.google.com/store/apps/details?id=com.mico",
-    "icon": "https://play-lh.googleusercontent.com/fV7FdolAk5cEXx1p7tRIq7IsC77EtjwoQ1KyKLA15MWiet_lLUxLM6-inWlOK2tV9B-d",
-    "developer": "MICO WORLD",
-    "developerId": "8945700516389597914",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Live streaming worldwide, find your cool new friends,  and meet me in MICO!",
-    "scoreText": "4.5",
-    "score": 4.4966903
-  },
-  {
-    "title": "Learn 33 Languages Free - Mondly",
-    "appId": "com.atistudios.mondly.languages",
-    "url": "https://play.google.com/store/apps/details?id=com.atistudios.mondly.languages",
-    "icon": "https://play-lh.googleusercontent.com/X2W_U_DhjG0hLUz_CZ2QkJhdJ5kh0MA5zAPpChNNEToEE9pFAdTUEbMJL9EZZj8kAkmg",
-    "developer": "ATi Studios",
-    "developerId": "5914992223521470781",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Learn Spanish, French, German, Italian, English and 28 more languages for Free.",
-    "scoreText": "4.6",
-    "score": 4.589638
-  },
-  {
-    "title": "Catch Santa In My House!",
-    "appId": "com.mobiledevelopment.lazarpesic.capturethemagic",
-    "url": "https://play.google.com/store/apps/details?id=com.mobiledevelopment.lazarpesic.capturethemagic",
-    "icon": "https://play-lh.googleusercontent.com/lmigMfuIE4X3O9c7Zbuvn2JKSiswAnZPpUN299QicFhjJeHhGRZ7kvVDdvbGrzp8fg",
-    "developer": "Capture The Magic",
-    "developerId": "Capture+The+Magic",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Impress your kids by showing them a picture of SANTA IN YOUR HOUSE!",
-    "scoreText": "4.8",
-    "score": 4.7626505
-  },
-  {
-    "title": "OkCupid - The Online Dating App for Great Dates",
-    "appId": "com.okcupid.okcupid",
-    "url": "https://play.google.com/store/apps/details?id=com.okcupid.okcupid",
-    "icon": "https://play-lh.googleusercontent.com/zdy6PIoCcUg-HxF6VzDnnuYy0jRHvnz0UPBvp4f6_YBrR_mBwFtHO19jV_JVIMLrihQ",
-    "developer": "okcupid.com",
-    "developerId": "5985505151266094438",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Find your person on OkCupid! Meet singles virtually for local and online dating.",
-    "scoreText": "3.8",
-    "score": 3.8285432
-  },
-  {
-    "title": "GALATEA - Immersive Love, Scary & Chat Stories",
-    "appId": "com.colt",
-    "url": "https://play.google.com/store/apps/details?id=com.colt",
-    "icon": "https://play-lh.googleusercontent.com/w1y59y6lC56nYp9etXzOIKUcU7rVDwkJ-b8pbdDuTArbD_dBPvrvLYzqrZ99mnlzpG5Q",
-    "developer": "Free Novels Inc",
-    "developerId": "5822213096021717078",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Get addicted to original Romance, Billionaire, Werewolf and Thriller Stories!",
-    "scoreText": "4.2",
-    "score": 4.22379
-  },
-  {
-    "title": "Topps® WWE SLAM: Card Trader",
-    "appId": "com.topps.slam",
-    "url": "https://play.google.com/store/apps/details?id=com.topps.slam",
-    "icon": "https://play-lh.googleusercontent.com/uW743zl8NMrIEBYOo1Ca6nAbX5Nr2JE0V7vn91LhW3ZC3lDMv7bB4aHGPx9vRa1YqwM",
-    "developer": "The Topps Company, Inc.",
-    "developerId": "7474025739963323294",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Collect &amp; trade TOPPS WWE digital collectible cards with fans around the world!",
-    "scoreText": "4.1",
-    "score": 4.1007195
-  },
-  {
-    "title": "SKOUT - Meet, Chat, Go Live",
-    "appId": "com.skout.android",
-    "url": "https://play.google.com/store/apps/details?id=com.skout.android",
-    "icon": "https://play-lh.googleusercontent.com/j0kf7e-R8JVxwoh3nSzxGRTjaHd4GrtecgLGgKhQTkfBTA5xtGH4qnSjs6K0EYuk8G8S",
-    "developer": "Skout Inc.",
-    "developerId": "8993195399885453984",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Meet New People, Chat, and Find Friends on SKOUT",
-    "scoreText": "4.1",
-    "score": 4.1276913
-  },
-  {
-    "title": "Fantastic Face – Aging Prediction, Face - gender",
-    "appId": "com.hy.sfacer",
-    "url": "https://play.google.com/store/apps/details?id=com.hy.sfacer",
-    "icon": "https://play-lh.googleusercontent.com/szQDGsmxiQfs9JwqEVdunCHXK0_TN3qRNpNHtZSW2KbscfVv9jeUnMg04X61YvWSjHrF",
-    "developer": "VIPTOP DATA LIMITED",
-    "developerId": "VIPTOP+DATA+LIMITED",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "🔥🔥🔥The most popular app in face scanning area! Know more about yourself!",
-    "scoreText": "3.9",
-    "score": 3.910555
-  },
-  {
-    "title": "Emma - Budget Planner Tracker & Money Manager",
-    "appId": "com.emmaprod",
-    "url": "https://play.google.com/store/apps/details?id=com.emmaprod",
-    "icon": "https://play-lh.googleusercontent.com/JQtksInRQTJJcky09jZawYbYW6rRbU4NS0y5kmvloNBGp4xJZRqW21xsFgE6LVvy2iQ",
-    "developer": "Emma Technologies LTD.",
-    "developerId": "Emma+Technologies+LTD.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "The best budgeting app. Plan spending &amp; track subscriptions. Save money.",
-    "scoreText": "4.2",
-    "score": 4.2134504
-  },
-  {
-    "title": "ZEDGE™ Wallpapers & Ringtones",
-    "appId": "net.zedge.android",
-    "url": "https://play.google.com/store/apps/details?id=net.zedge.android",
-    "icon": "https://play-lh.googleusercontent.com/zlOWpiMv3SX2Jca0eNNNgGKnAjXOzevrI95BO8HDq5NX_bimaoQTRS_bQOwT8Um6EUI",
-    "developer": "Zedge",
-    "developerId": "Zedge",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Millions of free background wallpapers, ringtones, alarm &amp; notification sounds",
-    "scoreText": "4.5",
-    "score": 4.4654927
-  },
-  {
-    "title": "FITE - Boxing, Wrestling, MMA & More",
-    "appId": "com.flipps.fitetv",
-    "url": "https://play.google.com/store/apps/details?id=com.flipps.fitetv",
-    "icon": "https://play-lh.googleusercontent.com/pFhIuoKWdp-0CRt_vNtYI6PT-V0YJ3eWsSARY3Z0h8H8eMGrdO246GCwYYobZ-Zn6Zs",
-    "developer": "Flipps Media Inc.",
-    "developerId": "8920797348503464233",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Check out our PPV Schedule and Start Streaming--More than 1,000 Events a Year!",
-    "scoreText": "4.2",
-    "score": 4.150966
-  },
-  {
-    "title": "BetterMe: Home Workouts & Diet",
-    "appId": "com.gen.workoutme",
-    "url": "https://play.google.com/store/apps/details?id=com.gen.workoutme",
-    "icon": "https://play-lh.googleusercontent.com/MuplBGathU-J8MEhSbiK75DPwY-wEsYOjcl2ZMNq8aQJGQL_-DWu9MNdi-AJEQDaDzVb",
-    "developer": "BetterMe Limited",
-    "developerId": "BetterMe+Limited",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Weight Loss Workout: Abs, Butt, Legs and Whole 30 Diet: Keto, Vegetarian Fasting",
-    "scoreText": "3.7",
-    "score": 3.6790712
-  },
-  {
-    "title": "Financial Times",
-    "appId": "com.ft.news",
-    "url": "https://play.google.com/store/apps/details?id=com.ft.news",
-    "icon": "https://play-lh.googleusercontent.com/QZwQshUIUQQgI9E7bC7bWPdoMViEcrQld2a9-9S8nvyrBW0Szt-G_x7pU4dJpvb0Dm8",
-    "developer": "The Financial Times Limited",
-    "developerId": "The+Financial+Times+Limited",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "See the full perspective on world events with the Financial Times app",
-    "scoreText": "4.5",
-    "score": 4.503692
-  },
-  {
-    "title": "Evernote - Notes Organizer & Daily Planner",
-    "appId": "com.evernote",
-    "url": "https://play.google.com/store/apps/details?id=com.evernote",
-    "icon": "https://play-lh.googleusercontent.com/QJObxznpklAxDNp0OVe3kAP5ZfUouIvRDO0kPj-V3MRjoRYKwj9RVTxOwG9yrlY-bgG3",
-    "developer": "Evernote Corporation",
-    "developerId": "Evernote+Corporation",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Note pad, planner &amp; daily organizer to take notes, save ideas and share memos.",
-    "scoreText": "4.1",
-    "score": 4.1331005
-  },
-  {
-    "title": "Fancy Slime",
-    "appId": "com.playland.fancyslime",
-    "url": "https://play.google.com/store/apps/details?id=com.playland.fancyslime",
-    "icon": "https://play-lh.googleusercontent.com/NINBkNM7Y4YTQ3dC31CV45f7w4Dy-A5qsJwAn79APHrqGFVwHi6MOm6efWk3j2KK-Tc",
-    "developer": "Kiki Fun Games",
-    "developerId": "Kiki+Fun+Games",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Fancy Slime is a realistic slime simulator with lots of satisfying slimes!",
-    "scoreText": "1.5",
-    "score": 1.4934858
-  },
-  {
-    "title": "Pokémon HOME",
-    "appId": "jp.pokemon.pokemonhome",
-    "url": "https://play.google.com/store/apps/details?id=jp.pokemon.pokemonhome",
-    "icon": "https://play-lh.googleusercontent.com/mEQTKXkEJ7QwSCmec-cIe9b-GlAMCsG9efBAQV6yUDN6DZVtEuM25A4zfMi47KDUej8",
-    "developer": "The Pokemon Company",
-    "developerId": "The+Pokemon+Company",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Pokémon HOME is a cloud-based service.",
-    "scoreText": "4.2",
-    "score": 4.1751924
-  },
-  {
-    "title": "AVG Cleaner – Junk Cleaner, Memory & RAM Booster",
-    "appId": "com.avg.cleaner",
-    "url": "https://play.google.com/store/apps/details?id=com.avg.cleaner",
-    "icon": "https://play-lh.googleusercontent.com/5nOrdXAlyHKsELWqf5HnqpE_SJEA6cBXe05HvogDMGA_IogO1kMf_zmZQVqSkoc5aVbO",
-    "developer": "AVG Mobile",
-    "developerId": "9097425538418209452",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Free up space and speed up your phone with the best cleaner app for Android.",
-    "scoreText": "4.6",
-    "score": 4.6401334
-  },
-  {
-    "title": "EliteSingles: Dating App for singles over 30",
-    "appId": "de.affinitas.za.co.elitesingles.and",
-    "url": "https://play.google.com/store/apps/details?id=de.affinitas.za.co.elitesingles.and",
-    "icon": "https://play-lh.googleusercontent.com/JMUOeOHD6nuI9S8D0Pu57vXf9yE9L2P1IM5t3zJIzGoYfMcQvOWbHCR22S58iWOpbncR",
-    "developer": "Spark Networks Services GmbH",
-    "developerId": "4813727084772339873",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Take a personality test that will match you with the most Elite Singles!",
-    "scoreText": "2.3",
-    "score": 2.316395
-  },
-  {
-    "title": "Golf GPS Rangefinder: Golf Pad",
-    "appId": "com.contorra.golfpad",
-    "url": "https://play.google.com/store/apps/details?id=com.contorra.golfpad",
-    "icon": "https://play-lh.googleusercontent.com/XHBg5Kp2ZxLJAmMEZ9Nl-wC9HNj3F3asMDSmHGOMz2CYBZq36z0zXYyQ1JTQnpDoFA",
-    "developer": "Golf Pad GPS",
-    "developerId": "Golf+Pad+GPS",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Free, top rated golf GPS rangefinder, shot tracker &amp; scorecard. 40,000+ courses",
-    "scoreText": "4.6",
-    "score": 4.608515
-  },
-  {
-    "title": "Turbo VPN- Free VPN Proxy Server & Secure Service",
-    "appId": "free.vpn.unblock.proxy.turbovpn",
-    "url": "https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.turbovpn",
-    "icon": "https://play-lh.googleusercontent.com/G7AkY7FY1XZQU8Xp_h5OGGovDxySJ2tLSlPxNRfl9E3lKDzyqY-2QYByz3CHovWRcg",
-    "developer": "Innovative Connecting",
-    "developerId": "Innovative+Connecting",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Unlimited free VPN Turbo to unblock sites, secure WiFi hotspot, protect privacy",
-    "scoreText": "4.5",
-    "score": 4.5314555
+    "score": 4.328193
   },
   {
     "title": "Keepsafe Photo Vault: Hide Private Photos & Videos",
@@ -2589,91 +2253,301 @@
     "free": true,
     "summary": "The Best Photo Vault on Android. Lock your private photos and videos for free.",
     "scoreText": "4.4",
-    "score": 4.3731647
+    "score": 4.373503
   },
   {
-    "title": "Peloton - at home fitness",
-    "appId": "com.onepeloton.callisto",
-    "url": "https://play.google.com/store/apps/details?id=com.onepeloton.callisto",
-    "icon": "https://play-lh.googleusercontent.com/wNmoGX3LqZUzZeCtvTm3jSAcwrvt9wRnjo5CYydSkiQOBf5IDNB8ndBkpRLVU6xpggX3",
-    "developer": "Peloton Interactive, Inc",
-    "developerId": "Peloton+Interactive,+Inc",
+    "title": "SpareRoom UK — Flatmate, Room & Property Finder",
+    "appId": "com.spareroom.spareroomuk",
+    "url": "https://play.google.com/store/apps/details?id=com.spareroom.spareroomuk",
+    "icon": "https://play-lh.googleusercontent.com/ZyAjHeIgiSVOc3icuHyrTvmbf_QNMnmAJfSfY9tI6yWxPBPOCEDeh-EIhsnxwoyGuw",
+    "developer": "SpareRoom",
+    "developerId": "6223728622950716820",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Guided meditation, cycling, yoga, running, strength, HIIT &amp; stretching workouts",
-    "scoreText": "4.0",
-    "score": 4.0261865
-  },
-  {
-    "title": "Lensa: Photo Editor for Perfect Pictures",
-    "appId": "com.lensa.app",
-    "url": "https://play.google.com/store/apps/details?id=com.lensa.app",
-    "icon": "https://play-lh.googleusercontent.com/nIELLpuiHVhQyZWTWApLpcf7FkujKtMBq7ATgyIDNGkdO_3NuheZc1pc2mgPmYLTb9I",
-    "developer": "Prisma Labs, Inc.",
-    "developerId": "5868342254102788529",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Top photo editor app. Retouch photos, add filters for pictures and more",
+    "summary": "Search for flatmates &amp; rooms to rent on UK&#39;s most popular flatsharing service",
     "scoreText": "4.6",
-    "score": 4.6193337
+    "score": 4.608291
   },
   {
-    "title": "FitCoach: Personalized Fitness",
-    "appId": "net.workout.lose.weight.fitness.fit.coach",
-    "url": "https://play.google.com/store/apps/details?id=net.workout.lose.weight.fitness.fit.coach",
-    "icon": "https://play-lh.googleusercontent.com/8XD9QezvIkKX6qvoIsZhGGltrh8R10EKw05HD2Jh_NMbjuuCZOcPY8hIGX-DfGp8KaPK",
-    "developer": "Mobilious Limited",
-    "developerId": "Mobilious+Limited",
+    "title": "Replika: My AI Friend",
+    "appId": "ai.replika.app",
+    "url": "https://play.google.com/store/apps/details?id=ai.replika.app",
+    "icon": "https://play-lh.googleusercontent.com/KZgaIyRIeChm2DFZI5Bv_5nImsR89rvKFPl771UYIWOIQ8z9cBCuvF7o-CKQt3Epxvs",
+    "developer": "Luka, Inc",
+    "developerId": "Luka,+Inc",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Weight Loss: At-Home Workouts",
-    "scoreText": "3.6",
-    "score": 3.6456225
-  },
-  {
-    "title": "Disney Collect! by Topps Card Trader",
-    "appId": "com.topps.disney",
-    "url": "https://play.google.com/store/apps/details?id=com.topps.disney",
-    "icon": "https://play-lh.googleusercontent.com/f_-PZW4WzYo_n3Ysin5FWh7Wcs9_EkC998DUXKYEmUfMxm_sYYm-F4RZHc63OZdZ8g",
-    "developer": "The Topps Company, Inc.",
-    "developerId": "7474025739963323294",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Discover a new world of collecting &amp; trading Topps Disney digital collectibles!",
+    "summary": "Create your personal AI companion and talk about anything that&#39;s on your mind",
     "scoreText": "4.1",
-    "score": 4.0911527
+    "score": 4.0595903
   },
   {
-    "title": "Viber Messenger - Free Video Calls & Group Chats",
-    "appId": "com.viber.voip",
-    "url": "https://play.google.com/store/apps/details?id=com.viber.voip",
-    "icon": "https://play-lh.googleusercontent.com/U6w6exKdvzjRC6ypN68s6nvn8OBlNgDOf5ub9xcqvZPAkXXVW153t9KMeD8yeAVlTxw",
-    "developer": "Viber Media S.à r.l.",
-    "developerId": "7446565317689230946",
+    "title": "GALATEA - Immersive Love, Scary & Chat Stories",
+    "appId": "com.colt",
+    "url": "https://play.google.com/store/apps/details?id=com.colt",
+    "icon": "https://play-lh.googleusercontent.com/w1y59y6lC56nYp9etXzOIKUcU7rVDwkJ-b8pbdDuTArbD_dBPvrvLYzqrZ99mnlzpG5Q",
+    "developer": "Free Novels Inc",
+    "developerId": "5822213096021717078",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Enjoy the video, calling &amp; texting messenger. Free messaging around the world!",
-    "scoreText": "4.4",
-    "score": 4.363678
+    "summary": "Get addicted to original Romance, Billionaire, Werewolf and Thriller Stories!",
+    "scoreText": "4.2",
+    "score": 4.2236543
   },
   {
-    "title": "PictureThis: Identify Plant, Flower, Weed and More",
-    "appId": "cn.danatech.xingseus",
-    "url": "https://play.google.com/store/apps/details?id=cn.danatech.xingseus",
-    "icon": "https://play-lh.googleusercontent.com/2dcJOJptNfz3oVeNtHqC-SyKJ-lWDafOzLlUTgOGCpl7KarBjDxnIckL20PStVmYFg",
-    "developer": "Glority LLC",
-    "developerId": "Glority+LLC",
+    "title": "MICO: Make Friends, Live Chat and Go Live Stream",
+    "appId": "com.mico",
+    "url": "https://play.google.com/store/apps/details?id=com.mico",
+    "icon": "https://play-lh.googleusercontent.com/fV7FdolAk5cEXx1p7tRIq7IsC77EtjwoQ1KyKLA15MWiet_lLUxLM6-inWlOK2tV9B-d",
+    "developer": "MICO WORLD",
+    "developerId": "8945700516389597914",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Identify plants, flowers, weeds, trees; interesting details and free snap now",
+    "summary": "Live streaming worldwide, find your cool new friends,  and meet me in MICO!",
+    "scoreText": "4.5",
+    "score": 4.4963336
+  },
+  {
+    "title": "Learn 33 Languages Free - Mondly",
+    "appId": "com.atistudios.mondly.languages",
+    "url": "https://play.google.com/store/apps/details?id=com.atistudios.mondly.languages",
+    "icon": "https://play-lh.googleusercontent.com/X2W_U_DhjG0hLUz_CZ2QkJhdJ5kh0MA5zAPpChNNEToEE9pFAdTUEbMJL9EZZj8kAkmg",
+    "developer": "ATi Studios",
+    "developerId": "5914992223521470781",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Learn Spanish, French, German, Italian, English and 28 more languages for Free.",
     "scoreText": "4.6",
-    "score": 4.5592318
+    "score": 4.5877414
+  },
+  {
+    "title": "Mobile Security: VPN Proxy & Anti Theft Safe WiFi",
+    "appId": "com.wsandroid.suite",
+    "url": "https://play.google.com/store/apps/details?id=com.wsandroid.suite",
+    "icon": "https://play-lh.googleusercontent.com/ZZQ__pYKHdkGBHZFGcQcK71vq5f_kDf3FoJasTz32XBbV8jha7G2q7JrN2A3qUf6GA",
+    "developer": "McAfee LLC",
+    "developerId": "McAfee+LLC",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "The Ultimate Mobile Security Service! Wifi Scanner, Secure VPN, and Privacy App",
+    "scoreText": "4.5",
+    "score": 4.5285788
+  },
+  {
+    "title": "Catch Santa In My House!",
+    "appId": "com.mobiledevelopment.lazarpesic.capturethemagic",
+    "url": "https://play.google.com/store/apps/details?id=com.mobiledevelopment.lazarpesic.capturethemagic",
+    "icon": "https://play-lh.googleusercontent.com/lmigMfuIE4X3O9c7Zbuvn2JKSiswAnZPpUN299QicFhjJeHhGRZ7kvVDdvbGrzp8fg",
+    "developer": "Capture The Magic",
+    "developerId": "Capture+The+Magic",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Impress your kids by showing them a picture of SANTA IN YOUR HOUSE!",
+    "scoreText": "4.8",
+    "score": 4.7587037
+  },
+  {
+    "title": "OkCupid - The Online Dating App for Great Dates",
+    "appId": "com.okcupid.okcupid",
+    "url": "https://play.google.com/store/apps/details?id=com.okcupid.okcupid",
+    "icon": "https://play-lh.googleusercontent.com/zdy6PIoCcUg-HxF6VzDnnuYy0jRHvnz0UPBvp4f6_YBrR_mBwFtHO19jV_JVIMLrihQ",
+    "developer": "okcupid.com",
+    "developerId": "5985505151266094438",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Find your person on OkCupid! Meet singles virtually for local and online dating.",
+    "scoreText": "3.8",
+    "score": 3.8287323
+  },
+  {
+    "title": "SKOUT - Meet, Chat, Go Live",
+    "appId": "com.skout.android",
+    "url": "https://play.google.com/store/apps/details?id=com.skout.android",
+    "icon": "https://play-lh.googleusercontent.com/j0kf7e-R8JVxwoh3nSzxGRTjaHd4GrtecgLGgKhQTkfBTA5xtGH4qnSjs6K0EYuk8G8S",
+    "developer": "Skout Inc.",
+    "developerId": "8993195399885453984",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Meet New People, Chat, and Find Friends on SKOUT",
+    "scoreText": "4.1",
+    "score": 4.126968
+  },
+  {
+    "title": "Fantastic Face – Aging Prediction, Face - gender",
+    "appId": "com.hy.sfacer",
+    "url": "https://play.google.com/store/apps/details?id=com.hy.sfacer",
+    "icon": "https://play-lh.googleusercontent.com/szQDGsmxiQfs9JwqEVdunCHXK0_TN3qRNpNHtZSW2KbscfVv9jeUnMg04X61YvWSjHrF",
+    "developer": "VIPTOP DATA LIMITED",
+    "developerId": "VIPTOP+DATA+LIMITED",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "🔥🔥🔥The most popular app in face scanning area! Know more about yourself!",
+    "scoreText": "3.9",
+    "score": 3.9099624
+  },
+  {
+    "title": "Emma - Budget Planner Tracker & Money Manager",
+    "appId": "com.emmaprod",
+    "url": "https://play.google.com/store/apps/details?id=com.emmaprod",
+    "icon": "https://play-lh.googleusercontent.com/JQtksInRQTJJcky09jZawYbYW6rRbU4NS0y5kmvloNBGp4xJZRqW21xsFgE6LVvy2iQ",
+    "developer": "Emma Technologies LTD.",
+    "developerId": "Emma+Technologies+LTD.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "The best budgeting app. Plan spending &amp; track subscriptions. Save money.",
+    "scoreText": "4.2",
+    "score": 4.2076025
+  },
+  {
+    "title": "ZEDGE™ Wallpapers & Ringtones",
+    "appId": "net.zedge.android",
+    "url": "https://play.google.com/store/apps/details?id=net.zedge.android",
+    "icon": "https://play-lh.googleusercontent.com/zlOWpiMv3SX2Jca0eNNNgGKnAjXOzevrI95BO8HDq5NX_bimaoQTRS_bQOwT8Um6EUI",
+    "developer": "Zedge",
+    "developerId": "Zedge",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Millions of free background wallpapers, ringtones, alarm &amp; notification sounds",
+    "scoreText": "4.5",
+    "score": 4.4654803
+  },
+  {
+    "title": "FITE - Boxing, Wrestling, MMA & More",
+    "appId": "com.flipps.fitetv",
+    "url": "https://play.google.com/store/apps/details?id=com.flipps.fitetv",
+    "icon": "https://play-lh.googleusercontent.com/pFhIuoKWdp-0CRt_vNtYI6PT-V0YJ3eWsSARY3Z0h8H8eMGrdO246GCwYYobZ-Zn6Zs",
+    "developer": "Flipps Media Inc.",
+    "developerId": "8920797348503464233",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Check out our PPV Schedule and Start Streaming--More than 1,000 Events a Year!",
+    "scoreText": "4.1",
+    "score": 4.1375923
+  },
+  {
+    "title": "BetterMe: Home Workouts & Diet",
+    "appId": "com.gen.workoutme",
+    "url": "https://play.google.com/store/apps/details?id=com.gen.workoutme",
+    "icon": "https://play-lh.googleusercontent.com/MuplBGathU-J8MEhSbiK75DPwY-wEsYOjcl2ZMNq8aQJGQL_-DWu9MNdi-AJEQDaDzVb",
+    "developer": "BetterMe Limited",
+    "developerId": "BetterMe+Limited",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Weight Loss Workout: Abs, Butt, Legs and Whole 30 Diet: Keto, Vegetarian Fasting",
+    "scoreText": "3.7",
+    "score": 3.6732721
+  },
+  {
+    "title": "Financial Times",
+    "appId": "com.ft.news",
+    "url": "https://play.google.com/store/apps/details?id=com.ft.news",
+    "icon": "https://play-lh.googleusercontent.com/QZwQshUIUQQgI9E7bC7bWPdoMViEcrQld2a9-9S8nvyrBW0Szt-G_x7pU4dJpvb0Dm8",
+    "developer": "The Financial Times Limited",
+    "developerId": "The+Financial+Times+Limited",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "See the full perspective on world events with the Financial Times app",
+    "scoreText": "4.5",
+    "score": 4.5027623
+  },
+  {
+    "title": "Evernote - Notes Organizer & Daily Planner",
+    "appId": "com.evernote",
+    "url": "https://play.google.com/store/apps/details?id=com.evernote",
+    "icon": "https://play-lh.googleusercontent.com/QJObxznpklAxDNp0OVe3kAP5ZfUouIvRDO0kPj-V3MRjoRYKwj9RVTxOwG9yrlY-bgG3",
+    "developer": "Evernote Corporation",
+    "developerId": "Evernote+Corporation",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Note pad, planner &amp; daily organizer to take notes, save ideas and share memos.",
+    "scoreText": "4.1",
+    "score": 4.132051
+  },
+  {
+    "title": "SeekingArrangement",
+    "appId": "com.infostream.seekingarrangement",
+    "url": "https://play.google.com/store/apps/details?id=com.infostream.seekingarrangement",
+    "icon": "https://play-lh.googleusercontent.com/3wj7INVN5_2fUUr__yJxgjuH4Jc5yjYadefgBEJFSnOdMfjXvnNeE-TKBduer_jU9JQ",
+    "developer": "W8 Tech Limited",
+    "developerId": "W8+Tech+Limited",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "The #1 dating app for millionaires, successful, beautiful and attractive people",
+    "scoreText": "3.9",
+    "score": 3.8552535
+  },
+  {
+    "title": "Pokémon HOME",
+    "appId": "jp.pokemon.pokemonhome",
+    "url": "https://play.google.com/store/apps/details?id=jp.pokemon.pokemonhome",
+    "icon": "https://play-lh.googleusercontent.com/mEQTKXkEJ7QwSCmec-cIe9b-GlAMCsG9efBAQV6yUDN6DZVtEuM25A4zfMi47KDUej8",
+    "developer": "The Pokemon Company",
+    "developerId": "The+Pokemon+Company",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Pokémon HOME is a cloud-based service.",
+    "scoreText": "4.2",
+    "score": 4.171406
+  },
+  {
+    "title": "Fancy Slime",
+    "appId": "com.playland.fancyslime",
+    "url": "https://play.google.com/store/apps/details?id=com.playland.fancyslime",
+    "icon": "https://play-lh.googleusercontent.com/NINBkNM7Y4YTQ3dC31CV45f7w4Dy-A5qsJwAn79APHrqGFVwHi6MOm6efWk3j2KK-Tc",
+    "developer": "Kiki Fun Games",
+    "developerId": "Kiki+Fun+Games",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Fancy Slime is a realistic slime simulator with lots of satisfying slimes!",
+    "scoreText": "1.5",
+    "score": 1.4899347
+  },
+  {
+    "title": "AVG Cleaner – Junk Cleaner, Memory & RAM Booster",
+    "appId": "com.avg.cleaner",
+    "url": "https://play.google.com/store/apps/details?id=com.avg.cleaner",
+    "icon": "https://play-lh.googleusercontent.com/5nOrdXAlyHKsELWqf5HnqpE_SJEA6cBXe05HvogDMGA_IogO1kMf_zmZQVqSkoc5aVbO",
+    "developer": "AVG Mobile",
+    "developerId": "9097425538418209452",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Free up space and speed up your phone with the best cleaner app for Android.",
+    "scoreText": "4.6",
+    "score": 4.640153
+  },
+  {
+    "title": "EliteSingles: Dating App for singles over 30",
+    "appId": "de.affinitas.za.co.elitesingles.and",
+    "url": "https://play.google.com/store/apps/details?id=de.affinitas.za.co.elitesingles.and",
+    "icon": "https://play-lh.googleusercontent.com/JMUOeOHD6nuI9S8D0Pu57vXf9yE9L2P1IM5t3zJIzGoYfMcQvOWbHCR22S58iWOpbncR",
+    "developer": "Spark Networks Services GmbH",
+    "developerId": "4813727084772339873",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Take a personality test that will match you with the most Elite Singles!",
+    "scoreText": "2.3",
+    "score": 2.315134
   },
   {
     "title": "Boating HD Marine & Lakes",
@@ -2687,7 +2561,147 @@
     "free": true,
     "summary": "The same detailed charts and advanced features as on the best GPS plotters.",
     "scoreText": "4.1",
-    "score": 4.1323714
+    "score": 4.129307
+  },
+  {
+    "title": "Golf GPS Rangefinder: Golf Pad",
+    "appId": "com.contorra.golfpad",
+    "url": "https://play.google.com/store/apps/details?id=com.contorra.golfpad",
+    "icon": "https://play-lh.googleusercontent.com/XHBg5Kp2ZxLJAmMEZ9Nl-wC9HNj3F3asMDSmHGOMz2CYBZq36z0zXYyQ1JTQnpDoFA",
+    "developer": "Golf Pad GPS",
+    "developerId": "Golf+Pad+GPS",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Free, top rated golf GPS rangefinder, shot tracker &amp; scorecard. 40,000+ courses",
+    "scoreText": "4.6",
+    "score": 4.607192
+  },
+  {
+    "title": "Turbo VPN- Free VPN Proxy Server & Secure Service",
+    "appId": "free.vpn.unblock.proxy.turbovpn",
+    "url": "https://play.google.com/store/apps/details?id=free.vpn.unblock.proxy.turbovpn",
+    "icon": "https://play-lh.googleusercontent.com/G7AkY7FY1XZQU8Xp_h5OGGovDxySJ2tLSlPxNRfl9E3lKDzyqY-2QYByz3CHovWRcg",
+    "developer": "Innovative Connecting",
+    "developerId": "Innovative+Connecting",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Unlimited free VPN Turbo to unblock sites, secure WiFi hotspot, protect privacy",
+    "scoreText": "4.5",
+    "score": 4.5315304
+  },
+  {
+    "title": "Peloton - at home fitness",
+    "appId": "com.onepeloton.callisto",
+    "url": "https://play.google.com/store/apps/details?id=com.onepeloton.callisto",
+    "icon": "https://play-lh.googleusercontent.com/wNmoGX3LqZUzZeCtvTm3jSAcwrvt9wRnjo5CYydSkiQOBf5IDNB8ndBkpRLVU6xpggX3",
+    "developer": "Peloton Interactive, Inc",
+    "developerId": "Peloton+Interactive,+Inc",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Guided meditation, cycling, yoga, running, strength, HIIT &amp; stretching workouts",
+    "scoreText": "4.0",
+    "score": 4.035948
+  },
+  {
+    "title": "Lensa: Photo Editor for Perfect Pictures",
+    "appId": "com.lensa.app",
+    "url": "https://play.google.com/store/apps/details?id=com.lensa.app",
+    "icon": "https://play-lh.googleusercontent.com/nIELLpuiHVhQyZWTWApLpcf7FkujKtMBq7ATgyIDNGkdO_3NuheZc1pc2mgPmYLTb9I",
+    "developer": "Prisma Labs, Inc.",
+    "developerId": "5868342254102788529",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Top photo editor app. Retouch photos, add filters for pictures and more",
+    "scoreText": "4.6",
+    "score": 4.627047
+  },
+  {
+    "title": "Weight Loss Running by Runiac",
+    "appId": "map.gps.runningforweightloss.runningtracker",
+    "url": "https://play.google.com/store/apps/details?id=map.gps.runningforweightloss.runningtracker",
+    "icon": "https://play-lh.googleusercontent.com/aMCa1yMcLvZbWULcST-l9IEQ8MjbfDMuAwogrXR-qe_CUMOktHmERWm5uqYPpvLDcHrQ",
+    "developer": "A.L. AMAZING APPS LIMITED",
+    "developerId": "A.L.+AMAZING+APPS+LIMITED",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Run Tracker to Lose Weight",
+    "scoreText": "3.4",
+    "score": 3.4277456
+  },
+  {
+    "title": "FitCoach: Personalized Fitness",
+    "appId": "net.workout.lose.weight.fitness.fit.coach",
+    "url": "https://play.google.com/store/apps/details?id=net.workout.lose.weight.fitness.fit.coach",
+    "icon": "https://play-lh.googleusercontent.com/8XD9QezvIkKX6qvoIsZhGGltrh8R10EKw05HD2Jh_NMbjuuCZOcPY8hIGX-DfGp8KaPK",
+    "developer": "Mobilious Limited",
+    "developerId": "Mobilious+Limited",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Weight Loss: At-Home Workouts",
+    "scoreText": "3.7",
+    "score": 3.6532545
+  },
+  {
+    "title": "Disney Collect! by Topps Card Trader",
+    "appId": "com.topps.disney",
+    "url": "https://play.google.com/store/apps/details?id=com.topps.disney",
+    "icon": "https://play-lh.googleusercontent.com/f_-PZW4WzYo_n3Ysin5FWh7Wcs9_EkC998DUXKYEmUfMxm_sYYm-F4RZHc63OZdZ8g",
+    "developer": "The Topps Company, Inc.",
+    "developerId": "7474025739963323294",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Discover a new world of collecting &amp; trading Topps Disney digital collectibles!",
+    "scoreText": "4.1",
+    "score": 4.084
+  },
+  {
+    "title": "Viber Messenger - Free Video Calls & Group Chats",
+    "appId": "com.viber.voip",
+    "url": "https://play.google.com/store/apps/details?id=com.viber.voip",
+    "icon": "https://play-lh.googleusercontent.com/U6w6exKdvzjRC6ypN68s6nvn8OBlNgDOf5ub9xcqvZPAkXXVW153t9KMeD8yeAVlTxw",
+    "developer": "Viber Media S.à r.l.",
+    "developerId": "7446565317689230946",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Enjoy the video, calling &amp; texting messenger. Free messaging around the world!",
+    "scoreText": "4.4",
+    "score": 4.363577
+  },
+  {
+    "title": "PictureThis: Identify Plant, Flower, Weed and More",
+    "appId": "cn.danatech.xingseus",
+    "url": "https://play.google.com/store/apps/details?id=cn.danatech.xingseus",
+    "icon": "https://play-lh.googleusercontent.com/2dcJOJptNfz3oVeNtHqC-SyKJ-lWDafOzLlUTgOGCpl7KarBjDxnIckL20PStVmYFg",
+    "developer": "Glority LLC",
+    "developerId": "Glority+LLC",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Identify plants, flowers, weeds, trees; interesting details and free snap now",
+    "scoreText": "4.6",
+    "score": 4.5600905
+  },
+  {
+    "title": "Mojinput",
+    "appId": "com.emoji.colorskeyboard",
+    "url": "https://play.google.com/store/apps/details?id=com.emoji.colorskeyboard",
+    "icon": "https://play-lh.googleusercontent.com/4gL8SCLHW98uhr_tBzrennlt0yhUpIETqZrvn6lHsuEEv3m88Lw3sGn7XXLPBE0jafU",
+    "developer": "Dolores White",
+    "developerId": "Dolores+White",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Mojinput completely free",
+    "scoreText": "1.0",
+    "score": 1
   },
   {
     "title": "Prisma Photo Editor",
@@ -2701,7 +2715,21 @@
     "free": true,
     "summary": "Unleash your creativity with Prisma Photo Editor",
     "scoreText": "4.6",
-    "score": 4.5583224
+    "score": 4.558665
+  },
+  {
+    "title": "Topps® WWE SLAM: Card Trader",
+    "appId": "com.topps.slam",
+    "url": "https://play.google.com/store/apps/details?id=com.topps.slam",
+    "icon": "https://play-lh.googleusercontent.com/uW743zl8NMrIEBYOo1Ca6nAbX5Nr2JE0V7vn91LhW3ZC3lDMv7bB4aHGPx9vRa1YqwM",
+    "developer": "The Topps Company, Inc.",
+    "developerId": "7474025739963323294",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Collect &amp; trade TOPPS WWE digital collectible cards with fans around the world!",
+    "scoreText": "4.1",
+    "score": 4.1023135
   },
   {
     "title": "Picolo drinking game",
@@ -2715,21 +2743,7 @@
     "free": true,
     "summary": "Alcohol game for parties",
     "scoreText": "4.1",
-    "score": 4.1473546
-  },
-  {
-    "title": "Plex: Stream Free Movies, Shows, Live TV & more",
-    "appId": "com.plexapp.android",
-    "url": "https://play.google.com/store/apps/details?id=com.plexapp.android",
-    "icon": "https://play-lh.googleusercontent.com/it6VzGgcn3llVrhxeb27DnfIPtqFiNUqG9ANQH5guy-_SIDL8MuWbwzGqgaOWTwHVw",
-    "developer": "Plex, Inc.",
-    "developerId": "5779761635682790559",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Plex is your home for free movies, shows, and live TV, plus your own media",
-    "scoreText": "4.2",
-    "score": 4.1742697
+    "score": 4.145608
   },
   {
     "title": "Drops: Language learning - learn Japanese and more",
@@ -2743,35 +2757,7 @@
     "free": true,
     "summary": "Learn Spanish and 40 other languages in 5 minutes per day!",
     "scoreText": "4.6",
-    "score": 4.6018057
-  },
-  {
-    "title": "MEGA",
-    "appId": "mega.privacy.android.app",
-    "url": "https://play.google.com/store/apps/details?id=mega.privacy.android.app",
-    "icon": "https://play-lh.googleusercontent.com/LPje8jSAa7MHJt4xaJUXn-aYy7LfFyKbc0HJuuf3c5__k7_9DbOJkwlVHvrdQ--kDvYp",
-    "developer": "Mega Ltd",
-    "developerId": "Mega+Ltd",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "MEGA is Cloud Storage with Powerful Always-On Privacy.",
-    "scoreText": "3.6",
-    "score": 3.6484907
-  },
-  {
-    "title": "Sky Sports Mobile TV",
-    "appId": "com.nxp.sky.skysportstv.google",
-    "url": "https://play.google.com/store/apps/details?id=com.nxp.sky.skysportstv.google",
-    "icon": "https://play-lh.googleusercontent.com/wv5aPwgK6TVjAVUG25dCT9o0pfxngvnasKZGj5r-6pLOIdqFoMVsXx89-yY9t6-erA",
-    "developer": "Sky UK Limited",
-    "developerId": "Sky+UK+Limited",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Experience every thrilling sporting moment on the move with Sky Sports TV *live*",
-    "scoreText": "1.5",
-    "score": 1.5132335
+    "score": 4.6019115
   },
   {
     "title": "FoxNovel",
@@ -2785,7 +2771,21 @@
     "free": true,
     "summary": "Pro-Reader with Numerous Wonderful Stories",
     "scoreText": "4.7",
-    "score": 4.6860986
+    "score": 4.6773834
+  },
+  {
+    "title": "MEGA",
+    "appId": "mega.privacy.android.app",
+    "url": "https://play.google.com/store/apps/details?id=mega.privacy.android.app",
+    "icon": "https://play-lh.googleusercontent.com/LPje8jSAa7MHJt4xaJUXn-aYy7LfFyKbc0HJuuf3c5__k7_9DbOJkwlVHvrdQ--kDvYp",
+    "developer": "Mega Ltd",
+    "developerId": "Mega+Ltd",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "MEGA is Cloud Storage with Powerful Always-On Privacy.",
+    "scoreText": "3.6",
+    "score": 3.6477733
   },
   {
     "title": "KineMaster - Video Editor, Video Maker",
@@ -2799,6 +2799,6 @@
     "free": true,
     "summary": "Incredible discount - Premium is 50% off!",
     "scoreText": "4.4",
-    "score": 4.44115
+    "score": 4.441655
   }
 ]
