@@ -6,13 +6,13 @@
     "icon": "https://play-lh.googleusercontent.com/ZhFlRgY094ZawJ2fu7IUWqfSmGcKt5ygPBu4OOVR_GFOi4m-8g59z5_husjK_F4hyQ",
     "developer": "CryptoCompany OU",
     "developerId": "7473884676694961129",
-    "priceText": "€1.19",
+    "priceText": "€0.59",
     "currency": "€",
-    "price": 1.19,
+    "price": 0.59,
     "free": false,
     "summary": "Increase your mining speed with a special version of CryptoTab Browser",
-    "scoreText": "3.8",
-    "score": 3.8243883
+    "scoreText": "3.3",
+    "score": 3.28
   },
   {
     "title": "Il Libro delle Ore",
@@ -27,7 +27,7 @@
     "free": false,
     "summary": "The application contains psalms, hymns and canticles for daily prayer.",
     "scoreText": "3.2",
-    "score": 3.15
+    "score": 3.17
   },
   {
     "title": "iTarga Pro - Verify Italian license plate",
@@ -42,7 +42,22 @@
     "free": false,
     "summary": "iTarga Pro verifies Italian insurance, calculates car tax and report stolen car.",
     "scoreText": "3.7",
-    "score": 3.7391305
+    "score": 3.7183099
+  },
+  {
+    "title": "Torque Pro (OBD 2 & Car)",
+    "appId": "org.prowl.torque",
+    "url": "https://play.google.com/store/apps/details?id=org.prowl.torque",
+    "icon": "https://play-lh.googleusercontent.com/jCmUBkfai1vJhnCYXDefs706hLCrBAPtzDX4JI4aFuVza2MS-ZMSSJnJFSFEHciDU9s",
+    "developer": "Ian Hawkins",
+    "developerId": "Ian+Hawkins",
+    "priceText": "€3.55",
+    "currency": "€",
+    "price": 3.55,
+    "free": false,
+    "summary": "Measure BHP, Torque &amp; 0-60\nClear car OBD faults\nView engine data in Google Earth",
+    "scoreText": "3.4",
+    "score": 3.36
   },
   {
     "title": "e-Connect",
@@ -57,22 +72,7 @@
     "free": false,
     "summary": "Management, centralization and supervision system service",
     "scoreText": "3.5",
-    "score": 3.48
-  },
-  {
-    "title": "Torque Pro (OBD 2 & Car)",
-    "appId": "org.prowl.torque",
-    "url": "https://play.google.com/store/apps/details?id=org.prowl.torque",
-    "icon": "https://play-lh.googleusercontent.com/jCmUBkfai1vJhnCYXDefs706hLCrBAPtzDX4JI4aFuVza2MS-ZMSSJnJFSFEHciDU9s",
-    "developer": "Ian Hawkins",
-    "developerId": "Ian+Hawkins",
-    "priceText": "€3.55",
-    "currency": "€",
-    "price": 3.55,
-    "free": false,
-    "summary": "Measure BHP, Torque &amp; 0-60\nClear car OBD faults\nView engine data in Google Earth",
-    "scoreText": "3.7",
-    "score": 3.742616
+    "score": 3.49
   },
   {
     "title": "Navigation Pro: Google Maps Navi on Samsung Watch",
@@ -86,8 +86,8 @@
     "price": 2.99,
     "free": false,
     "summary": "Navigate with your watch and keep the phone in your pocket!",
-    "scoreText": "4.3",
-    "score": 4.288071
+    "scoreText": "4.4",
+    "score": 4.36
   },
   {
     "title": "IPTV Extreme Pro",
@@ -101,8 +101,8 @@
     "price": 1.19,
     "free": false,
     "summary": "Manage your IPTV live channels and VOD playlists (no playlist included)",
-    "scoreText": "4.3",
-    "score": 4.2614055
+    "scoreText": "4.4",
+    "score": 4.4305553
   },
   {
     "title": "DroidCamX - HD Webcam for PC",
@@ -116,8 +116,8 @@
     "price": 4.99,
     "free": false,
     "summary": "Use your phone as a webcam on your computer over WiFi or USB.",
-    "scoreText": "4.6",
-    "score": 4.6054115
+    "scoreText": "4.4",
+    "score": 4.43
   },
   {
     "title": "PeakFinder",
@@ -132,7 +132,37 @@
     "free": false,
     "summary": "The mobile panorama panel.\nWorks offline - worldwide!",
     "scoreText": "4.6",
-    "score": 4.5861692
+    "score": 4.5821595
+  },
+  {
+    "title": "TouchRetouch",
+    "appId": "com.advasoft.touchretouch",
+    "url": "https://play.google.com/store/apps/details?id=com.advasoft.touchretouch",
+    "icon": "https://play-lh.googleusercontent.com/G_TE35bTcKM6tPTxPuZy_gz5JxnJSdMahz8Lcv2dUQ4QiwLoAflyaw6xS529mlHA5w",
+    "developer": "ADVA Soft",
+    "developerId": "ADVA+Soft",
+    "priceText": "€2.29",
+    "currency": "€",
+    "price": 2.29,
+    "free": false,
+    "summary": "TouchRetouch is an app to remove unwanted content from photos in an instant.",
+    "scoreText": "4.5",
+    "score": 4.5342464
+  },
+  {
+    "title": "Nova Launcher Prime",
+    "appId": "com.teslacoilsw.launcher.prime",
+    "url": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher.prime",
+    "icon": "https://play-lh.googleusercontent.com/37Fo8GPVN6hRq0ztAMv35IHaPmKeMjq6hiRWEg39OEd0WatXUl927zi9J66n_fna6HY",
+    "developer": "TeslaCoil Software",
+    "developerId": "TeslaCoil+Software",
+    "priceText": "€4.50",
+    "currency": "€",
+    "price": 4.5,
+    "free": false,
+    "summary": "Customize your home screen",
+    "scoreText": "4.6",
+    "score": 4.5953507
   },
   {
     "title": "TeamSpeak 3 - Voice Chat Software",
@@ -147,37 +177,7 @@
     "free": false,
     "summary": "TeamSpeak - Secure Chat for Gaming &amp; Business",
     "scoreText": "3.4",
-    "score": 3.37978
-  },
-  {
-    "title": "TouchRetouch",
-    "appId": "com.advasoft.touchretouch",
-    "url": "https://play.google.com/store/apps/details?id=com.advasoft.touchretouch",
-    "icon": "https://play-lh.googleusercontent.com/G_TE35bTcKM6tPTxPuZy_gz5JxnJSdMahz8Lcv2dUQ4QiwLoAflyaw6xS529mlHA5w",
-    "developer": "ADVA Soft",
-    "developerId": "ADVA+Soft",
-    "priceText": "€2.29",
-    "currency": "€",
-    "price": 2.29,
-    "free": false,
-    "summary": "TouchRetouch is an app to remove unwanted content from photos in an instant.",
-    "scoreText": "4.6",
-    "score": 4.6112676
-  },
-  {
-    "title": "Nova Launcher Prime",
-    "appId": "com.teslacoilsw.launcher.prime",
-    "url": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher.prime",
-    "icon": "https://play-lh.googleusercontent.com/37Fo8GPVN6hRq0ztAMv35IHaPmKeMjq6hiRWEg39OEd0WatXUl927zi9J66n_fna6HY",
-    "developer": "TeslaCoil Software",
-    "developerId": "TeslaCoil+Software",
-    "priceText": "€4.50",
-    "currency": "€",
-    "price": 4.5,
-    "free": false,
-    "summary": "Customize your home screen",
-    "scoreText": "4.7",
-    "score": 4.6659675
+    "score": 3.364532
   },
   {
     "title": "Tasker",
@@ -191,8 +191,8 @@
     "price": 3.69,
     "free": false,
     "summary": "Automate everything from settings to photos, SMS to speech. ADC2 prize winner.",
-    "scoreText": "4.5",
-    "score": 4.5330777
+    "scoreText": "4.6",
+    "score": 4.5726495
   },
   {
     "title": "Game Booster 4x Faster Pro - GFX Tool & Lag Fix",
@@ -206,23 +206,8 @@
     "price": 0.59,
     "free": false,
     "summary": "Safest Booster GFX Tool on Google Play is now compatible with newer game update",
-    "scoreText": "4.6",
-    "score": 4.631307
-  },
-  {
-    "title": "Threema. Secure and private Messenger",
-    "appId": "ch.threema.app",
-    "url": "https://play.google.com/store/apps/details?id=ch.threema.app",
-    "icon": "https://play-lh.googleusercontent.com/eneY-f9h2zq095n7k-FeV-whgabl0W_qb_eIFp1syA_tkNpVfMFs3bTGIKHWzRs3lsr-",
-    "developer": "Threema GmbH",
-    "developerId": "7923858866786761874",
-    "priceText": "€3.99",
-    "currency": "€",
-    "price": 3.99,
-    "free": false,
-    "summary": "Threema is the messenger that puts security and privacy first.",
-    "scoreText": "4.6",
-    "score": 4.5751133
+    "scoreText": "4.3",
+    "score": 4.33
   },
   {
     "title": "PSPlay: PS Remote Play Unlimited",
@@ -237,7 +222,7 @@
     "free": false,
     "summary": "Play PS5/ PS4 games remotely with any controller and mobile internet connection",
     "scoreText": "4.6",
-    "score": 4.6145453
+    "score": 4.5729165
   },
   {
     "title": "WazzapMigrator",
@@ -251,8 +236,23 @@
     "price": 6.99,
     "free": false,
     "summary": "WazzapMigrator: transfer your WhatsApp history from iPhone to Android",
-    "scoreText": "4.0",
-    "score": 4.004367
+    "scoreText": "4.2",
+    "score": 4.24
+  },
+  {
+    "title": "Threema. Secure and private Messenger",
+    "appId": "ch.threema.app",
+    "url": "https://play.google.com/store/apps/details?id=ch.threema.app",
+    "icon": "https://play-lh.googleusercontent.com/eneY-f9h2zq095n7k-FeV-whgabl0W_qb_eIFp1syA_tkNpVfMFs3bTGIKHWzRs3lsr-",
+    "developer": "Threema GmbH",
+    "developerId": "7923858866786761874",
+    "priceText": "€3.99",
+    "currency": "€",
+    "price": 3.99,
+    "free": false,
+    "summary": "Threema is the messenger that puts security and privacy first.",
+    "scoreText": "4.7",
+    "score": 4.69
   },
   {
     "title": "Poweramp Full Version Unlocker",
@@ -266,8 +266,8 @@
     "price": 4.99,
     "free": false,
     "summary": "Unlocks Poweramp - Powerful Music Player for Android",
-    "scoreText": "4.6",
-    "score": 4.576051
+    "scoreText": "4.3",
+    "score": 4.26699
   },
   {
     "title": "WolframAlpha",
@@ -281,8 +281,8 @@
     "price": 3.19,
     "free": false,
     "summary": "Wolfram|Alpha: the ultimate tool for getting answers",
-    "scoreText": "4.6",
-    "score": 4.559584
+    "scoreText": "4.5",
+    "score": 4.5
   },
   {
     "title": "OruxMaps GP",
@@ -296,8 +296,8 @@
     "price": 4.29,
     "free": false,
     "summary": "A tool for outdoor activities.",
-    "scoreText": "4.5",
-    "score": 4.5170455
+    "scoreText": "4.4",
+    "score": 4.41
   },
   {
     "title": "Metronet",
@@ -315,34 +315,19 @@
     "score": 3.2741935
   },
   {
-    "title": "iReal Pro - Music Book & Backing Tracks",
-    "appId": "com.massimobiolcati.irealb",
-    "url": "https://play.google.com/store/apps/details?id=com.massimobiolcati.irealb",
-    "icon": "https://play-lh.googleusercontent.com/SLZHwIa8NDKmzza0_0rWb5fZ6lV8Q3QfG9OJyBKEjlZET6SeyLRj0-erllSvMLP1OHU",
-    "developer": "Technimo",
-    "developerId": "Technimo",
-    "priceText": "€14.99",
+    "title": "KWGT Kustom Widget Pro Key",
+    "appId": "org.kustom.widget.pro",
+    "url": "https://play.google.com/store/apps/details?id=org.kustom.widget.pro",
+    "icon": "https://play-lh.googleusercontent.com/BeZ7MGWZ9aiwskR_kRY6_VRLWToG0HZvVknbgx9Ax7tOD9OlThuET4OGNhZbmH9Pmg",
+    "developer": "Kustom Industries",
+    "developerId": "5300483087872269403",
+    "priceText": "€4.99",
     "currency": "€",
-    "price": 14.99,
+    "price": 4.99,
     "free": false,
-    "summary": "Collect 1000s of chord charts and have a virtual band accompany your practice",
-    "scoreText": "4.6",
-    "score": 4.6188273
-  },
-  {
-    "title": "Veicolo+ (senza pubblicità)",
-    "appId": "it.talimac.veicolo_plus",
-    "url": "https://play.google.com/store/apps/details?id=it.talimac.veicolo_plus",
-    "icon": "https://play-lh.googleusercontent.com/qCqs9Zf8cFnRlvwFMkwffJE9-Fdr2gRC5TtQ8kLxRgsJhUgOXSNDtSbo3DmZJ8tJpAQ",
-    "developer": "RS1 Project",
-    "developerId": "5085823144773442962",
-    "priceText": "€2.29",
-    "currency": "€",
-    "price": 2.29,
-    "free": false,
-    "summary": "Vehicle + app is the number # 1 in Italy for the information of cars and motorcycles. (PLUS)",
-    "scoreText": "3.9",
-    "score": 3.8811882
+    "summary": "Create your own custom widget with endless possibilities",
+    "scoreText": "4.1",
+    "score": 4.142857
   },
   {
     "title": "Verifica RCA Italia PRO",
@@ -357,52 +342,7 @@
     "free": false,
     "summary": "Check-registered vehicles and Italian Foreign in one click! Simple, Fast, PRO!",
     "scoreText": "4.3",
-    "score": 4.2865496
-  },
-  {
-    "title": "Noteshelf: Take Notes | Handwriting | Annotate PDF",
-    "appId": "com.fluidtouch.noteshelf2",
-    "url": "https://play.google.com/store/apps/details?id=com.fluidtouch.noteshelf2",
-    "icon": "https://play-lh.googleusercontent.com/hjbsck4JucSmvvaAmVkqeU8WtIZMOINBaCVhcmlEg9JsWO2eh9BVKzEgDEvYrbD8VkNW",
-    "developer": "Fluid Touch",
-    "developerId": "Fluid+Touch",
-    "priceText": "€4.99",
-    "currency": "€",
-    "price": 4.99,
-    "free": false,
-    "summary": "✍️One app for taking notes — handwriting, audio, PDF annotation, or checklists.",
-    "scoreText": "3.9",
-    "score": 3.905207
-  },
-  {
-    "title": "KWGT Kustom Widget Pro Key",
-    "appId": "org.kustom.widget.pro",
-    "url": "https://play.google.com/store/apps/details?id=org.kustom.widget.pro",
-    "icon": "https://play-lh.googleusercontent.com/BeZ7MGWZ9aiwskR_kRY6_VRLWToG0HZvVknbgx9Ax7tOD9OlThuET4OGNhZbmH9Pmg",
-    "developer": "Kustom Industries",
-    "developerId": "5300483087872269403",
-    "priceText": "€4.99",
-    "currency": "€",
-    "price": 4.99,
-    "free": false,
-    "summary": "Create your own custom widget with endless possibilities",
-    "scoreText": "4.2",
-    "score": 4.1569147
-  },
-  {
-    "title": "Toca Life: Neighborhood",
-    "appId": "com.tocaboca.tocaneighborhood",
-    "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocaneighborhood",
-    "icon": "https://play-lh.googleusercontent.com/u8Y_d9KagdDQPkecx9wyCTD68aqSAwnE1-X78n8o2gez2QJLAj1S8rJlHO_eFvsRHw",
-    "developer": "Toca Boca",
-    "developerId": "8567646723268777320",
-    "priceText": "€4.49",
-    "currency": "€",
-    "price": 4.49,
-    "free": false,
-    "summary": "Move into your new block",
-    "scoreText": "4.2",
-    "score": 4.1823707
+    "score": 4.295858
   },
   {
     "title": "Simple Gallery Pro: Video & Photo Manager & Editor",
@@ -417,7 +357,97 @@
     "free": false,
     "summary": "Your favorite photo album with no ads👍 Crop pictures, edit photos, video &amp; more",
     "scoreText": "4.7",
-    "score": 4.7307444
+    "score": 4.742358
+  },
+  {
+    "title": "Veicolo+ (senza pubblicità)",
+    "appId": "it.talimac.veicolo_plus",
+    "url": "https://play.google.com/store/apps/details?id=it.talimac.veicolo_plus",
+    "icon": "https://play-lh.googleusercontent.com/qCqs9Zf8cFnRlvwFMkwffJE9-Fdr2gRC5TtQ8kLxRgsJhUgOXSNDtSbo3DmZJ8tJpAQ",
+    "developer": "RS1 Project",
+    "developerId": "5085823144773442962",
+    "priceText": "€2.29",
+    "currency": "€",
+    "price": 2.29,
+    "free": false,
+    "summary": "Vehicle + app is the number # 1 in Italy for the information of cars and motorcycles. (PLUS)",
+    "scoreText": "3.9",
+    "score": 3.89
+  },
+  {
+    "title": "Noteshelf: Take Notes | Handwriting | Annotate PDF",
+    "appId": "com.fluidtouch.noteshelf2",
+    "url": "https://play.google.com/store/apps/details?id=com.fluidtouch.noteshelf2",
+    "icon": "https://play-lh.googleusercontent.com/hjbsck4JucSmvvaAmVkqeU8WtIZMOINBaCVhcmlEg9JsWO2eh9BVKzEgDEvYrbD8VkNW",
+    "developer": "Fluid Touch",
+    "developerId": "Fluid+Touch",
+    "priceText": "€4.99",
+    "currency": "€",
+    "price": 4.99,
+    "free": false,
+    "summary": "✍️One app for taking notes — handwriting, audio, PDF annotation, or checklists.",
+    "scoreText": "3.5",
+    "score": 3.46
+  },
+  {
+    "title": "Litchi for DJI Mavic / Phantom / Inspire / Spark",
+    "appId": "com.aryuthere.visionplus",
+    "url": "https://play.google.com/store/apps/details?id=com.aryuthere.visionplus",
+    "icon": "https://play-lh.googleusercontent.com/l-FO0nhBM937FdesX3LTl5pdoW7s8qvcJNloFR8hv_QjHqXD3KdpeW2ZhmfSST6DslQ",
+    "developer": "VC Technology Ltd",
+    "developerId": "VC+Technology+Ltd",
+    "priceText": "€24.99",
+    "currency": "€",
+    "price": 24.99,
+    "free": false,
+    "summary": "Unlock the full potential of your DJI drone with Litchi",
+    "scoreText": "3.2",
+    "score": 3.25
+  },
+  {
+    "title": "iReal Pro - Music Book & Backing Tracks",
+    "appId": "com.massimobiolcati.irealb",
+    "url": "https://play.google.com/store/apps/details?id=com.massimobiolcati.irealb",
+    "icon": "https://play-lh.googleusercontent.com/SLZHwIa8NDKmzza0_0rWb5fZ6lV8Q3QfG9OJyBKEjlZET6SeyLRj0-erllSvMLP1OHU",
+    "developer": "Technimo",
+    "developerId": "Technimo",
+    "priceText": "€14.99",
+    "currency": "€",
+    "price": 14.99,
+    "free": false,
+    "summary": "Collect 1000s of chord charts and have a virtual band accompany your practice",
+    "scoreText": "4.5",
+    "score": 4.52
+  },
+  {
+    "title": "Simple Calendar Pro - Agenda & Schedule Planner",
+    "appId": "com.simplemobiletools.calendar.pro",
+    "url": "https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar.pro",
+    "icon": "https://play-lh.googleusercontent.com/9YE4KRQz2elJkq-U01fdD6ajGKnuo7u0NkbCowUJmS0J1Z07tMYljr5qMs3YHezmlQ",
+    "developer": "Simple Mobile Tools",
+    "developerId": "9070296388022589266",
+    "priceText": "€0.79",
+    "currency": "€",
+    "price": 0.79,
+    "free": false,
+    "summary": "Schedule your agenda and monthly calendar with reminder &amp; appointment scheduler",
+    "scoreText": "4.7",
+    "score": 4.69
+  },
+  {
+    "title": "Toca Life: Neighborhood",
+    "appId": "com.tocaboca.tocaneighborhood",
+    "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocaneighborhood",
+    "icon": "https://play-lh.googleusercontent.com/u8Y_d9KagdDQPkecx9wyCTD68aqSAwnE1-X78n8o2gez2QJLAj1S8rJlHO_eFvsRHw",
+    "developer": "Toca Boca",
+    "developerId": "8567646723268777320",
+    "priceText": "€4.49",
+    "currency": "€",
+    "price": 4.49,
+    "free": false,
+    "summary": "Move into your new block",
+    "scoreText": "4.4",
+    "score": 4.4027777
   },
   {
     "title": "Bentel Security Absoluta PRO",
@@ -432,292 +462,7 @@
     "free": false,
     "summary": "New Absoluta App: managing the alarm system has never been so easy!",
     "scoreText": "3.2",
-    "score": 3.17
-  },
-  {
-    "title": "Litchi for DJI Mavic / Phantom / Inspire / Spark",
-    "appId": "com.aryuthere.visionplus",
-    "url": "https://play.google.com/store/apps/details?id=com.aryuthere.visionplus",
-    "icon": "https://play-lh.googleusercontent.com/l-FO0nhBM937FdesX3LTl5pdoW7s8qvcJNloFR8hv_QjHqXD3KdpeW2ZhmfSST6DslQ",
-    "developer": "VC Technology Ltd",
-    "developerId": "VC+Technology+Ltd",
-    "priceText": "€24.99",
-    "currency": "€",
-    "price": 24.99,
-    "free": false,
-    "summary": "Unlock the full potential of your DJI drone with Litchi",
-    "scoreText": "3.3",
-    "score": 3.2764351
-  },
-  {
-    "title": "Simple Calendar Pro - Agenda & Schedule Planner",
-    "appId": "com.simplemobiletools.calendar.pro",
-    "url": "https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar.pro",
-    "icon": "https://play-lh.googleusercontent.com/9YE4KRQz2elJkq-U01fdD6ajGKnuo7u0NkbCowUJmS0J1Z07tMYljr5qMs3YHezmlQ",
-    "developer": "Simple Mobile Tools",
-    "developerId": "9070296388022589266",
-    "priceText": "€0.79",
-    "currency": "€",
-    "price": 0.79,
-    "free": false,
-    "summary": "Schedule your agenda and monthly calendar with reminder &amp; appointment scheduler",
-    "scoreText": "4.6",
-    "score": 4.6331444
-  },
-  {
-    "title": "Square Home Key - Launcher: Windows style",
-    "appId": "com.ss.squarehome.key",
-    "url": "https://play.google.com/store/apps/details?id=com.ss.squarehome.key",
-    "icon": "https://play-lh.googleusercontent.com/6ug3LEPpgkmQHKUIw3juhVi8byuu11pBE7o2q63_UcQatD-8fgX-FL9jFzax9A2PnA",
-    "developer": "ChYK the dev.",
-    "developerId": "ChYK+the+dev.",
-    "priceText": "€2.39",
-    "currency": "€",
-    "price": 2.39,
-    "free": false,
-    "summary": "The best windows 10 style launcher on Android!",
-    "scoreText": "4.8",
-    "score": 4.823955
-  },
-  {
-    "title": "Watch Face - Pujie Black - Wear OS & Galaxy Watch",
-    "appId": "com.pujie.wristwear.pujieblack",
-    "url": "https://play.google.com/store/apps/details?id=com.pujie.wristwear.pujieblack",
-    "icon": "https://play-lh.googleusercontent.com/W8VxKjGEM02qMlkQEhnoX6opHw4oXM1qCcRG5GadEYsE36jmLPXp_sKQnbtx1MeTXNw",
-    "developer": "Pujie",
-    "developerId": "7780011900367662392",
-    "priceText": "€1.99",
-    "currency": "€",
-    "price": 1.99,
-    "free": false,
-    "summary": "Design your own watch faces for your Wear OS or Samsung Galaxy watch",
-    "scoreText": "4.0",
-    "score": 3.9965477
-  },
-  {
-    "title": "NFC Tools - Pro Edition",
-    "appId": "com.wakdev.nfctools.pro",
-    "url": "https://play.google.com/store/apps/details?id=com.wakdev.nfctools.pro",
-    "icon": "https://play-lh.googleusercontent.com/I9rEvn6tBL3ordlauqKTYihV5plSetn1t_JY6rmAI80WlSRq9MThjrcFDVEvCgepHsc",
-    "developer": "wakdev",
-    "developerId": "6943435756825055171",
-    "priceText": "€3.49",
-    "currency": "€",
-    "price": 3.49,
-    "free": false,
-    "summary": "NFC Tools can read and write NFC tags.",
-    "scoreText": "4.4",
-    "score": 4.4021053
-  },
-  {
-    "title": "Car Launcher Pro",
-    "appId": "com.autolauncher.motorcar",
-    "url": "https://play.google.com/store/apps/details?id=com.autolauncher.motorcar",
-    "icon": "https://play-lh.googleusercontent.com/XaG7mYude1a1oCKkOh_2tIemkU1Q6dmnvczndRd8dfFYL8MO-l2XzaAtgNldwycCeD0",
-    "developer": "apps lab studio",
-    "developerId": "7978917842873634164",
-    "priceText": "€4.79",
-    "currency": "€",
-    "price": 4.79,
-    "free": false,
-    "summary": "Best Launcher for use in the car",
-    "scoreText": "4.5",
-    "score": 4.528217
-  },
-  {
-    "title": "Call Recorder License - ACR",
-    "appId": "com.nll.acr.license",
-    "url": "https://play.google.com/store/apps/details?id=com.nll.acr.license",
-    "icon": "https://play-lh.googleusercontent.com/1-06-GJG2RkHbaNueszZW9BxIBcJ5COm4qfCBGc6bXdz_RkHH5_ocs4sKbiJbfq-HbE",
-    "developer": "NLL",
-    "developerId": "8530342249973296088",
-    "priceText": "€1.99",
-    "currency": "€",
-    "price": 1.99,
-    "free": false,
-    "summary": "Access to premium features of ACR",
-    "scoreText": "2.8",
-    "score": 2.7948856
-  },
-  {
-    "title": "Crayon Icon Pack",
-    "appId": "com.jndapp.cartoon.crayon.iconpack",
-    "url": "https://play.google.com/store/apps/details?id=com.jndapp.cartoon.crayon.iconpack",
-    "icon": "https://play-lh.googleusercontent.com/MmLHNN4_lwIN7kMG7XWnOxSYbEju-FBMEn8oDj4Xt8t9EnnH6S6GQeMHJDWpGfeDOSpM",
-    "developer": "JustNewDesigns",
-    "developerId": "6871333323804023406",
-    "priceText": "€0.99",
-    "currency": "€",
-    "price": 0.99,
-    "free": false,
-    "summary": "Linear icons filled with Pastel colors",
-    "scoreText": "4.6",
-    "score": 4.634981
-  },
-  {
-    "title": "Agenda 2021 pro",
-    "appId": "ilpesce.web.agenda_2021_pro",
-    "url": "https://play.google.com/store/apps/details?id=ilpesce.web.agenda_2021_pro",
-    "icon": "https://play-lh.googleusercontent.com/OSqpU02n_QomIH_LDxrxNPUt7q66dICuQBo8tx73-ZH3jYnva3eL4JggkABRljS04fk",
-    "developer": "ilpesceweb",
-    "developerId": "ilpesceweb",
-    "priceText": "€2.89",
-    "currency": "€",
-    "price": 2.89,
-    "free": false,
-    "summary": "The Agenda 2021 pro Daily Planner/Diary is dated from January to December 2021",
-    "scoreText": "4.1",
-    "score": 4.08
-  },
-  {
-    "title": "Earth 3D - World Atlas",
-    "appId": "com.a3planesoft.earth101",
-    "url": "https://play.google.com/store/apps/details?id=com.a3planesoft.earth101",
-    "icon": "https://play-lh.googleusercontent.com/5NAH8Kr29k4paOocbtF3dQqYbUJ6IcJq6oN_-jixRp9UKo5t6AJ1ItgsuPKEgJ8uh14",
-    "developer": "3Planesoft",
-    "developerId": "4820963801024833785",
-    "priceText": "€0.59",
-    "currency": "€",
-    "price": 0.59,
-    "free": false,
-    "summary": "Smart Globe",
-    "scoreText": "4.1",
-    "score": 4.06
-  },
-  {
-    "title": "PhotoPills",
-    "appId": "com.photopills.android.photopills",
-    "url": "https://play.google.com/store/apps/details?id=com.photopills.android.photopills",
-    "icon": "https://play-lh.googleusercontent.com/U00tLP776B-X5k-OkrJ1CcOMdfhd242UxvDsp8DPLY6j2LY0hvivmzFmuUGa7GbCZks",
-    "developer": "PhotoPills, SL",
-    "developerId": "PhotoPills,+SL",
-    "priceText": "€10.99",
-    "currency": "€",
-    "price": 10.99,
-    "free": false,
-    "summary": "Discover How to Plan any Sun, Moon and Milky Way Photo You Imagine in Seconds",
-    "scoreText": "4.8",
-    "score": 4.772983
-  },
-  {
-    "title": "PATENTE NAUTICA A QUIZ",
-    "appId": "com.frangente.quiz",
-    "url": "https://play.google.com/store/apps/details?id=com.frangente.quiz",
-    "icon": "https://play-lh.googleusercontent.com/JweTAoY0hsOSyKD90gmFlsJJIKy7E2lMC65-Pvx7nyYd886XaNZ-IY7LpOLnIugWoH0",
-    "developer": "Edizioni il Frangente",
-    "developerId": "Edizioni+il+Frangente",
-    "priceText": "€10.99",
-    "currency": "€",
-    "price": 10.99,
-    "free": false,
-    "summary": "264 images, 63 animations.\nWith the photographic memory, studying is easier",
-    "scoreText": "4.4",
-    "score": 4.40625
-  },
-  {
-    "title": "DiskDigger Pro file recovery",
-    "appId": "com.defianttech.diskdiggerpro",
-    "url": "https://play.google.com/store/apps/details?id=com.defianttech.diskdiggerpro",
-    "icon": "https://play-lh.googleusercontent.com/9-I35xyyNx5O-b_E2XXT_JMhiQ8yyLEMVl2VRMKf4m5CNMXBNIziBbHloS-nlOqFOzw",
-    "developer": "Defiant Technologies, LLC",
-    "developerId": "Defiant+Technologies,+LLC",
-    "priceText": "€3.37",
-    "currency": "€",
-    "price": 3.37,
-    "free": false,
-    "summary": "Undelete and recover your lost or deleted files with DiskDigger!",
-    "scoreText": "2.9",
-    "score": 2.8753624
-  },
-  {
-    "title": "Toca Life: Hospital",
-    "appId": "com.tocaboca.tocahospital",
-    "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocahospital",
-    "icon": "https://play-lh.googleusercontent.com/Jeoff_0VjrZ52ou5ghwKoCinaKcOYvWKOASuUNorrhN1nOkBTKn4yqEf0xFViz-3K_L4",
-    "developer": "Toca Boca",
-    "developerId": "8567646723268777320",
-    "priceText": "€4.49",
-    "currency": "€",
-    "price": 4.49,
-    "free": false,
-    "summary": "Experience the excitement of a busy medical center with Toca Life: Hospital!",
-    "scoreText": "4.3",
-    "score": 4.274707
-  },
-  {
-    "title": "Navigator for Amazfit GTS, GTR, Pace and others",
-    "appId": "com.re.amazfitmaps",
-    "url": "https://play.google.com/store/apps/details?id=com.re.amazfitmaps",
-    "icon": "https://play-lh.googleusercontent.com/HodLtnaEiwqqI232HKp96yOqwjlcs2lH66oIbV4nsaNgQZ0B4106vI7bPGdbHIyvLw",
-    "developer": "Francesco Re",
-    "developerId": "6284374824436038177",
-    "priceText": "€1.99",
-    "currency": "€",
-    "price": 1.99,
-    "free": false,
-    "summary": "This app lets you receive Google Maps directions to your Amazfit smartwatch",
-    "scoreText": "3.4",
-    "score": 3.43
-  },
-  {
-    "title": "Navigator for Mi Band 5/4/3, Bip and Cor",
-    "appId": "com.re.mibandmaps",
-    "url": "https://play.google.com/store/apps/details?id=com.re.mibandmaps",
-    "icon": "https://play-lh.googleusercontent.com/mKTJqziVV7eWwwvuFOnNH_lei0H84SS4c8ORjMqUwdtsUPe0bVjEp1VmPecfe-6FeEc",
-    "developer": "Francesco Re",
-    "developerId": "6284374824436038177",
-    "priceText": "€0.99",
-    "currency": "€",
-    "price": 0.99,
-    "free": false,
-    "summary": "Receive Google Maps directions to your Mi Band 5/4/3, Bip or Cor",
-    "scoreText": "4.2",
-    "score": 4.2083335
-  },
-  {
-    "title": "IPTV Pro",
-    "appId": "ru.iptvremote.android.iptv.pro",
-    "url": "https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv.pro",
-    "icon": "https://play-lh.googleusercontent.com/SyaXGLAtrZA1ugftLTUzQNB56a-b6sNzQMkO4jXD8h1Qh4_15YSpXv9hA1vSW2Q2Bc0P",
-    "developer": "Alexander Sofronov",
-    "developerId": "Alexander+Sofronov",
-    "priceText": "€3.39",
-    "currency": "€",
-    "price": 3.39,
-    "free": false,
-    "summary": "Watch IPTV on your Android device",
-    "scoreText": "3.8",
-    "score": 3.8102467
-  },
-  {
-    "title": "Photo & Video & Audio Recovery Deleted - PRO",
-    "appId": "com.photoandvideo.recoveryfilepro",
-    "url": "https://play.google.com/store/apps/details?id=com.photoandvideo.recoveryfilepro",
-    "icon": "https://play-lh.googleusercontent.com/Qspmm8cQESuZEEyeXAS2XZi8ZtQlDDQkCZsb1EZbe7P_39-Y0cEHcEGSxXehtegLhjM",
-    "developer": "Detective Studio",
-    "developerId": "8111486798670125623",
-    "priceText": "€3.99",
-    "currency": "€",
-    "price": 3.99,
-    "free": false,
-    "summary": "Application that Recover your pictures, videos or files after you delete them.",
-    "scoreText": "4.2",
-    "score": 4.244165
-  },
-  {
-    "title": "Toca Life: Vacation",
-    "appId": "com.tocaboca.tocavacation",
-    "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocavacation",
-    "icon": "https://play-lh.googleusercontent.com/PRYlsPAkA0pGYe3LIdVhfk_QfWvU-mywRp5xYHLmtIfqgdd0Tos-0OPpyB9vz7fImmA",
-    "developer": "Toca Boca",
-    "developerId": "8567646723268777320",
-    "priceText": "€4.49",
-    "currency": "€",
-    "price": 4.49,
-    "free": false,
-    "summary": "Make every day a vacation adventure!",
-    "scoreText": "4.3",
-    "score": 4.2818294
+    "score": 3.2
   },
   {
     "title": "GPX Viewer PRO - Tracks, Routes & Waypoints",
@@ -732,7 +477,292 @@
     "free": false,
     "summary": "GPX Viewer PRO shows tracks, routes and waypoints from gpx and kml files.",
     "scoreText": "4.4",
-    "score": 4.4013157
+    "score": 4.44
+  },
+  {
+    "title": "Square Home Key - Launcher: Windows style",
+    "appId": "com.ss.squarehome.key",
+    "url": "https://play.google.com/store/apps/details?id=com.ss.squarehome.key",
+    "icon": "https://play-lh.googleusercontent.com/6ug3LEPpgkmQHKUIw3juhVi8byuu11pBE7o2q63_UcQatD-8fgX-FL9jFzax9A2PnA",
+    "developer": "ChYK the dev.",
+    "developerId": "ChYK+the+dev.",
+    "priceText": "€2.39",
+    "currency": "€",
+    "price": 2.39,
+    "free": false,
+    "summary": "The best windows 10 style launcher on Android!",
+    "scoreText": "4.9",
+    "score": 4.92
+  },
+  {
+    "title": "Car Launcher Pro",
+    "appId": "com.autolauncher.motorcar",
+    "url": "https://play.google.com/store/apps/details?id=com.autolauncher.motorcar",
+    "icon": "https://play-lh.googleusercontent.com/XaG7mYude1a1oCKkOh_2tIemkU1Q6dmnvczndRd8dfFYL8MO-l2XzaAtgNldwycCeD0",
+    "developer": "apps lab studio",
+    "developerId": "7978917842873634164",
+    "priceText": "€4.79",
+    "currency": "€",
+    "price": 4.79,
+    "free": false,
+    "summary": "Best Launcher for use in the car",
+    "scoreText": "4.5",
+    "score": 4.48
+  },
+  {
+    "title": "Watch Face - Pujie Black - Wear OS & Galaxy Watch",
+    "appId": "com.pujie.wristwear.pujieblack",
+    "url": "https://play.google.com/store/apps/details?id=com.pujie.wristwear.pujieblack",
+    "icon": "https://play-lh.googleusercontent.com/W8VxKjGEM02qMlkQEhnoX6opHw4oXM1qCcRG5GadEYsE36jmLPXp_sKQnbtx1MeTXNw",
+    "developer": "Pujie",
+    "developerId": "7780011900367662392",
+    "priceText": "€1.99",
+    "currency": "€",
+    "price": 1.99,
+    "free": false,
+    "summary": "Design your own watch faces for your Wear OS or Samsung Galaxy watch",
+    "scoreText": "4.0",
+    "score": 3.95
+  },
+  {
+    "title": "NFC Tools - Pro Edition",
+    "appId": "com.wakdev.nfctools.pro",
+    "url": "https://play.google.com/store/apps/details?id=com.wakdev.nfctools.pro",
+    "icon": "https://play-lh.googleusercontent.com/I9rEvn6tBL3ordlauqKTYihV5plSetn1t_JY6rmAI80WlSRq9MThjrcFDVEvCgepHsc",
+    "developer": "wakdev",
+    "developerId": "6943435756825055171",
+    "priceText": "€3.49",
+    "currency": "€",
+    "price": 3.49,
+    "free": false,
+    "summary": "NFC Tools can read and write NFC tags.",
+    "scoreText": "4.6",
+    "score": 4.58
+  },
+  {
+    "title": "Navigator for Amazfit GTS, GTR, Pace and others",
+    "appId": "com.re.amazfitmaps",
+    "url": "https://play.google.com/store/apps/details?id=com.re.amazfitmaps",
+    "icon": "https://play-lh.googleusercontent.com/HodLtnaEiwqqI232HKp96yOqwjlcs2lH66oIbV4nsaNgQZ0B4106vI7bPGdbHIyvLw",
+    "developer": "Francesco Re",
+    "developerId": "6284374824436038177",
+    "priceText": "€1.99",
+    "currency": "€",
+    "price": 1.99,
+    "free": false,
+    "summary": "This app lets you receive Google Maps directions to your Amazfit smartwatch",
+    "scoreText": "4.1",
+    "score": 4.09
+  },
+  {
+    "title": "Call Recorder License - ACR",
+    "appId": "com.nll.acr.license",
+    "url": "https://play.google.com/store/apps/details?id=com.nll.acr.license",
+    "icon": "https://play-lh.googleusercontent.com/1-06-GJG2RkHbaNueszZW9BxIBcJ5COm4qfCBGc6bXdz_RkHH5_ocs4sKbiJbfq-HbE",
+    "developer": "NLL",
+    "developerId": "8530342249973296088",
+    "priceText": "€1.99",
+    "currency": "€",
+    "price": 1.99,
+    "free": false,
+    "summary": "Access to premium features of ACR",
+    "scoreText": "3.1",
+    "score": 3.069343
+  },
+  {
+    "title": "Crayon Icon Pack",
+    "appId": "com.jndapp.cartoon.crayon.iconpack",
+    "url": "https://play.google.com/store/apps/details?id=com.jndapp.cartoon.crayon.iconpack",
+    "icon": "https://play-lh.googleusercontent.com/MmLHNN4_lwIN7kMG7XWnOxSYbEju-FBMEn8oDj4Xt8t9EnnH6S6GQeMHJDWpGfeDOSpM",
+    "developer": "JustNewDesigns",
+    "developerId": "6871333323804023406",
+    "priceText": "€0.99",
+    "currency": "€",
+    "price": 0.99,
+    "free": false,
+    "summary": "Linear icons filled with Pastel colors",
+    "scoreText": "4.4",
+    "score": 4.43
+  },
+  {
+    "title": "PhotoPills",
+    "appId": "com.photopills.android.photopills",
+    "url": "https://play.google.com/store/apps/details?id=com.photopills.android.photopills",
+    "icon": "https://play-lh.googleusercontent.com/U00tLP776B-X5k-OkrJ1CcOMdfhd242UxvDsp8DPLY6j2LY0hvivmzFmuUGa7GbCZks",
+    "developer": "PhotoPills, SL",
+    "developerId": "PhotoPills,+SL",
+    "priceText": "€10.99",
+    "currency": "€",
+    "price": 10.99,
+    "free": false,
+    "summary": "Discover How to Plan any Sun, Moon and Milky Way Photo You Imagine in Seconds",
+    "scoreText": "4.9",
+    "score": 4.86
+  },
+  {
+    "title": "Agenda 2021 pro",
+    "appId": "ilpesce.web.agenda_2021_pro",
+    "url": "https://play.google.com/store/apps/details?id=ilpesce.web.agenda_2021_pro",
+    "icon": "https://play-lh.googleusercontent.com/OSqpU02n_QomIH_LDxrxNPUt7q66dICuQBo8tx73-ZH3jYnva3eL4JggkABRljS04fk",
+    "developer": "ilpesceweb",
+    "developerId": "ilpesceweb",
+    "priceText": "€2.89",
+    "currency": "€",
+    "price": 2.89,
+    "free": false,
+    "summary": "The Agenda 2021 pro Daily Planner/Diary is dated from January to December 2021",
+    "scoreText": "4.2",
+    "score": 4.2
+  },
+  {
+    "title": "PATENTE NAUTICA A QUIZ",
+    "appId": "com.frangente.quiz",
+    "url": "https://play.google.com/store/apps/details?id=com.frangente.quiz",
+    "icon": "https://play-lh.googleusercontent.com/JweTAoY0hsOSyKD90gmFlsJJIKy7E2lMC65-Pvx7nyYd886XaNZ-IY7LpOLnIugWoH0",
+    "developer": "Edizioni il Frangente",
+    "developerId": "Edizioni+il+Frangente",
+    "priceText": "€10.99",
+    "currency": "€",
+    "price": 10.99,
+    "free": false,
+    "summary": "264 images, 63 animations.\nWith the photographic memory, studying is easier",
+    "scoreText": "4.4",
+    "score": 4.387097
+  },
+  {
+    "title": "DiskDigger Pro file recovery",
+    "appId": "com.defianttech.diskdiggerpro",
+    "url": "https://play.google.com/store/apps/details?id=com.defianttech.diskdiggerpro",
+    "icon": "https://play-lh.googleusercontent.com/9-I35xyyNx5O-b_E2XXT_JMhiQ8yyLEMVl2VRMKf4m5CNMXBNIziBbHloS-nlOqFOzw",
+    "developer": "Defiant Technologies, LLC",
+    "developerId": "Defiant+Technologies,+LLC",
+    "priceText": "€3.37",
+    "currency": "€",
+    "price": 3.37,
+    "free": false,
+    "summary": "Undelete and recover your lost or deleted files with DiskDigger!",
+    "scoreText": "2.0",
+    "score": 1.95
+  },
+  {
+    "title": "Earth 3D - World Atlas",
+    "appId": "com.a3planesoft.earth101",
+    "url": "https://play.google.com/store/apps/details?id=com.a3planesoft.earth101",
+    "icon": "https://play-lh.googleusercontent.com/5NAH8Kr29k4paOocbtF3dQqYbUJ6IcJq6oN_-jixRp9UKo5t6AJ1ItgsuPKEgJ8uh14",
+    "developer": "3Planesoft",
+    "developerId": "4820963801024833785",
+    "priceText": "€0.59",
+    "currency": "€",
+    "price": 0.59,
+    "free": false,
+    "summary": "Smart Globe",
+    "scoreText": "4.5",
+    "score": 4.521739
+  },
+  {
+    "title": "Toca Life: Vacation",
+    "appId": "com.tocaboca.tocavacation",
+    "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocavacation",
+    "icon": "https://play-lh.googleusercontent.com/PRYlsPAkA0pGYe3LIdVhfk_QfWvU-mywRp5xYHLmtIfqgdd0Tos-0OPpyB9vz7fImmA",
+    "developer": "Toca Boca",
+    "developerId": "8567646723268777320",
+    "priceText": "€4.49",
+    "currency": "€",
+    "price": 4.49,
+    "free": false,
+    "summary": "Make every day a vacation adventure!",
+    "scoreText": "4.5",
+    "score": 4.49
+  },
+  {
+    "title": "Toca Life: Hospital",
+    "appId": "com.tocaboca.tocahospital",
+    "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocahospital",
+    "icon": "https://play-lh.googleusercontent.com/Jeoff_0VjrZ52ou5ghwKoCinaKcOYvWKOASuUNorrhN1nOkBTKn4yqEf0xFViz-3K_L4",
+    "developer": "Toca Boca",
+    "developerId": "8567646723268777320",
+    "priceText": "€4.49",
+    "currency": "€",
+    "price": 4.49,
+    "free": false,
+    "summary": "Experience the excitement of a busy medical center with Toca Life: Hospital!",
+    "scoreText": "4.4",
+    "score": 4.41
+  },
+  {
+    "title": "Navigator for Mi Band 5/4/3, Bip and Cor",
+    "appId": "com.re.mibandmaps",
+    "url": "https://play.google.com/store/apps/details?id=com.re.mibandmaps",
+    "icon": "https://play-lh.googleusercontent.com/mKTJqziVV7eWwwvuFOnNH_lei0H84SS4c8ORjMqUwdtsUPe0bVjEp1VmPecfe-6FeEc",
+    "developer": "Francesco Re",
+    "developerId": "6284374824436038177",
+    "priceText": "€0.99",
+    "currency": "€",
+    "price": 0.99,
+    "free": false,
+    "summary": "Receive Google Maps directions to your Mi Band 5/4/3, Bip or Cor",
+    "scoreText": "4.1",
+    "score": 4.07
+  },
+  {
+    "title": "IPTV Pro",
+    "appId": "ru.iptvremote.android.iptv.pro",
+    "url": "https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv.pro",
+    "icon": "https://play-lh.googleusercontent.com/SyaXGLAtrZA1ugftLTUzQNB56a-b6sNzQMkO4jXD8h1Qh4_15YSpXv9hA1vSW2Q2Bc0P",
+    "developer": "Alexander Sofronov",
+    "developerId": "Alexander+Sofronov",
+    "priceText": "€3.39",
+    "currency": "€",
+    "price": 3.39,
+    "free": false,
+    "summary": "Watch IPTV on your Android device",
+    "scoreText": "4.1",
+    "score": 4.09
+  },
+  {
+    "title": "Photo & Video & Audio Recovery Deleted - PRO",
+    "appId": "com.photoandvideo.recoveryfilepro",
+    "url": "https://play.google.com/store/apps/details?id=com.photoandvideo.recoveryfilepro",
+    "icon": "https://play-lh.googleusercontent.com/Qspmm8cQESuZEEyeXAS2XZi8ZtQlDDQkCZsb1EZbe7P_39-Y0cEHcEGSxXehtegLhjM",
+    "developer": "Detective Studio",
+    "developerId": "8111486798670125623",
+    "priceText": "€3.99",
+    "currency": "€",
+    "price": 3.99,
+    "free": false,
+    "summary": "Application that Recover your pictures, videos or files after you delete them.",
+    "scoreText": "4.2",
+    "score": 4.19
+  },
+  {
+    "title": "Toca Life: Stable",
+    "appId": "com.tocaboca.tocastable",
+    "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocastable",
+    "icon": "https://play-lh.googleusercontent.com/_qj6fCh-O8h1B15gPZlFkFId8fgab4Sn0J1PDbgx85Pwujt2dijbvJM1uR-iCLWujBk",
+    "developer": "Toca Boca",
+    "developerId": "8567646723268777320",
+    "priceText": "€4.49",
+    "currency": "€",
+    "price": 4.49,
+    "free": false,
+    "summary": "Welcome to a world of horses and adventure!",
+    "scoreText": "4.4",
+    "score": 4.45
+  },
+  {
+    "title": "LineX Icon Pack",
+    "appId": "com.jndapp.line.x.iconpack",
+    "url": "https://play.google.com/store/apps/details?id=com.jndapp.line.x.iconpack",
+    "icon": "https://play-lh.googleusercontent.com/7c0RsRYgfdx98eSwGfq-69BGzBg7t7WuydIqvlyZX7uN4dvs1IUFxUYcpUbokuDqJcf0",
+    "developer": "JustNewDesigns",
+    "developerId": "6871333323804023406",
+    "priceText": "€0.99",
+    "currency": "€",
+    "price": 0.99,
+    "free": false,
+    "summary": "Stunningly Different look with Line Icons and Neon Colors",
+    "scoreText": "4.6",
+    "score": 4.6008315
   },
   {
     "title": "MyShiftWork Pro",
@@ -777,7 +807,7 @@
     "free": false,
     "summary": "audioPro™ - Powerful Music Player",
     "scoreText": "4.4",
-    "score": 4.387324
+    "score": 4.389474
   },
   {
     "title": "Human Anatomy Atlas 2021: Complete 3D Human Body",
@@ -792,7 +822,37 @@
     "free": false,
     "summary": "A comprehensive 3D atlas of the human body",
     "scoreText": "4.7",
-    "score": 4.653477
+    "score": 4.653892
+  },
+  {
+    "title": "Toca Life: School",
+    "appId": "com.tocaboca.tocaschool",
+    "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocaschool",
+    "icon": "https://play-lh.googleusercontent.com/IPWhumhMFWaYc742ex3y3TmNZBZcCBCpgrJN_Ix2ecsLT_xWnbMx6UWC4eEoEAa4Ug",
+    "developer": "Toca Boca",
+    "developerId": "8567646723268777320",
+    "priceText": "€4.49",
+    "currency": "€",
+    "price": 4.49,
+    "free": false,
+    "summary": "Grab your backpack— it’s time for Toca Life: School!",
+    "scoreText": "4.4",
+    "score": 4.351887
+  },
+  {
+    "title": "KTM MY RIDE Navigation",
+    "appId": "com.ktm.myride",
+    "url": "https://play.google.com/store/apps/details?id=com.ktm.myride",
+    "icon": "https://play-lh.googleusercontent.com/aTeozfZanKUTkYsJMrPyiPX3Kfvso42eZ-JPp1nnLQA6wtKR7ubWuQQpifm_RXQ8zPI",
+    "developer": "KTM Sportmotorcycle GmbH",
+    "developerId": "KTM+Sportmotorcycle+GmbH",
+    "priceText": "€8.99",
+    "currency": "€",
+    "price": 8.99,
+    "free": false,
+    "summary": "Mobile phones and devices are much more than just a means of communication now.",
+    "scoreText": "2.2",
+    "score": 2.1584158
   },
   {
     "title": "3D Parallax Background - 4D HD Live Wallpapers 4K",
@@ -807,7 +867,22 @@
     "free": false,
     "summary": "Parallax 4D Live Wallpapers HD and 4K!✨ Amazing live wallpaper and background!😍",
     "scoreText": "4.2",
-    "score": 4.1661253
+    "score": 4.166464
+  },
+  {
+    "title": "Esame patente nautica. A cura di Miriam Lettori",
+    "appId": "com.frangente.esamepatentenautica",
+    "url": "https://play.google.com/store/apps/details?id=com.frangente.esamepatentenautica",
+    "icon": "https://play-lh.googleusercontent.com/C-EaaDedmYqOu06rU0KJUqk2JlF1GqUZjIhx9qnkfFRoxDpzBPoW8RTlwNiMvnzXRQU",
+    "developer": "Edizioni il Frangente",
+    "developerId": "Edizioni+il+Frangente",
+    "priceText": "€10.99",
+    "currency": "€",
+    "price": 10.99,
+    "free": false,
+    "summary": "147 simulation boards of ministerial examination quiz for the license.",
+    "scoreText": "4.4",
+    "score": 4.4
   },
   {
     "title": "Oxigen HD - Icon Pack",
@@ -900,21 +975,6 @@
     "score": 2.3283582
   },
   {
-    "title": "Toca Life: Stable",
-    "appId": "com.tocaboca.tocastable",
-    "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocastable",
-    "icon": "https://play-lh.googleusercontent.com/_qj6fCh-O8h1B15gPZlFkFId8fgab4Sn0J1PDbgx85Pwujt2dijbvJM1uR-iCLWujBk",
-    "developer": "Toca Boca",
-    "developerId": "8567646723268777320",
-    "priceText": "€4.49",
-    "currency": "€",
-    "price": 4.49,
-    "free": false,
-    "summary": "Welcome to a world of horses and adventure!",
-    "scoreText": "4.5",
-    "score": 4.492347
-  },
-  {
     "title": "Oxigen 3D - Icon Pack",
     "appId": "com.cris87.oxygen3d",
     "url": "https://play.google.com/store/apps/details?id=com.cris87.oxygen3d",
@@ -930,6 +990,21 @@
     "score": 4.35
   },
   {
+    "title": "1DM+: Browser, Video, Audio, Torrent Downloader",
+    "appId": "idm.internet.download.manager.plus",
+    "url": "https://play.google.com/store/apps/details?id=idm.internet.download.manager.plus",
+    "icon": "https://play-lh.googleusercontent.com/_CeHodp7UbckX3rmZKrdKXINt2DAszMRJEL3x33dPCJLzcRFlcYOvDu0qq9hDGE7PQ",
+    "developer": "Vicky Bonick",
+    "developerId": "6290983356531270140",
+    "priceText": "€0.69",
+    "currency": "€",
+    "price": 0.69,
+    "free": false,
+    "summary": "1DM+ is most advanced download manager (up to 500% faster) with Torrent support",
+    "scoreText": "4.7",
+    "score": 4.6599665
+  },
+  {
     "title": "Simple Contacts Pro: Address Book & Contact Backup",
     "appId": "com.simplemobiletools.contacts.pro",
     "url": "https://play.google.com/store/apps/details?id=com.simplemobiletools.contacts.pro",
@@ -942,7 +1017,37 @@
     "free": false,
     "summary": "Contacts address book for managing recent contacts and vcf contact backups",
     "scoreText": "4.5",
-    "score": 4.5170455
+    "score": 4.519774
+  },
+  {
+    "title": "Video & TV Cast | Ultimate Edition",
+    "appId": "de.twokit.video.tv.cast.browser.ultimate",
+    "url": "https://play.google.com/store/apps/details?id=de.twokit.video.tv.cast.browser.ultimate",
+    "icon": "https://play-lh.googleusercontent.com/DQtWJK5velhlh1U1v2guEtNEIfkzUSlNU4zagSVvyZPmcWo5dv_CISpZFn8n2BWGYzUN",
+    "developer": "2kit consulting",
+    "developerId": "6284879872961307001",
+    "priceText": "€7.99",
+    "currency": "€",
+    "price": 7.99,
+    "free": false,
+    "summary": "Stream Web Videos to Chromecast, Samsung, LG, Sony, Roku, Fire TV, DLNA + more",
+    "scoreText": "3.8",
+    "score": 3.8031497
+  },
+  {
+    "title": "FL Studio Mobile",
+    "appId": "com.imageline.FLM",
+    "url": "https://play.google.com/store/apps/details?id=com.imageline.FLM",
+    "icon": "https://play-lh.googleusercontent.com/Pxdgk7UjvfpihQv_WaAIndFJS0f_NcGvKGoKDN6HovXmnAQexYTgxDtPWdFRErJ_NRs",
+    "developer": "Image-Line",
+    "developerId": "8228703397536036345",
+    "priceText": "€14.90",
+    "currency": "€",
+    "price": 14.9,
+    "free": false,
+    "summary": "The fastest way from your brain to your speakers.",
+    "scoreText": "4.2",
+    "score": 4.178468
   },
   {
     "title": "The Wonder Weeks",
@@ -957,37 +1062,37 @@
     "free": false,
     "summary": "The world’s most popular and best-selling baby app",
     "scoreText": "4.4",
-    "score": 4.399042
+    "score": 4.398651
   },
   {
-    "title": "Toca Life: School",
-    "appId": "com.tocaboca.tocaschool",
-    "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocaschool",
-    "icon": "https://play-lh.googleusercontent.com/IPWhumhMFWaYc742ex3y3TmNZBZcCBCpgrJN_Ix2ecsLT_xWnbMx6UWC4eEoEAa4Ug",
-    "developer": "Toca Boca",
-    "developerId": "8567646723268777320",
-    "priceText": "€4.49",
+    "title": "Video & TV Cast + Fire TV | Web Video Browser",
+    "appId": "de.twokit.video.tv.cast.browser.firetv.pro",
+    "url": "https://play.google.com/store/apps/details?id=de.twokit.video.tv.cast.browser.firetv.pro",
+    "icon": "https://play-lh.googleusercontent.com/fhbEY_bx-P-fqv5rqSTqEESGc4OdPmXJ5oD0a_s9w5tX6DXrVOamOylMI1fCX0mSoKA",
+    "developer": "2kit consulting",
+    "developerId": "6284879872961307001",
+    "priceText": "€4.99",
     "currency": "€",
-    "price": 4.49,
+    "price": 4.99,
     "free": false,
-    "summary": "Grab your backpack— it’s time for Toca Life: School!",
-    "scoreText": "4.4",
-    "score": 4.3530912
+    "summary": "Browser for Fire TV to stream webvideos, online movies, livestreams in HD",
+    "scoreText": "2.4",
+    "score": 2.4455445
   },
   {
-    "title": "Esame patente nautica. A cura di Miriam Lettori",
-    "appId": "com.frangente.esamepatentenautica",
-    "url": "https://play.google.com/store/apps/details?id=com.frangente.esamepatentenautica",
-    "icon": "https://play-lh.googleusercontent.com/C-EaaDedmYqOu06rU0KJUqk2JlF1GqUZjIhx9qnkfFRoxDpzBPoW8RTlwNiMvnzXRQU",
-    "developer": "Edizioni il Frangente",
-    "developerId": "Edizioni+il+Frangente",
-    "priceText": "€10.99",
+    "title": "Screen Mirroring Pro for Fire TV",
+    "appId": "de.twokit.screen.mirroring.app.firetv.pro",
+    "url": "https://play.google.com/store/apps/details?id=de.twokit.screen.mirroring.app.firetv.pro",
+    "icon": "https://play-lh.googleusercontent.com/qXlBmDEYDflz5IP2mArMmejj4qbSSkAoAOVOQj9FcA3RA40L9oH1hMY9zMuBxDX3CVI",
+    "developer": "2kit consulting",
+    "developerId": "6284879872961307001",
+    "priceText": "€4.99",
     "currency": "€",
-    "price": 10.99,
+    "price": 4.99,
     "free": false,
-    "summary": "147 simulation boards of ministerial examination quiz for the license.",
-    "scoreText": "4.4",
-    "score": 4.4
+    "summary": "Mirror your screen to Fire TV - Super fast and simple",
+    "scoreText": "2.0",
+    "score": 2.05
   },
   {
     "title": "Monash University FODMAP diet",
@@ -1005,6 +1110,21 @@
     "score": 3.8551402
   },
   {
+    "title": "SD Maid Pro - Unlocker",
+    "appId": "eu.thedarken.sdm.unlocker",
+    "url": "https://play.google.com/store/apps/details?id=eu.thedarken.sdm.unlocker",
+    "icon": "https://play-lh.googleusercontent.com/LSzx-MtueW0rkK7fUbYYwDZmjqAfqAdPhIfOXALP847hNT-zkOpAvpu5yx6GOrD9lQk",
+    "developer": "darken",
+    "developerId": "darken",
+    "priceText": "€3.69",
+    "currency": "€",
+    "price": 3.69,
+    "free": false,
+    "summary": "A maid for your Android, to keep it clean &amp; tidy.",
+    "scoreText": "4.5",
+    "score": 4.522712
+  },
+  {
     "title": "USB Audio Player PRO",
     "appId": "com.extreamsd.usbaudioplayerpro",
     "url": "https://play.google.com/store/apps/details?id=com.extreamsd.usbaudioplayerpro",
@@ -1017,7 +1137,7 @@
     "free": false,
     "summary": "High quality media player supporting USB audio DACs and HiRes audio chips",
     "scoreText": "4.2",
-    "score": 4.1601887
+    "score": 4.1621623
   },
   {
     "title": "Reddito di Cittadinanza",
@@ -1035,19 +1155,19 @@
     "score": 2
   },
   {
-    "title": "LineX Icon Pack",
-    "appId": "com.jndapp.line.x.iconpack",
-    "url": "https://play.google.com/store/apps/details?id=com.jndapp.line.x.iconpack",
-    "icon": "https://play-lh.googleusercontent.com/7c0RsRYgfdx98eSwGfq-69BGzBg7t7WuydIqvlyZX7uN4dvs1IUFxUYcpUbokuDqJcf0",
-    "developer": "JustNewDesigns",
-    "developerId": "6871333323804023406",
-    "priceText": "€0.99",
+    "title": "Tello FPV - Control the Ryze Tello drone FPV + RTH",
+    "appId": "com.volatello.tellofpv",
+    "url": "https://play.google.com/store/apps/details?id=com.volatello.tellofpv",
+    "icon": "https://play-lh.googleusercontent.com/oqSR5or-fKE-kxxnyp6Rs67yjtBogDwfubHV1o-LYL5tIdh6AVWGgxOuhhhAY_Vf2A",
+    "developer": "Volate!lo",
+    "developerId": "5552407244136644970",
+    "priceText": "€5.49",
     "currency": "€",
-    "price": 0.99,
+    "price": 5.49,
     "free": false,
-    "summary": "Stunningly Different look with Line Icons and Neon Colors",
-    "scoreText": "4.6",
-    "score": 4.6
+    "summary": "Fly the Ryze Tello drone with any gamepad! FPV + VR + RTH",
+    "scoreText": "4.2",
+    "score": 4.1761365
   },
   {
     "title": "LightMeter",
@@ -1110,51 +1230,6 @@
     "score": 4.266667
   },
   {
-    "title": "FL Studio Mobile",
-    "appId": "com.imageline.FLM",
-    "url": "https://play.google.com/store/apps/details?id=com.imageline.FLM",
-    "icon": "https://play-lh.googleusercontent.com/Pxdgk7UjvfpihQv_WaAIndFJS0f_NcGvKGoKDN6HovXmnAQexYTgxDtPWdFRErJ_NRs",
-    "developer": "Image-Line",
-    "developerId": "8228703397536036345",
-    "priceText": "€14.90",
-    "currency": "€",
-    "price": 14.9,
-    "free": false,
-    "summary": "The fastest way from your brain to your speakers.",
-    "scoreText": "4.2",
-    "score": 4.1781316
-  },
-  {
-    "title": "Video & TV Cast + Fire TV | Web Video Browser",
-    "appId": "de.twokit.video.tv.cast.browser.firetv.pro",
-    "url": "https://play.google.com/store/apps/details?id=de.twokit.video.tv.cast.browser.firetv.pro",
-    "icon": "https://play-lh.googleusercontent.com/fhbEY_bx-P-fqv5rqSTqEESGc4OdPmXJ5oD0a_s9w5tX6DXrVOamOylMI1fCX0mSoKA",
-    "developer": "2kit consulting",
-    "developerId": "6284879872961307001",
-    "priceText": "€4.99",
-    "currency": "€",
-    "price": 4.99,
-    "free": false,
-    "summary": "Browser for Fire TV to stream webvideos, online movies, livestreams in HD",
-    "scoreText": "2.4",
-    "score": 2.4455445
-  },
-  {
-    "title": "Screen Mirroring Pro for Fire TV",
-    "appId": "de.twokit.screen.mirroring.app.firetv.pro",
-    "url": "https://play.google.com/store/apps/details?id=de.twokit.screen.mirroring.app.firetv.pro",
-    "icon": "https://play-lh.googleusercontent.com/qXlBmDEYDflz5IP2mArMmejj4qbSSkAoAOVOQj9FcA3RA40L9oH1hMY9zMuBxDX3CVI",
-    "developer": "2kit consulting",
-    "developerId": "6284879872961307001",
-    "priceText": "€4.99",
-    "currency": "€",
-    "price": 4.99,
-    "free": false,
-    "summary": "Mirror your screen to Fire TV - Super fast and simple",
-    "scoreText": "2.0",
-    "score": 2.05
-  },
-  {
     "title": "STUNLOCKER",
     "appId": "com.stunlocker.app.su",
     "url": "https://play.google.com/store/apps/details?id=com.stunlocker.app.su",
@@ -1166,8 +1241,8 @@
     "price": 1.39,
     "free": false,
     "summary": "Unleash the power of your E-bike",
-    "scoreText": "4.4",
-    "score": 4.3627453
+    "scoreText": "4.3",
+    "score": 4.31
   },
   {
     "title": "Network Cell Info - Mobile & WiFi Signal",
@@ -1182,7 +1257,22 @@
     "free": false,
     "summary": "The network cell signal monitoring tool for LTE, UMTS, GSM, CDMA.",
     "scoreText": "4.5",
-    "score": 4.52439
+    "score": 4.5249662
+  },
+  {
+    "title": "Calendar Widget KEY",
+    "appId": "sk.mildev84.agendareminder.unlockkey",
+    "url": "https://play.google.com/store/apps/details?id=sk.mildev84.agendareminder.unlockkey",
+    "icon": "https://play-lh.googleusercontent.com/AdUQCq_trBdUxiLxwNG1H02M_OxfwfX0hlcIm3w1j_j4lf02a1TjYa5umpgEsP4xCDU",
+    "developer": "Milan Sillik",
+    "developerId": "4747964102251669835",
+    "priceText": "€3.99",
+    "currency": "€",
+    "price": 3.99,
+    "free": false,
+    "summary": "▶ Unlocks PRO features from Calendar widget ◀",
+    "scoreText": "4.3",
+    "score": 4.291262
   },
   {
     "title": "Smart Keyboard Pro",
@@ -1212,7 +1302,7 @@
     "free": false,
     "summary": "Discover Your Place in the Universe",
     "scoreText": "4.9",
-    "score": 4.87907
+    "score": 4.877647
   },
   {
     "title": "WiFi Analyzer Premium",
@@ -1227,7 +1317,7 @@
     "free": false,
     "summary": "Optimize your WiFi network using WiFi Analyzer, No Ads, WiFi Diagnostics!",
     "scoreText": "4.7",
-    "score": 4.712785
+    "score": 4.714286
   },
   {
     "title": "Panda Gamepad Pro (BETA)",
@@ -1242,22 +1332,7 @@
     "free": false,
     "summary": "Play hot games with gamepad!",
     "scoreText": "2.9",
-    "score": 2.915154
-  },
-  {
-    "title": "1DM+: Browser, Video, Audio, Torrent Downloader",
-    "appId": "idm.internet.download.manager.plus",
-    "url": "https://play.google.com/store/apps/details?id=idm.internet.download.manager.plus",
-    "icon": "https://play-lh.googleusercontent.com/_CeHodp7UbckX3rmZKrdKXINt2DAszMRJEL3x33dPCJLzcRFlcYOvDu0qq9hDGE7PQ",
-    "developer": "Vicky Bonick",
-    "developerId": "6290983356531270140",
-    "priceText": "€0.69",
-    "currency": "€",
-    "price": 0.69,
-    "free": false,
-    "summary": "1DM+ is most advanced download manager (up to 500% faster) with Torrent support",
-    "scoreText": "4.7",
-    "score": 4.6610312
+    "score": 2.9178572
   },
   {
     "title": "Root Explorer",
@@ -1272,7 +1347,7 @@
     "free": false,
     "summary": "The ultimate file manager for rooted devices. The original and still the best.",
     "scoreText": "4.3",
-    "score": 4.343846
+    "score": 4.345187
   },
   {
     "title": "Official DVSA Theory Test Kit",
@@ -1287,22 +1362,7 @@
     "free": false,
     "summary": "Only official theory test kit app",
     "scoreText": "4.5",
-    "score": 4.505917
-  },
-  {
-    "title": "Video & TV Cast | Ultimate Edition",
-    "appId": "de.twokit.video.tv.cast.browser.ultimate",
-    "url": "https://play.google.com/store/apps/details?id=de.twokit.video.tv.cast.browser.ultimate",
-    "icon": "https://play-lh.googleusercontent.com/DQtWJK5velhlh1U1v2guEtNEIfkzUSlNU4zagSVvyZPmcWo5dv_CISpZFn8n2BWGYzUN",
-    "developer": "2kit consulting",
-    "developerId": "6284879872961307001",
-    "priceText": "€7.99",
-    "currency": "€",
-    "price": 7.99,
-    "free": false,
-    "summary": "Stream Web Videos to Chromecast, Samsung, LG, Sony, Roku, Fire TV, DLNA + more",
-    "scoreText": "3.8",
-    "score": 3.806324
+    "score": 4.5044513
   },
   {
     "title": "ReadEra Premium - book reader pdf, epub, word",
@@ -1317,22 +1377,22 @@
     "free": false,
     "summary": "Read books PDF, EPUB, WORD, KINDLE, MOBI! Best book reader ever of reading apps.",
     "scoreText": "4.8",
-    "score": 4.8358207
+    "score": 4.8379745
   },
   {
-    "title": "KTM MY RIDE Navigation",
-    "appId": "com.ktm.myride",
-    "url": "https://play.google.com/store/apps/details?id=com.ktm.myride",
-    "icon": "https://play-lh.googleusercontent.com/aTeozfZanKUTkYsJMrPyiPX3Kfvso42eZ-JPp1nnLQA6wtKR7ubWuQQpifm_RXQ8zPI",
-    "developer": "KTM Sportmotorcycle GmbH",
-    "developerId": "KTM+Sportmotorcycle+GmbH",
-    "priceText": "€8.99",
+    "title": "BubbleUPnP UPnP/DLNA License",
+    "appId": "com.bubblesoft.android.bubbleupnp.unlocker",
+    "url": "https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp.unlocker",
+    "icon": "https://play-lh.googleusercontent.com/01je7i9s4l5ba9pS8Nek06umu4I-ho3uLeVWd0VUxvQ3vsgtqWBqSWeR7-4yz5VxxzU",
+    "developer": "Bubblesoft",
+    "developerId": "Bubblesoft",
+    "priceText": "€3.99",
     "currency": "€",
-    "price": 8.99,
+    "price": 3.99,
     "free": false,
-    "summary": "Mobile phones and devices are much more than just a means of communication now.",
-    "scoreText": "2.2",
-    "score": 2.1584158
+    "summary": "🔸 Stream all your media to various devices in your house. Unlocker app.",
+    "scoreText": "4.1",
+    "score": 4.1114616
   },
   {
     "title": "Borealis - Icon Pack",
@@ -1347,7 +1407,7 @@
     "free": false,
     "summary": "Over 20,000 high quality icons to bring color &amp; homogeneity to your phone.",
     "scoreText": "4.8",
-    "score": 4.7842107
+    "score": 4.7853403
   },
   {
     "title": "Tools & Amazfit",
@@ -1361,8 +1421,8 @@
     "price": 3.69,
     "free": false,
     "summary": "Text notifications, button control, heart monitor &amp; more for your Amazfit.",
-    "scoreText": "3.4",
-    "score": 3.3682864
+    "scoreText": "3.3",
+    "score": 3.3443878
   },
   {
     "title": "Automatic Call Recorder Pro",
@@ -1377,22 +1437,7 @@
     "free": false,
     "summary": "The best way to record your phone calls.",
     "scoreText": "2.9",
-    "score": 2.8778517
-  },
-  {
-    "title": "Calendar Widget KEY",
-    "appId": "sk.mildev84.agendareminder.unlockkey",
-    "url": "https://play.google.com/store/apps/details?id=sk.mildev84.agendareminder.unlockkey",
-    "icon": "https://play-lh.googleusercontent.com/AdUQCq_trBdUxiLxwNG1H02M_OxfwfX0hlcIm3w1j_j4lf02a1TjYa5umpgEsP4xCDU",
-    "developer": "Milan Sillik",
-    "developerId": "4747964102251669835",
-    "priceText": "€3.99",
-    "currency": "€",
-    "price": 3.99,
-    "free": false,
-    "summary": "▶ Unlocks PRO features from Calendar widget ◀",
-    "scoreText": "4.3",
-    "score": 4.291262
+    "score": 2.8778737
   },
   {
     "title": "Electrodoc Pro",
@@ -1407,7 +1452,7 @@
     "free": false,
     "summary": "Powerful collection of electronics tools and reference.A must for any enthusiast",
     "scoreText": "4.8",
-    "score": 4.826724
+    "score": 4.826649
   },
   {
     "title": "CL Theme 3D Style",
@@ -1436,8 +1481,8 @@
     "price": 5.49,
     "free": false,
     "summary": "Connect EasyCap or UVC devices for recording and broadcast video/audio stream",
-    "scoreText": "4.1",
-    "score": 4.06
+    "scoreText": "4.0",
+    "score": 4.02
   },
   {
     "title": "HiPER Calc Pro",
@@ -1452,7 +1497,7 @@
     "free": false,
     "summary": "Excellent scientific calculator with symbolic algebra, integrals, derivatives",
     "scoreText": "4.8",
-    "score": 4.843655
+    "score": 4.8438725
   },
   {
     "title": "CITB Operatives & Specialists HS&E test 2019",
@@ -1467,22 +1512,7 @@
     "free": false,
     "summary": "The official 2019 CITB HS&amp;E test app for Operatives and Specialists",
     "scoreText": "4.8",
-    "score": 4.816092
-  },
-  {
-    "title": "SD Maid Pro - Unlocker",
-    "appId": "eu.thedarken.sdm.unlocker",
-    "url": "https://play.google.com/store/apps/details?id=eu.thedarken.sdm.unlocker",
-    "icon": "https://play-lh.googleusercontent.com/LSzx-MtueW0rkK7fUbYYwDZmjqAfqAdPhIfOXALP847hNT-zkOpAvpu5yx6GOrD9lQk",
-    "developer": "darken",
-    "developerId": "darken",
-    "priceText": "€3.69",
-    "currency": "€",
-    "price": 3.69,
-    "free": false,
-    "summary": "A maid for your Android, to keep it clean &amp; tidy.",
-    "scoreText": "4.5",
-    "score": 4.52257
+    "score": 4.817143
   },
   {
     "title": "TuneECU",
@@ -1515,21 +1545,6 @@
     "score": 4.46
   },
   {
-    "title": "Tello FPV - Control the Ryze Tello drone FPV + RTH",
-    "appId": "com.volatello.tellofpv",
-    "url": "https://play.google.com/store/apps/details?id=com.volatello.tellofpv",
-    "icon": "https://play-lh.googleusercontent.com/oqSR5or-fKE-kxxnyp6Rs67yjtBogDwfubHV1o-LYL5tIdh6AVWGgxOuhhhAY_Vf2A",
-    "developer": "Volate!lo",
-    "developerId": "5552407244136644970",
-    "priceText": "€5.49",
-    "currency": "€",
-    "price": 5.49,
-    "free": false,
-    "summary": "Fly the Ryze Tello drone with any gamepad! FPV + VR + RTH",
-    "scoreText": "4.2",
-    "score": 4.1714287
-  },
-  {
     "title": "🚨 Earthquake Network Pro - Realtime alerts",
     "appId": "com.finazzi.distquakenoads",
     "url": "https://play.google.com/store/apps/details?id=com.finazzi.distquakenoads",
@@ -1542,7 +1557,22 @@
     "free": false,
     "summary": "The first app for real time earthquake alerts on your smartphone",
     "scoreText": "4.5",
-    "score": 4.506098
+    "score": 4.5031056
+  },
+  {
+    "title": "Manual Camera : DSLR - Camera Professional",
+    "appId": "com.lensesdev.manual.camera.pro",
+    "url": "https://play.google.com/store/apps/details?id=com.lensesdev.manual.camera.pro",
+    "icon": "https://play-lh.googleusercontent.com/OiTzj9GSZfpW9wozsKpLXmx8EkdHod_Tr9Xot2fcwuA4plP0mEbBgVeFWpi4LiZ6kDA",
+    "developer": "Lenses Inc.",
+    "developerId": "6859713867874290897",
+    "priceText": "€4.29",
+    "currency": "€",
+    "price": 4.29,
+    "free": false,
+    "summary": "Take your mobile photography to the next level",
+    "scoreText": "4.3",
+    "score": 4.2742157
   },
   {
     "title": "Nebo: Note-Taking & Annotation",
@@ -1556,8 +1586,8 @@
     "price": 9.99,
     "free": false,
     "summary": "Handwriting &amp; write to text",
-    "scoreText": "4.4",
-    "score": 4.350211
+    "scoreText": "4.3",
+    "score": 4.3472805
   },
   {
     "title": "SKRWT",
@@ -1572,7 +1602,22 @@
     "free": false,
     "summary": "SKRWT - The Missing Link in High-End Mobile Photography",
     "scoreText": "3.2",
-    "score": 3.1650486
+    "score": 3.1545894
+  },
+  {
+    "title": "Strelok Pro",
+    "appId": "com.borisov.strelokpro",
+    "url": "https://play.google.com/store/apps/details?id=com.borisov.strelokpro",
+    "icon": "https://play-lh.googleusercontent.com/HjvKKfJNzrbMiKLleL9NypZjbIoNMsgc5nTuvUc1X_MQJwV9X1YM7Qb8CKdNTiKodhSI",
+    "developer": "Igor Borisov",
+    "developerId": "Igor+Borisov",
+    "priceText": "€11.99",
+    "currency": "€",
+    "price": 11.99,
+    "free": false,
+    "summary": "Professional ballistic calculator",
+    "scoreText": "4.8",
+    "score": 4.801653
   },
   {
     "title": "AlpineQuest Off-Road Explorer",
@@ -1587,7 +1632,7 @@
     "free": false,
     "summary": "Turn your Android device into a real off-road GPS using off-line topo maps!",
     "scoreText": "4.7",
-    "score": 4.666124
+    "score": 4.6672077
   },
   {
     "title": "Toca Life: Pets",
@@ -1602,7 +1647,7 @@
     "free": false,
     "summary": "Meet friends with paws &amp; claws",
     "scoreText": "4.2",
-    "score": 4.244186
+    "score": 4.247104
   },
   {
     "title": "Star Walk 2 - Night Sky View and Stargazing Guide",
@@ -1617,22 +1662,7 @@
     "free": false,
     "summary": "Astronomy app. Map of the stars and constellations. Solar system planets finder.",
     "scoreText": "4.7",
-    "score": 4.6950073
-  },
-  {
-    "title": "BubbleUPnP UPnP/DLNA License",
-    "appId": "com.bubblesoft.android.bubbleupnp.unlocker",
-    "url": "https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp.unlocker",
-    "icon": "https://play-lh.googleusercontent.com/01je7i9s4l5ba9pS8Nek06umu4I-ho3uLeVWd0VUxvQ3vsgtqWBqSWeR7-4yz5VxxzU",
-    "developer": "Bubblesoft",
-    "developerId": "Bubblesoft",
-    "priceText": "€3.99",
-    "currency": "€",
-    "price": 3.99,
-    "free": false,
-    "summary": "🔸 Stream all your media to various devices in your house. Unlocker app.",
-    "scoreText": "4.1",
-    "score": 4.1114616
+    "score": 4.695459
   },
   {
     "title": "Theme Flexure for Car Launcher",
@@ -1662,7 +1692,22 @@
     "free": false,
     "summary": "FolderSync enables easy sync of files between cloud storage and Android devices.",
     "scoreText": "4.5",
-    "score": 4.452068
+    "score": 4.4527946
+  },
+  {
+    "title": "Color Line DARK Icon Pack",
+    "appId": "color.line.dark",
+    "url": "https://play.google.com/store/apps/details?id=color.line.dark",
+    "icon": "https://play-lh.googleusercontent.com/cFMbr4zwNMhbxXzDcq8wR7k86B2LNYD_lV9nekYDgh74ANdOMQb1b594a1Hhltccfw",
+    "developer": "SKwallpapers",
+    "developerId": "5160763757107307799",
+    "priceText": "€0.59",
+    "currency": "€",
+    "price": 0.59,
+    "free": false,
+    "summary": "Dark icons with colorful outlines.",
+    "scoreText": "3.9",
+    "score": 3.94
   },
   {
     "title": "Plague Inc: Scenario Creator",
@@ -1677,7 +1722,52 @@
     "free": false,
     "summary": "Enter the lab and develop amazing custom scenarios for Plague Inc.",
     "scoreText": "4.2",
-    "score": 4.2259617
+    "score": 4.214286
+  },
+  {
+    "title": "aWallet Cloud Password Manager",
+    "appId": "org.awallet.cloud",
+    "url": "https://play.google.com/store/apps/details?id=org.awallet.cloud",
+    "icon": "https://play-lh.googleusercontent.com/bAApliBMrsZ7A7996vaIaV8m3LZDaWIke3-FpG_37JGNhZMGqioT26PW9KLMO1I4L-E",
+    "developer": "Synpet",
+    "developerId": "Synpet",
+    "priceText": "€2.29",
+    "currency": "€",
+    "price": 2.29,
+    "free": false,
+    "summary": "Android Wallet Password Manager",
+    "scoreText": "4.8",
+    "score": 4.769231
+  },
+  {
+    "title": "WiFi File Transfer Pro",
+    "appId": "com.smarterdroid.wififiletransferpro",
+    "url": "https://play.google.com/store/apps/details?id=com.smarterdroid.wififiletransferpro",
+    "icon": "https://play-lh.googleusercontent.com/VQ71egGszoHqsGvy2TrtlXOMRljqT2kC3VRXXhgOIkqQhGSauOVwaqNvcNUm6N6W9fzy",
+    "developer": "smarterDroid",
+    "developerId": "smarterDroid",
+    "priceText": "€0.99",
+    "currency": "€",
+    "price": 0.99,
+    "free": false,
+    "summary": "Upload and download files to/from your Android device over a wireless connection",
+    "scoreText": "4.3",
+    "score": 4.268366
+  },
+  {
+    "title": "Tavecchiacoin Pro",
+    "appId": "com.tavecchiacoin.finderpro",
+    "url": "https://play.google.com/store/apps/details?id=com.tavecchiacoin.finderpro",
+    "icon": "https://play-lh.googleusercontent.com/8N4uCBMOBpMPC26o2y3zVHJTFqCXI8Zpmg8XBoyRqO9oyu6NhtTgNGskWvaShV49Yxao",
+    "developer": "TAVECCHIACOIN LTD",
+    "developerId": "TAVECCHIACOIN+LTD",
+    "priceText": "€4.89",
+    "currency": "€",
+    "price": 4.89,
+    "free": false,
+    "summary": "Tavecchiacoin, the non - monetary exchange system for people",
+    "scoreText": "3.9",
+    "score": 3.9375
   },
   {
     "title": "Ultimate IPTV Playlist Loader PRO",
@@ -1710,6 +1800,21 @@
     "score": 3.63
   },
   {
+    "title": "VAG DPF",
+    "appId": "com.applagapp.vagdpf",
+    "url": "https://play.google.com/store/apps/details?id=com.applagapp.vagdpf",
+    "icon": "https://play-lh.googleusercontent.com/LdittZ-Uk27R4dM0M0zmunCoiwJ2NoS-KC8RZ2aitNzfyOnWPVsYPTo3CruI4jQhVA",
+    "developer": "Daaren Fonloil",
+    "developerId": "Daaren+Fonloil",
+    "priceText": "€4.89",
+    "currency": "€",
+    "price": 4.89,
+    "free": false,
+    "summary": "DPF particulate filter status of your TDI VW Audi Seat Skoda (see engine list)",
+    "scoreText": "4.0",
+    "score": 4.03
+  },
+  {
     "title": "Video Player Phone",
     "appId": "com.tinyapps.videoplayer",
     "url": "https://play.google.com/store/apps/details?id=com.tinyapps.videoplayer",
@@ -1722,7 +1827,7 @@
     "free": false,
     "summary": "Easy transfer video file to Galaxy watch and watch them on your watch",
     "scoreText": "3.8",
-    "score": 3.79
+    "score": 3.7623763
   },
   {
     "title": "aCalendar+ Calendar & Tasks",
@@ -1737,7 +1842,7 @@
     "free": false,
     "summary": "aCalendar+ makes your day, week and month",
     "scoreText": "4.7",
-    "score": 4.655439
+    "score": 4.6559606
   },
   {
     "title": "Driver Card Reader PRO",
@@ -1782,7 +1887,7 @@
     "free": false,
     "summary": "Sync your activities of the most popular sports tracking services",
     "scoreText": "3.7",
-    "score": 3.74092
+    "score": 3.7451456
   },
   {
     "title": "Android 12 Icon Pack",
@@ -1811,8 +1916,23 @@
     "price": 3.29,
     "free": false,
     "summary": "Play games with mouse&amp;keyboard! Google Play login! No ban!",
-    "scoreText": "3.8",
-    "score": 3.8329465
+    "scoreText": "3.9",
+    "score": 3.8735363
+  },
+  {
+    "title": "Stellarium Mobile PLUS - Star Map",
+    "appId": "com.noctuasoftware.stellarium_plus",
+    "url": "https://play.google.com/store/apps/details?id=com.noctuasoftware.stellarium_plus",
+    "icon": "https://play-lh.googleusercontent.com/Qbw2RpfafGjzOt9FRzyZ6A28RqxUIGwuwzYaYFILzp5NtvF2JKkYLT0BEuJsGMHOPtY",
+    "developer": "Noctua Software",
+    "developerId": "Noctua+Software",
+    "priceText": "€9.99",
+    "currency": "€",
+    "price": 9.99,
+    "free": false,
+    "summary": "The most realistic sky map to observe stars, planets and constellations!",
+    "scoreText": "4.8",
+    "score": 4.8301888
   },
   {
     "title": "Screenshot Pro - Automatic trimming",
@@ -1827,7 +1947,7 @@
     "free": false,
     "summary": "High-speed screenshot photography, optimal for consecutive captures.",
     "scoreText": "4.6",
-    "score": 4.5848374
+    "score": 4.5842295
   },
   {
     "title": "Simple Thank You - Thanks for supporting us :)",
@@ -1842,7 +1962,7 @@
     "free": false,
     "summary": "A warm Thank You for supporting our modern &amp; easy Simple Mobile Tools apps!",
     "scoreText": "4.7",
-    "score": 4.70354
+    "score": 4.704846
   },
   {
     "title": "Reading Trainer",
@@ -1857,7 +1977,7 @@
     "free": false,
     "summary": "Improve your reading speed with 12 challenging and fun exercises.",
     "scoreText": "4.7",
-    "score": 4.656099
+    "score": 4.656468
   },
   {
     "title": "OsmAnd+ — Offline Maps, Travel & Navigation",
@@ -1872,7 +1992,7 @@
     "free": false,
     "summary": "Offline maps, Travel, POI, Transit &amp; Navigation based on OpenStreetMap data",
     "scoreText": "4.7",
-    "score": 4.6721563
+    "score": 4.672006
   },
   {
     "title": "Toca Hair Salon 3",
@@ -1890,6 +2010,21 @@
     "score": 4.2227488
   },
   {
+    "title": "aMetanoauto",
+    "appId": "com.metanoauto.mobile",
+    "url": "https://play.google.com/store/apps/details?id=com.metanoauto.mobile",
+    "icon": "https://play-lh.googleusercontent.com/3R9tsR1_D-SPhZzvOZbgdOrMyeLY404kSuBE79aF7FwIcYjB1btRfsBSO3X6MS7FiHFG",
+    "developer": "Associazione Metanoauto.com",
+    "developerId": "Associazione+Metanoauto.com",
+    "priceText": "€3.99",
+    "currency": "€",
+    "price": 3.99,
+    "free": false,
+    "summary": "All distributors of CNG from metanoauto.com on your smartphone or tablet",
+    "scoreText": "4.4",
+    "score": 4.380531
+  },
+  {
     "title": "Daily Expenses License",
     "appId": "mic.app.gastosdiarios_licencia",
     "url": "https://play.google.com/store/apps/details?id=mic.app.gastosdiarios_licencia",
@@ -1902,7 +2037,7 @@
     "free": false,
     "summary": "This is the license of the application Daily Expenses 2 and 3",
     "scoreText": "4.5",
-    "score": 4.5339804
+    "score": 4.535109
   },
   {
     "title": "VB3m",
@@ -1935,21 +2070,6 @@
     "score": 4.264151
   },
   {
-    "title": "Manual Camera : DSLR - Camera Professional",
-    "appId": "com.lensesdev.manual.camera.pro",
-    "url": "https://play.google.com/store/apps/details?id=com.lensesdev.manual.camera.pro",
-    "icon": "https://play-lh.googleusercontent.com/OiTzj9GSZfpW9wozsKpLXmx8EkdHod_Tr9Xot2fcwuA4plP0mEbBgVeFWpi4LiZ6kDA",
-    "developer": "Lenses Inc.",
-    "developerId": "6859713867874290897",
-    "priceText": "€4.29",
-    "currency": "€",
-    "price": 4.29,
-    "free": false,
-    "summary": "Take your mobile photography to the next level",
-    "scoreText": "4.3",
-    "score": 4.274966
-  },
-  {
     "title": "INKredible PRO",
     "appId": "com.viettran.INKrediblePro",
     "url": "https://play.google.com/store/apps/details?id=com.viettran.INKrediblePro",
@@ -1962,7 +2082,7 @@
     "free": false,
     "summary": "Make your handwriting beautiful, even more than pen on paper.",
     "scoreText": "3.8",
-    "score": 3.823077
+    "score": 3.8301158
   },
   {
     "title": "Central for DayZ - Pro Unlocker",
@@ -1986,28 +2106,28 @@
     "icon": "https://play-lh.googleusercontent.com/BuG3iSQl0y5A0YemPNy6-_MmsIsWwadb8-DP40rFNYIxYGkVoH1FlVoeKlcnuN3bZSI",
     "developer": "RepkaSoft",
     "developerId": "5273394471208764532",
-    "priceText": "€5.99",
+    "priceText": "€9.99",
     "currency": "€",
-    "price": 5.99,
+    "price": 9.99,
     "free": false,
     "summary": "Accurate, beautiful weather with landscapes depicting weather, sky, season.",
     "scoreText": "4.8",
-    "score": 4.756536
+    "score": 4.7564034
   },
   {
-    "title": "Strelok Pro",
-    "appId": "com.borisov.strelokpro",
-    "url": "https://play.google.com/store/apps/details?id=com.borisov.strelokpro",
-    "icon": "https://play-lh.googleusercontent.com/HjvKKfJNzrbMiKLleL9NypZjbIoNMsgc5nTuvUc1X_MQJwV9X1YM7Qb8CKdNTiKodhSI",
-    "developer": "Igor Borisov",
-    "developerId": "Igor+Borisov",
-    "priceText": "€11.99",
+    "title": "Photo Lab PRO Picture Editor: effects, blur & art",
+    "appId": "com.vicman.photolabpro",
+    "url": "https://play.google.com/store/apps/details?id=com.vicman.photolabpro",
+    "icon": "https://play-lh.googleusercontent.com/PdzQ2dECZJLH64espo6L2tx-JY60Fnu_0XtZIATF4lG8_RuThhC1R1hRFbN-kkxgWJ7o",
+    "developer": "Linerock Investments LTD",
+    "developerId": "6017800222101031429",
+    "priceText": "€10.99",
     "currency": "€",
-    "price": 11.99,
+    "price": 10.99,
     "free": false,
-    "summary": "Professional ballistic calculator",
-    "scoreText": "4.8",
-    "score": 4.80083
+    "summary": "Fantastic photo frames, filters, effects, collages and montages for your images!",
+    "scoreText": "4.7",
+    "score": 4.686375
   },
   {
     "title": "VirtualTablet (S-Pen)",
@@ -2037,7 +2157,7 @@
     "free": false,
     "summary": "Look The Future with over 6200 icons...All in High Definition!!!",
     "scoreText": "4.6",
-    "score": 4.6039605
+    "score": 4.61
   },
   {
     "title": "Sun Locator Pro",
@@ -2053,6 +2173,21 @@
     "summary": "Predict the sun and moon position anytime and anywhere in 3D",
     "scoreText": "4.8",
     "score": 4.8125
+  },
+  {
+    "title": "APRSdroid - APRS Client",
+    "appId": "org.aprsdroid.app",
+    "url": "https://play.google.com/store/apps/details?id=org.aprsdroid.app",
+    "icon": "https://play-lh.googleusercontent.com/EFJg63fqfDwPBHM3dy3YRlc3os-dqi944NORzDpDxuyUTRQ1ND23kfe5-CV_pZUJPRg",
+    "developer": "Georg Lukas",
+    "developerId": "Georg+Lukas",
+    "priceText": "€4.49",
+    "currency": "€",
+    "price": 4.49,
+    "free": false,
+    "summary": "Amateur Radio app for APRS: Track friends, exchange messages, get tactical info.",
+    "scoreText": "3.5",
+    "score": 3.5277777
   },
   {
     "title": "Osterie d'Italia 2021",
@@ -2115,34 +2250,19 @@
     "score": 2.6276596
   },
   {
-    "title": "Zone Diet Pro",
-    "appId": "com.frack.dieta_zona_pro",
-    "url": "https://play.google.com/store/apps/details?id=com.frack.dieta_zona_pro",
-    "icon": "https://play-lh.googleusercontent.com/DDGRj_BPTmdKizOPF340xrRJY9d75Q2seW9EToTRf3DxhfCk2HA3dTburA1y8Y9gAJHk",
-    "developer": "FrackStudio",
-    "developerId": "FrackStudio",
-    "priceText": "€9.99",
+    "title": "Pixel Pie Icon Pack",
+    "appId": "com.jndapp.pixel.pie.iconpack",
+    "url": "https://play.google.com/store/apps/details?id=com.jndapp.pixel.pie.iconpack",
+    "icon": "https://play-lh.googleusercontent.com/DQ9wpccASKq_1CmpYCT-1nTKQfbHcw7lkrHKwz5JIxhrmbAbibVUM_CKv-h2aKIt_Gc",
+    "developer": "JustNewDesigns",
+    "developerId": "6871333323804023406",
+    "priceText": "€0.69",
     "currency": "€",
-    "price": 9.99,
+    "price": 0.69,
     "free": false,
-    "summary": "Calculation and management of your meals in the Zone Diet and the Paleo Zone.",
-    "scoreText": "4.6",
-    "score": 4.64
-  },
-  {
-    "title": "N5_Theme for Car Launcher app",
-    "appId": "com.carlauncher.theme.N5.one",
-    "url": "https://play.google.com/store/apps/details?id=com.carlauncher.theme.N5.one",
-    "icon": "https://play-lh.googleusercontent.com/5NBzhGoiwl9AYiP8ttaX8PB5EpFZ6P615DhevWNpixTQnC8atttCwcHf7leF5JTylns",
-    "developer": "AG_apps",
-    "developerId": "8299588247363747816",
-    "priceText": "€1.69",
-    "currency": "€",
-    "price": 1.69,
-    "free": false,
-    "summary": "Theme for Car Launcher app v.3.x",
-    "scoreText": "4.4",
-    "score": 4.4
+    "summary": "Best Pixel Style Icon Pack Inspired by Pixel + Android Pie + Flat Material Color",
+    "scoreText": "4.5",
+    "score": 4.4666667
   },
   {
     "title": "AnSo Anaesthesia Sonoanatomy",
@@ -2172,7 +2292,7 @@
     "free": false,
     "summary": "The professional choice of Oscar-winning directors",
     "scoreText": "3.5",
-    "score": 3.5145986
+    "score": 3.5048425
   },
   {
     "title": "inCarDoc Pro | ELM327 OBD2 Scanner Bluetooth/WiFi",
@@ -2187,22 +2307,7 @@
     "free": false,
     "summary": "ELM327 OBD2 car scanner and diagnostics: read Check Engine, DTC, economy....",
     "scoreText": "4.4",
-    "score": 4.3608246
-  },
-  {
-    "title": "Color Line DARK Icon Pack",
-    "appId": "color.line.dark",
-    "url": "https://play.google.com/store/apps/details?id=color.line.dark",
-    "icon": "https://play-lh.googleusercontent.com/cFMbr4zwNMhbxXzDcq8wR7k86B2LNYD_lV9nekYDgh74ANdOMQb1b594a1Hhltccfw",
-    "developer": "SKwallpapers",
-    "developerId": "5160763757107307799",
-    "priceText": "€0.59",
-    "currency": "€",
-    "price": 0.59,
-    "free": false,
-    "summary": "Dark icons with colorful outlines.",
-    "scoreText": "4.0",
-    "score": 3.96
+    "score": 4.3573265
   },
   {
     "title": "Password Manager SafeInCloud Pro",
@@ -2217,7 +2322,7 @@
     "free": false,
     "summary": "The best cross-platform Password Manager with cloud sync and free Desktop app.",
     "scoreText": "4.8",
-    "score": 4.8199177
+    "score": 4.8177066
   },
   {
     "title": "MX Player Pro",
@@ -2232,37 +2337,37 @@
     "free": false,
     "summary": "Powerful video player with advanced hardware acceleration and subtitle supports.",
     "scoreText": "4.4",
-    "score": 4.438709
+    "score": 4.4380136
   },
   {
-    "title": "WiFi File Transfer Pro",
-    "appId": "com.smarterdroid.wififiletransferpro",
-    "url": "https://play.google.com/store/apps/details?id=com.smarterdroid.wififiletransferpro",
-    "icon": "https://play-lh.googleusercontent.com/VQ71egGszoHqsGvy2TrtlXOMRljqT2kC3VRXXhgOIkqQhGSauOVwaqNvcNUm6N6W9fzy",
-    "developer": "smarterDroid",
-    "developerId": "smarterDroid",
-    "priceText": "€0.99",
+    "title": "NDI HX Camera",
+    "appId": "com.newtek.ndi.hxcam",
+    "url": "https://play.google.com/store/apps/details?id=com.newtek.ndi.hxcam",
+    "icon": "https://play-lh.googleusercontent.com/TJsSx_vc_PFc0A_cwglu2ACsgJ4A4fy9VFlVl06odEBibQs-8xgl3v36Zg2ORkqm1w",
+    "developer": "NewTek, Inc.",
+    "developerId": "NewTek,+Inc.",
+    "priceText": "€21.99",
     "currency": "€",
-    "price": 0.99,
+    "price": 21.99,
     "free": false,
-    "summary": "Upload and download files to/from your Android device over a wireless connection",
-    "scoreText": "4.3",
-    "score": 4.2690964
+    "summary": "The official NDI® Camera. Turn your phone into a live video production camera.",
+    "scoreText": "2.4",
+    "score": 2.38
   },
   {
-    "title": "Tavecchiacoin Pro",
-    "appId": "com.tavecchiacoin.finderpro",
-    "url": "https://play.google.com/store/apps/details?id=com.tavecchiacoin.finderpro",
-    "icon": "https://play-lh.googleusercontent.com/8N4uCBMOBpMPC26o2y3zVHJTFqCXI8Zpmg8XBoyRqO9oyu6NhtTgNGskWvaShV49Yxao",
-    "developer": "TAVECCHIACOIN LTD",
-    "developerId": "TAVECCHIACOIN+LTD",
-    "priceText": "€4.89",
+    "title": "MoshUp",
+    "appId": "com.pytebyte.moshup",
+    "url": "https://play.google.com/store/apps/details?id=com.pytebyte.moshup",
+    "icon": "https://play-lh.googleusercontent.com/VtuB2ZLrr4CA7aOgFu95eL2aAfsiRBYkAiW9ISoM1KIztlHE7MNNIl0XR7yYSOO1Cnc",
+    "developer": "PyteByte",
+    "developerId": "PyteByte",
+    "priceText": "€2.39",
     "currency": "€",
-    "price": 4.89,
+    "price": 2.39,
     "free": false,
-    "summary": "Tavecchiacoin, the non - monetary exchange system for people",
-    "scoreText": "0.0",
-    "score": 0
+    "summary": "live datamoshing",
+    "scoreText": "3.9",
+    "score": 3.9029126
   },
   {
     "title": "Sun Surveyor (Sun & Moon)",
@@ -2276,8 +2381,8 @@
     "price": 8.99,
     "free": false,
     "summary": "Your personal guide to the sun and moon. Plan ahead, visualize and predict!",
-    "scoreText": "4.8",
-    "score": 4.82
+    "scoreText": "4.6",
+    "score": 4.608108
   },
   {
     "title": "Muscle Trigger Point Anatomy",
@@ -2291,8 +2396,8 @@
     "price": 3.09,
     "free": false,
     "summary": "Discover the source of pain with Muscle Trigger Point Anatomy.",
-    "scoreText": "4.3",
-    "score": 4.263889
+    "scoreText": "4.6",
+    "score": 4.603896
   },
   {
     "title": "IP Cam Viewer Pro",
@@ -2307,7 +2412,7 @@
     "free": false,
     "summary": "Remotely view listen control and record cameras.",
     "scoreText": "4.1",
-    "score": 4.0925927
+    "score": 4.1047773
   },
   {
     "title": "Radarbot Pro: Speed Camera Detector & Speedometer",
@@ -2321,23 +2426,8 @@
     "price": 5.99,
     "free": false,
     "summary": "Speed Camera Detector. 100% Legal and Reliable. Never pay another fine!",
-    "scoreText": "4.5",
-    "score": 4.509804
-  },
-  {
-    "title": "VAG DPF",
-    "appId": "com.applagapp.vagdpf",
-    "url": "https://play.google.com/store/apps/details?id=com.applagapp.vagdpf",
-    "icon": "https://play-lh.googleusercontent.com/LdittZ-Uk27R4dM0M0zmunCoiwJ2NoS-KC8RZ2aitNzfyOnWPVsYPTo3CruI4jQhVA",
-    "developer": "Daaren Fonloil",
-    "developerId": "Daaren+Fonloil",
-    "priceText": "€4.89",
-    "currency": "€",
-    "price": 4.89,
-    "free": false,
-    "summary": "DPF particulate filter status of your TDI VW Audi Seat Skoda (see engine list)",
-    "scoreText": "4.5",
-    "score": 4.5
+    "scoreText": "4.4",
+    "score": 4.3535714
   },
   {
     "title": "eDrawings",
@@ -2351,8 +2441,23 @@
     "price": 1.59,
     "free": false,
     "summary": "Experience and share your SolidWorks designs on your Android® phone and tablet.",
-    "scoreText": "3.4",
-    "score": 3.4050634
+    "scoreText": "3.3",
+    "score": 3.2890995
+  },
+  {
+    "title": "hyperion supreme",
+    "appId": "projekt.launcher.launcherkey",
+    "url": "https://play.google.com/store/apps/details?id=projekt.launcher.launcherkey",
+    "icon": "https://play-lh.googleusercontent.com/DCCQHsLkUTdbCOoQSh82N94xZN8w6VX9aIfOmdbdILShC7LacmTQ10PPeJneUPRqpWca",
+    "developer": "prjkt.io",
+    "developerId": "5817124511140113980",
+    "priceText": "€2.19",
+    "currency": "€",
+    "price": 2.19,
+    "free": false,
+    "summary": "enable pro mode on hyperion launcher, gotta go fast!",
+    "scoreText": "3.9",
+    "score": 3.8910892
   },
   {
     "title": "Camera Pro - Remote Control for Samsung Watch",
@@ -2366,8 +2471,8 @@
     "price": 1.99,
     "free": false,
     "summary": "Control your phone camera with your smartwatch!",
-    "scoreText": "2.0",
-    "score": 2
+    "scoreText": "2.5",
+    "score": 2.4554455
   },
   {
     "title": "Toca Life: Office",
@@ -2381,8 +2486,8 @@
     "price": 4.49,
     "free": false,
     "summary": "Turn work into an adventure!",
-    "scoreText": "4.5",
-    "score": 4.477612
+    "scoreText": "4.4",
+    "score": 4.3594937
   },
   {
     "title": "Wheel Launcher Full customizable sidebar",
@@ -2396,8 +2501,8 @@
     "price": 1.49,
     "free": false,
     "summary": "Wheel Launcher is a fast way to reach your favorite apps, shortcuts, contacts.",
-    "scoreText": "4.6",
-    "score": 4.5625
+    "scoreText": "4.3",
+    "score": 4.35
   },
   {
     "title": "Call Recorder Unlock",
@@ -2411,8 +2516,8 @@
     "price": 9.99,
     "free": false,
     "summary": "License key for Call Recorder",
-    "scoreText": "2.9",
-    "score": 2.9152544
+    "scoreText": "4.1",
+    "score": 4.09
   },
   {
     "title": "Ambient light Application for Android",
@@ -2426,8 +2531,8 @@
     "price": 2.69,
     "free": false,
     "summary": "Adaptive background lighting Ambient light for Android TV set-top box.",
-    "scoreText": "2.9",
-    "score": 2.9
+    "scoreText": "2.6",
+    "score": 2.63
   },
   {
     "title": "Watch Face - Minimal & Elegant for Android Wear OS",
@@ -2441,8 +2546,8 @@
     "price": 1.59,
     "free": false,
     "summary": "Highly Customizable Digital &amp; Analog Watch Face\nInfinite Watch Faces Collection",
-    "scoreText": "4.3",
-    "score": 4.31
+    "scoreText": "4.2",
+    "score": 4.2327747
   },
   {
     "title": "ZCal: Zimbra Calendar Sync",
@@ -2456,8 +2561,53 @@
     "price": 2.99,
     "free": false,
     "summary": "ZCal syncs your Zimbra Calendars &amp; Events with the Calendar app on your Android.",
-    "scoreText": "4.0",
-    "score": 4
+    "scoreText": "3.0",
+    "score": 2.954023
+  },
+  {
+    "title": "Numero Logos Numerology",
+    "appId": "it.altavianet.numerologia",
+    "url": "https://play.google.com/store/apps/details?id=it.altavianet.numerologia",
+    "icon": "https://play-lh.googleusercontent.com/l9wdvomuGoOSGEQ3CIONTD8rM8hOezSsWy6JUHIhJNnE6BGUY1BlD_BJwr-r6c8wNYU",
+    "developer": "AltaVia srl",
+    "developerId": "AltaVia+srl",
+    "priceText": "€2.80",
+    "currency": "€",
+    "price": 2.8,
+    "free": false,
+    "summary": "The first Numerology app with images that describes your\nNumbers as Archetypes",
+    "scoreText": "4.7",
+    "score": 4.65
+  },
+  {
+    "title": "SDR Touch Key",
+    "appId": "marto.androsdr.key",
+    "url": "https://play.google.com/store/apps/details?id=marto.androsdr.key",
+    "icon": "https://play-lh.googleusercontent.com/jWrX9hm-czlLWp48qI5Al1k9cyF7w9D4dYeSxQAzYW4SERW6pCUHswvnd8AZoDAIFt_O",
+    "developer": "Martin Marinov",
+    "developerId": "Martin+Marinov",
+    "priceText": "€6.99",
+    "currency": "€",
+    "price": 6.99,
+    "free": false,
+    "summary": "Unlock SDR Touch full potential now",
+    "scoreText": "3.7",
+    "score": 3.6732674
+  },
+  {
+    "title": "uniswap",
+    "appId": "com.wuniswap_13552276",
+    "url": "https://play.google.com/store/apps/details?id=com.wuniswap_13552276",
+    "icon": "https://play-lh.googleusercontent.com/r9kJYIKnv47wUtLMs9HQEF5wp0QwBvCwmydMS_y00RvnP1aX67iXdmoVAMLccN6ncvc",
+    "developer": "fff6fff",
+    "developerId": "4957847127148870613",
+    "priceText": "€3.89",
+    "currency": "€",
+    "price": 3.89,
+    "free": false,
+    "summary": "Uniswap is a decentralized exchange",
+    "scoreText": "3.5",
+    "score": 3.5
   },
   {
     "title": "Masonic Emoticon",
@@ -2486,8 +2636,8 @@
     "price": 1.69,
     "free": false,
     "summary": "Clean. Vibrant. Fresh.",
-    "scoreText": "4.8",
-    "score": 4.8333335
+    "scoreText": "4.9",
+    "score": 4.8985505
   },
   {
     "title": "ProScreens Premium - App for HomeScreens",
@@ -2501,38 +2651,23 @@
     "price": 0.79,
     "free": false,
     "summary": "An app with handpicked HomeScreens.",
-    "scoreText": "0.0",
-    "score": 0
-  },
-  {
-    "title": "Photo Widget +",
-    "appId": "developer.laijiajing.photowidgetupgrade",
-    "url": "https://play.google.com/store/apps/details?id=developer.laijiajing.photowidgetupgrade",
-    "icon": "https://play-lh.googleusercontent.com/x2yTlnlyGWnyiVnlDYHu2MZiez7SQPuWuJGtGJJY0_100kyIZu6c1ymkqblPQHf5BSI",
-    "developer": "Lai Jia Jing",
-    "developerId": "Lai+Jia+Jing",
-    "priceText": "€1.99",
-    "currency": "€",
-    "price": 1.99,
-    "free": false,
-    "summary": "Decorate the home screen ❤️ with your favorite photos!!! 🙌 😍",
     "scoreText": "4.2",
-    "score": 4.206897
+    "score": 4.1764708
   },
   {
-    "title": "Stellarium Mobile PLUS - Star Map",
-    "appId": "com.noctuasoftware.stellarium_plus",
-    "url": "https://play.google.com/store/apps/details?id=com.noctuasoftware.stellarium_plus",
-    "icon": "https://play-lh.googleusercontent.com/Qbw2RpfafGjzOt9FRzyZ6A28RqxUIGwuwzYaYFILzp5NtvF2JKkYLT0BEuJsGMHOPtY",
-    "developer": "Noctua Software",
-    "developerId": "Noctua+Software",
-    "priceText": "€9.99",
+    "title": "MIU! 12 Carbon - Icon Pack",
+    "appId": "com.cris87.miui_11_carbon",
+    "url": "https://play.google.com/store/apps/details?id=com.cris87.miui_11_carbon",
+    "icon": "https://play-lh.googleusercontent.com/pxnkILKcxGpwvRo7AVOIKYvezqVVKk6-ARSEQARybqUF-mMVdKK-AkjO6C6lTgfUlY7h",
+    "developer": "Cris87",
+    "developerId": "4952413072724821519",
+    "priceText": "€0.99",
     "currency": "€",
-    "price": 9.99,
+    "price": 0.99,
     "free": false,
-    "summary": "The most realistic sky map to observe stars, planets and constellations!",
-    "scoreText": "4.8",
-    "score": 4.81
+    "summary": "The Elegance and Class of New MIU! 12 with High Definition and Carbon Effect!!!",
+    "scoreText": "5.0",
+    "score": 4.964286
   },
   {
     "title": "RedWaypoint PRO for DJI (Mavic Mini compatible)",
@@ -2546,8 +2681,23 @@
     "price": 15.99,
     "free": false,
     "summary": "Plan your flight, fly autonomously, focus on recording your videos",
-    "scoreText": "3.9",
-    "score": 3.925926
+    "scoreText": "3.4",
+    "score": 3.44
+  },
+  {
+    "title": "Toca Kitchen Sushi Restaurant",
+    "appId": "com.tocaboca.tocakitchensushi",
+    "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocakitchensushi",
+    "icon": "https://play-lh.googleusercontent.com/pTlw8oxWvrum5tySfHlTosBG_KODvrUKoEEXY-P95FThWfR25R-bbuZThXsk5wdARTY",
+    "developer": "Toca Boca",
+    "developerId": "8567646723268777320",
+    "priceText": "€4.49",
+    "currency": "€",
+    "price": 4.49,
+    "free": false,
+    "summary": "Let’s get cooking!",
+    "scoreText": "4.3",
+    "score": 4.277228
   },
   {
     "title": "MAVIC SEEKER  - DJI Drones lost and found",
@@ -2561,8 +2711,38 @@
     "price": 2.39,
     "free": false,
     "summary": "Unbeatable  to find your lost MAVIC/PHANTOM/INSPIRE  with no network connection",
-    "scoreText": "4.8",
-    "score": 4.8
+    "scoreText": "4.7",
+    "score": 4.6666665
+  },
+  {
+    "title": "JS USB OTG",
+    "appId": "com.jsolwindlabs.usbotg",
+    "url": "https://play.google.com/store/apps/details?id=com.jsolwindlabs.usbotg",
+    "icon": "https://play-lh.googleusercontent.com/-KoimzH0_Ul0eK0OmgCDZKsMthr56X-hpBKCllPR2R3VZiFe7AQTVWS1pAPf64_j9K5w",
+    "developer": "jsolwindlabs",
+    "developerId": "jsolwindlabs",
+    "priceText": "€2.99",
+    "currency": "€",
+    "price": 2.99,
+    "free": false,
+    "summary": "Without rooting, enjoy multimedia contents with USB drive. (NTFS, exFAT, FAT32)",
+    "scoreText": "3.3",
+    "score": 3.28
+  },
+  {
+    "title": "Smart WiFi Selector: connects to strongest WiFi",
+    "appId": "com.tartar.strongestwifi",
+    "url": "https://play.google.com/store/apps/details?id=com.tartar.strongestwifi",
+    "icon": "https://play-lh.googleusercontent.com/WjQ2maHL8ukBZxhSu16Yf_dgyYW7lPkV8J_nLevhM0Rq7ZXovFnnbgO6XVzEih0-dg",
+    "developer": "Alexander Tartar",
+    "developerId": "Alexander+Tartar",
+    "priceText": "€2.69",
+    "currency": "€",
+    "price": 2.69,
+    "free": false,
+    "summary": "Smart WiFi Selector - always the strongest WiFi connection!",
+    "scoreText": "4.3",
+    "score": 4.257426
   },
   {
     "title": "AlienMobile+",
@@ -2576,8 +2756,8 @@
     "price": 2.39,
     "free": false,
     "summary": "AlienMobile+ makes available on your device the management of SmartLiving",
-    "scoreText": "3.2",
-    "score": 3.25
+    "scoreText": "3.4",
+    "score": 3.38
   },
   {
     "title": "PrinterShare Premium Key",
@@ -2591,8 +2771,23 @@
     "price": 6.49,
     "free": false,
     "summary": "Unlock premium features (print docs and photos on WiFi and BT printers)",
-    "scoreText": "4.6",
-    "score": 4.5985913
+    "scoreText": "4.5",
+    "score": 4.4905214
+  },
+  {
+    "title": "IP Webcam Pro",
+    "appId": "com.pas.webcam.pro",
+    "url": "https://play.google.com/store/apps/details?id=com.pas.webcam.pro",
+    "icon": "https://play-lh.googleusercontent.com/_-ZQoFK6UvufQvoSgaI_VaRj6RafkgRWNElf13oMo0AdDaW9YsRWFlgm8sDiAOfCrqg",
+    "developer": "Pavel Khlebovich",
+    "developerId": "Pavel+Khlebovich",
+    "priceText": "€5.49",
+    "currency": "€",
+    "price": 5.49,
+    "free": false,
+    "summary": "Turn your phone into a wireless camera!",
+    "scoreText": "4.2",
+    "score": 4.169082
   },
   {
     "title": "Bluefire Reader",
@@ -2606,8 +2801,8 @@
     "price": 3.29,
     "free": false,
     "summary": "A world-class reader for Adobe DRM protected (and DRM free) EPUB and PDF ebooks.",
-    "scoreText": "1.0",
-    "score": 1
+    "scoreText": "1.1",
+    "score": 1.1
   },
   {
     "title": "Simple Scan Pro - PDF scanner",
@@ -2621,8 +2816,23 @@
     "price": 4.99,
     "free": false,
     "summary": "Fast easy way to scanner, professional pdf documents, Support SD card, +send fax",
+    "scoreText": "4.6",
+    "score": 4.5870967
+  },
+  {
+    "title": "Reading Trainer",
+    "appId": "com.heku.readingtrainer",
+    "url": "https://play.google.com/store/apps/details?id=com.heku.readingtrainer",
+    "icon": "https://play-lh.googleusercontent.com/jrwMkfV4c8x5IpwcMWrsPRJi-ujZFoZNtg6xe_-QEvvRv_X2YZALAiBn_mwjW1ykSaEd",
+    "developer": "HeKu IT GmbH",
+    "developerId": "HeKu+IT+GmbH",
+    "priceText": "€2.99",
+    "currency": "€",
+    "price": 2.99,
+    "free": false,
+    "summary": "Improve your reading speed with 12 challenging and fun exercises.",
     "scoreText": "4.7",
-    "score": 4.74
+    "score": 4.656468
   },
   {
     "title": "Face Swap Live",
@@ -2636,38 +2846,23 @@
     "price": 2.09,
     "free": false,
     "summary": "Face Swap Live lets you switch faces with a friend or a photo in real-time.",
-    "scoreText": "3.1",
-    "score": 3.1111112
+    "scoreText": "2.7",
+    "score": 2.68
   },
   {
-    "title": "Vape Tool Pro",
-    "appId": "com.stasbar.vapetoolpro",
-    "url": "https://play.google.com/store/apps/details?id=com.stasbar.vapetoolpro",
-    "icon": "https://play-lh.googleusercontent.com/l0sz5ojzQvq74gCovwmEUGCWXRNPWF3MjIP-PwYteylC7vHTqGk9jqRz9CjtFKZWbw",
-    "developer": "Vape Tool",
-    "developerId": "6608164810721237575",
-    "priceText": "€2.89",
+    "title": "CNC Simulator",
+    "appId": "com.virtlab.cncsim_full",
+    "url": "https://play.google.com/store/apps/details?id=com.virtlab.cncsim_full",
+    "icon": "https://play-lh.googleusercontent.com/a7FP2yN_kBEbWtkw5FVF8mC1J6lkD-xxPcTZ3ZHXTXVvo4iv3vIdWP-G5yR_J0-uAn8",
+    "developer": "VirtLabs",
+    "developerId": "5364569231055865192",
+    "priceText": "€4.29",
     "currency": "€",
-    "price": 2.89,
+    "price": 4.29,
     "free": false,
-    "summary": "Make only perfect Coils and E-Liquids with Vape Tool Pro",
-    "scoreText": "4.6",
-    "score": 4.6
-  },
-  {
-    "title": "aMetanoauto",
-    "appId": "com.metanoauto.mobile",
-    "url": "https://play.google.com/store/apps/details?id=com.metanoauto.mobile",
-    "icon": "https://play-lh.googleusercontent.com/3R9tsR1_D-SPhZzvOZbgdOrMyeLY404kSuBE79aF7FwIcYjB1btRfsBSO3X6MS7FiHFG",
-    "developer": "Associazione Metanoauto.com",
-    "developerId": "Associazione+Metanoauto.com",
-    "priceText": "€3.99",
-    "currency": "€",
-    "price": 3.99,
-    "free": false,
-    "summary": "All distributors of CNG from metanoauto.com on your smartphone or tablet",
-    "scoreText": "4.4",
-    "score": 4.376147
+    "summary": "A software simulator of CNC lathe with standard GM code.",
+    "scoreText": "4.0",
+    "score": 3.96
   },
   {
     "title": "IELTS Practice Pro (Band 9)",
@@ -2681,23 +2876,23 @@
     "price": 1.89,
     "free": false,
     "summary": "NO ADS - LASTED UPDATE",
-    "scoreText": "4.9",
-    "score": 4.857143
+    "scoreText": "4.7",
+    "score": 4.7
   },
   {
-    "title": "Video & TV Cast + Google Cast: Android TV Streamer",
-    "appId": "de.twokit.castbrowsernexusplayer.pro",
-    "url": "https://play.google.com/store/apps/details?id=de.twokit.castbrowsernexusplayer.pro",
-    "icon": "https://play-lh.googleusercontent.com/NUDoInE4pOf_zhf3n1k20dzHF27Md6XoHLyjLS5Kll9SS3MZSupvKxVOyUaK_T7P_CJc",
-    "developer": "2kit consulting",
-    "developerId": "6284879872961307001",
-    "priceText": "€4.99",
+    "title": "iOS Widgets for KWGT",
+    "appId": "com.vexcode.ioskwgt",
+    "url": "https://play.google.com/store/apps/details?id=com.vexcode.ioskwgt",
+    "icon": "https://play-lh.googleusercontent.com/aREDHkgI6neg4twGjlc7ti2ntcSuLxxvrvpRXXb7R4FshFkHX8_WEYDj48iGjNvW5VM",
+    "developer": "VexCode",
+    "developerId": "VexCode",
+    "priceText": "€0.99",
     "currency": "€",
-    "price": 4.99,
+    "price": 0.99,
     "free": false,
-    "summary": "Web browser to stream videos, online movies &amp; livestreams to Google Cast TVs",
-    "scoreText": "1.6",
-    "score": 1.5555556
+    "summary": "Get a taste of the newest IOS Widgets on Android with the help of KWGT!",
+    "scoreText": "4.0",
+    "score": 4.009901
   },
   {
     "title": "Oxigen Circle - Icon Pack",
@@ -2711,8 +2906,8 @@
     "price": 0.99,
     "free": false,
     "summary": "The Unique Style Finally in Circle Form and High Definition!!!",
-    "scoreText": "4.9",
-    "score": 4.9130435
+    "scoreText": "4.8",
+    "score": 4.757143
   },
   {
     "title": "Radio Alarm Clock++ (clock radio and radio player)",
@@ -2727,7 +2922,7 @@
     "free": false,
     "summary": "Lovingly refurbished &amp; improved version of Radio Alarm Clock (free and ad-free)",
     "scoreText": "4.8",
-    "score": 4.8
+    "score": 4.766055
   },
   {
     "title": "Smart Control Premium (OBDII & Car & DPF & ELM)",
@@ -2741,23 +2936,8 @@
     "price": 3.09,
     "free": false,
     "summary": "Record your trips, clear engine errors, helps you to improve consumption!",
-    "scoreText": "3.9",
-    "score": 3.9310346
-  },
-  {
-    "title": "Photo Lab PRO Picture Editor: effects, blur & art",
-    "appId": "com.vicman.photolabpro",
-    "url": "https://play.google.com/store/apps/details?id=com.vicman.photolabpro",
-    "icon": "https://play-lh.googleusercontent.com/PdzQ2dECZJLH64espo6L2tx-JY60Fnu_0XtZIATF4lG8_RuThhC1R1hRFbN-kkxgWJ7o",
-    "developer": "Linerock Investments LTD",
-    "developerId": "6017800222101031429",
-    "priceText": "€10.99",
-    "currency": "€",
-    "price": 10.99,
-    "free": false,
-    "summary": "Fantastic photo frames, filters, effects, collages and montages for your images!",
-    "scoreText": "4.8",
-    "score": 4.758929
+    "scoreText": "4.2",
+    "score": 4.19
   },
   {
     "title": "Huge Lock Screen Clock",
@@ -2771,8 +2951,8 @@
     "price": 1.49,
     "free": false,
     "summary": "Fully customizable huge clock for your lock screen",
-    "scoreText": "4.5",
-    "score": 4.5
+    "scoreText": "4.0",
+    "score": 3.9508197
   },
   {
     "title": "Tools & Mi Band",
@@ -2787,22 +2967,22 @@
     "free": false,
     "summary": "Fully customizable notifications for your Xiaomi Mi Band smart bracelet.",
     "scoreText": "3.8",
-    "score": 3.7580645
+    "score": 3.8018625
   },
   {
-    "title": "APRSdroid - APRS Client",
-    "appId": "org.aprsdroid.app",
-    "url": "https://play.google.com/store/apps/details?id=org.aprsdroid.app",
-    "icon": "https://play-lh.googleusercontent.com/EFJg63fqfDwPBHM3dy3YRlc3os-dqi944NORzDpDxuyUTRQ1ND23kfe5-CV_pZUJPRg",
-    "developer": "Georg Lukas",
-    "developerId": "Georg+Lukas",
-    "priceText": "€4.49",
+    "title": "MobileSheetsPro Music Viewer",
+    "appId": "com.zubersoft.mobilesheetspro",
+    "url": "https://play.google.com/store/apps/details?id=com.zubersoft.mobilesheetspro",
+    "icon": "https://play-lh.googleusercontent.com/NzG7u3_0xrBfYdx-_ddIZn9x8VFv5oBtOuMsgpWIZJ8vqB8pWUIUeIMcl-9saY8-N0o",
+    "developer": "Zubersoft",
+    "developerId": "Zubersoft",
+    "priceText": "€12.99",
     "currency": "€",
-    "price": 4.49,
+    "price": 12.99,
     "free": false,
-    "summary": "Amateur Radio app for APRS: Track friends, exchange messages, get tactical info.",
-    "scoreText": "4.4",
-    "score": 4.395349
+    "summary": "MobileSheetsPro is a sheet music viewer with powerful tools for musicians.",
+    "scoreText": "4.6",
+    "score": 4.642202
   },
   {
     "title": "DS file Browser",
@@ -2816,187 +2996,7 @@
     "price": 0.89,
     "free": false,
     "summary": "DS file 3rd party app. that supports Synology NAS for Android TV and Androids.",
-    "scoreText": "0.0",
-    "score": 0
-  },
-  {
-    "title": "Zone Diet",
-    "appId": "com.alt126.zonafacile",
-    "url": "https://play.google.com/store/apps/details?id=com.alt126.zonafacile",
-    "icon": "https://play-lh.googleusercontent.com/FS04E2mgoptcJifz4goifX3Xn_GHsrC87voigzMeiQAdOQSZynikyfxFJ48Zxi5_Yg",
-    "developer": "Gianni Etzi",
-    "developerId": "Gianni+Etzi",
-    "priceText": "€4.49",
-    "currency": "€",
-    "price": 4.49,
-    "free": false,
-    "summary": "Download the Best APP for your Zone Diet",
-    "scoreText": "0.0",
-    "score": 0
-  },
-  {
-    "title": "GIF Maker, GIF Editor, Video to GIF Pro",
-    "appId": "pro.gif.videotogif.gifeditor.gifmaker",
-    "url": "https://play.google.com/store/apps/details?id=pro.gif.videotogif.gifeditor.gifmaker",
-    "icon": "https://play-lh.googleusercontent.com/WTkXcnfXtYShaduekrptBogjSzOguER1hN0nrjrNXtoX-dnCISu18b-ECGx7FRnbuD3K",
-    "developer": "GIF Maker & GIF Editor & Video Maker",
-    "developerId": "GIF+Maker+%26+GIF+Editor+%26+Video+Maker",
-    "priceText": "€2.99",
-    "currency": "€",
-    "price": 2.99,
-    "free": false,
-    "summary": "Make GIF/Video form Images, video...no watermark and share to FACEBOOK, TWITTER.",
-    "scoreText": "4.5",
-    "score": 4.5
-  },
-  {
-    "title": "Sheer  KWGT",
-    "appId": "sheerkwgt.kustom.pack",
-    "url": "https://play.google.com/store/apps/details?id=sheerkwgt.kustom.pack",
-    "icon": "https://play-lh.googleusercontent.com/i7XNXAR1gXCfNV3BcC6pDFqZEm40Pun_PmwSK0kfs3STAaYVN1f6utQIPCAm5x1o5NM",
-    "developer": "AsdlorDesigns",
-    "developerId": "5615419703628842500",
-    "priceText": "€1.99",
-    "currency": "€",
-    "price": 1.99,
-    "free": false,
-    "summary": "Minimal, Translucent Widgets For Your Home screens.",
-    "scoreText": "0.0",
-    "score": 0
-  },
-  {
-    "title": "Ancient Greek Reference",
-    "appId": "com.ampia.GrecoAntico",
-    "url": "https://play.google.com/store/apps/details?id=com.ampia.GrecoAntico",
-    "icon": "https://play-lh.googleusercontent.com/vdA7r5E9mHaSQ8SOymSPgE2tATPgoX1112_VVYQXVV-7_ffar9rVqRGk3btvziOfbw",
-    "developer": "Giovanbattista Pia",
-    "developerId": "Giovanbattista+Pia",
-    "priceText": "€4.99",
-    "currency": "€",
-    "price": 4.99,
-    "free": false,
-    "summary": "A reference tool designed for language learners",
-    "scoreText": "4.6",
-    "score": 4.571429
-  },
-  {
-    "title": "Dusk KWGT",
-    "appId": "dusk.kustom.pack",
-    "url": "https://play.google.com/store/apps/details?id=dusk.kustom.pack",
-    "icon": "https://play-lh.googleusercontent.com/g1joCHkgGV5t27X0e7iZZoTL6ZYkvrPh6eQs11UXsAZgN2ov6znkr3tuxswUC3Bpcpsk",
-    "developer": "Wigebox",
-    "developerId": "7382199386246853173",
-    "priceText": "€1.69",
-    "currency": "€",
-    "price": 1.69,
-    "free": false,
-    "summary": "Neumorphic Ui kit based widgets for your homescreen.",
-    "scoreText": "0.0",
-    "score": 0
-  },
-  {
-    "title": "SnoreGym : Reduce Your Snoring",
-    "appId": "com.snorelab.snoregym",
-    "url": "https://play.google.com/store/apps/details?id=com.snorelab.snoregym",
-    "icon": "https://play-lh.googleusercontent.com/iMSkl9aAdAOwzCXiHYDoHa87DWSZj_Bnv_zlm0GqmVSbHcEROkwnf16nabrjdCEHUZFq",
-    "developer": "Reviva Softworks Ltd",
-    "developerId": "Reviva+Softworks+Ltd",
-    "priceText": "€2.99",
-    "currency": "€",
-    "price": 2.99,
-    "free": false,
-    "summary": "The exercise app for quiet sleep from the creators of SnoreLab",
-    "scoreText": "4.4",
-    "score": 4.36
-  },
-  {
-    "title": "Freya • Surge Timer",
-    "appId": "com.thepositivebirthcompany.freyasurgetimer",
-    "url": "https://play.google.com/store/apps/details?id=com.thepositivebirthcompany.freyasurgetimer",
-    "icon": "https://play-lh.googleusercontent.com/NmM_laQvzlkeYBfjLv0XIXy1JepEIMqz4_B7jsvhFFqnrq7P9C9Vyx_W3lhcldhhJj12",
-    "developer": "The Positive Birth Company",
-    "developerId": "The+Positive+Birth+Company",
-    "priceText": "€3.59",
-    "currency": "€",
-    "price": 3.59,
-    "free": false,
-    "summary": "The world&#39;s first hypnobirthing-friendly surge timer &amp; virtual birth partner",
-    "scoreText": "0.0",
-    "score": 0
-  },
-  {
-    "title": "Nova Dark Icon Pack - Rounded Square Shaped Icons",
-    "appId": "cs14.pixelperfect.iconpack.novadark",
-    "url": "https://play.google.com/store/apps/details?id=cs14.pixelperfect.iconpack.novadark",
-    "icon": "https://play-lh.googleusercontent.com/i_qY-W18INRV9PsVvnMtYUx4A8Skbu_gOEa8ncAnltRoU9c9nyMws_Pc_iQNtxNzZw",
-    "developer": "One4Studio",
-    "developerId": "7550572979310204381",
-    "priceText": "€1.99",
-    "currency": "€",
-    "price": 1.99,
-    "free": false,
-    "summary": "Best selling dark icon pack on the Play store!",
-    "scoreText": "4.7",
-    "score": 4.714286
-  },
-  {
-    "title": "Easy Release Pro - Model Release App",
-    "appId": "com.applicationgap.easyrelease.pro",
-    "url": "https://play.google.com/store/apps/details?id=com.applicationgap.easyrelease.pro",
-    "icon": "https://play-lh.googleusercontent.com/TByVRyy5D2YAwgoBJxtuoDkjNyi0DKAucqTJVRs2k-I5d2l6sk0Z0QWRa2gZmggga7Zq",
-    "developer": "ApplicationGap LLC",
-    "developerId": "ApplicationGap+LLC",
-    "priceText": "€9.99",
-    "currency": "€",
-    "price": 9.99,
-    "free": false,
-    "summary": "Model/Property release creation with cloud storage, multi-lang, PDF/JPEG output",
-    "scoreText": "4.2",
-    "score": 4.1538463
-  },
-  {
-    "title": "OneUI Circle Icon Pack",
-    "appId": "com.onelook.oneui.circle.iconpack",
-    "url": "https://play.google.com/store/apps/details?id=com.onelook.oneui.circle.iconpack",
-    "icon": "https://play-lh.googleusercontent.com/ukSZsnjKHkuQ1UvRQOWn6RCAyGggLtRbneqXiaT0AW66C0si_aQgz8baTBEtvyYNDs4",
-    "developer": "JustNewDesigns",
-    "developerId": "6871333323804023406",
-    "priceText": "€0.69",
-    "currency": "€",
-    "price": 0.69,
-    "free": false,
-    "summary": "5600+ Icons with Most Perfect One UI Style Icon Pack in circular theme",
-    "scoreText": "4.4",
-    "score": 4.375
-  },
-  {
-    "title": "Inni di Lode",
-    "appId": "it.adi.media.inni.di.lode",
-    "url": "https://play.google.com/store/apps/details?id=it.adi.media.inni.di.lode",
-    "icon": "https://play-lh.googleusercontent.com/pSsoENyEzqHS9tjQNJk1u9lLIy3ap5DiejXnPF3hAwqzQ5KpGoc83OsG6IQJZDHd-W6t",
-    "developer": "ADI-Media",
-    "developerId": "ADI-Media",
-    "priceText": "€0.99",
-    "currency": "€",
-    "price": 0.99,
-    "free": false,
-    "summary": "The official app of the hymnbook \"words\" containing 700 songs of Praise Hymns",
-    "scoreText": "4.4",
-    "score": 4.3589745
-  },
-  {
-    "title": "Rotation Control Pro",
-    "appId": "jp.snowlife01.android.rotationcontrolpro",
-    "url": "https://play.google.com/store/apps/details?id=jp.snowlife01.android.rotationcontrolpro",
-    "icon": "https://play-lh.googleusercontent.com/RcsEH4bDk7rl026OvSNpQ0R3_1ZdcY7uwRVoN6Y7y6kAZanCo1dW4lHswML_udZRyi_p",
-    "developer": "HDM Dev Team",
-    "developerId": "8144560920157160997",
-    "priceText": "€2.49",
-    "currency": "€",
-    "price": 2.49,
-    "free": false,
-    "summary": "Rotation Control App.\nControls the rotation of the screen.",
-    "scoreText": "4.4",
-    "score": 4.37
+    "scoreText": "3.2",
+    "score": 3.162162
   }
 ]
