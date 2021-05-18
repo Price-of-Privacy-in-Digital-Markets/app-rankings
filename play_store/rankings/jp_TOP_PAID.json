@@ -12,7 +12,7 @@
     "free": false,
     "summary": "Unlocks Poweramp - Powerful Music Player for Android",
     "scoreText": "4.6",
-    "score": 4.5781493
+    "score": 4.5781975
   },
   {
     "title": "Simple Gallery Pro: Video & Photo Manager & Editor",
@@ -27,7 +27,7 @@
     "free": false,
     "summary": "Ad-free photo editor &amp; gallery 👍 Crop pictures &amp; edit photos offline, no wifi!",
     "scoreText": "4.7",
-    "score": 4.736796
+    "score": 4.7372026
   },
   {
     "title": "ATOK Japanese Input Keyboard",
@@ -57,7 +57,7 @@
     "free": false,
     "summary": "Customize your home screen",
     "scoreText": "4.7",
-    "score": 4.663064
+    "score": 4.6629786
   },
   {
     "title": "Easy Voice Recorder Pro",
@@ -72,7 +72,7 @@
     "free": false,
     "summary": "Easy Voice Recorder Pro is your everyday companion to record important moments.",
     "scoreText": "4.7",
-    "score": 4.690341
+    "score": 4.6908426
   },
   {
     "title": "Tasker",
@@ -87,7 +87,7 @@
     "free": false,
     "summary": "Automate everything from settings to photos, SMS to speech. ADC2 prize winner.",
     "scoreText": "4.5",
-    "score": 4.530641
+    "score": 4.5319533
   },
   {
     "title": "Noteshelf: Take Notes | Handwriting | Annotate PDF",
@@ -102,7 +102,7 @@
     "free": false,
     "summary": "✍️One app for taking notes — handwriting, audio, PDF annotation, or checklists.",
     "scoreText": "3.7",
-    "score": 3.669221
+    "score": 3.6721518
   },
   {
     "title": "Video & TV SideViewプレーヤープラグイン",
@@ -132,7 +132,7 @@
     "free": false,
     "summary": "Powerful video player with advanced hardware acceleration and subtitle supports.",
     "scoreText": "4.4",
-    "score": 4.403424
+    "score": 4.4028754
   },
   {
     "title": "1DM+: Browser, Video, Audio, Torrent Downloader",
@@ -147,37 +147,7 @@
     "free": false,
     "summary": "1DM+ is most advanced download manager (up to 500% faster) with Torrent support",
     "scoreText": "4.7",
-    "score": 4.671937
-  },
-  {
-    "title": "TouchRetouch",
-    "appId": "com.advasoft.touchretouch",
-    "url": "https://play.google.com/store/apps/details?id=com.advasoft.touchretouch",
-    "icon": "https://play-lh.googleusercontent.com/G_TE35bTcKM6tPTxPuZy_gz5JxnJSdMahz8Lcv2dUQ4QiwLoAflyaw6xS529mlHA5w",
-    "developer": "ADVA Soft",
-    "developerId": "ADVA+Soft",
-    "priceText": "¥210",
-    "currency": "¥",
-    "price": 210,
-    "free": false,
-    "summary": "TouchRetouch is an app to remove unwanted content from photos in an instant.",
-    "scoreText": "4.6",
-    "score": 4.5844207
-  },
-  {
-    "title": "Duet Display",
-    "appId": "com.kairos.duet",
-    "url": "https://play.google.com/store/apps/details?id=com.kairos.duet",
-    "icon": "https://play-lh.googleusercontent.com/85nFUi50EaX5re_f1qa_JoMdd9LgtdrC3KB80pr9VXqyo3jAfZcyq19SczEmTPZoWXI",
-    "developer": "Duet, Inc.",
-    "developerId": "6272126739706369897",
-    "priceText": "¥1,080",
-    "currency": "¥",
-    "price": 1,
-    "free": false,
-    "summary": "Use your Android device as a lightning fast second display for Mac &amp; PC",
-    "scoreText": "4.0",
-    "score": 3.9928572
+    "score": 4.6744547
   },
   {
     "title": "Smart Alarm (Alarm Clock)",
@@ -210,6 +180,36 @@
     "score": 3.08
   },
   {
+    "title": "TouchRetouch",
+    "appId": "com.advasoft.touchretouch",
+    "url": "https://play.google.com/store/apps/details?id=com.advasoft.touchretouch",
+    "icon": "https://play-lh.googleusercontent.com/G_TE35bTcKM6tPTxPuZy_gz5JxnJSdMahz8Lcv2dUQ4QiwLoAflyaw6xS529mlHA5w",
+    "developer": "ADVA Soft",
+    "developerId": "ADVA+Soft",
+    "priceText": "¥210",
+    "currency": "¥",
+    "price": 210,
+    "free": false,
+    "summary": "TouchRetouch is an app to remove unwanted content from photos in an instant.",
+    "scoreText": "4.6",
+    "score": 4.5795093
+  },
+  {
+    "title": "Duet Display",
+    "appId": "com.kairos.duet",
+    "url": "https://play.google.com/store/apps/details?id=com.kairos.duet",
+    "icon": "https://play-lh.googleusercontent.com/85nFUi50EaX5re_f1qa_JoMdd9LgtdrC3KB80pr9VXqyo3jAfZcyq19SczEmTPZoWXI",
+    "developer": "Duet, Inc.",
+    "developerId": "6272126739706369897",
+    "priceText": "¥1,080",
+    "currency": "¥",
+    "price": 1,
+    "free": false,
+    "summary": "Use your Android device as a lightning fast second display for Mac &amp; PC",
+    "scoreText": "4.0",
+    "score": 4
+  },
+  {
     "title": "RakugakiAR",
     "appId": "co.whatever.doodle",
     "url": "https://play.google.com/store/apps/details?id=co.whatever.doodle",
@@ -223,6 +223,21 @@
     "summary": "\"RakugakiAR\" is an app that brings your doodle to life!",
     "scoreText": "3.0",
     "score": 3
+  },
+  {
+    "title": "ibis Paint",
+    "appId": "jp.ne.ibis.ibispaint.app",
+    "url": "https://play.google.com/store/apps/details?id=jp.ne.ibis.ibispaint.app",
+    "icon": "https://play-lh.googleusercontent.com/s8moWkCF9wE-ynJgNyq8k3uhhVlbQLdphqTYJWkrsLRxkFZxx9FvykHmwXYmTl_h0l8",
+    "developer": "ibis inc.",
+    "developerId": "ibis+inc.",
+    "priceText": "¥1,100",
+    "currency": "¥",
+    "price": 1,
+    "free": false,
+    "summary": "Share the joy of painting with ibis Paint!\nDrawing anime and manga art.",
+    "scoreText": "4.5",
+    "score": 4.4913044
   },
   {
     "title": "Screenshot Pro - Automatic trimming",
@@ -240,17 +255,17 @@
     "score": 4.616725
   },
   {
-    "title": "ibis Paint",
-    "appId": "jp.ne.ibis.ibispaint.app",
-    "url": "https://play.google.com/store/apps/details?id=jp.ne.ibis.ibispaint.app",
-    "icon": "https://play-lh.googleusercontent.com/s8moWkCF9wE-ynJgNyq8k3uhhVlbQLdphqTYJWkrsLRxkFZxx9FvykHmwXYmTl_h0l8",
-    "developer": "ibis inc.",
-    "developerId": "ibis+inc.",
-    "priceText": "¥1,100",
+    "title": "パブロフ簿記２級商業簿記 日商簿記仕訳対策 2021年度版",
+    "appId": "com.pubrof.pubrofboki2",
+    "url": "https://play.google.com/store/apps/details?id=com.pubrof.pubrofboki2",
+    "icon": "https://play-lh.googleusercontent.com/cVBtaLlOqpIoFkQSV7gWf5-5KKHTXiYV17anMldu4xSmv_XoD8y-CKMw658BmV5NX2o",
+    "developer": "willsi Co., Ltd.",
+    "developerId": "willsi+Co.,+Ltd.",
+    "priceText": "¥700",
     "currency": "¥",
-    "price": 1,
+    "price": 700,
     "free": false,
-    "summary": "Share the joy of painting with ibis Paint!\nDrawing anime and manga art.",
+    "summary": "● Fully compatible with the 2021 test range! Also supported online tests",
     "scoreText": "4.5",
     "score": 4.5
   },
@@ -266,8 +281,23 @@
     "price": 540,
     "free": false,
     "summary": "Play PS5/ PS4 games remotely with any controller and mobile internet connection",
-    "scoreText": "4.5",
-    "score": 4.5416665
+    "scoreText": "4.6",
+    "score": 4.5503144
+  },
+  {
+    "title": "The Wonder Weeks",
+    "appId": "org.twisevictory.apps",
+    "url": "https://play.google.com/store/apps/details?id=org.twisevictory.apps",
+    "icon": "https://play-lh.googleusercontent.com/YmeElk9rx6Ik3AXMAwtX8ce42Zbt8TGABf-Iowk-a8LD3Vahjwi_Ct3Z8sHGcuYZyNXa",
+    "developer": "Domus Technica",
+    "developerId": "Domus+Technica",
+    "priceText": "¥490",
+    "currency": "¥",
+    "price": 490,
+    "free": false,
+    "summary": "The world’s most popular and best-selling baby app",
+    "scoreText": "4.4",
+    "score": 4.434499
   },
   {
     "title": "Human Anatomy Atlas 2021: Complete 3D Human Body",
@@ -282,22 +312,7 @@
     "free": false,
     "summary": "A comprehensive 3D atlas of the human body",
     "scoreText": "4.7",
-    "score": 4.692399
-  },
-  {
-    "title": "パブロフ簿記２級商業簿記 日商簿記仕訳対策 2021年度版",
-    "appId": "com.pubrof.pubrofboki2",
-    "url": "https://play.google.com/store/apps/details?id=com.pubrof.pubrofboki2",
-    "icon": "https://play-lh.googleusercontent.com/cVBtaLlOqpIoFkQSV7gWf5-5KKHTXiYV17anMldu4xSmv_XoD8y-CKMw658BmV5NX2o",
-    "developer": "willsi Co., Ltd.",
-    "developerId": "willsi+Co.,+Ltd.",
-    "priceText": "¥700",
-    "currency": "¥",
-    "price": 700,
-    "free": false,
-    "summary": "● Fully compatible with the 2021 test range! Also supported online tests",
-    "scoreText": "4.5",
-    "score": 4.5
+    "score": 4.692764
   },
   {
     "title": "Onkyo HF Player Unlocker",
@@ -327,7 +342,52 @@
     "free": false,
     "summary": "An essential app for keeping your device functional.",
     "scoreText": "4.4",
-    "score": 4.4275723
+    "score": 4.422311
+  },
+  {
+    "title": "ニック式英会話ジム ベータ版",
+    "appId": "com.nic_english.gym.NicGym",
+    "url": "https://play.google.com/store/apps/details?id=com.nic_english.gym.NicGym",
+    "icon": "https://play-lh.googleusercontent.com/IsjDSNT08bgCUlg0aRpNa1HuT-_oSE4AmNsqClaisyuhcIXTL1aU50fNDnePWKkmAbA",
+    "developer": "INSTYLE GROUP",
+    "developerId": "INSTYLE+GROUP",
+    "priceText": "¥3,000",
+    "currency": "¥",
+    "price": 3,
+    "free": false,
+    "summary": "「英語脳」の別の「筋肉」を鍛える６つのトレーニングマシーンで日頃トレーニングして、「英語脳」の「神経回路」が作られる画期的なアプリです。",
+    "scoreText": "3.8",
+    "score": 3.77
+  },
+  {
+    "title": "Simple & Lightweight Music Player LMZa",
+    "appId": "jp.studio.yukari.android.lmza",
+    "url": "https://play.google.com/store/apps/details?id=jp.studio.yukari.android.lmza",
+    "icon": "https://play-lh.googleusercontent.com/m04yhRieIHvCmFQ8AdGyJIrRq3SG_7_3pg1BXwt3nPEmDc1s2SO0tS5AE_61HeMyjg",
+    "developer": "LMZa Studio",
+    "developerId": "LMZa+Studio",
+    "priceText": "¥500",
+    "currency": "¥",
+    "price": 500,
+    "free": false,
+    "summary": "Simple and energy-saving music player. Make your smartphone a portable player.",
+    "scoreText": "4.9",
+    "score": 4.8636365
+  },
+  {
+    "title": "Panecal Plus",
+    "appId": "jp.ne.kutu.PanecalPlus",
+    "url": "https://play.google.com/store/apps/details?id=jp.ne.kutu.PanecalPlus",
+    "icon": "https://play-lh.googleusercontent.com/OxUCn_duYjfedMlQby6fG7QcpHWWZFI-nWuX1wQHbzP_SQEnu24A69GFXuuWMOQtEA",
+    "developer": "Appsys",
+    "developerId": "7857127388664943474",
+    "priceText": "¥300",
+    "currency": "¥",
+    "price": 300,
+    "free": false,
+    "summary": "Ad-free version of the Panecal Scientific Calculator",
+    "scoreText": "4.7",
+    "score": 4.744681
   },
   {
     "title": "パブロフ簿記３級 日商簿記仕訳対策 2021年度版",
@@ -360,21 +420,6 @@
     "score": 0
   },
   {
-    "title": "ニック式英会話ジム ベータ版",
-    "appId": "com.nic_english.gym.NicGym",
-    "url": "https://play.google.com/store/apps/details?id=com.nic_english.gym.NicGym",
-    "icon": "https://play-lh.googleusercontent.com/IsjDSNT08bgCUlg0aRpNa1HuT-_oSE4AmNsqClaisyuhcIXTL1aU50fNDnePWKkmAbA",
-    "developer": "INSTYLE GROUP",
-    "developerId": "INSTYLE+GROUP",
-    "priceText": "¥3,000",
-    "currency": "¥",
-    "price": 3,
-    "free": false,
-    "summary": "「英語脳」の別の「筋肉」を鍛える６つのトレーニングマシーンで日頃トレーニングして、「英語脳」の「神経回路」が作られる画期的なアプリです。",
-    "scoreText": "3.8",
-    "score": 3.77
-  },
-  {
     "title": "Dumb Ways JR Boffo's Breakfast",
     "appId": "au.com.metro.dwjr.boffos",
     "url": "https://play.google.com/store/apps/details?id=au.com.metro.dwjr.boffos",
@@ -390,51 +435,6 @@
     "score": 4.52
   },
   {
-    "title": "The Wonder Weeks",
-    "appId": "org.twisevictory.apps",
-    "url": "https://play.google.com/store/apps/details?id=org.twisevictory.apps",
-    "icon": "https://play-lh.googleusercontent.com/YmeElk9rx6Ik3AXMAwtX8ce42Zbt8TGABf-Iowk-a8LD3Vahjwi_Ct3Z8sHGcuYZyNXa",
-    "developer": "Domus Technica",
-    "developerId": "Domus+Technica",
-    "priceText": "¥490",
-    "currency": "¥",
-    "price": 490,
-    "free": false,
-    "summary": "The world’s most popular and best-selling baby app",
-    "scoreText": "4.4",
-    "score": 4.4346986
-  },
-  {
-    "title": "Panecal Plus",
-    "appId": "jp.ne.kutu.PanecalPlus",
-    "url": "https://play.google.com/store/apps/details?id=jp.ne.kutu.PanecalPlus",
-    "icon": "https://play-lh.googleusercontent.com/OxUCn_duYjfedMlQby6fG7QcpHWWZFI-nWuX1wQHbzP_SQEnu24A69GFXuuWMOQtEA",
-    "developer": "Appsys",
-    "developerId": "7857127388664943474",
-    "priceText": "¥300",
-    "currency": "¥",
-    "price": 300,
-    "free": false,
-    "summary": "Ad-free version of the Panecal Scientific Calculator",
-    "scoreText": "4.8",
-    "score": 4.7659574
-  },
-  {
-    "title": "Simple & Lightweight Music Player LMZa",
-    "appId": "jp.studio.yukari.android.lmza",
-    "url": "https://play.google.com/store/apps/details?id=jp.studio.yukari.android.lmza",
-    "icon": "https://play-lh.googleusercontent.com/m04yhRieIHvCmFQ8AdGyJIrRq3SG_7_3pg1BXwt3nPEmDc1s2SO0tS5AE_61HeMyjg",
-    "developer": "LMZa Studio",
-    "developerId": "LMZa+Studio",
-    "priceText": "¥500",
-    "currency": "¥",
-    "price": 500,
-    "free": false,
-    "summary": "Simple and energy-saving music player. Make your smartphone a portable player.",
-    "scoreText": "4.9",
-    "score": 4.8636365
-  },
-  {
     "title": "DroidCamX - HD Webcam for PC",
     "appId": "com.dev47apps.droidcamx",
     "url": "https://play.google.com/store/apps/details?id=com.dev47apps.droidcamx",
@@ -447,7 +447,37 @@
     "free": false,
     "summary": "Use your phone as a webcam on your computer over WiFi or USB.",
     "scoreText": "4.6",
-    "score": 4.620253
+    "score": 4.616119
+  },
+  {
+    "title": "Navigation Pro: Google Maps Navi on Samsung Watch",
+    "appId": "smartwatchstudios.app.gears3navigation",
+    "url": "https://play.google.com/store/apps/details?id=smartwatchstudios.app.gears3navigation",
+    "icon": "https://play-lh.googleusercontent.com/AEXCG0OBJoHKiDR9l9706kULLCyhI02zjWTFHHsmeZYGUq0hBLuvkVLqPEUaA-Ulh6c",
+    "developer": "Smartwatch Studios",
+    "developerId": "Smartwatch+Studios",
+    "priceText": "¥399",
+    "currency": "¥",
+    "price": 399,
+    "free": false,
+    "summary": "Navigate with your watch and keep the phone in your pocket!",
+    "scoreText": "4.3",
+    "score": 4.283208
+  },
+  {
+    "title": "SPI非言語 【Study Pro】",
+    "appId": "studypro.spi.higengo",
+    "url": "https://play.google.com/store/apps/details?id=studypro.spi.higengo",
+    "icon": "https://play-lh.googleusercontent.com/qdVYCw6i4caTV_B5KzqGKLFinxpA0XkaU0LAAkIhVRv8n-Beq6yl4jyVYp1jQOJ2HdfZ",
+    "developer": "Study Pro",
+    "developerId": "Study+Pro",
+    "priceText": "¥250",
+    "currency": "¥",
+    "price": 250,
+    "free": false,
+    "summary": "★特徴① 最適学習モード搭載!\n★特徴② 十分な問題量!SPI3にも対応!\n★特徴③ 全問題に本よりも詳しい解説つき!\n★特徴④ 高機能手書きメモツールつき!",
+    "scoreText": "4.5",
+    "score": 4.52
   },
   {
     "title": "どんどん話すための瞬間英作文トレーニング",
@@ -477,52 +507,7 @@
     "free": false,
     "summary": "Mute all sound of your device.\nSupport Samsung OneUI 2.1 with Android10.",
     "scoreText": "2.4",
-    "score": 2.3691275
-  },
-  {
-    "title": "FL Studio Mobile",
-    "appId": "com.imageline.FLM",
-    "url": "https://play.google.com/store/apps/details?id=com.imageline.FLM",
-    "icon": "https://play-lh.googleusercontent.com/Pxdgk7UjvfpihQv_WaAIndFJS0f_NcGvKGoKDN6HovXmnAQexYTgxDtPWdFRErJ_NRs",
-    "developer": "Image-Line",
-    "developerId": "8228703397536036345",
-    "priceText": "¥1,199",
-    "currency": "¥",
-    "price": 1,
-    "free": false,
-    "summary": "The fastest way from your brain to your speakers.",
-    "scoreText": "4.2",
-    "score": 4.1507483
-  },
-  {
-    "title": "Navigation Pro: Google Maps Navi on Samsung Watch",
-    "appId": "smartwatchstudios.app.gears3navigation",
-    "url": "https://play.google.com/store/apps/details?id=smartwatchstudios.app.gears3navigation",
-    "icon": "https://play-lh.googleusercontent.com/AEXCG0OBJoHKiDR9l9706kULLCyhI02zjWTFHHsmeZYGUq0hBLuvkVLqPEUaA-Ulh6c",
-    "developer": "Smartwatch Studios",
-    "developerId": "Smartwatch+Studios",
-    "priceText": "¥399",
-    "currency": "¥",
-    "price": 399,
-    "free": false,
-    "summary": "Navigate with your watch and keep the phone in your pocket!",
-    "scoreText": "4.3",
-    "score": 4.290323
-  },
-  {
-    "title": "SPI非言語 【Study Pro】",
-    "appId": "studypro.spi.higengo",
-    "url": "https://play.google.com/store/apps/details?id=studypro.spi.higengo",
-    "icon": "https://play-lh.googleusercontent.com/qdVYCw6i4caTV_B5KzqGKLFinxpA0XkaU0LAAkIhVRv8n-Beq6yl4jyVYp1jQOJ2HdfZ",
-    "developer": "Study Pro",
-    "developerId": "Study+Pro",
-    "priceText": "¥250",
-    "currency": "¥",
-    "price": 250,
-    "free": false,
-    "summary": "★特徴① 最適学習モード搭載!\n★特徴② 十分な問題量!SPI3にも対応!\n★特徴③ 全問題に本よりも詳しい解説つき!\n★特徴④ 高機能手書きメモツールつき!",
-    "scoreText": "4.5",
-    "score": 4.52
+    "score": 2.36
   },
   {
     "title": "Unicorn Blocker:Adblocker, Fast & Private",
@@ -537,7 +522,7 @@
     "free": false,
     "summary": "* block pre-roll ads, pop-up and forced redirect ads\n* Samsung certification app",
     "scoreText": "4.0",
-    "score": 3.9932203
+    "score": 3.9932127
   },
   {
     "title": "Password Manager SafeInCloud Pro",
@@ -552,7 +537,37 @@
     "free": false,
     "summary": "The best cross-platform Password Manager with cloud sync and free Desktop app.",
     "scoreText": "4.8",
-    "score": 4.822658
+    "score": 4.8229203
+  },
+  {
+    "title": "FL Studio Mobile",
+    "appId": "com.imageline.FLM",
+    "url": "https://play.google.com/store/apps/details?id=com.imageline.FLM",
+    "icon": "https://play-lh.googleusercontent.com/Pxdgk7UjvfpihQv_WaAIndFJS0f_NcGvKGoKDN6HovXmnAQexYTgxDtPWdFRErJ_NRs",
+    "developer": "Image-Line",
+    "developerId": "8228703397536036345",
+    "priceText": "¥1,199",
+    "currency": "¥",
+    "price": 1,
+    "free": false,
+    "summary": "The fastest way from your brain to your speakers.",
+    "scoreText": "4.2",
+    "score": 4.152391
+  },
+  {
+    "title": "SPI言語 【Study Pro】",
+    "appId": "studypro.spi",
+    "url": "https://play.google.com/store/apps/details?id=studypro.spi",
+    "icon": "https://play-lh.googleusercontent.com/rNQAtONvktvtMGeOXEaWtbiluD2FVLcIQtfcpCNkILlUkqyIdFItcC5MaOQBQLz0NRk",
+    "developer": "Study Pro",
+    "developerId": "Study+Pro",
+    "priceText": "¥250",
+    "currency": "¥",
+    "price": 250,
+    "free": false,
+    "summary": "★特徴① 最適学習モード搭載!\n★特徴② 十分な問題量!SPI3にも対応!\n★特徴③ 全問題に本よりも詳しい解説つき!\n★特徴④ 高機能手書きメモツールつき!",
+    "scoreText": "4.4",
+    "score": 4.3960395
   },
   {
     "title": "SnoreGym : Reduce Your Snoring",
@@ -561,13 +576,43 @@
     "icon": "https://play-lh.googleusercontent.com/iMSkl9aAdAOwzCXiHYDoHa87DWSZj_Bnv_zlm0GqmVSbHcEROkwnf16nabrjdCEHUZFq",
     "developer": "Reviva Softworks Ltd",
     "developerId": "Reviva+Softworks+Ltd",
-    "priceText": "¥330",
+    "priceText": "¥540",
     "currency": "¥",
-    "price": 330,
+    "price": 540,
     "free": false,
     "summary": "The exercise app for quiet sleep from the creators of SnoreLab",
     "scoreText": "4.7",
     "score": 4.67
+  },
+  {
+    "title": "CryptoTab Browser Pro—Mine on a PRO level",
+    "appId": "pro.cryptotab.android",
+    "url": "https://play.google.com/store/apps/details?id=pro.cryptotab.android",
+    "icon": "https://play-lh.googleusercontent.com/V39wGP9G39m3_B_-xMe8UNUNEHb-O-E2PcfdEHZUJ5qKVmL_Za16QKsApAtnzuxbabE",
+    "developer": "CryptoCompany OU",
+    "developerId": "7473884676694961129",
+    "priceText": "¥100",
+    "currency": "¥",
+    "price": 100,
+    "free": false,
+    "summary": "Increase your speed with a special version of CryptoTab Browser",
+    "scoreText": "4.2",
+    "score": 4.201323
+  },
+  {
+    "title": "@picn2k camera",
+    "appId": "eyu.on.pica",
+    "url": "https://play.google.com/store/apps/details?id=eyu.on.pica",
+    "icon": "https://play-lh.googleusercontent.com/KbuyTtrHKKlCuQXqnojeJjmKXpwkvmKWo_mZYSIoisRf73n62UgecHaodMH3Lzje2Ic",
+    "developer": "2U",
+    "developerId": "2U",
+    "priceText": "¥240",
+    "currency": "¥",
+    "price": 240,
+    "free": false,
+    "summary": "Camera designed by a travel photographer.",
+    "scoreText": "4.3",
+    "score": 4.27451
   },
   {
     "title": "Edge Gestures",
@@ -582,7 +627,7 @@
     "free": false,
     "summary": "Just swipe the edge to do something!",
     "scoreText": "4.6",
-    "score": 4.636076
+    "score": 4.6357827
   },
   {
     "title": "AirReceiver",
@@ -612,22 +657,7 @@
     "free": false,
     "summary": "Measure BHP, Torque &amp; 0-60\nClear car OBD faults\nView engine data in Google Earth",
     "scoreText": "3.7",
-    "score": 3.7453835
-  },
-  {
-    "title": "CryptoTab Browser Pro—Mine on a PRO level",
-    "appId": "pro.cryptotab.android",
-    "url": "https://play.google.com/store/apps/details?id=pro.cryptotab.android",
-    "icon": "https://play-lh.googleusercontent.com/V39wGP9G39m3_B_-xMe8UNUNEHb-O-E2PcfdEHZUJ5qKVmL_Za16QKsApAtnzuxbabE",
-    "developer": "CryptoCompany OU",
-    "developerId": "7473884676694961129",
-    "priceText": "¥100",
-    "currency": "¥",
-    "price": 100,
-    "free": false,
-    "summary": "Increase your speed with a special version of CryptoTab Browser",
-    "scoreText": "4.2",
-    "score": 4.2113366
+    "score": 3.7451599
   },
   {
     "title": "PeakFinder",
@@ -642,67 +672,7 @@
     "free": false,
     "summary": "The mobile panorama panel.\nWorks offline - worldwide!",
     "scoreText": "4.6",
-    "score": 4.569717
-  },
-  {
-    "title": "@picn2k camera",
-    "appId": "eyu.on.pica",
-    "url": "https://play.google.com/store/apps/details?id=eyu.on.pica",
-    "icon": "https://play-lh.googleusercontent.com/KbuyTtrHKKlCuQXqnojeJjmKXpwkvmKWo_mZYSIoisRf73n62UgecHaodMH3Lzje2Ic",
-    "developer": "2U",
-    "developerId": "2U",
-    "priceText": "¥240",
-    "currency": "¥",
-    "price": 240,
-    "free": false,
-    "summary": "Camera designed by a travel photographer.",
-    "scoreText": "4.3",
-    "score": 4.2843137
-  },
-  {
-    "title": "NFC Tools - Pro Edition",
-    "appId": "com.wakdev.nfctools.pro",
-    "url": "https://play.google.com/store/apps/details?id=com.wakdev.nfctools.pro",
-    "icon": "https://play-lh.googleusercontent.com/I9rEvn6tBL3ordlauqKTYihV5plSetn1t_JY6rmAI80WlSRq9MThjrcFDVEvCgepHsc",
-    "developer": "wakdev",
-    "developerId": "6943435756825055171",
-    "priceText": "¥439",
-    "currency": "¥",
-    "price": 439,
-    "free": false,
-    "summary": "NFC Tools can read and write NFC tags.",
-    "scoreText": "4.4",
-    "score": 4.364754
-  },
-  {
-    "title": "Handy Art Reference Tool",
-    "appId": "com.beliefengine.handyapp",
-    "url": "https://play.google.com/store/apps/details?id=com.beliefengine.handyapp",
-    "icon": "https://play-lh.googleusercontent.com/tmvzNOxQYGVVG2bcfzovPBhH6UY8LniqckUmYHFlLrg4JSBDxQ2iZKjoyV-ylaaQb_Y",
-    "developer": "Belief Engine",
-    "developerId": "8958673889705949159",
-    "priceText": "¥370",
-    "currency": "¥",
-    "price": 370,
-    "free": false,
-    "summary": "Artists wanting to use decent hand reference on the go, this app is for you!",
-    "scoreText": "4.8",
-    "score": 4.762215
-  },
-  {
-    "title": "Toca Life: Hospital",
-    "appId": "com.tocaboca.tocahospital",
-    "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocahospital",
-    "icon": "https://play-lh.googleusercontent.com/Jeoff_0VjrZ52ou5ghwKoCinaKcOYvWKOASuUNorrhN1nOkBTKn4yqEf0xFViz-3K_L4",
-    "developer": "Toca Boca",
-    "developerId": "8567646723268777320",
-    "priceText": "¥480",
-    "currency": "¥",
-    "price": 480,
-    "free": false,
-    "summary": "Experience the excitement of a busy medical center with Toca Life: Hospital!",
-    "scoreText": "4.2",
-    "score": 4.220949
+    "score": 4.5667753
   },
   {
     "title": "Popup Widget 3",
@@ -720,19 +690,79 @@
     "score": 4.801917
   },
   {
-    "title": "SPI言語 【Study Pro】",
-    "appId": "studypro.spi",
-    "url": "https://play.google.com/store/apps/details?id=studypro.spi",
-    "icon": "https://play-lh.googleusercontent.com/rNQAtONvktvtMGeOXEaWtbiluD2FVLcIQtfcpCNkILlUkqyIdFItcC5MaOQBQLz0NRk",
-    "developer": "Study Pro",
-    "developerId": "Study+Pro",
-    "priceText": "¥250",
+    "title": "iReal Pro - Music Book & Backing Tracks",
+    "appId": "com.massimobiolcati.irealb",
+    "url": "https://play.google.com/store/apps/details?id=com.massimobiolcati.irealb",
+    "icon": "https://play-lh.googleusercontent.com/SLZHwIa8NDKmzza0_0rWb5fZ6lV8Q3QfG9OJyBKEjlZET6SeyLRj0-erllSvMLP1OHU",
+    "developer": "Technimo",
+    "developerId": "Technimo",
+    "priceText": "¥1,800",
     "currency": "¥",
-    "price": 250,
+    "price": 1,
     "free": false,
-    "summary": "★特徴① 最適学習モード搭載!\n★特徴② 十分な問題量!SPI3にも対応!\n★特徴③ 全問題に本よりも詳しい解説つき!\n★特徴④ 高機能手書きメモツールつき!",
+    "summary": "Collect 1000s of chord charts and have a virtual band accompany your practice",
+    "scoreText": "4.6",
+    "score": 4.6330276
+  },
+  {
+    "title": "NFC Tools - Pro Edition",
+    "appId": "com.wakdev.nfctools.pro",
+    "url": "https://play.google.com/store/apps/details?id=com.wakdev.nfctools.pro",
+    "icon": "https://play-lh.googleusercontent.com/I9rEvn6tBL3ordlauqKTYihV5plSetn1t_JY6rmAI80WlSRq9MThjrcFDVEvCgepHsc",
+    "developer": "wakdev",
+    "developerId": "6943435756825055171",
+    "priceText": "¥439",
+    "currency": "¥",
+    "price": 439,
+    "free": false,
+    "summary": "NFC Tools can read and write NFC tags.",
     "scoreText": "4.4",
-    "score": 4.3960395
+    "score": 4.360489
+  },
+  {
+    "title": "Handy Art Reference Tool",
+    "appId": "com.beliefengine.handyapp",
+    "url": "https://play.google.com/store/apps/details?id=com.beliefengine.handyapp",
+    "icon": "https://play-lh.googleusercontent.com/tmvzNOxQYGVVG2bcfzovPBhH6UY8LniqckUmYHFlLrg4JSBDxQ2iZKjoyV-ylaaQb_Y",
+    "developer": "Belief Engine",
+    "developerId": "8958673889705949159",
+    "priceText": "¥370",
+    "currency": "¥",
+    "price": 370,
+    "free": false,
+    "summary": "Artists wanting to use decent hand reference on the go, this app is for you!",
+    "scoreText": "4.8",
+    "score": 4.75817
+  },
+  {
+    "title": "Toca Life: Hospital",
+    "appId": "com.tocaboca.tocahospital",
+    "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocahospital",
+    "icon": "https://play-lh.googleusercontent.com/Jeoff_0VjrZ52ou5ghwKoCinaKcOYvWKOASuUNorrhN1nOkBTKn4yqEf0xFViz-3K_L4",
+    "developer": "Toca Boca",
+    "developerId": "8567646723268777320",
+    "priceText": "¥480",
+    "currency": "¥",
+    "price": 480,
+    "free": false,
+    "summary": "Experience the excitement of a busy medical center with Toca Life: Hospital!",
+    "scoreText": "4.2",
+    "score": 4.2222223
+  },
+  {
+    "title": "Toca Life: Hospital",
+    "appId": "com.tocaboca.tocahospital",
+    "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocahospital",
+    "icon": "https://play-lh.googleusercontent.com/Jeoff_0VjrZ52ou5ghwKoCinaKcOYvWKOASuUNorrhN1nOkBTKn4yqEf0xFViz-3K_L4",
+    "developer": "Toca Boca",
+    "developerId": "8567646723268777320",
+    "priceText": "¥480",
+    "currency": "¥",
+    "price": 480,
+    "free": false,
+    "summary": "Experience the excitement of a busy medical center with Toca Life: Hospital!",
+    "scoreText": "4.2",
+    "score": 4.2222223
   },
   {
     "title": "Groundwire: VoIP SIP Softphone",
@@ -750,6 +780,21 @@
     "score": 3.88
   },
   {
+    "title": "TwitPanePlus",
+    "appId": "com.twitpane.premium",
+    "url": "https://play.google.com/store/apps/details?id=com.twitpane.premium",
+    "icon": "https://play-lh.googleusercontent.com/ET-F2EmBgnAK_wCvaN2EAQb_Q569B17rMjKCE_h5PS8w9qBAQWJyTxAncsa5tySZ-8c",
+    "developer": "Panecraft, Inc.",
+    "developerId": "Panecraft,+Inc.",
+    "priceText": "¥800",
+    "currency": "¥",
+    "price": 800,
+    "free": false,
+    "summary": "TwitPane+ is a light weight and powerful app!",
+    "scoreText": "4.7",
+    "score": 4.6650944
+  },
+  {
     "title": "Simple Thank You - Thanks for supporting us :)",
     "appId": "com.simplemobiletools.thankyou",
     "url": "https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou",
@@ -762,7 +807,7 @@
     "free": false,
     "summary": "A warm Thank You for supporting our modern &amp; easy Simple Mobile Tools apps!",
     "scoreText": "4.8",
-    "score": 4.757576
+    "score": 4.774892
   },
   {
     "title": "Network Cell Info - Mobile & WiFi Signal",
@@ -777,7 +822,22 @@
     "free": false,
     "summary": "The network cell signal monitoring tool for LTE, UMTS, GSM, CDMA.",
     "scoreText": "4.5",
-    "score": 4.4919786
+    "score": 4.4926763
+  },
+  {
+    "title": "Hi-Q MP3 Voice Recorder (Pro)",
+    "appId": "com.hiqrecorder.full",
+    "url": "https://play.google.com/store/apps/details?id=com.hiqrecorder.full",
+    "icon": "https://play-lh.googleusercontent.com/_cY1VJ3y0yT5SAOt5cExMwWrb1wV11S6Ph02ZBXRUR0iJjkEYKE7_An3k9eRV0UiCA",
+    "developer": "Audiophile",
+    "developerId": "Audiophile",
+    "priceText": "¥420",
+    "currency": "¥",
+    "price": 420,
+    "free": false,
+    "summary": "Versatile MP3 recorder with auto-backup to Dropbox and Google Drive",
+    "scoreText": "4.7",
+    "score": 4.6729107
   },
   {
     "title": "パブロフ簿記２級工業簿記",
@@ -795,21 +855,6 @@
     "score": 3.7959185
   },
   {
-    "title": "QuickEdit Text Editor Pro - Writer & Code Editor",
-    "appId": "com.rhmsoft.edit.pro",
-    "url": "https://play.google.com/store/apps/details?id=com.rhmsoft.edit.pro",
-    "icon": "https://play-lh.googleusercontent.com/ZNJRTw4J0vOyEJPGe2-mdJaXC3o9wcf4M7wvkcytJ9IUZh514z4oDPn2Znw845CTnOE",
-    "developer": "Rhythm Software",
-    "developerId": "5848068795804361091",
-    "priceText": "¥310",
-    "currency": "¥",
-    "price": 310,
-    "free": false,
-    "summary": "QuickEdit is a fast, stable and full featured notepad and text editor.",
-    "scoreText": "4.6",
-    "score": 4.5709457
-  },
-  {
     "title": "Silent Mode/All Mute Mode (Camera Mute)",
     "appId": "jp.sisyou.kumikashi.allmutemode",
     "url": "https://play.google.com/store/apps/details?id=jp.sisyou.kumikashi.allmutemode",
@@ -822,7 +867,7 @@
     "free": false,
     "summary": "You can use the Default Camera with mute mode.\nTotal 400,000 downloads achieved!",
     "scoreText": "2.8",
-    "score": 2.8245614
+    "score": 2.8434782
   },
   {
     "title": "Toca Life: School",
@@ -840,21 +885,6 @@
     "score": 4.3520765
   },
   {
-    "title": "TwitPanePlus",
-    "appId": "com.twitpane.premium",
-    "url": "https://play.google.com/store/apps/details?id=com.twitpane.premium",
-    "icon": "https://play-lh.googleusercontent.com/ET-F2EmBgnAK_wCvaN2EAQb_Q569B17rMjKCE_h5PS8w9qBAQWJyTxAncsa5tySZ-8c",
-    "developer": "Panecraft, Inc.",
-    "developerId": "Panecraft,+Inc.",
-    "priceText": "¥800",
-    "currency": "¥",
-    "price": 800,
-    "free": false,
-    "summary": "TwitPane+ is a light weight and powerful app!",
-    "scoreText": "4.7",
-    "score": 4.663507
-  },
-  {
     "title": "Simple File Manager Pro: File Explorer & Organizer",
     "appId": "com.simplemobiletools.filemanager.pro",
     "url": "https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager.pro",
@@ -867,7 +897,7 @@
     "free": false,
     "summary": "Handy file explorer for easily searching or organizing your files and folders",
     "scoreText": "4.6",
-    "score": 4.6
+    "score": 4.6015325
   },
   {
     "title": "NEGAVIEW PRO",
@@ -885,21 +915,6 @@
     "score": 2.5454545
   },
   {
-    "title": "iReal Pro - Music Book & Backing Tracks",
-    "appId": "com.massimobiolcati.irealb",
-    "url": "https://play.google.com/store/apps/details?id=com.massimobiolcati.irealb",
-    "icon": "https://play-lh.googleusercontent.com/SLZHwIa8NDKmzza0_0rWb5fZ6lV8Q3QfG9OJyBKEjlZET6SeyLRj0-erllSvMLP1OHU",
-    "developer": "Technimo",
-    "developerId": "Technimo",
-    "priceText": "¥1,800",
-    "currency": "¥",
-    "price": 1,
-    "free": false,
-    "summary": "Collect 1000s of chord charts and have a virtual band accompany your practice",
-    "scoreText": "4.6",
-    "score": 4.6324654
-  },
-  {
     "title": "Pulsar Music Player Pro - Mp3 Player, Audio Player",
     "appId": "com.rhmsoft.pulsar.pro",
     "url": "https://play.google.com/store/apps/details?id=com.rhmsoft.pulsar.pro",
@@ -912,22 +927,7 @@
     "free": false,
     "summary": "The best offline audio player and mp3 player, no ads, with material design.",
     "scoreText": "4.5",
-    "score": 4.5488296
-  },
-  {
-    "title": "Hi-Q MP3 Voice Recorder (Pro)",
-    "appId": "com.hiqrecorder.full",
-    "url": "https://play.google.com/store/apps/details?id=com.hiqrecorder.full",
-    "icon": "https://play-lh.googleusercontent.com/_cY1VJ3y0yT5SAOt5cExMwWrb1wV11S6Ph02ZBXRUR0iJjkEYKE7_An3k9eRV0UiCA",
-    "developer": "Audiophile",
-    "developerId": "Audiophile",
-    "priceText": "¥420",
-    "currency": "¥",
-    "price": 420,
-    "free": false,
-    "summary": "Versatile MP3 recorder with auto-backup to Dropbox and Google Drive",
-    "scoreText": "4.7",
-    "score": 4.6724386
+    "score": 4.5483093
   },
   {
     "title": "USB Audio Player PRO",
@@ -942,7 +942,7 @@
     "free": false,
     "summary": "High quality media player supporting USB audio DACs and HiRes audio chips",
     "scoreText": "4.2",
-    "score": 4.1653366
+    "score": 4.164399
   },
   {
     "title": "Camera Mute (Silent Mode/All Mute Mode)",
@@ -960,6 +960,21 @@
     "score": 2.96
   },
   {
+    "title": "SimpleMind Pro - Intuitive Mind Mapping",
+    "appId": "com.modelmakertools.simplemindpro",
+    "url": "https://play.google.com/store/apps/details?id=com.modelmakertools.simplemindpro",
+    "icon": "https://play-lh.googleusercontent.com/leamKxWFMvBM2aSh9PPBErsg87pAcJbVDaoh5uX-BKAGzN1FToBgDz4RmV6ctPEEB0U",
+    "developer": "ModelMaker Tools",
+    "developerId": "ModelMaker+Tools",
+    "priceText": "¥880",
+    "currency": "¥",
+    "price": 880,
+    "free": false,
+    "summary": "Mind Mapping brainstorming, note taking and idea collection",
+    "scoreText": "4.7",
+    "score": 4.7171717
+  },
+  {
     "title": "Toca Life: Pets",
     "appId": "com.tocaboca.tocapets",
     "url": "https://play.google.com/store/apps/details?id=com.tocaboca.tocapets",
@@ -975,6 +990,21 @@
     "score": 4.230769
   },
   {
+    "title": "Sheet Music Scanner & Reader",
+    "appId": "com.xemsoft.sheetmusicscanner",
+    "url": "https://play.google.com/store/apps/details?id=com.xemsoft.sheetmusicscanner",
+    "icon": "https://play-lh.googleusercontent.com/bzFurMYENUE4GFit07FJ0F0Ln1fplfW8yvGz4i5PoQfEDFn3q1DT0_qqKw9YBohDPg",
+    "developer": "David Zemsky",
+    "developerId": "David+Zemsky",
+    "priceText": "¥490",
+    "currency": "¥",
+    "price": 490,
+    "free": false,
+    "summary": "Sheet music note reader. Play &amp; learn piano sheet music notes, score &amp; notation.",
+    "scoreText": "4.0",
+    "score": 4.03
+  },
+  {
     "title": "Sun Surveyor (Sun & Moon)",
     "appId": "com.ratana.sunsurveyor",
     "url": "https://play.google.com/store/apps/details?id=com.ratana.sunsurveyor",
@@ -987,7 +1017,7 @@
     "free": false,
     "summary": "Your personal guide to the sun and moon. Plan ahead, visualize and predict!",
     "scoreText": "4.6",
-    "score": 4.6241612
+    "score": 4.616071
   },
   {
     "title": "USB Camera Pro - Connect EasyCap or USB WebCam",
@@ -1005,6 +1035,21 @@
     "score": 3.990099
   },
   {
+    "title": "FiLMiC Pro: Professional HD Manual Video Camera",
+    "appId": "com.filmic.filmicpro",
+    "url": "https://play.google.com/store/apps/details?id=com.filmic.filmicpro",
+    "icon": "https://play-lh.googleusercontent.com/RbJPza4n97TCYEO48P-gqrgQWzwv2sySmuk3vMT2nisX1ugJfDn6wRr2rr7gdDDgROw",
+    "developer": "FiLMiC Inc.",
+    "developerId": "FiLMiC+Inc.",
+    "priceText": "¥1,640",
+    "currency": "¥",
+    "price": 1,
+    "free": false,
+    "summary": "The professional choice of Oscar-winning directors",
+    "scoreText": "3.4",
+    "score": 3.3882213
+  },
+  {
     "title": "Nebo: Note-Taking & Annotation",
     "appId": "com.myscript.nebo",
     "url": "https://play.google.com/store/apps/details?id=com.myscript.nebo",
@@ -1017,22 +1062,7 @@
     "free": false,
     "summary": "Handwriting &amp; write to text",
     "scoreText": "4.3",
-    "score": 4.3130083
-  },
-  {
-    "title": "SimpleMind Pro - Intuitive Mind Mapping",
-    "appId": "com.modelmakertools.simplemindpro",
-    "url": "https://play.google.com/store/apps/details?id=com.modelmakertools.simplemindpro",
-    "icon": "https://play-lh.googleusercontent.com/leamKxWFMvBM2aSh9PPBErsg87pAcJbVDaoh5uX-BKAGzN1FToBgDz4RmV6ctPEEB0U",
-    "developer": "ModelMaker Tools",
-    "developerId": "ModelMaker+Tools",
-    "priceText": "¥880",
-    "currency": "¥",
-    "price": 880,
-    "free": false,
-    "summary": "Mind Mapping brainstorming, note taking and idea collection",
-    "scoreText": "4.7",
-    "score": 4.7170215
+    "score": 4.323887
   },
   {
     "title": "Power Shortcuts",
@@ -1050,81 +1080,6 @@
     "score": 4.47
   },
   {
-    "title": "FiLMiC Pro: Professional HD Manual Video Camera",
-    "appId": "com.filmic.filmicpro",
-    "url": "https://play.google.com/store/apps/details?id=com.filmic.filmicpro",
-    "icon": "https://play-lh.googleusercontent.com/RbJPza4n97TCYEO48P-gqrgQWzwv2sySmuk3vMT2nisX1ugJfDn6wRr2rr7gdDDgROw",
-    "developer": "FiLMiC Inc.",
-    "developerId": "FiLMiC+Inc.",
-    "priceText": "¥1,640",
-    "currency": "¥",
-    "price": 1,
-    "free": false,
-    "summary": "The professional choice of Oscar-winning directors",
-    "scoreText": "3.4",
-    "score": 3.392512
-  },
-  {
-    "title": "FE File Explorer Pro - File Manager",
-    "appId": "com.skyjos.apps.fileexplorer",
-    "url": "https://play.google.com/store/apps/details?id=com.skyjos.apps.fileexplorer",
-    "icon": "https://play-lh.googleusercontent.com/ELr0LbKBkD1jHZp47xovRfMZ_Ic-N1kg5RxqiDl8KOmgzo8QWOQg_GZop7F75avRdAw",
-    "developer": "Skyjos Co., Ltd.",
-    "developerId": "Skyjos+Co.,+Ltd.",
-    "priceText": "¥520",
-    "currency": "¥",
-    "price": 520,
-    "free": false,
-    "summary": "Access, manage and transfer files on Android, PC, Mac, NAS and cloud storages.",
-    "scoreText": "4.6",
-    "score": 4.599315
-  },
-  {
-    "title": "FRep Unlock Key",
-    "appId": "com.x0.strai.frepkey",
-    "url": "https://play.google.com/store/apps/details?id=com.x0.strai.frepkey",
-    "icon": "https://play-lh.googleusercontent.com/Ds9jinmtIM4BEpzfluZVhFZBjSNYe9e0k657vjI7PLokNwIkgCkJ_3IYPlndP2hdYpNP",
-    "developer": "strAI",
-    "developerId": "strAI",
-    "priceText": "¥400",
-    "currency": "¥",
-    "price": 400,
-    "free": false,
-    "summary": "Tired to wait network connection before next button?  Try to trigger FRep!",
-    "scoreText": "4.1",
-    "score": 4.12
-  },
-  {
-    "title": "X Launcher Pro",
-    "appId": "com.ioslauncher.pro",
-    "url": "https://play.google.com/store/apps/details?id=com.ioslauncher.pro",
-    "icon": "https://play-lh.googleusercontent.com/n6rbS_fghv-pzroyHLGxqnM8EZRMKGFwDtc66nN3H9u-NGAML-F7LXaU6sQ3cMq6FJxq",
-    "developer": "Launcher Developer",
-    "developerId": "Launcher+Developer",
-    "priceText": "¥110",
-    "currency": "¥",
-    "price": 110,
-    "free": false,
-    "summary": "Best OS Style Launcher, make your phone looks like Phone X with No Ads",
-    "scoreText": "4.7",
-    "score": 4.696721
-  },
-  {
-    "title": "Earth & Moon in HD Gyro 3D PRO Parallax Wallpaper",
-    "appId": "com.afkettler.pro.earth",
-    "url": "https://play.google.com/store/apps/details?id=com.afkettler.pro.earth",
-    "icon": "https://play-lh.googleusercontent.com/xUHZS0C0Z67B7V1eEsG0V9HEQxkFvQRKwQOymlatP4EigDnOiEdkrE5jFc1uWRl99w",
-    "developer": "CodeKonditor",
-    "developerId": "5128480142319974805",
-    "priceText": "¥110",
-    "currency": "¥",
-    "price": 110,
-    "free": false,
-    "summary": "The best Earth Live Wallpaper ever! Trust me 😊",
-    "scoreText": "4.7",
-    "score": 4.6530614
-  },
-  {
     "title": "Sleep as Android Unlock 💤 Sleep cycle smart alarm",
     "appId": "com.urbandroid.sleep.full.key",
     "url": "https://play.google.com/store/apps/details?id=com.urbandroid.sleep.full.key",
@@ -1136,23 +1091,8 @@
     "price": 1,
     "free": false,
     "summary": "Track your sleep and wake up gently with nature sounds in optimal sleep phase",
-    "scoreText": "4.9",
-    "score": 4.8505154
-  },
-  {
-    "title": "Sheet Music Scanner - Notes Reader",
-    "appId": "com.xemsoft.sheetmusicscanner",
-    "url": "https://play.google.com/store/apps/details?id=com.xemsoft.sheetmusicscanner",
-    "icon": "https://play-lh.googleusercontent.com/bzFurMYENUE4GFit07FJ0F0Ln1fplfW8yvGz4i5PoQfEDFn3q1DT0_qqKw9YBohDPg",
-    "developer": "David Zemsky",
-    "developerId": "David+Zemsky",
-    "priceText": "¥490",
-    "currency": "¥",
-    "price": 490,
-    "free": false,
-    "summary": "Sheet music note reader. Play directly from piano sheet music, notes &amp; notation.",
-    "scoreText": "4.0",
-    "score": 4.03
+    "scoreText": "4.8",
+    "score": 4.8488793
   },
   {
     "title": "Music Folder Player Full",
@@ -1212,37 +1152,37 @@
     "free": false,
     "summary": "Accurate forecasts &amp; weather alerts, widgets, ozone layer, UV index, hurricane.",
     "scoreText": "4.6",
-    "score": 4.5765767
+    "score": 4.5825825
   },
   {
-    "title": "まいぜんシスターズアラーム",
-    "appId": "jp.co.uuum.maizen",
-    "url": "https://play.google.com/store/apps/details?id=jp.co.uuum.maizen",
-    "icon": "https://play-lh.googleusercontent.com/Y6P5Vxj91cQil4yXUol1LCHavUXFtJ-cmOw_dhjZdKRsDmfjiql3YQJXbYGi3s8-3fE",
-    "developer": "UUUM, Inc.",
-    "developerId": "UUUM,+Inc.",
-    "priceText": "¥730",
+    "title": "FE File Explorer Pro - File Manager",
+    "appId": "com.skyjos.apps.fileexplorer",
+    "url": "https://play.google.com/store/apps/details?id=com.skyjos.apps.fileexplorer",
+    "icon": "https://play-lh.googleusercontent.com/ELr0LbKBkD1jHZp47xovRfMZ_Ic-N1kg5RxqiDl8KOmgzo8QWOQg_GZop7F75avRdAw",
+    "developer": "Skyjos Co., Ltd.",
+    "developerId": "Skyjos+Co.,+Ltd.",
+    "priceText": "¥520",
     "currency": "¥",
-    "price": 730,
+    "price": 520,
     "free": false,
-    "summary": "An alarm app full of original voices from Maizen Sisters!",
-    "scoreText": "4.5",
-    "score": 4.470588
-  },
-  {
-    "title": "Koala Sampler",
-    "appId": "com.elf.koalasampler",
-    "url": "https://play.google.com/store/apps/details?id=com.elf.koalasampler",
-    "icon": "https://play-lh.googleusercontent.com/RhoZYPAuaPonODBW1A9hI-cvq9ZafGuU1aD0yRgUO8smpO2Z7g1uJNvuSOI4wgBFPbMh",
-    "developer": "elf audio",
-    "developerId": "elf+audio",
-    "priceText": "¥560",
-    "currency": "¥",
-    "price": 560,
-    "free": false,
-    "summary": "The ultimate pocket sampler",
+    "summary": "Access, manage and transfer files on Android, PC, Mac, NAS and cloud storages.",
     "scoreText": "4.6",
-    "score": 4.57
+    "score": 4.604811
+  },
+  {
+    "title": "FRep Unlock Key",
+    "appId": "com.x0.strai.frepkey",
+    "url": "https://play.google.com/store/apps/details?id=com.x0.strai.frepkey",
+    "icon": "https://play-lh.googleusercontent.com/Ds9jinmtIM4BEpzfluZVhFZBjSNYe9e0k657vjI7PLokNwIkgCkJ_3IYPlndP2hdYpNP",
+    "developer": "strAI",
+    "developerId": "strAI",
+    "priceText": "¥400",
+    "currency": "¥",
+    "price": 400,
+    "free": false,
+    "summary": "Tired to wait network connection before next button?  Try to trigger FRep!",
+    "scoreText": "4.1",
+    "score": 4.12
   },
   {
     "title": "GIF Maker, GIF Editor Pro",
@@ -1275,6 +1215,21 @@
     "score": 4.036474
   },
   {
+    "title": "X Launcher Pro",
+    "appId": "com.ioslauncher.pro",
+    "url": "https://play.google.com/store/apps/details?id=com.ioslauncher.pro",
+    "icon": "https://play-lh.googleusercontent.com/n6rbS_fghv-pzroyHLGxqnM8EZRMKGFwDtc66nN3H9u-NGAML-F7LXaU6sQ3cMq6FJxq",
+    "developer": "Launcher Developer",
+    "developerId": "Launcher+Developer",
+    "priceText": "¥110",
+    "currency": "¥",
+    "price": 110,
+    "free": false,
+    "summary": "Best OS Style Launcher, make your phone looks like Phone X with No Ads",
+    "scoreText": "4.7",
+    "score": 4.6972175
+  },
+  {
     "title": "Mini Piano Pro",
     "appId": "umito.android.minipiano_pro",
     "url": "https://play.google.com/store/apps/details?id=umito.android.minipiano_pro",
@@ -1288,6 +1243,96 @@
     "summary": "Fast, great piano with nice sounds and graphics!",
     "scoreText": "4.8",
     "score": 4.85
+  },
+  {
+    "title": "Earth & Moon in HD Gyro 3D PRO Parallax Wallpaper",
+    "appId": "com.afkettler.pro.earth",
+    "url": "https://play.google.com/store/apps/details?id=com.afkettler.pro.earth",
+    "icon": "https://play-lh.googleusercontent.com/xUHZS0C0Z67B7V1eEsG0V9HEQxkFvQRKwQOymlatP4EigDnOiEdkrE5jFc1uWRl99w",
+    "developer": "CodeKonditor",
+    "developerId": "5128480142319974805",
+    "priceText": "¥110",
+    "currency": "¥",
+    "price": 110,
+    "free": false,
+    "summary": "The best Earth Live Wallpaper ever! Trust me 😊",
+    "scoreText": "4.7",
+    "score": 4.6534333
+  },
+  {
+    "title": "まいぜんシスターズアラーム",
+    "appId": "jp.co.uuum.maizen",
+    "url": "https://play.google.com/store/apps/details?id=jp.co.uuum.maizen",
+    "icon": "https://play-lh.googleusercontent.com/Y6P5Vxj91cQil4yXUol1LCHavUXFtJ-cmOw_dhjZdKRsDmfjiql3YQJXbYGi3s8-3fE",
+    "developer": "UUUM, Inc.",
+    "developerId": "UUUM,+Inc.",
+    "priceText": "¥730",
+    "currency": "¥",
+    "price": 730,
+    "free": false,
+    "summary": "An alarm app full of original voices from Maizen Sisters!",
+    "scoreText": "4.5",
+    "score": 4.470588
+  },
+  {
+    "title": "Koala Sampler",
+    "appId": "com.elf.koalasampler",
+    "url": "https://play.google.com/store/apps/details?id=com.elf.koalasampler",
+    "icon": "https://play-lh.googleusercontent.com/RhoZYPAuaPonODBW1A9hI-cvq9ZafGuU1aD0yRgUO8smpO2Z7g1uJNvuSOI4wgBFPbMh",
+    "developer": "elf audio",
+    "developerId": "elf+audio",
+    "priceText": "¥560",
+    "currency": "¥",
+    "price": 560,
+    "free": false,
+    "summary": "The ultimate pocket sampler",
+    "scoreText": "4.6",
+    "score": 4.57
+  },
+  {
+    "title": "Smart Tools 2",
+    "appId": "kr.aboy.tools2",
+    "url": "https://play.google.com/store/apps/details?id=kr.aboy.tools2",
+    "icon": "https://play-lh.googleusercontent.com/cjrpPtmNoN4_qTirk-Dg07_WtAzXbO492kJ69pRaPD6roxJ7KczAtcHFWOTJfdkifMti",
+    "developer": "Smart Tools co.",
+    "developerId": "6292220268872263051",
+    "priceText": "¥495",
+    "currency": "¥",
+    "price": 495,
+    "free": false,
+    "summary": "Smart Tools® 2 is the advanced package released in 2021.",
+    "scoreText": "4.7",
+    "score": 4.680851
+  },
+  {
+    "title": "Rotation Control Pro",
+    "appId": "jp.snowlife01.android.rotationcontrolpro",
+    "url": "https://play.google.com/store/apps/details?id=jp.snowlife01.android.rotationcontrolpro",
+    "icon": "https://play-lh.googleusercontent.com/RcsEH4bDk7rl026OvSNpQ0R3_1ZdcY7uwRVoN6Y7y6kAZanCo1dW4lHswML_udZRyi_p",
+    "developer": "HDM Dev Team",
+    "developerId": "8144560920157160997",
+    "priceText": "¥350",
+    "currency": "¥",
+    "price": 350,
+    "free": false,
+    "summary": "Rotation Control App.\nControls the rotation of the screen.",
+    "scoreText": "4.4",
+    "score": 4.355499
+  },
+  {
+    "title": "ProCam X ( HD Camera Pro )",
+    "appId": "com.intermedia.hd.camera.pro",
+    "url": "https://play.google.com/store/apps/details?id=com.intermedia.hd.camera.pro",
+    "icon": "https://play-lh.googleusercontent.com/k-5yIeHqkUMRro6EIIC0fwmGXFMP-1QJoBqOMhee_NxFn9VRA51UvD3h3LSeDxtxU7A",
+    "developer": "Imagi Mobile",
+    "developerId": "5910680070765708570",
+    "priceText": "¥550",
+    "currency": "¥",
+    "price": 550,
+    "free": false,
+    "summary": "Professional photography on your mobile phone",
+    "scoreText": "4.2",
+    "score": 4.246713
   },
   {
     "title": "Workbook Maker LicenseKey",
@@ -1377,7 +1422,7 @@
     "free": false,
     "summary": "Optimize your WiFi network using WiFi Analyzer, No Ads, WiFi Diagnostics!",
     "scoreText": "4.7",
-    "score": 4.731834
+    "score": 4.728395
   },
   {
     "title": "1Tap Cleaner Pro (clear cache, history log)",
@@ -1425,19 +1470,19 @@
     "score": 4.375
   },
   {
-    "title": "Smart Tools 2",
-    "appId": "kr.aboy.tools2",
-    "url": "https://play.google.com/store/apps/details?id=kr.aboy.tools2",
-    "icon": "https://play-lh.googleusercontent.com/cjrpPtmNoN4_qTirk-Dg07_WtAzXbO492kJ69pRaPD6roxJ7KczAtcHFWOTJfdkifMti",
-    "developer": "Smart Tools co.",
-    "developerId": "6292220268872263051",
-    "priceText": "¥495",
+    "title": "消防設備士 ４類 過去問 類問",
+    "appId": "shoubousetubishi4.app",
+    "url": "https://play.google.com/store/apps/details?id=shoubousetubishi4.app",
+    "icon": "https://play-lh.googleusercontent.com/dtHGUgiUNwuF13vqZwVWWXtFnSemkepewrgElmRtUCV84J-V-3WwWoqxb68dh58vFvSV",
+    "developer": "GO-KAKU",
+    "developerId": "GO-KAKU",
+    "priceText": "¥1,100",
     "currency": "¥",
-    "price": 495,
+    "price": 1,
     "free": false,
-    "summary": "Smart Tools® 2 is the advanced package released in 2021.",
-    "scoreText": "4.7",
-    "score": 4.680851
+    "summary": "消防設備士試験の過去問から出題傾向を徹底分析！全８４２問です。電気、鑑別、製図は、図でわかりやすくしました。解説付です。",
+    "scoreText": "3.8",
+    "score": 3.8333333
   },
   {
     "title": "LiveATC for Android",
@@ -1452,7 +1497,7 @@
     "free": false,
     "summary": "Listen live to pilots and air traffic controllers around the world",
     "scoreText": "3.9",
-    "score": 3.881007
+    "score": 3.8764303
   },
   {
     "title": "キクタン [All-in-One] TOEIC® Test Score 600+800+990合本版",
@@ -1470,34 +1515,79 @@
     "score": 3.1864407
   },
   {
-    "title": "Rotation Control Pro",
-    "appId": "jp.snowlife01.android.rotationcontrolpro",
-    "url": "https://play.google.com/store/apps/details?id=jp.snowlife01.android.rotationcontrolpro",
-    "icon": "https://play-lh.googleusercontent.com/RcsEH4bDk7rl026OvSNpQ0R3_1ZdcY7uwRVoN6Y7y6kAZanCo1dW4lHswML_udZRyi_p",
-    "developer": "HDM Dev Team",
-    "developerId": "8144560920157160997",
-    "priceText": "¥350",
+    "title": "Janetter Pro for Twitter",
+    "appId": "net.janesoft.janetter.android.pro",
+    "url": "https://play.google.com/store/apps/details?id=net.janesoft.janetter.android.pro",
+    "icon": "https://play-lh.googleusercontent.com/0wYSxLGtnIA0T6EzYptyUS_HuBduNfbrt-gMJs-UroOG8SkTSL4D789-xYWFhQ9-2Nw",
+    "developer": "Jane, Inc.",
+    "developerId": "Jane,+Inc.",
+    "priceText": "¥600",
     "currency": "¥",
-    "price": 350,
+    "price": 600,
     "free": false,
-    "summary": "Rotation Control App.\nControls the rotation of the screen.",
-    "scoreText": "4.4",
-    "score": 4.3631716
+    "summary": "Janetter for Twitter designed for your everyday use!\nTry it now!",
+    "scoreText": "4.0",
+    "score": 4.0041323
   },
   {
-    "title": "ProCam X ( HD Camera Pro )",
-    "appId": "com.intermedia.hd.camera.pro",
-    "url": "https://play.google.com/store/apps/details?id=com.intermedia.hd.camera.pro",
-    "icon": "https://play-lh.googleusercontent.com/k-5yIeHqkUMRro6EIIC0fwmGXFMP-1QJoBqOMhee_NxFn9VRA51UvD3h3LSeDxtxU7A",
-    "developer": "Imagi Mobile",
-    "developerId": "5910680070765708570",
-    "priceText": "¥550",
+    "title": "KWGT Kustom Widget Pro Key",
+    "appId": "org.kustom.widget.pro",
+    "url": "https://play.google.com/store/apps/details?id=org.kustom.widget.pro",
+    "icon": "https://play-lh.googleusercontent.com/BeZ7MGWZ9aiwskR_kRY6_VRLWToG0HZvVknbgx9Ax7tOD9OlThuET4OGNhZbmH9Pmg",
+    "developer": "Kustom Industries",
+    "developerId": "5300483087872269403",
+    "priceText": "¥620",
     "currency": "¥",
-    "price": 550,
+    "price": 620,
     "free": false,
-    "summary": "Professional photography on your mobile phone",
+    "summary": "Create your own custom widget with endless possibilities",
     "scoreText": "4.2",
-    "score": 4.24358
+    "score": 4.173684
+  },
+  {
+    "title": "Threema. Secure and private Messenger",
+    "appId": "ch.threema.app",
+    "url": "https://play.google.com/store/apps/details?id=ch.threema.app",
+    "icon": "https://play-lh.googleusercontent.com/eneY-f9h2zq095n7k-FeV-whgabl0W_qb_eIFp1syA_tkNpVfMFs3bTGIKHWzRs3lsr-",
+    "developer": "Threema GmbH",
+    "developerId": "7923858866786761874",
+    "priceText": "¥320",
+    "currency": "¥",
+    "price": 320,
+    "free": false,
+    "summary": "Threema is the messenger that puts security and privacy first.",
+    "scoreText": "4.6",
+    "score": 4.5762024
+  },
+  {
+    "title": "「一級建築士」受験対策",
+    "appId": "com.tkoffice.builder",
+    "url": "https://play.google.com/store/apps/details?id=com.tkoffice.builder",
+    "icon": "https://play-lh.googleusercontent.com/o5wR7kwzpaBm2sF2E9QrrjfYPbwxYQXpSvi0iwFhTqNm90fjMRjiJi754TunQTtV4yT2",
+    "developer": "TK office",
+    "developerId": "TK+office",
+    "priceText": "¥960",
+    "currency": "¥",
+    "price": 960,
+    "free": false,
+    "summary": "[Free version is also available]\nr01 has been added.\nIt is a past problem of a first-class architect. Full of problems and materials. You can study for entrance exams during commuting time, between work, and at bedtime.",
+    "scoreText": "4.1",
+    "score": 4.140351
+  },
+  {
+    "title": "MyScript Calculator 2",
+    "appId": "com.myscript.calculator",
+    "url": "https://play.google.com/store/apps/details?id=com.myscript.calculator",
+    "icon": "https://play-lh.googleusercontent.com/KhPd7ajnwTQGaCudjU-L1oIzuFNK1BqYRIan0W4aWnr6pq2Kao7dy9edZqGinR-bZ0A",
+    "developer": "MyScript",
+    "developerId": "6917812355675763032",
+    "priceText": "¥330",
+    "currency": "¥",
+    "price": 330,
+    "free": false,
+    "summary": "MyScript© Calculator 2 makes daily math fun and easy!",
+    "scoreText": "4.6",
+    "score": 4.6255813
   },
   {
     "title": "Calculator PanecalST Plus",
@@ -1530,6 +1620,21 @@
     "score": 4.4455447
   },
   {
+    "title": "My Little Note for Android",
+    "appId": "jp.ne.sakura.token.gosenfu02",
+    "url": "https://play.google.com/store/apps/details?id=jp.ne.sakura.token.gosenfu02",
+    "icon": "https://play-lh.googleusercontent.com/fy9fmhb36WPua9Uz1wVI35OpEwTmrKNvcuYfwaM37Qoh8kvAwY4huKkHWJlACCWHTjCN",
+    "developer": "tokentoken",
+    "developerId": "tokentoken",
+    "priceText": "¥120",
+    "currency": "¥",
+    "price": 120,
+    "free": false,
+    "summary": "My Little Note for Android is an application to learn reading musical note!",
+    "scoreText": "4.3",
+    "score": 4.259259
+  },
+  {
     "title": "世界の昆虫採集",
     "appId": "air.boycraft.insecthunting",
     "url": "https://play.google.com/store/apps/details?id=air.boycraft.insecthunting",
@@ -1545,19 +1650,19 @@
     "score": 3.81
   },
   {
-    "title": "消防設備士 ４類 過去問 類問",
-    "appId": "shoubousetubishi4.app",
-    "url": "https://play.google.com/store/apps/details?id=shoubousetubishi4.app",
-    "icon": "https://play-lh.googleusercontent.com/dtHGUgiUNwuF13vqZwVWWXtFnSemkepewrgElmRtUCV84J-V-3WwWoqxb68dh58vFvSV",
-    "developer": "GO-KAKU",
-    "developerId": "GO-KAKU",
-    "priceText": "¥1,100",
+    "title": "Panda Gamepad Pro (BETA)",
+    "appId": "com.panda.gamepad",
+    "url": "https://play.google.com/store/apps/details?id=com.panda.gamepad",
+    "icon": "https://play-lh.googleusercontent.com/UxIyw5BjDfBuFUxens_AgmHuniBAji6zmUzNBRSUkwgU-7AwDYk6Pe61vbU97X0okCY",
+    "developer": "Panda Gaming Studio",
+    "developerId": "Panda+Gaming+Studio",
+    "priceText": "¥420",
     "currency": "¥",
-    "price": 1,
+    "price": 420,
     "free": false,
-    "summary": "消防設備士試験の過去問から出題傾向を徹底分析！全８４２問です。電気、鑑別、製図は、図でわかりやすくしました。解説付です。",
-    "scoreText": "3.8",
-    "score": 3.8333333
+    "summary": "Play hot games with gamepad!",
+    "scoreText": "2.9",
+    "score": 2.921584
   },
   {
     "title": "Knots 3D",
@@ -1572,7 +1677,7 @@
     "free": false,
     "summary": "Learn to tie more than 150 knots in 3D!",
     "scoreText": "4.8",
-    "score": 4.806261
+    "score": 4.806604
   },
   {
     "title": "Lines Pro - Icon Pack",
@@ -1616,8 +1721,8 @@
     "price": 980,
     "free": false,
     "summary": "Japanese input system of crunchy behavior is (IME).\nFlick input, romaji input, handwriting input, I can use all this single!",
-    "scoreText": "3.8",
-    "score": 3.7623763
+    "scoreText": "3.7",
+    "score": 3.74
   },
   {
     "title": "2021年版  ITパスポート問題集(全問解説付)",
@@ -1677,52 +1782,22 @@
     "free": false,
     "summary": "Best Launcher for use in the car",
     "scoreText": "4.5",
-    "score": 4.497393
+    "score": 4.4915075
   },
   {
-    "title": "Janetter Pro for Twitter",
-    "appId": "net.janesoft.janetter.android.pro",
-    "url": "https://play.google.com/store/apps/details?id=net.janesoft.janetter.android.pro",
-    "icon": "https://play-lh.googleusercontent.com/0wYSxLGtnIA0T6EzYptyUS_HuBduNfbrt-gMJs-UroOG8SkTSL4D789-xYWFhQ9-2Nw",
-    "developer": "Jane, Inc.",
-    "developerId": "Jane,+Inc.",
-    "priceText": "¥600",
+    "title": "Call Recorder License - ACR",
+    "appId": "com.nll.acr.license",
+    "url": "https://play.google.com/store/apps/details?id=com.nll.acr.license",
+    "icon": "https://play-lh.googleusercontent.com/1-06-GJG2RkHbaNueszZW9BxIBcJ5COm4qfCBGc6bXdz_RkHH5_ocs4sKbiJbfq-HbE",
+    "developer": "NLL",
+    "developerId": "8530342249973296088",
+    "priceText": "¥199",
     "currency": "¥",
-    "price": 600,
+    "price": 199,
     "free": false,
-    "summary": "Janetter for Twitter designed for your everyday use!\nTry it now!",
-    "scoreText": "4.0",
-    "score": 4.0041323
-  },
-  {
-    "title": "KWGT Kustom Widget Pro Key",
-    "appId": "org.kustom.widget.pro",
-    "url": "https://play.google.com/store/apps/details?id=org.kustom.widget.pro",
-    "icon": "https://play-lh.googleusercontent.com/BeZ7MGWZ9aiwskR_kRY6_VRLWToG0HZvVknbgx9Ax7tOD9OlThuET4OGNhZbmH9Pmg",
-    "developer": "Kustom Industries",
-    "developerId": "5300483087872269403",
-    "priceText": "¥620",
-    "currency": "¥",
-    "price": 620,
-    "free": false,
-    "summary": "Create your own custom widget with endless possibilities",
-    "scoreText": "4.2",
-    "score": 4.173684
-  },
-  {
-    "title": "Threema. Secure and private Messenger",
-    "appId": "ch.threema.app",
-    "url": "https://play.google.com/store/apps/details?id=ch.threema.app",
-    "icon": "https://play-lh.googleusercontent.com/eneY-f9h2zq095n7k-FeV-whgabl0W_qb_eIFp1syA_tkNpVfMFs3bTGIKHWzRs3lsr-",
-    "developer": "Threema GmbH",
-    "developerId": "7923858866786761874",
-    "priceText": "¥320",
-    "currency": "¥",
-    "price": 320,
-    "free": false,
-    "summary": "Threema is the messenger that puts security and privacy first.",
-    "scoreText": "4.6",
-    "score": 4.5758667
+    "summary": "Access to premium features of ACR",
+    "scoreText": "2.8",
+    "score": 2.7873032
   },
   {
     "title": "KMPlayer Plus (Divx Codec) - Video player & Music",
@@ -1738,21 +1813,6 @@
     "summary": "KMPlayer Plus (Divx Codec) officially support Divx codec.",
     "scoreText": "4.0",
     "score": 3.97
-  },
-  {
-    "title": "「一級建築士」受験対策",
-    "appId": "com.tkoffice.builder",
-    "url": "https://play.google.com/store/apps/details?id=com.tkoffice.builder",
-    "icon": "https://play-lh.googleusercontent.com/o5wR7kwzpaBm2sF2E9QrrjfYPbwxYQXpSvi0iwFhTqNm90fjMRjiJi754TunQTtV4yT2",
-    "developer": "TK office",
-    "developerId": "TK+office",
-    "priceText": "¥960",
-    "currency": "¥",
-    "price": 960,
-    "free": false,
-    "summary": "[Free version is also available]\nr01 has been added.\nIt is a past problem of a first-class architect. Full of problems and materials. You can study for entrance exams during commuting time, between work, and at bedtime.",
-    "scoreText": "4.1",
-    "score": 4.140351
   },
   {
     "title": "Swapper for Root (Donate)",
@@ -1797,22 +1857,22 @@
     "free": false,
     "summary": "Time to face myself",
     "scoreText": "4.3",
-    "score": 4.3465347
+    "score": 4.33
   },
   {
-    "title": "MyScript Calculator 2",
-    "appId": "com.myscript.calculator",
-    "url": "https://play.google.com/store/apps/details?id=com.myscript.calculator",
-    "icon": "https://play-lh.googleusercontent.com/KhPd7ajnwTQGaCudjU-L1oIzuFNK1BqYRIan0W4aWnr6pq2Kao7dy9edZqGinR-bZ0A",
-    "developer": "MyScript",
-    "developerId": "6917812355675763032",
-    "priceText": "¥330",
+    "title": "Tetra Filer",
+    "appId": "jp.main.brits.android.filer.app",
+    "url": "https://play.google.com/store/apps/details?id=jp.main.brits.android.filer.app",
+    "icon": "https://play-lh.googleusercontent.com/nk9nciZzHl2tImgf4hFQWkmNPUOLU3rw1RNIx7YoTJjS4-tWmY5xmu38gTM38FozrWo",
+    "developer": "Yuichiro Okuyama",
+    "developerId": "Yuichiro+Okuyama",
+    "priceText": "¥108",
     "currency": "¥",
-    "price": 330,
+    "price": 108,
     "free": false,
-    "summary": "MyScript© Calculator 2 makes daily math fun and easy!",
-    "scoreText": "4.6",
-    "score": 4.6247087
+    "summary": "Lightweight, easy and safety file manager",
+    "scoreText": "4.4",
+    "score": 4.44
   },
   {
     "title": "Magnifier & Microscope+ [Cozy]",
@@ -1842,7 +1902,7 @@
     "free": false,
     "summary": "Improve your gaming experience. No - ads",
     "scoreText": "4.4",
-    "score": 4.4266667
+    "score": 4.426104
   },
   {
     "title": "Simple Calendar Pro - Agenda & Schedule Planner",
@@ -1857,7 +1917,7 @@
     "free": false,
     "summary": "Schedule your agenda and monthly calendar with reminder &amp; appointment scheduler",
     "scoreText": "4.6",
-    "score": 4.595336
+    "score": 4.5940056
   },
   {
     "title": "五等分の花嫁アラーム 一花編",
@@ -1875,6 +1935,36 @@
     "score": 4.972973
   },
   {
+    "title": "Square Home Key - Launcher: Windows style",
+    "appId": "com.ss.squarehome.key",
+    "url": "https://play.google.com/store/apps/details?id=com.ss.squarehome.key",
+    "icon": "https://play-lh.googleusercontent.com/6ug3LEPpgkmQHKUIw3juhVi8byuu11pBE7o2q63_UcQatD-8fgX-FL9jFzax9A2PnA",
+    "developer": "ChYK the dev.",
+    "developerId": "ChYK+the+dev.",
+    "priceText": "¥550",
+    "currency": "¥",
+    "price": 550,
+    "free": false,
+    "summary": "The best windows 10 style launcher on Android!",
+    "scoreText": "4.8",
+    "score": 4.8232965
+  },
+  {
+    "title": "LineX Icon Pack",
+    "appId": "com.jndapp.line.x.iconpack",
+    "url": "https://play.google.com/store/apps/details?id=com.jndapp.line.x.iconpack",
+    "icon": "https://play-lh.googleusercontent.com/7c0RsRYgfdx98eSwGfq-69BGzBg7t7WuydIqvlyZX7uN4dvs1IUFxUYcpUbokuDqJcf0",
+    "developer": "JustNewDesigns",
+    "developerId": "6871333323804023406",
+    "priceText": "¥120",
+    "currency": "¥",
+    "price": 120,
+    "free": false,
+    "summary": "Stunningly Different look with Line Icons and Neon Colors",
+    "scoreText": "4.6",
+    "score": 4.6012397
+  },
+  {
     "title": "Simple Contacts Pro: Address Book & Contact Backup",
     "appId": "com.simplemobiletools.contacts.pro",
     "url": "https://play.google.com/store/apps/details?id=com.simplemobiletools.contacts.pro",
@@ -1887,7 +1977,7 @@
     "free": false,
     "summary": "Contacts address book for managing recent contacts and vcf contact backups",
     "scoreText": "4.4",
-    "score": 4.433155
+    "score": 4.420765
   },
   {
     "title": "PixBit - Pixel Icon Pack",
@@ -1917,7 +2007,7 @@
     "free": false,
     "summary": "The one-and-only remote control for PC, Mac, and Linux",
     "scoreText": "4.6",
-    "score": 4.6308675
+    "score": 4.6310644
   },
   {
     "title": "mazec3 (jp) -Handwriting",
@@ -1947,22 +2037,7 @@
     "free": false,
     "summary": "Safest Booster GFX Tool on Google Play is now compatible with newer game update",
     "scoreText": "4.6",
-    "score": 4.6110935
-  },
-  {
-    "title": "Panda Gamepad Pro (BETA)",
-    "appId": "com.panda.gamepad",
-    "url": "https://play.google.com/store/apps/details?id=com.panda.gamepad",
-    "icon": "https://play-lh.googleusercontent.com/UxIyw5BjDfBuFUxens_AgmHuniBAji6zmUzNBRSUkwgU-7AwDYk6Pe61vbU97X0okCY",
-    "developer": "Panda Gaming Studio",
-    "developerId": "Panda+Gaming+Studio",
-    "priceText": "¥420",
-    "currency": "¥",
-    "price": 420,
-    "free": false,
-    "summary": "Play hot games with gamepad!",
-    "scoreText": "2.9",
-    "score": 2.9197195
+    "score": 4.6109443
   },
   {
     "title": "Twomon USB - USB Monitor",
@@ -1991,8 +2066,8 @@
     "price": 490,
     "free": false,
     "summary": "This Tone can help to restore the balance of your autonomic nerves.",
-    "scoreText": "4.6",
-    "score": 4.5675673
+    "scoreText": "4.5",
+    "score": 4.5405407
   },
   {
     "title": "Rarevision VHS Camcorder 📼📹 Retro 80s Cam",
@@ -2007,7 +2082,7 @@
     "free": false,
     "summary": "The original VHS app by Rarevision and the most totally rad camera app of 1984!",
     "scoreText": "4.5",
-    "score": 4.4601307
+    "score": 4.4570312
   },
   {
     "title": "F-Stop Gallery Pro",
@@ -2021,8 +2096,8 @@
     "price": 540,
     "free": false,
     "summary": "Search, tag and rate your way to an organized image gallery",
-    "scoreText": "4.1",
-    "score": 4.0520835
+    "scoreText": "4.0",
+    "score": 4.0466323
   },
   {
     "title": "Phone Launcher Apps",
@@ -2097,7 +2172,7 @@
     "free": false,
     "summary": "Astronomy app. Map of the stars and constellations. Solar system planets finder.",
     "scoreText": "4.7",
-    "score": 4.684004
+    "score": 4.6838236
   },
   {
     "title": "Video Player Phone",
@@ -2111,8 +2186,8 @@
     "price": 300,
     "free": false,
     "summary": "Easy transfer video file to Galaxy watch and watch them on your watch",
-    "scoreText": "3.7",
-    "score": 3.72
+    "scoreText": "3.8",
+    "score": 3.76
   },
   {
     "title": "Screenshot Easy Pro",
@@ -2127,7 +2202,7 @@
     "free": false,
     "summary": "The best screenshot and screen record app in stability, speed and simplicity!",
     "scoreText": "4.5",
-    "score": 4.5
+    "score": 4.502304
   },
   {
     "title": "ZArchiver Donate",
@@ -2142,37 +2217,37 @@
     "free": false,
     "summary": "The easy 7zip app!",
     "scoreText": "4.7",
-    "score": 4.728223
+    "score": 4.7272725
   },
   {
-    "title": "Call Recorder License - ACR",
-    "appId": "com.nll.acr.license",
-    "url": "https://play.google.com/store/apps/details?id=com.nll.acr.license",
-    "icon": "https://play-lh.googleusercontent.com/1-06-GJG2RkHbaNueszZW9BxIBcJ5COm4qfCBGc6bXdz_RkHH5_ocs4sKbiJbfq-HbE",
-    "developer": "NLL",
-    "developerId": "8530342249973296088",
-    "priceText": "¥199",
+    "title": "2021年版 基本情報技術者試験問題集(全問解説付)",
+    "appId": "com.startthailand.fe_pro2",
+    "url": "https://play.google.com/store/apps/details?id=com.startthailand.fe_pro2",
+    "icon": "https://play-lh.googleusercontent.com/YtJ2oZBDx9bjTh2TKpZJqnb73SD7XSBT2NEOp4lD3rBtkvO1FNFdubotXhqKYhWQjg",
+    "developer": "にしむら工房",
+    "developerId": "%E3%81%AB%E3%81%97%E3%82%80%E3%82%89%E5%B7%A5%E6%88%BF",
+    "priceText": "¥150",
     "currency": "¥",
-    "price": 199,
+    "price": 150,
     "free": false,
-    "summary": "Access to premium features of ACR",
-    "scoreText": "2.8",
-    "score": 2.7867029
+    "summary": "",
+    "scoreText": "4.6",
+    "score": 4.6153846
   },
   {
-    "title": "Tetra Filer",
-    "appId": "jp.main.brits.android.filer.app",
-    "url": "https://play.google.com/store/apps/details?id=jp.main.brits.android.filer.app",
-    "icon": "https://play-lh.googleusercontent.com/nk9nciZzHl2tImgf4hFQWkmNPUOLU3rw1RNIx7YoTJjS4-tWmY5xmu38gTM38FozrWo",
-    "developer": "Yuichiro Okuyama",
-    "developerId": "Yuichiro+Okuyama",
-    "priceText": "¥108",
+    "title": "Screen Mirroring Pro App",
+    "appId": "de.twokit.screen.mirroring.app.pro",
+    "url": "https://play.google.com/store/apps/details?id=de.twokit.screen.mirroring.app.pro",
+    "icon": "https://play-lh.googleusercontent.com/KGZiWXypo5-zR6grhy-yYrOPWkUJKgo8drzkTOs840rIUQyw5YI3HYR1vuOD-h_dAEA",
+    "developer": "2kit consulting",
+    "developerId": "6284879872961307001",
+    "priceText": "¥600",
     "currency": "¥",
-    "price": 108,
+    "price": 600,
     "free": false,
-    "summary": "Lightweight, easy and safety file manager",
-    "scoreText": "4.4",
-    "score": 4.44
+    "summary": "Screen Mirroring for Samsung TV, LG TV, Sony TV, Smart TV and Web Browser",
+    "scoreText": "1.8",
+    "score": 1.81
   },
   {
     "title": "Toca Life: Neighborhood",
@@ -2186,8 +2261,8 @@
     "price": 480,
     "free": false,
     "summary": "Move into your new block",
-    "scoreText": "4.1",
-    "score": 4.050898
+    "scoreText": "4.0",
+    "score": 4.036036
   },
   {
     "title": "Video & TV Cast + Google Cast: Android TV Streamer",
@@ -2217,22 +2292,7 @@
     "free": false,
     "summary": "The powerful system monitor for cpu ram and battery",
     "scoreText": "4.4",
-    "score": 4.4203296
-  },
-  {
-    "title": "My Little Note for Android",
-    "appId": "jp.ne.sakura.token.gosenfu02",
-    "url": "https://play.google.com/store/apps/details?id=jp.ne.sakura.token.gosenfu02",
-    "icon": "https://play-lh.googleusercontent.com/fy9fmhb36WPua9Uz1wVI35OpEwTmrKNvcuYfwaM37Qoh8kvAwY4huKkHWJlACCWHTjCN",
-    "developer": "tokentoken",
-    "developerId": "tokentoken",
-    "priceText": "¥120",
-    "currency": "¥",
-    "price": 120,
-    "free": false,
-    "summary": "My Little Note for Android is an application to learn reading musical note!",
-    "scoreText": "4.3",
-    "score": 4.259259
+    "score": 4.412088
   },
   {
     "title": "大辞林 第四版｜ビッグローブ辞書：日本語の伝統と最新の姿を映す大型国語辞典",
@@ -2322,7 +2382,7 @@
     "free": false,
     "summary": "“Money Manager” is an optimized application for personal asset management.",
     "scoreText": "4.7",
-    "score": 4.7300954
+    "score": 4.7297297
   },
   {
     "title": "五等分の花嫁アラーム 三玖編",
@@ -2367,7 +2427,7 @@
     "free": false,
     "summary": "Astronomy Guide To The Constellations, Stars, &amp; Planets. Control Your Telescope.",
     "scoreText": "4.2",
-    "score": 4.2252254
+    "score": 4.207207
   },
   {
     "title": "Weather forecast pro",
@@ -2382,7 +2442,22 @@
     "free": false,
     "summary": "Weather, the best weather forecast, update real time, hourly and daily",
     "scoreText": "4.8",
-    "score": 4.760632
+    "score": 4.7584953
+  },
+  {
+    "title": "角度傾斜計（広告無し）",
+    "appId": "jp.Ruta56.SlantGaugePro",
+    "url": "https://play.google.com/store/apps/details?id=jp.Ruta56.SlantGaugePro",
+    "icon": "https://play-lh.googleusercontent.com/nF1jUsw6cjLlKXfVPG5J_WyV8xfcrxrQajNvLXiuMjY2-BC_ySuNjdUR4oSokdEbVw",
+    "developer": "Ruta56",
+    "developerId": "Ruta56",
+    "priceText": "¥200",
+    "currency": "¥",
+    "price": 200,
+    "free": false,
+    "summary": "〓　累計ダウンロード　２７万件超　〓（iOS、Android合計）\n〓　テレビ番組５回登場　雑誌・論文等でも利用実績有　〓\n〓　プロも使ってます　〓",
+    "scoreText": "5.0",
+    "score": 5
   },
   {
     "title": "Perfect Viewer Donation",
@@ -2427,7 +2502,7 @@
     "free": false,
     "summary": "Easily access customization modules that you installed on your Samsung devices.",
     "scoreText": "4.7",
-    "score": 4.72
+    "score": 4.7184467
   },
   {
     "title": "Memory Booster (Full Version)",
@@ -2457,7 +2532,7 @@
     "free": false,
     "summary": "FolderSync enables easy sync of files between cloud storage and Android devices.",
     "scoreText": "4.5",
-    "score": 4.4785047
+    "score": 4.4787483
   },
   {
     "title": "Toca Life: Office",
@@ -2472,7 +2547,22 @@
     "free": false,
     "summary": "Turn work into an adventure!",
     "scoreText": "4.4",
-    "score": 4.371212
+    "score": 4.370277
+  },
+  {
+    "title": "3級FP過去問解説集Plus",
+    "appId": "com.fpfuri.fp3adfree",
+    "url": "https://play.google.com/store/apps/details?id=com.fpfuri.fp3adfree",
+    "icon": "https://play-lh.googleusercontent.com/HoLz4TDatZ7I4eZ4Gzey9OoFPoNVcbSVsfRGvL9GIzwD2p1VcBIkiEi4czuF1tSP-H8",
+    "developer": "fpfuri",
+    "developerId": "fpfuri",
+    "priceText": "¥100",
+    "currency": "¥",
+    "price": 100,
+    "free": false,
+    "summary": "Past problem of tertiary FP is (the Department, practical).",
+    "scoreText": "0.0",
+    "score": 0
   },
   {
     "title": "Screen Stream Mirroring Pro",
@@ -2488,6 +2578,21 @@
     "summary": "Screen mirroring to devices (PC, Chromecast, UPnP DLNA), Broadcasting, Recording",
     "scoreText": "4.1",
     "score": 4.1
+  },
+  {
+    "title": "PGT +🔧: Pro GFX & Optimizer(with advance setting)",
+    "appId": "inc.trilokia.pubgfxtool",
+    "url": "https://play.google.com/store/apps/details?id=inc.trilokia.pubgfxtool",
+    "icon": "https://play-lh.googleusercontent.com/P9X3llqLn27XjEya7dTvkRiEwr6pHv82h3k83iUoAD7RHkQehSvEqq6cQ4C5PfyQR1Sx",
+    "developer": "Trilokia Inc.",
+    "developerId": "4898227705286580329",
+    "priceText": "¥100",
+    "currency": "¥",
+    "price": 100,
+    "free": false,
+    "summary": "An essential GFX utility developed for specific FPS mobile games",
+    "scoreText": "4.2",
+    "score": 4.1849365
   },
   {
     "title": "Toca Life: After School",
@@ -2547,7 +2652,7 @@
     "free": false,
     "summary": "jetAudio is a music player with 20 bands graphic equalizer and sound effects.",
     "scoreText": "4.1",
-    "score": 4.1100245
+    "score": 4.108717
   },
   {
     "title": "モリサワ タイプラボN R",
@@ -2607,7 +2712,7 @@
     "free": false,
     "summary": "eBook reader with rich features.",
     "scoreText": "4.5",
-    "score": 4.450635
+    "score": 4.4508057
   },
   {
     "title": "Toca Life: Vacation",
@@ -2622,7 +2727,7 @@
     "free": false,
     "summary": "Make every day a vacation adventure!",
     "scoreText": "4.3",
-    "score": 4.290441
+    "score": 4.2907977
   },
   {
     "title": "Web Alert Expansion Pack",
@@ -2652,7 +2757,7 @@
     "free": false,
     "summary": "Professional camera app that brings DSLR manual photography controls to Android.",
     "scoreText": "3.0",
-    "score": 3.0228882
+    "score": 3.0217865
   },
   {
     "title": "Sleipnir Mobile Black Edition",
@@ -2696,8 +2801,23 @@
     "price": 299,
     "free": false,
     "summary": "Application that Recover your pictures, videos or files after you delete them.",
-    "scoreText": "3.7",
-    "score": 3.744681
+    "scoreText": "3.9",
+    "score": 3.9136028
+  },
+  {
+    "title": "キクタン [Basic] 4000 (発音練習機能つき) ～聞いて覚えるコーパス英単語～",
+    "appId": "com.playsquare.kikutan_basic4000",
+    "url": "https://play.google.com/store/apps/details?id=com.playsquare.kikutan_basic4000",
+    "icon": "https://play-lh.googleusercontent.com/mE4QW2mDorTN396Mk2a30dcKrhCtFkIqm-OTFxHhrBBW6qVINYeJMRKqdsGJWSebOw",
+    "developer": "PlaySquare Inc.",
+    "developerId": "PlaySquare+Inc.",
+    "priceText": "¥610",
+    "currency": "¥",
+    "price": 610,
+    "free": false,
+    "summary": "The corpus English word \"Kikutan\" that you can hear and remember is now available on the Play Store with a pronunciation practice function! Half-price sale is now underway for a limited time campaign!",
+    "scoreText": "3.3",
+    "score": 3.2608695
   },
   {
     "title": "完全無音ビデオカメラ　4K高画質まで対応　動画・写真撮影・編集・標準カメラ消音このアプリで完結",
@@ -2730,21 +2850,6 @@
     "score": 4.1538463
   },
   {
-    "title": "2021年版 基本情報技術者試験問題集(全問解説付)",
-    "appId": "com.startthailand.fe_pro2",
-    "url": "https://play.google.com/store/apps/details?id=com.startthailand.fe_pro2",
-    "icon": "https://play-lh.googleusercontent.com/YtJ2oZBDx9bjTh2TKpZJqnb73SD7XSBT2NEOp4lD3rBtkvO1FNFdubotXhqKYhWQjg",
-    "developer": "にしむら工房",
-    "developerId": "%E3%81%AB%E3%81%97%E3%82%80%E3%82%89%E5%B7%A5%E6%88%BF",
-    "priceText": "¥150",
-    "currency": "¥",
-    "price": 150,
-    "free": false,
-    "summary": "",
-    "scoreText": "4.6",
-    "score": 4.6153846
-  },
-  {
     "title": "オービスガイド オフラインマップ版 移動式オービス ネズミ捕り 検問",
     "appId": "com.pasoya.orbis.tile",
     "url": "https://play.google.com/store/apps/details?id=com.pasoya.orbis.tile",
@@ -2775,19 +2880,19 @@
     "score": 3.910891
   },
   {
-    "title": "Screen Mirroring Pro App",
-    "appId": "de.twokit.screen.mirroring.app.pro",
-    "url": "https://play.google.com/store/apps/details?id=de.twokit.screen.mirroring.app.pro",
-    "icon": "https://play-lh.googleusercontent.com/KGZiWXypo5-zR6grhy-yYrOPWkUJKgo8drzkTOs840rIUQyw5YI3HYR1vuOD-h_dAEA",
-    "developer": "2kit consulting",
-    "developerId": "6284879872961307001",
-    "priceText": "¥600",
+    "title": "見積書・請求書を素早く作成 - Estilynx",
+    "appId": "com.loadlynx_jp.estilynx",
+    "url": "https://play.google.com/store/apps/details?id=com.loadlynx_jp.estilynx",
+    "icon": "https://play-lh.googleusercontent.com/tDvbkEWReuaLGiGSsbQDaAk6nS4BTtxPLiT65myU5Fy0--i9n1E3c28QXzP9mq4CMIjZ",
+    "developer": "LOADLYNX",
+    "developerId": "LOADLYNX",
+    "priceText": "¥2,080",
     "currency": "¥",
-    "price": 600,
+    "price": 2,
     "free": false,
-    "summary": "Screen Mirroring for Samsung TV, LG TV, Sony TV, Smart TV and Web Browser",
-    "scoreText": "1.8",
-    "score": 1.7821782
+    "summary": "\"Quickly create\" documents such as quotations and invoices \"Print beautifully\" This is a document creation application that focuses on ease of use and the beauty of printing.",
+    "scoreText": "4.2",
+    "score": 4.2156863
   },
   {
     "title": "gContacts Pro - dialer & contacts app",
@@ -2820,6 +2925,21 @@
     "score": 4.088889
   },
   {
+    "title": "nPlayer",
+    "appId": "com.newin.nplayer.pro",
+    "url": "https://play.google.com/store/apps/details?id=com.newin.nplayer.pro",
+    "icon": "https://play-lh.googleusercontent.com/sUfT6XnffHLlw6UcJ4UMwfAohc63xYGqdU1nEOcmQuvRg0qXZVZswFO4I7eT1zN_UigD",
+    "developer": "Newin Inc.",
+    "developerId": "Newin+Inc.",
+    "priceText": "¥540",
+    "currency": "¥",
+    "price": 540,
+    "free": false,
+    "summary": "Video player with powerful streaming playback and various convenient features.",
+    "scoreText": "3.6",
+    "score": 3.5789473
+  },
+  {
     "title": "Librera PRO - eBook and PDF Reader (no Ads!)",
     "appId": "com.foobnix.pro.pdf.reader",
     "url": "https://play.google.com/store/apps/details?id=com.foobnix.pro.pdf.reader",
@@ -2832,7 +2952,22 @@
     "free": false,
     "summary": "A highly sophisticated app for all of your mobile reading—any format, any time",
     "scoreText": "4.5",
-    "score": 4.5185184
+    "score": 4.514512
+  },
+  {
+    "title": "電気工事施工管理技士　１級",
+    "appId": "com.jyouhousyoridenkikoujisikouiti.englishstudy",
+    "url": "https://play.google.com/store/apps/details?id=com.jyouhousyoridenkikoujisikouiti.englishstudy",
+    "icon": "https://play-lh.googleusercontent.com/6Y9hAlus9n_kTtca7WiEHIHUjTtZPxywWLwxyklvfy7MOVz6V7OBS1oayjFzYbb41w",
+    "developer": "資格 合格",
+    "developerId": "%E8%B3%87%E6%A0%BC+%E5%90%88%E6%A0%BC",
+    "priceText": "¥700",
+    "currency": "¥",
+    "price": 700,
+    "free": false,
+    "summary": "\"Update the latest data at any time,\" \"definite answer\", \"rich issue amount,\" \"character size was in the terminal,\" \"index search\"",
+    "scoreText": "4.2",
+    "score": 4.230769
   },
   {
     "title": "英単語ターゲット1900公式アプリ |  ビッグローブ英単語",
@@ -2862,141 +2997,6 @@
     "free": false,
     "summary": "The award winning music studio app. Professional music production made easy.",
     "scoreText": "4.3",
-    "score": 4.31
-  },
-  {
-    "title": "1984 Cam – VHS Camcorder, Retro Camera Effects",
-    "appId": "com.ffff.vhs1984",
-    "url": "https://play.google.com/store/apps/details?id=com.ffff.vhs1984",
-    "icon": "https://play-lh.googleusercontent.com/aSE0whs9uVsiPL7R47kF2eETvmNKqXNvI7JTGbQTaILD6tvJtgmFTB-Z8OT03lrjaz4",
-    "developer": "The FFFF Studio",
-    "developerId": "The+FFFF+Studio",
-    "priceText": "¥110",
-    "currency": "¥",
-    "price": 110,
-    "free": false,
-    "summary": "Create a beautiful retro video, shoot with a retro VHS Camcorder in 1984!!!",
-    "scoreText": "4.4",
-    "score": 4.402878
-  },
-  {
-    "title": "オービス警報 - オービス＆渋滞",
-    "appId": "com.wac.orbis",
-    "url": "https://play.google.com/store/apps/details?id=com.wac.orbis",
-    "icon": "https://play-lh.googleusercontent.com/kalQcb0_JMMSD0e7Fku1F-xr0fEJiWOf1GAb7BEYnDIxIWptKQAjfsFR05SYEU63pg",
-    "developer": "株式会社ワックドットコム",
-    "developerId": "%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%AF%E3%83%83%E3%82%AF%E3%83%89%E3%83%83%E3%83%88%E3%82%B3%E3%83%A0",
-    "priceText": "¥360",
-    "currency": "¥",
-    "price": 360,
-    "free": false,
-    "summary": "Safety and comfort! Orvis also be a traffic jam in this one!\nIt can be used in combination with your map and navigation application usually in the background",
-    "scoreText": "3.7",
-    "score": 3.69
-  },
-  {
-    "title": "Tabata Timer (Ad Free)",
-    "appId": "com.simplevision.workout.tabataadfree",
-    "url": "https://play.google.com/store/apps/details?id=com.simplevision.workout.tabataadfree",
-    "icon": "https://play-lh.googleusercontent.com/lUL1dWO7wj5VinDmRiqK6Qp_BxS8hOijXAhWgHf_iPASal-qCx6p9pqyUFjCU2WeUQ",
-    "developer": "Simple Vision",
-    "developerId": "Simple+Vision",
-    "priceText": "¥200",
-    "currency": "¥",
-    "price": 200,
-    "free": false,
-    "summary": "A Tabata Timer help you to do Tabata Training.",
-    "scoreText": "4.6",
-    "score": 4.6068377
-  },
-  {
-    "title": "Square Home Key - Launcher: Windows style",
-    "appId": "com.ss.squarehome.key",
-    "url": "https://play.google.com/store/apps/details?id=com.ss.squarehome.key",
-    "icon": "https://play-lh.googleusercontent.com/6ug3LEPpgkmQHKUIw3juhVi8byuu11pBE7o2q63_UcQatD-8fgX-FL9jFzax9A2PnA",
-    "developer": "ChYK the dev.",
-    "developerId": "ChYK+the+dev.",
-    "priceText": "¥550",
-    "currency": "¥",
-    "price": 550,
-    "free": false,
-    "summary": "The best windows 10 style launcher on Android!",
-    "scoreText": "4.8",
-    "score": 4.823483
-  },
-  {
-    "title": "LineX Icon Pack",
-    "appId": "com.jndapp.line.x.iconpack",
-    "url": "https://play.google.com/store/apps/details?id=com.jndapp.line.x.iconpack",
-    "icon": "https://play-lh.googleusercontent.com/7c0RsRYgfdx98eSwGfq-69BGzBg7t7WuydIqvlyZX7uN4dvs1IUFxUYcpUbokuDqJcf0",
-    "developer": "JustNewDesigns",
-    "developerId": "6871333323804023406",
-    "priceText": "¥120",
-    "currency": "¥",
-    "price": 120,
-    "free": false,
-    "summary": "Stunningly Different look with Line Icons and Neon Colors",
-    "scoreText": "4.6",
-    "score": 4.6037345
-  },
-  {
-    "title": "Manual Camera : DSLR - Camera Professional",
-    "appId": "com.lensesdev.manual.camera.pro",
-    "url": "https://play.google.com/store/apps/details?id=com.lensesdev.manual.camera.pro",
-    "icon": "https://play-lh.googleusercontent.com/OiTzj9GSZfpW9wozsKpLXmx8EkdHod_Tr9Xot2fcwuA4plP0mEbBgVeFWpi4LiZ6kDA",
-    "developer": "Lenses Inc.",
-    "developerId": "6859713867874290897",
-    "priceText": "¥520",
-    "currency": "¥",
-    "price": 520,
-    "free": false,
-    "summary": "Take your mobile photography to the next level",
-    "scoreText": "4.3",
-    "score": 4.315755
-  },
-  {
-    "title": "Sketchy - Icon Pack",
-    "appId": "com.ddevicers.sketchyiconpack",
-    "url": "https://play.google.com/store/apps/details?id=com.ddevicers.sketchyiconpack",
-    "icon": "https://play-lh.googleusercontent.com/k89tYF7C3PVeEsuhgQkHERtQwnmSLtLwhBQRS4yWBqZ_ZEdGiKYKUkRJljyJZIpL1SE",
-    "developer": "DDevicers",
-    "developerId": "6697419425542878804",
-    "priceText": "¥120",
-    "currency": "¥",
-    "price": 120,
-    "free": false,
-    "summary": "The best hand drawn icon pack ever!",
-    "scoreText": "4.5",
-    "score": 4.47
-  },
-  {
-    "title": "Jota+★PRO-KEY",
-    "appId": "jp.sblo.pandora.jota.plus.prokey",
-    "url": "https://play.google.com/store/apps/details?id=jp.sblo.pandora.jota.plus.prokey",
-    "icon": "https://play-lh.googleusercontent.com/8vRHOopMtKdkvjSH5bA71ZSHBiL5h6pNhqDfp7c-HOAWGz7zatWlBq6yzgcf6I2nrFmN",
-    "developer": "Aquamarine Networks.",
-    "developerId": "Aquamarine+Networks.",
-    "priceText": "¥660",
-    "currency": "¥",
-    "price": 660,
-    "free": false,
-    "summary": "Jota+★PRO-KEY is an unlock key app for Jota+ (Text Editor).",
-    "scoreText": "3.8",
-    "score": 3.81
-  },
-  {
-    "title": "Lower Brightness Screen Filter Pro",
-    "appId": "nu.lower.brightness.pro",
-    "url": "https://play.google.com/store/apps/details?id=nu.lower.brightness.pro",
-    "icon": "https://play-lh.googleusercontent.com/XgqiXiNOj5MQy3rWgik6za_RuRQdLR52FAwHb4NzRujC2462ctZXvXU6ncV4ZYfX3A",
-    "developer": "Wormhole Space",
-    "developerId": "Wormhole+Space",
-    "priceText": "¥280",
-    "currency": "¥",
-    "price": 280,
-    "free": false,
-    "summary": "\"Lower Brightness\" can reduce screen brightness below system minimum brightness",
-    "scoreText": "4.3",
-    "score": 4.29
+    "score": 4.3137255
   }
 ]
