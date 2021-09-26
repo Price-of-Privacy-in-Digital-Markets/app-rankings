@@ -1,19 +1,5 @@
 [
   {
-    "title": "Meesho: Online Shopping App",
-    "appId": "com.meesho.supply",
-    "url": "https://play.google.com/store/apps/details?id=com.meesho.supply",
-    "icon": "https://play-lh.googleusercontent.com/0f4Uv2D8gUoabAMlnLobjy-4cWndGqWjO48zPgqrlxYB6hFw42_fhSH3cz4JVXUjcA",
-    "developer": "Meesho",
-    "developerId": "Meesho",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Online Shopping &amp; Reselling-Shop Fashion, Home, Kitchen etc. at Lowest Prices",
-    "scoreText": "4.4",
-    "score": 4.3741465
-  },
-  {
     "title": "Hotstar",
     "appId": "in.startv.hotstar",
     "url": "https://play.google.com/store/apps/details?id=in.startv.hotstar",
@@ -25,7 +11,21 @@
     "free": true,
     "summary": "Watch the latest and best of Live Sports, TV and Movies in multiple languages.",
     "scoreText": "3.9",
-    "score": 3.864776
+    "score": 3.8697314
+  },
+  {
+    "title": "Meesho: Online Shopping App",
+    "appId": "com.meesho.supply",
+    "url": "https://play.google.com/store/apps/details?id=com.meesho.supply",
+    "icon": "https://play-lh.googleusercontent.com/0f4Uv2D8gUoabAMlnLobjy-4cWndGqWjO48zPgqrlxYB6hFw42_fhSH3cz4JVXUjcA",
+    "developer": "Meesho",
+    "developerId": "Meesho",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Online Shopping &amp; Reselling-Shop Fashion, Home, Kitchen etc. at Lowest Prices",
+    "scoreText": "4.4",
+    "score": 4.373484
   },
   {
     "title": "Instagram",
@@ -39,7 +39,7 @@
     "free": true,
     "summary": "Share videos, photos, and fun moments with the friends you love",
     "scoreText": "3.8",
-    "score": 3.8345885
+    "score": 3.8344665
   },
   {
     "title": "Snapchat",
@@ -53,7 +53,7 @@
     "free": true,
     "summary": "Share the moment!",
     "scoreText": "4.2",
-    "score": 4.2478557
+    "score": 4.247632
   },
   {
     "title": "PhonePe: UPI, Recharge, Investment, Insurance",
@@ -67,7 +67,7 @@
     "free": true,
     "summary": "Secure UPI, Money Transfer, Recharge, Bill Payment, Mutual Fund, Gold, Insurance",
     "scoreText": "4.3",
-    "score": 4.3498673
+    "score": 4.3498306
   },
   {
     "title": "Flipkart Online Shopping App",
@@ -81,7 +81,7 @@
     "free": true,
     "summary": "India’s No.1 Shopping App - Trusted by over 100 mn Indians for online shopping!",
     "scoreText": "4.3",
-    "score": 4.3295774
+    "score": 4.3293605
   },
   {
     "title": "PLAYit - A New All-in-One Video Player",
@@ -95,49 +95,7 @@
     "free": true,
     "summary": "Video player &amp; music player all formats supported to play all media files.",
     "scoreText": "4.5",
-    "score": 4.5088553
-  },
-  {
-    "title": "Truecaller: Caller ID, Spam Blocking & Chat",
-    "appId": "com.truecaller",
-    "url": "https://play.google.com/store/apps/details?id=com.truecaller",
-    "icon": "https://play-lh.googleusercontent.com/1nOzeZQDXCVrjLlENKiC7queuW_mw7X2jWrWcGlKh8tQHOVreetauEReoJMuwVAiBz8",
-    "developer": "Truecaller",
-    "developerId": "5383913004303935162",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Know who's calling - Identify unknown calls, block spam calls, spammers and SMS.",
-    "scoreText": "4.4",
-    "score": 4.4374223
-  },
-  {
-    "title": "Telegram",
-    "appId": "org.telegram.messenger",
-    "url": "https://play.google.com/store/apps/details?id=org.telegram.messenger",
-    "icon": "https://play-lh.googleusercontent.com/ZU9cSsyIJZo6Oy7HTHiEPwZg0m2Crep-d5ZrfajqtsH-qgUXSqKpNA2FpPDTn-7qA5Q",
-    "developer": "Telegram FZ-LLC",
-    "developerId": "Telegram+FZ-LLC",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Telegram is a messaging app with a focus on speed and security.",
-    "scoreText": "4.4",
-    "score": 4.3845005
-  },
-  {
-    "title": "Facebook",
-    "appId": "com.facebook.katana",
-    "url": "https://play.google.com/store/apps/details?id=com.facebook.katana",
-    "icon": "https://play-lh.googleusercontent.com/ccWDU4A7fX1R24v-vvT480ySh26AYp97g1VrIB_FIdjRcuQB2JP2WdY7h_wVVAeSpg",
-    "developer": "Facebook",
-    "developerId": "Facebook",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Find friends, watch live videos, play games &amp; save photos in your social network",
-    "scoreText": "2.4",
-    "score": 2.3952725
+    "score": 4.5075626
   },
   {
     "title": "Live Cricket TV - Watch Live Streaming of Match",
@@ -151,7 +109,35 @@
     "free": true,
     "summary": "Live Cricket TV - Watch Live Streaming of Match for all cricket lovers and fans.",
     "scoreText": "4.2",
-    "score": 4.2137613
+    "score": 4.2221766
+  },
+  {
+    "title": "Telegram",
+    "appId": "org.telegram.messenger",
+    "url": "https://play.google.com/store/apps/details?id=org.telegram.messenger",
+    "icon": "https://play-lh.googleusercontent.com/ZU9cSsyIJZo6Oy7HTHiEPwZg0m2Crep-d5ZrfajqtsH-qgUXSqKpNA2FpPDTn-7qA5Q",
+    "developer": "Telegram FZ-LLC",
+    "developerId": "Telegram+FZ-LLC",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Telegram is a messaging app with a focus on speed and security.",
+    "scoreText": "4.4",
+    "score": 4.3842516
+  },
+  {
+    "title": "Truecaller: Caller ID, Spam Blocking & Chat",
+    "appId": "com.truecaller",
+    "url": "https://play.google.com/store/apps/details?id=com.truecaller",
+    "icon": "https://play-lh.googleusercontent.com/1nOzeZQDXCVrjLlENKiC7queuW_mw7X2jWrWcGlKh8tQHOVreetauEReoJMuwVAiBz8",
+    "developer": "Truecaller",
+    "developerId": "5383913004303935162",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Know who's calling - Identify unknown calls, block spam calls, spammers and SMS.",
+    "scoreText": "4.4",
+    "score": 4.437336
   },
   {
     "title": "AJIO Online Shopping - Handpicked Curated Fashion",
@@ -165,63 +151,21 @@
     "free": true,
     "summary": "Up to 70% off on 2000+ Brands, 4 Lakh+ styles. Clothing, Footwear &amp; Accessories",
     "scoreText": "4.3",
-    "score": 4.260596
+    "score": 4.261495
   },
   {
-    "title": "Myntra Online Shopping App - Shop Fashion & more",
-    "appId": "com.myntra.android",
-    "url": "https://play.google.com/store/apps/details?id=com.myntra.android",
-    "icon": "https://play-lh.googleusercontent.com/wpnNPYIrdHC3Q_bcFXGpwoMvFvvvQnZJHmFKzumq5ZTRZKIzfxURAUGOMqhPhVxnggY",
-    "developer": "Myntra",
-    "developerId": "Myntra",
+    "title": "Facebook",
+    "appId": "com.facebook.katana",
+    "url": "https://play.google.com/store/apps/details?id=com.facebook.katana",
+    "icon": "https://play-lh.googleusercontent.com/ccWDU4A7fX1R24v-vvT480ySh26AYp97g1VrIB_FIdjRcuQB2JP2WdY7h_wVVAeSpg",
+    "developer": "Facebook",
+    "developerId": "Facebook",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "India Online Shopping App for Men &amp; Women’s Clothing &amp; Latest Fashion Trends",
-    "scoreText": "4.3",
-    "score": 4.2968826
-  },
-  {
-    "title": "Share Vpn-Faster&Safer, Unlimited Free vpn",
-    "appId": "com.sharevpn.master",
-    "url": "https://play.google.com/store/apps/details?id=com.sharevpn.master",
-    "icon": "https://play-lh.googleusercontent.com/rAHZNMhMmeRdslTXGqHm-mmmahl32I2swtWAnlyejrFkG8FmP5SjCf1vx7VCOQulcw",
-    "developer": "CleanMaster",
-    "developerId": "CleanMaster",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Free and unlimited VPN proxy with super fast speed and unlimited bandwidth！",
-    "scoreText": "4.6",
-    "score": 4.5983067
-  },
-  {
-    "title": "JioTV – News, Movies, Entertainment, LIVE TV",
-    "appId": "com.jio.jioplay.tv",
-    "url": "https://play.google.com/store/apps/details?id=com.jio.jioplay.tv",
-    "icon": "https://play-lh.googleusercontent.com/wtUqMd3ts3nOdrkz0itOOnyZhm4tWqkMjLvisl-xPhShemf_Bja9i5y75UY2EkeQZvhT",
-    "developer": "Jio Platforms Limited",
-    "developerId": "8426036374624640337",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "LIVE: Cricket, TV Shows, News, Movies, Entertainment, Religious &amp; more.",
-    "scoreText": "4.0",
-    "score": 3.9843988
-  },
-  {
-    "title": "MyJio: For Everything Jio",
-    "appId": "com.jio.myjio",
-    "url": "https://play.google.com/store/apps/details?id=com.jio.myjio",
-    "icon": "https://play-lh.googleusercontent.com/W6-GRr_DiVmMphLSzsH2Z2fGMdlM8ZLjNhKS93ALvLO3Dkfl6RejtMqlARBoA2dCw0Y",
-    "developer": "Jio Platforms Limited",
-    "developerId": "8426036374624640337",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Recharges, UPI &amp; payments, music &amp; movies, back up, games, news, stories &amp; more",
-    "scoreText": "4.3",
-    "score": 4.2885056
+    "summary": "Find friends, watch live videos, play games &amp; save photos in your social network",
+    "scoreText": "2.4",
+    "score": 2.3947585
   },
   {
     "title": "WhatsApp Messenger",
@@ -235,7 +179,63 @@
     "free": true,
     "summary": "Simple. Reliable. Private.",
     "scoreText": "4.1",
-    "score": 4.11468
+    "score": 4.11457
+  },
+  {
+    "title": "JioTV – News, Movies, Entertainment, LIVE TV",
+    "appId": "com.jio.jioplay.tv",
+    "url": "https://play.google.com/store/apps/details?id=com.jio.jioplay.tv",
+    "icon": "https://play-lh.googleusercontent.com/wtUqMd3ts3nOdrkz0itOOnyZhm4tWqkMjLvisl-xPhShemf_Bja9i5y75UY2EkeQZvhT",
+    "developer": "Jio Platforms Limited",
+    "developerId": "8426036374624640337",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "LIVE: Cricket, TV Shows, News, Movies, Entertainment, Religious &amp; more.",
+    "scoreText": "4.0",
+    "score": 3.9844832
+  },
+  {
+    "title": "Myntra Online Shopping App - Shop Fashion & more",
+    "appId": "com.myntra.android",
+    "url": "https://play.google.com/store/apps/details?id=com.myntra.android",
+    "icon": "https://play-lh.googleusercontent.com/wpnNPYIrdHC3Q_bcFXGpwoMvFvvvQnZJHmFKzumq5ZTRZKIzfxURAUGOMqhPhVxnggY",
+    "developer": "Myntra",
+    "developerId": "Myntra",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "India Online Shopping App for Men &amp; Women’s Clothing &amp; Latest Fashion Trends",
+    "scoreText": "4.3",
+    "score": 4.2969804
+  },
+  {
+    "title": "Share Vpn-Faster&Safer, Unlimited Free vpn",
+    "appId": "com.sharevpn.master",
+    "url": "https://play.google.com/store/apps/details?id=com.sharevpn.master",
+    "icon": "https://play-lh.googleusercontent.com/rAHZNMhMmeRdslTXGqHm-mmmahl32I2swtWAnlyejrFkG8FmP5SjCf1vx7VCOQulcw",
+    "developer": "CleanMaster",
+    "developerId": "CleanMaster",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Free and unlimited VPN proxy with super fast speed and unlimited bandwidth！",
+    "scoreText": "4.6",
+    "score": 4.591829
+  },
+  {
+    "title": "MyJio: For Everything Jio",
+    "appId": "com.jio.myjio",
+    "url": "https://play.google.com/store/apps/details?id=com.jio.myjio",
+    "icon": "https://play-lh.googleusercontent.com/W6-GRr_DiVmMphLSzsH2Z2fGMdlM8ZLjNhKS93ALvLO3Dkfl6RejtMqlARBoA2dCw0Y",
+    "developer": "Jio Platforms Limited",
+    "developerId": "8426036374624640337",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Recharges, UPI &amp; payments, music &amp; movies, back up, games, news, stories &amp; more",
+    "scoreText": "4.3",
+    "score": 4.2877893
   },
   {
     "title": "WhatsApp Business",
@@ -249,7 +249,7 @@
     "free": true,
     "summary": "Simple tool for businesses to talk to their customers.",
     "scoreText": "4.2",
-    "score": 4.2112756
+    "score": 4.211127
   },
   {
     "title": "Share Karo - Share & File Transfer App, Share karo",
@@ -263,7 +263,7 @@
     "free": true,
     "summary": "Share Karo: Share &amp; File Transfer App, Shareit for iPhone, Share Karo, Share app",
     "scoreText": "4.3",
-    "score": 4.3121133
+    "score": 4.3105135
   },
   {
     "title": "Moj - India's Most Popular Short Video App",
@@ -277,7 +277,7 @@
     "free": true,
     "summary": "Moj App is the best Indian Short Videos App. Find latest trendy videos",
     "scoreText": "4.2",
-    "score": 4.216935
+    "score": 4.216569
   },
   {
     "title": "mAst: Music Status Video Maker",
@@ -291,7 +291,7 @@
     "free": true,
     "summary": "Reels Video Maker &amp; Video Editor: Lyrical Status Video APP with music &amp; effect",
     "scoreText": "4.3",
-    "score": 4.3326807
+    "score": 4.32705
   },
   {
     "title": "MX Player: Video Player, Movies, Songs & Games App",
@@ -305,49 +305,7 @@
     "free": true,
     "summary": "Powerful Video Player with Subtitle Supports: Online Movies, Songs &amp; Games App",
     "scoreText": "4.2",
-    "score": 4.244818
-  },
-  {
-    "title": "Airtel Thanks – Recharge, Bill Pay, UPI & Bank",
-    "appId": "com.myairtelapp",
-    "url": "https://play.google.com/store/apps/details?id=com.myairtelapp",
-    "icon": "https://play-lh.googleusercontent.com/MEDyPtE2OFyPqXh2m_K5iQT3jvzIC93vdlRQC5O8kjr5_GAkFeNbmroPVrpbJT8bocM",
-    "developer": "Airtel",
-    "developerId": "5602309161373665584",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Secure App for Recharge, UPI Payment (Airtel BHIM UPI), Bank and Wynk Music",
-    "scoreText": "4.3",
-    "score": 4.301709
-  },
-  {
-    "title": "MX TakaTak Short Video App | Made in India for You",
-    "appId": "com.next.innovation.takatak",
-    "url": "https://play.google.com/store/apps/details?id=com.next.innovation.takatak",
-    "icon": "https://play-lh.googleusercontent.com/BlybHjLSHLaSH8YzNa0cmQ66zEtWgwyfQCbgfzSGePaQADiR7xLUTJFstnes-AUYzQ",
-    "developer": "MX Media (formerly J2 Interactive)",
-    "developerId": "MX+Media+(formerly+J2+Interactive)",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Indian Short Videos Community: Funny Video App, Create &amp; Share Free Short Videos",
-    "scoreText": "4.2",
-    "score": 4.1599536
-  },
-  {
-    "title": "Paytm -UPI, Money Transfer, Recharge, Bill Payment",
-    "appId": "net.one97.paytm",
-    "url": "https://play.google.com/store/apps/details?id=net.one97.paytm",
-    "icon": "https://play-lh.googleusercontent.com/k7yz57K2OxhNrPNKF2U18Zcv9rodOu7CfWh47U15FFUN8-_B0hQfXsM-BaLG0gOtvw",
-    "developer": "Paytm - One97 Communications Ltd.",
-    "developerId": "5032485548806526009",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "BHIM UPI, Money Transfer, Electricity Bill Payment, DTH, Metro &amp; Mobile Recharge",
-    "scoreText": "4.6",
-    "score": 4.6030574
+    "score": 4.244461
   },
   {
     "title": "Cricket Exchange - Live Score & Analysis",
@@ -361,35 +319,7 @@
     "free": true,
     "summary": "We simplify your Cricket Analysis! Live Score, Commentary &amp; News | IPL 2021",
     "scoreText": "4.4",
-    "score": 4.373325
-  },
-  {
-    "title": "Google Pay: Secure UPI payment",
-    "appId": "com.google.android.apps.nbu.paisa.user",
-    "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.paisa.user",
-    "icon": "https://play-lh.googleusercontent.com/0dn-CnZkqyLm5PpjdHBrYR9hvnGDNgoLTe8yfrSaPWUx7ZBVGI4C_18-jL06oNCRRCK3",
-    "developer": "Google LLC",
-    "developerId": "5700313618786177705",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Make UPI payments, recharges, pay bills &amp; businesses with Google Pay (Tez)",
-    "scoreText": "4.2",
-    "score": 4.1531014
-  },
-  {
-    "title": "Chingari - Best Indian Short Video App",
-    "appId": "io.chingari.app",
-    "url": "https://play.google.com/store/apps/details?id=io.chingari.app",
-    "icon": "https://play-lh.googleusercontent.com/r3HEhQRu-lP6H7xImKvwBTa0GBuDTGDqEm1lddmJlzBEiazMrbpaOfgwDPSEDKQBt9A",
-    "developer": "Chingari",
-    "developerId": "Chingari",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Bharat ka Naya Entertainment destination. Now everyone can be a STAR.",
-    "scoreText": "3.9",
-    "score": 3.9458678
+    "score": 4.3719673
   },
   {
     "title": "ZEE5: Movies, TV Shows, Web Series, News",
@@ -403,7 +333,77 @@
     "free": true,
     "summary": "Watch Latest Movies, TV Shows, 150+ Web Series &amp; 90+ LIVE TV channels.",
     "scoreText": "3.4",
-    "score": 3.442015
+    "score": 3.4424741
+  },
+  {
+    "title": "Airtel Thanks – Recharge, Bill Pay, UPI & Bank",
+    "appId": "com.myairtelapp",
+    "url": "https://play.google.com/store/apps/details?id=com.myairtelapp",
+    "icon": "https://play-lh.googleusercontent.com/MEDyPtE2OFyPqXh2m_K5iQT3jvzIC93vdlRQC5O8kjr5_GAkFeNbmroPVrpbJT8bocM",
+    "developer": "Airtel",
+    "developerId": "5602309161373665584",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Secure App for Recharge, UPI Payment (Airtel BHIM UPI), Bank and Wynk Music",
+    "scoreText": "4.3",
+    "score": 4.302587
+  },
+  {
+    "title": "MX TakaTak Short Video App | Made in India for You",
+    "appId": "com.next.innovation.takatak",
+    "url": "https://play.google.com/store/apps/details?id=com.next.innovation.takatak",
+    "icon": "https://play-lh.googleusercontent.com/BlybHjLSHLaSH8YzNa0cmQ66zEtWgwyfQCbgfzSGePaQADiR7xLUTJFstnes-AUYzQ",
+    "developer": "MX Media (formerly J2 Interactive)",
+    "developerId": "MX+Media+(formerly+J2+Interactive)",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Indian Short Videos Community: Funny Video App, Create &amp; Share Free Short Videos",
+    "scoreText": "4.2",
+    "score": 4.1575136
+  },
+  {
+    "title": "Paytm -UPI, Money Transfer, Recharge, Bill Payment",
+    "appId": "net.one97.paytm",
+    "url": "https://play.google.com/store/apps/details?id=net.one97.paytm",
+    "icon": "https://play-lh.googleusercontent.com/k7yz57K2OxhNrPNKF2U18Zcv9rodOu7CfWh47U15FFUN8-_B0hQfXsM-BaLG0gOtvw",
+    "developer": "Paytm - One97 Communications Ltd.",
+    "developerId": "5032485548806526009",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "BHIM UPI, Money Transfer, Electricity Bill Payment, DTH, Metro &amp; Mobile Recharge",
+    "scoreText": "4.6",
+    "score": 4.6031566
+  },
+  {
+    "title": "Google Pay: Secure UPI payment",
+    "appId": "com.google.android.apps.nbu.paisa.user",
+    "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.paisa.user",
+    "icon": "https://play-lh.googleusercontent.com/0dn-CnZkqyLm5PpjdHBrYR9hvnGDNgoLTe8yfrSaPWUx7ZBVGI4C_18-jL06oNCRRCK3",
+    "developer": "Google LLC",
+    "developerId": "5700313618786177705",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Make UPI payments, recharges, pay bills &amp; businesses with Google Pay (Tez)",
+    "scoreText": "4.2",
+    "score": 4.153028
+  },
+  {
+    "title": "Chingari - Best Indian Short Video App",
+    "appId": "io.chingari.app",
+    "url": "https://play.google.com/store/apps/details?id=io.chingari.app",
+    "icon": "https://play-lh.googleusercontent.com/r3HEhQRu-lP6H7xImKvwBTa0GBuDTGDqEm1lddmJlzBEiazMrbpaOfgwDPSEDKQBt9A",
+    "developer": "Chingari",
+    "developerId": "Chingari",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Bharat ka Naya Entertainment destination. Now everyone can be a STAR.",
+    "scoreText": "3.9",
+    "score": 3.9430904
   },
   {
     "title": "ShareChat - Made in India",
@@ -417,7 +417,7 @@
     "free": true,
     "summary": "Full On Entertainment &amp; Time Pass 🤩 Mitron Se Karein Baat 👫",
     "scoreText": "4.2",
-    "score": 4.2022123
+    "score": 4.201344
   },
   {
     "title": "Tiki - Short Video Community",
@@ -431,7 +431,7 @@
     "free": true,
     "summary": "Tiki - A social short video community platform",
     "scoreText": "4.2",
-    "score": 4.1957083
+    "score": 4.187208
   },
   {
     "title": "Wynk Music- New Songs, Offline Music & Podcast App",
@@ -444,8 +444,8 @@
     "price": 0,
     "free": true,
     "summary": "Music Streaming &amp; Offline Music App- Listen Songs, Podcasts &amp; Download Mp3 Song!",
-    "scoreText": "4.3",
-    "score": 4.25028
+    "scoreText": "4.2",
+    "score": 4.2491665
   },
   {
     "title": "Josh: Short Videos App - Watch For Free",
@@ -459,7 +459,7 @@
     "free": true,
     "summary": "Best Indian App for Short Videos - Watch, Download &amp; Share For Free 🤩🥳",
     "scoreText": "4.0",
-    "score": 3.9724998
+    "score": 3.9741445
   },
   {
     "title": "JioSaavn Music & Radio – JioTunes, Podcasts, Songs",
@@ -473,21 +473,7 @@
     "free": true,
     "summary": "Listen to English, Bollywood, Hindi, Tamil, Telugu, Punjabi, set JioTunes &amp; more",
     "scoreText": "4.2",
-    "score": 4.1990166
-  },
-  {
-    "title": "Facebook Lite",
-    "appId": "com.facebook.lite",
-    "url": "https://play.google.com/store/apps/details?id=com.facebook.lite",
-    "icon": "https://play-lh.googleusercontent.com/IDqf-cylfHJt5ygdiMDTrQAbxs6hoYe4cKm1Bg0kAeggdsIrQDP0h36RvVwf5itHquQ",
-    "developer": "Facebook",
-    "developerId": "Facebook",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "This version of Facebook uses less data and works in all network conditions.",
-    "scoreText": "3.2",
-    "score": 3.184612
+    "score": 4.1990967
   },
   {
     "title": "Cricbuzz - Live Cricket Scores & News",
@@ -501,7 +487,21 @@
     "free": true,
     "summary": "Live Cricket Scores, Commentary, News and everything else related to Cricket.",
     "scoreText": "4.3",
-    "score": 4.2756195
+    "score": 4.2753463
+  },
+  {
+    "title": "Facebook Lite",
+    "appId": "com.facebook.lite",
+    "url": "https://play.google.com/store/apps/details?id=com.facebook.lite",
+    "icon": "https://play-lh.googleusercontent.com/IDqf-cylfHJt5ygdiMDTrQAbxs6hoYe4cKm1Bg0kAeggdsIrQDP0h36RvVwf5itHquQ",
+    "developer": "Facebook",
+    "developerId": "Facebook",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "This version of Facebook uses less data and works in all network conditions.",
+    "scoreText": "3.2",
+    "score": 3.1841059
   },
   {
     "title": "Dream11 App Download Original Team Prediction Tips",
@@ -514,36 +514,8 @@
     "price": 0,
     "free": true,
     "summary": "Dream11 App Download Original Fantasy Team Prediction Guide.",
-    "scoreText": "3.7",
-    "score": 3.7054055
-  },
-  {
-    "title": "Resso",
-    "appId": "com.moonvideo.android.resso",
-    "url": "https://play.google.com/store/apps/details?id=com.moonvideo.android.resso",
-    "icon": "https://play-lh.googleusercontent.com/KpKUr5N3UWsaAJR3FDCWPOrEHFCIbpMuZHe0W-6jeXP4OSGtYird5za8iXDgMOtxOtY",
-    "developer": "Moon Video Inc.",
-    "developerId": "Moon+Video+Inc.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Listen to millions of music- English, Hindi, Tamil, Telugu, Punjabi &amp; more",
-    "scoreText": "4.3",
-    "score": 4.2505946
-  },
-  {
-    "title": "Amazon Shopping, UPI, Money Transfer, Bill Payment",
-    "appId": "in.amazon.mShop.android.shopping",
-    "url": "https://play.google.com/store/apps/details?id=in.amazon.mShop.android.shopping",
-    "icon": "https://play-lh.googleusercontent.com/QrDjFxk6q1snmS96tGAhMJYl7N1_thOJxR62etDJbL5nhSozwdCoXC55nHjL2NFD8d8",
-    "developer": "Amazon Mobile LLC",
-    "developerId": "Amazon+Mobile+LLC",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Shop from millions of products, pay bills, transfer money and order groceries",
-    "scoreText": "4.3",
-    "score": 4.331464
+    "scoreText": "3.6",
+    "score": 3.6381578
   },
   {
     "title": "ZOOM Cloud Meetings",
@@ -557,7 +529,35 @@
     "free": true,
     "summary": "Zoom is a free HD meeting app with video and screen sharing for up to 100 people",
     "scoreText": "4.0",
-    "score": 4.030982
+    "score": 4.031029
+  },
+  {
+    "title": "Amazon Shopping, UPI, Money Transfer, Bill Payment",
+    "appId": "in.amazon.mShop.android.shopping",
+    "url": "https://play.google.com/store/apps/details?id=in.amazon.mShop.android.shopping",
+    "icon": "https://play-lh.googleusercontent.com/QrDjFxk6q1snmS96tGAhMJYl7N1_thOJxR62etDJbL5nhSozwdCoXC55nHjL2NFD8d8",
+    "developer": "Amazon Mobile LLC",
+    "developerId": "Amazon+Mobile+LLC",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Shop from millions of products, pay bills, transfer money and order groceries",
+    "scoreText": "4.3",
+    "score": 4.3317432
+  },
+  {
+    "title": "Resso",
+    "appId": "com.moonvideo.android.resso",
+    "url": "https://play.google.com/store/apps/details?id=com.moonvideo.android.resso",
+    "icon": "https://play-lh.googleusercontent.com/KpKUr5N3UWsaAJR3FDCWPOrEHFCIbpMuZHe0W-6jeXP4OSGtYird5za8iXDgMOtxOtY",
+    "developer": "Moon Video Inc.",
+    "developerId": "Moon+Video+Inc.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Listen to millions of music- English, Hindi, Tamil, Telugu, Punjabi &amp; more",
+    "scoreText": "4.3",
+    "score": 4.2519145
   },
   {
     "title": "Google Meet",
@@ -570,8 +570,8 @@
     "price": 0,
     "free": true,
     "summary": "Get your team connected to secure video conferencing with Google Meet.",
-    "scoreText": "3.9",
-    "score": 3.9493055
+    "scoreText": "4.0",
+    "score": 3.9504251
   },
   {
     "title": "Public - Indian Local Videos",
@@ -585,7 +585,7 @@
     "free": true,
     "summary": "Your city's Local updates and videos on your smartphone | Made In India app.",
     "scoreText": "4.3",
-    "score": 4.295534
+    "score": 4.294451
   },
   {
     "title": "Downloader - Free All Video Downloader App 2021",
@@ -599,119 +599,7 @@
     "free": true,
     "summary": "Fast download all photo &amp; videos from the Internet with free video downloader.",
     "scoreText": "3.8",
-    "score": 3.7721148
-  },
-  {
-    "title": "Spotify: Music and Podcasts",
-    "appId": "com.spotify.music",
-    "url": "https://play.google.com/store/apps/details?id=com.spotify.music",
-    "icon": "https://play-lh.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM",
-    "developer": "Spotify AB",
-    "developerId": "Spotify+AB",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Discover new music &amp; play your favorite songs, albums, artists &amp; podcasts",
-    "scoreText": "4.4",
-    "score": 4.4116273
-  },
-  {
-    "title": "Zomato - Online Food Delivery & Restaurant Reviews",
-    "appId": "com.application.zomato",
-    "url": "https://play.google.com/store/apps/details?id=com.application.zomato",
-    "icon": "https://play-lh.googleusercontent.com/n6UAmyQ8xjHbDma7QlTyB_KpHek0zLoMXF6bHUr6il8YV-c_v6ysic0yxVcjNDd7FSw",
-    "developer": "Zomato",
-    "developerId": "7812834815367511165",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Order food online, check reviews and avail great offers on delivery and dining!",
-    "scoreText": "4.3",
-    "score": 4.2704196
-  },
-  {
-    "title": "Instagram Lite",
-    "appId": "com.instagram.lite",
-    "url": "https://play.google.com/store/apps/details?id=com.instagram.lite",
-    "icon": "https://play-lh.googleusercontent.com/h9THn4Ou1Qz9_CpTVxtatkF8yZV9YP2T3D6-ZxMvsnV0TbLL_LiVIMmTprcosjq0SPHu",
-    "developer": "Instagram",
-    "developerId": "Instagram",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Instagram Lite uses less data and works on all networks.",
-    "scoreText": "4.0",
-    "score": 3.98542
-  },
-  {
-    "title": "Video Editor & Video Maker - InShot",
-    "appId": "com.camerasideas.instashot",
-    "url": "https://play.google.com/store/apps/details?id=com.camerasideas.instashot",
-    "icon": "https://play-lh.googleusercontent.com/mjmbWruxfo8oYHsBNI7b76KLj1AEJQo7hXwlmi05EvfFwubOjo8nQJrVEHRe4Vbgpo8",
-    "developer": "InShot Video Editor",
-    "developerId": "InShot+Video+Editor",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Pro Video Editor with Music! Edit video with effects, slideshow &amp; slow motion",
-    "scoreText": "4.8",
-    "score": 4.769365
-  },
-  {
-    "title": "Where is my Train : Indian Railway Train Status",
-    "appId": "com.whereismytrain.android",
-    "url": "https://play.google.com/store/apps/details?id=com.whereismytrain.android",
-    "icon": "https://play-lh.googleusercontent.com/C9hFJJagXI83NsVzyhbwaaIsj0dGaqKzg6Uem7TgbKDoVCaQCfhQNDNWSrJvPiZDZQW3",
-    "developer": "Sigmoid Labs and its Affiliates",
-    "developerId": "Sigmoid+Labs+and+its+Affiliates",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Highest rated train app - Timetable &amp; running status without internet - No Ads",
-    "scoreText": "4.4",
-    "score": 4.407332
-  },
-  {
-    "title": "Pocket FM - Stories, Audio Books & Podcasts",
-    "appId": "com.radio.pocketfm",
-    "url": "https://play.google.com/store/apps/details?id=com.radio.pocketfm",
-    "icon": "https://play-lh.googleusercontent.com/kweybiMo_yZEBNmGCmh3fyRVXQQ5lIJQB4z_jaECV_tpqEW8GqhFjEFmxbtRL8TrFic",
-    "developer": "Pocket FM",
-    "developerId": "Pocket+FM",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "The Best Stories, Audio books, Podcasts, FM Radio, Live Radio &amp; Radio Shows App",
-    "scoreText": "4.2",
-    "score": 4.1786504
-  },
-  {
-    "title": "Snapdeal Shopping App -Free Delivery on all orders",
-    "appId": "com.snapdeal.main",
-    "url": "https://play.google.com/store/apps/details?id=com.snapdeal.main",
-    "icon": "https://play-lh.googleusercontent.com/2VjkJvLm_jtkSF55Qy-om2X5VMmYtJjLk7qdp0sPzK_R0IUaDeOk2-PX65YZX4sLAw",
-    "developer": "Snapdeal Private Limited",
-    "developerId": "7708405474390121556",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Online Shopping App with a wide range of Quality Products at Lowest Prices",
-    "scoreText": "4.3",
-    "score": 4.2578316
-  },
-  {
-    "title": "Mivi: Music & Lyrical Status Video Maker & Editor",
-    "appId": "com.picslab.neon.editor",
-    "url": "https://play.google.com/store/apps/details?id=com.picslab.neon.editor",
-    "icon": "https://play-lh.googleusercontent.com/n_NYUyXJqUtZ2It6IA1nQOuNmqUEs-mUsXBFdnVI0T-X3tcrv5RKBgzP9YWyL6hWae0",
-    "developer": "Music Video Studio",
-    "developerId": "7558137682145253144",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "🔥 Beat MV &amp; Lyrical Status Maker with effects, Photo to video maker with music",
-    "scoreText": "4.4",
-    "score": 4.3729568
+    "score": 3.7766588
   },
   {
     "title": "Messenger – Text and Video Chat for Free",
@@ -725,63 +613,119 @@
     "free": true,
     "summary": "Free group video chat, video calls, voice calls and text messaging.",
     "scoreText": "4.0",
-    "score": 4.012524
+    "score": 4.0125146
   },
   {
-    "title": "KineMaster - Video Editor",
-    "appId": "com.nexstreaming.app.kinemasterfree",
-    "url": "https://play.google.com/store/apps/details?id=com.nexstreaming.app.kinemasterfree",
-    "icon": "https://play-lh.googleusercontent.com/mKVQE-V16mEbA_xNHJKz-jkbOxDW97775dxZxW7rgrDD14WmR2J0U9xDqSt0CBXk3-4",
-    "developer": "KineMaster Corporation",
-    "developerId": "9138878327109540079",
+    "title": "Spotify: Music and Podcasts",
+    "appId": "com.spotify.music",
+    "url": "https://play.google.com/store/apps/details?id=com.spotify.music",
+    "icon": "https://play-lh.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM",
+    "developer": "Spotify AB",
+    "developerId": "Spotify+AB",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "An easy full-featured video editor! Add effects, text, music, graphics and more!",
+    "summary": "Discover new music &amp; play your favorite songs, albums, artists &amp; podcasts",
     "scoreText": "4.4",
-    "score": 4.373547
+    "score": 4.4117165
   },
   {
-    "title": "SonyLIV: Originals, Hollywood, LIVE Sport, TV Show",
-    "appId": "com.sonyliv",
-    "url": "https://play.google.com/store/apps/details?id=com.sonyliv",
-    "icon": "https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg",
-    "developer": "Sony Pictures Networks India Pvt. Ltd",
-    "developerId": "Sony+Pictures+Networks+India+Pvt.+Ltd",
+    "title": "Zomato - Online Food Delivery & Restaurant Reviews",
+    "appId": "com.application.zomato",
+    "url": "https://play.google.com/store/apps/details?id=com.application.zomato",
+    "icon": "https://play-lh.googleusercontent.com/n6UAmyQ8xjHbDma7QlTyB_KpHek0zLoMXF6bHUr6il8YV-c_v6ysic0yxVcjNDd7FSw",
+    "developer": "Zomato",
+    "developerId": "7812834815367511165",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Binge on Originals, International Shows, Movies, LIVE Sports, TV shows and more!",
-    "scoreText": "4.1",
-    "score": 4.137132
+    "summary": "Order food online, check reviews and avail great offers on delivery and dining!",
+    "scoreText": "4.3",
+    "score": 4.2710314
   },
   {
-    "title": "Zili - Short Video App for India | Funny",
-    "appId": "com.funnypuri.client",
-    "url": "https://play.google.com/store/apps/details?id=com.funnypuri.client",
-    "icon": "https://play-lh.googleusercontent.com/6cZQT9BKwrR2xQNh2juyhz3nTf8jywW8cKQ7ZQp3XZOBmQavb1HlJNX_Ns4TlYzUfWnF",
-    "developer": "Zili",
-    "developerId": "Zili",
+    "title": "Instagram Lite",
+    "appId": "com.instagram.lite",
+    "url": "https://play.google.com/store/apps/details?id=com.instagram.lite",
+    "icon": "https://play-lh.googleusercontent.com/h9THn4Ou1Qz9_CpTVxtatkF8yZV9YP2T3D6-ZxMvsnV0TbLL_LiVIMmTprcosjq0SPHu",
+    "developer": "Instagram",
+    "developerId": "Instagram",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Pranks, comedy, beauty, dance, free to download all trending videos!",
+    "summary": "Instagram Lite uses less data and works on all networks.",
     "scoreText": "4.0",
-    "score": 4.0067835
+    "score": 3.986164
   },
   {
-    "title": "IPL 2021",
-    "appId": "com.pulselive.bcci.android",
-    "url": "https://play.google.com/store/apps/details?id=com.pulselive.bcci.android",
-    "icon": "https://play-lh.googleusercontent.com/3IYLI-oZAlsBNFXFddoCdzfv6pxrBoLE6kGE782kasjUaz582iCqz4Fh4DWDfwEikg",
-    "developer": "Pulse Innovations",
-    "developerId": "Pulse+Innovations",
+    "title": "Pocket FM - Stories, Audio Books & Podcasts",
+    "appId": "com.radio.pocketfm",
+    "url": "https://play.google.com/store/apps/details?id=com.radio.pocketfm",
+    "icon": "https://play-lh.googleusercontent.com/kweybiMo_yZEBNmGCmh3fyRVXQQ5lIJQB4z_jaECV_tpqEW8GqhFjEFmxbtRL8TrFic",
+    "developer": "Pocket FM",
+    "developerId": "Pocket+FM",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "The official IPL Android App",
+    "summary": "The Best Stories, Audio books, Podcasts, FM Radio, Live Radio &amp; Radio Shows App",
     "scoreText": "4.2",
-    "score": 4.15017
+    "score": 4.1770916
+  },
+  {
+    "title": "Where is my Train : Indian Railway Train Status",
+    "appId": "com.whereismytrain.android",
+    "url": "https://play.google.com/store/apps/details?id=com.whereismytrain.android",
+    "icon": "https://play-lh.googleusercontent.com/C9hFJJagXI83NsVzyhbwaaIsj0dGaqKzg6Uem7TgbKDoVCaQCfhQNDNWSrJvPiZDZQW3",
+    "developer": "Sigmoid Labs and its Affiliates",
+    "developerId": "Sigmoid+Labs+and+its+Affiliates",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Highest rated train app - Timetable &amp; running status without internet - No Ads",
+    "scoreText": "4.4",
+    "score": 4.407379
+  },
+  {
+    "title": "Video Editor & Video Maker - InShot",
+    "appId": "com.camerasideas.instashot",
+    "url": "https://play.google.com/store/apps/details?id=com.camerasideas.instashot",
+    "icon": "https://play-lh.googleusercontent.com/mjmbWruxfo8oYHsBNI7b76KLj1AEJQo7hXwlmi05EvfFwubOjo8nQJrVEHRe4Vbgpo8",
+    "developer": "InShot Video Editor",
+    "developerId": "InShot+Video+Editor",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Pro Video Editor with Music! Edit video with effects, slideshow &amp; slow motion",
+    "scoreText": "4.8",
+    "score": 4.769409
+  },
+  {
+    "title": "Snapdeal Shopping App -Free Delivery on all orders",
+    "appId": "com.snapdeal.main",
+    "url": "https://play.google.com/store/apps/details?id=com.snapdeal.main",
+    "icon": "https://play-lh.googleusercontent.com/2VjkJvLm_jtkSF55Qy-om2X5VMmYtJjLk7qdp0sPzK_R0IUaDeOk2-PX65YZX4sLAw",
+    "developer": "Snapdeal Private Limited",
+    "developerId": "7708405474390121556",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Online Shopping App with a wide range of Quality Products at Lowest Prices",
+    "scoreText": "4.3",
+    "score": 4.258296
+  },
+  {
+    "title": "Mivi: Music & Lyrical Status Video Maker & Editor",
+    "appId": "com.picslab.neon.editor",
+    "url": "https://play.google.com/store/apps/details?id=com.picslab.neon.editor",
+    "icon": "https://play-lh.googleusercontent.com/n_NYUyXJqUtZ2It6IA1nQOuNmqUEs-mUsXBFdnVI0T-X3tcrv5RKBgzP9YWyL6hWae0",
+    "developer": "Music Video Studio",
+    "developerId": "7558137682145253144",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "🔥 Beat MV &amp; Lyrical Status Maker with effects, Photo to video maker with music",
+    "scoreText": "4.4",
+    "score": 4.361545
   },
   {
     "title": "Beat.ly - Music Video Maker with Effects",
@@ -795,7 +739,63 @@
     "free": true,
     "summary": "Beat.ly Video Maker with Effects, Video Cutter for Vlog, Free Music Video Editor",
     "scoreText": "4.5",
-    "score": 4.4937806
+    "score": 4.4928555
+  },
+  {
+    "title": "SonyLIV: Originals, Hollywood, LIVE Sport, TV Show",
+    "appId": "com.sonyliv",
+    "url": "https://play.google.com/store/apps/details?id=com.sonyliv",
+    "icon": "https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg",
+    "developer": "Sony Pictures Networks India Pvt. Ltd",
+    "developerId": "Sony+Pictures+Networks+India+Pvt.+Ltd",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Binge on Originals, International Shows, Movies, LIVE Sports, TV shows and more!",
+    "scoreText": "4.1",
+    "score": 4.1366625
+  },
+  {
+    "title": "IPL 2021",
+    "appId": "com.pulselive.bcci.android",
+    "url": "https://play.google.com/store/apps/details?id=com.pulselive.bcci.android",
+    "icon": "https://play-lh.googleusercontent.com/3IYLI-oZAlsBNFXFddoCdzfv6pxrBoLE6kGE782kasjUaz582iCqz4Fh4DWDfwEikg",
+    "developer": "Pulse Innovations",
+    "developerId": "Pulse+Innovations",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "The official IPL Android App",
+    "scoreText": "4.1",
+    "score": 4.149635
+  },
+  {
+    "title": "KineMaster - Video Editor",
+    "appId": "com.nexstreaming.app.kinemasterfree",
+    "url": "https://play.google.com/store/apps/details?id=com.nexstreaming.app.kinemasterfree",
+    "icon": "https://play-lh.googleusercontent.com/mKVQE-V16mEbA_xNHJKz-jkbOxDW97775dxZxW7rgrDD14WmR2J0U9xDqSt0CBXk3-4",
+    "developer": "KineMaster Corporation",
+    "developerId": "9138878327109540079",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "An easy full-featured video editor! Add effects, text, music, graphics and more!",
+    "scoreText": "4.4",
+    "score": 4.3735166
+  },
+  {
+    "title": "Zili - Short Video App for India | Funny",
+    "appId": "com.funnypuri.client",
+    "url": "https://play.google.com/store/apps/details?id=com.funnypuri.client",
+    "icon": "https://play-lh.googleusercontent.com/6cZQT9BKwrR2xQNh2juyhz3nTf8jywW8cKQ7ZQp3XZOBmQavb1HlJNX_Ns4TlYzUfWnF",
+    "developer": "Zili",
+    "developerId": "Zili",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Pranks, comedy, beauty, dance, free to download all trending videos!",
+    "scoreText": "4.0",
+    "score": 4.00493
   },
   {
     "title": "Dhani: Medicines, Cards, Credit, Payments & Stocks",
@@ -809,7 +809,7 @@
     "free": true,
     "summary": "Instant Credit, Online Doctors &amp; Medicines, Cashback, Wallet Payments &amp; Rewards",
     "scoreText": "4.0",
-    "score": 4.014394
+    "score": 4.014045
   },
   {
     "title": "Dailyhunt - Local & National News, Videos, Cricket",
@@ -823,49 +823,7 @@
     "free": true,
     "summary": "Live News &amp; Videos in हिंदी, தமிழ், മലയാളം, తెలుగు, ಕನ್ನಡ, English and 8 others",
     "scoreText": "4.2",
-    "score": 4.1679263
-  },
-  {
-    "title": "Vido : Lyrical Video Status Maker",
-    "appId": "com.vido.particle.ly.lyrical.status.maker",
-    "url": "https://play.google.com/store/apps/details?id=com.vido.particle.ly.lyrical.status.maker",
-    "icon": "https://play-lh.googleusercontent.com/_caRwgUj_CEnxxRoJr6F-UTnUF6I3GBRtAzB972r9Vd41Zi5LKzlvFOPd_DrYotBtjXo",
-    "developer": "Vido - Video Status Maker",
-    "developerId": "Vido+-+Video+Status+Maker",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Lyrical Video Status Maker, Photo to video maker and Status Downloader",
-    "scoreText": "4.2",
-    "score": 4.179698
-  },
-  {
-    "title": "AbTalk Call - Free Phone Call & Worldwide Calling",
-    "appId": "com.abtalk.freecall",
-    "url": "https://play.google.com/store/apps/details?id=com.abtalk.freecall",
-    "icon": "https://play-lh.googleusercontent.com/A4ZhPPWv5avDFaa1I2dE0MKuDSScDB8WqLxdOw6JyD2XJCh54zK1xsl3IVMZiNkNXkY",
-    "developer": "Abtalk Call",
-    "developerId": "Abtalk+Call",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "AbTalk Call, free calling app with wifi or cellular data.",
-    "scoreText": "4.2",
-    "score": 4.1768866
-  },
-  {
-    "title": "Google Play Games",
-    "appId": "com.google.android.play.games",
-    "url": "https://play.google.com/store/apps/details?id=com.google.android.play.games",
-    "icon": "https://play-lh.googleusercontent.com/szHQCpMAb0MikYIhvNG1MlruXFUggd6DJHXkMPG1H4lJPB7Lee_BkODfwxpQazxfO9mA",
-    "developer": "Google LLC",
-    "developerId": "5700313618786177705",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Play games instantly, save progress, and earn achievements.",
-    "scoreText": "4.3",
-    "score": 4.289336
+    "score": 4.168119
   },
   {
     "title": "Rizzle: Trending Status Videos with Music & Photos",
@@ -879,7 +837,49 @@
     "free": true,
     "summary": "Top Indian WhatsApp status, Snack video, Love status, &amp; Trending short video app",
     "scoreText": "4.2",
-    "score": 4.2301764
+    "score": 4.2260303
+  },
+  {
+    "title": "Vido : Lyrical Video Status Maker",
+    "appId": "com.vido.particle.ly.lyrical.status.maker",
+    "url": "https://play.google.com/store/apps/details?id=com.vido.particle.ly.lyrical.status.maker",
+    "icon": "https://play-lh.googleusercontent.com/_caRwgUj_CEnxxRoJr6F-UTnUF6I3GBRtAzB972r9Vd41Zi5LKzlvFOPd_DrYotBtjXo",
+    "developer": "Vido - Video Status Maker",
+    "developerId": "Vido+-+Video+Status+Maker",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Lyrical Video Status Maker, Photo to video maker and Status Downloader",
+    "scoreText": "4.2",
+    "score": 4.178761
+  },
+  {
+    "title": "AbTalk Call - Free Phone Call & Worldwide Calling",
+    "appId": "com.abtalk.freecall",
+    "url": "https://play.google.com/store/apps/details?id=com.abtalk.freecall",
+    "icon": "https://play-lh.googleusercontent.com/A4ZhPPWv5avDFaa1I2dE0MKuDSScDB8WqLxdOw6JyD2XJCh54zK1xsl3IVMZiNkNXkY",
+    "developer": "Abtalk Call",
+    "developerId": "Abtalk+Call",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "AbTalk Call, free calling app with wifi or cellular data.",
+    "scoreText": "4.2",
+    "score": 4.188263
+  },
+  {
+    "title": "Google Play Games",
+    "appId": "com.google.android.play.games",
+    "url": "https://play.google.com/store/apps/details?id=com.google.android.play.games",
+    "icon": "https://play-lh.googleusercontent.com/szHQCpMAb0MikYIhvNG1MlruXFUggd6DJHXkMPG1H4lJPB7Lee_BkODfwxpQazxfO9mA",
+    "developer": "Google LLC",
+    "developerId": "5700313618786177705",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Play games instantly, save progress, and earn achievements.",
+    "scoreText": "4.3",
+    "score": 4.2892685
   },
   {
     "title": "Proxy VPN - Fast & Unlimited Free VPN Server",
@@ -893,7 +893,7 @@
     "free": true,
     "summary": "Fast VPN to enjoy private, and secure internet with one tap &amp; Wallpapper Master",
     "scoreText": "3.8",
-    "score": 3.8386524
+    "score": 3.8252268
   },
   {
     "title": "Mystery Lite",
@@ -906,8 +906,8 @@
     "price": 0,
     "free": true,
     "summary": "Faster &amp; Safer &amp; Unlimited &amp; Free VPN",
-    "scoreText": "3.5",
-    "score": 3.5259147
+    "scoreText": "3.3",
+    "score": 3.3431194
   },
   {
     "title": "XCall - Global Free Call App",
@@ -921,7 +921,7 @@
     "free": true,
     "summary": "Communicate with your families and friends freely. Enjoy free calls.",
     "scoreText": "4.3",
-    "score": 4.316478
+    "score": 4.3310833
   },
   {
     "title": "Picsart Photo Editor: Pic, Video & Collage Maker",
@@ -935,7 +935,7 @@
     "free": true,
     "summary": "Access thousands of free-to-edit pictures! Add text, stickers, templates &amp; more",
     "scoreText": "4.2",
-    "score": 4.18782
+    "score": 4.1878557
   },
   {
     "title": "FastVPN - Superfast And Secure VPN For Android!",
@@ -949,7 +949,7 @@
     "free": true,
     "summary": "FastVPN - The most secure and fastest VPN for Android!",
     "scoreText": "4.5",
-    "score": 4.4667306
+    "score": 4.4661517
   },
   {
     "title": "Smart Clean-Booster,Cleaner",
@@ -962,8 +962,8 @@
     "price": 0,
     "free": true,
     "summary": "A smart cleaning software",
-    "scoreText": "3.8",
-    "score": 3.8307693
+    "scoreText": "3.9",
+    "score": 3.8652632
   },
   {
     "title": "How to Get free diamonds in Free fire",
@@ -976,22 +976,8 @@
     "price": 0,
     "free": true,
     "summary": "Hey All Free Fire Fan",
-    "scoreText": "4.3",
-    "score": 4.2510233
-  },
-  {
-    "title": "ShareMe - India's best file transfer app",
-    "appId": "com.xiaomi.midrop",
-    "url": "https://play.google.com/store/apps/details?id=com.xiaomi.midrop",
-    "icon": "https://play-lh.googleusercontent.com/Qx0DPczJDnsovB7ftdqcHi1czbI5TSLaSSAGS8mbvM5vyEs6pUdooR4pKdOdWwDNrsw",
-    "developer": "Xiaomi Inc.",
-    "developerId": "5113340212256272297",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "No ads, supports fast transfers to all android and iOS devices.",
-    "scoreText": "4.5",
-    "score": 4.52067
+    "scoreText": "4.2",
+    "score": 4.2203856
   },
   {
     "title": "Tata Sky – Live TV & Recharge",
@@ -1005,7 +991,21 @@
     "free": true,
     "summary": "Watch 400+ Live TV Channels, Live Sports, News, TV Shows &amp; On Demand Movies",
     "scoreText": "4.1",
-    "score": 4.13899
+    "score": 4.139517
+  },
+  {
+    "title": "ShareMe - India's best file transfer app",
+    "appId": "com.xiaomi.midrop",
+    "url": "https://play.google.com/store/apps/details?id=com.xiaomi.midrop",
+    "icon": "https://play-lh.googleusercontent.com/Qx0DPczJDnsovB7ftdqcHi1czbI5TSLaSSAGS8mbvM5vyEs6pUdooR4pKdOdWwDNrsw",
+    "developer": "Xiaomi Inc.",
+    "developerId": "5113340212256272297",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "No ads, supports fast transfers to all android and iOS devices.",
+    "scoreText": "4.5",
+    "score": 4.5208077
   },
   {
     "title": "BYJU'S – The Learning App",
@@ -1019,77 +1019,7 @@
     "free": true,
     "summary": "Engaging video lessons, live classes, personalised learning, unlimited practice",
     "scoreText": "4.2",
-    "score": 4.211122
-  },
-  {
-    "title": "Snapseed",
-    "appId": "com.niksoftware.snapseed",
-    "url": "https://play.google.com/store/apps/details?id=com.niksoftware.snapseed",
-    "icon": "https://play-lh.googleusercontent.com/Rilq4obCk7XIl2Pjb8XT-Ydh_aI3hBNeFwro9fFXrIAuC-zPxCZ4feE4rx5fZ3jHNLw",
-    "developer": "Google LLC",
-    "developerId": "5700313618786177705",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Professional quality photo edits with the new Snapseed.",
-    "scoreText": "4.4",
-    "score": 4.4135013
-  },
-  {
-    "title": "Top VPN Pro - Fast, Secure & Free Unlimited Proxy",
-    "appId": "com.top.freevpnpro",
-    "url": "https://play.google.com/store/apps/details?id=com.top.freevpnpro",
-    "icon": "https://play-lh.googleusercontent.com/plaJgFFsY5bM82m12HZZ07Y2WRPGZuailtzJq7iihx0hPfJaiPrdbhhZ7zzi_1rHHqw",
-    "developer": "CleanMaster",
-    "developerId": "CleanMaster",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Top VPN Pro is the best unlimited free VPN clients for android!",
-    "scoreText": "4.4",
-    "score": 4.411976
-  },
-  {
-    "title": "Brainly – Home Learning & Homework Help",
-    "appId": "co.brainly",
-    "url": "https://play.google.com/store/apps/details?id=co.brainly",
-    "icon": "https://play-lh.googleusercontent.com/ZX-LIMGoP14MnT3cfLYL2BRh9FvojYipkkUgV1_t6qbGDecf0JH3dW_Ah4Trutc2KA",
-    "developer": "Brainly, Inc",
-    "developerId": "8838836793258515669",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Home Learning App, Homework Answers",
-    "scoreText": "4.3",
-    "score": 4.329886
-  },
-  {
-    "title": "Doubtnut: NCERT Solutions, Free IIT JEE & NEET App",
-    "appId": "com.doubtnutapp",
-    "url": "https://play.google.com/store/apps/details?id=com.doubtnutapp",
-    "icon": "https://play-lh.googleusercontent.com/5B_9zOP40F5NKiGB9LCd2aI39aWt6HeQV2D74QO8ohGqMq9Y583dsvUUO4neZxVE5g",
-    "developer": "Doubtnut: Free Doubt Solving & Video Solutions App",
-    "developerId": "Doubtnut:+Free+Doubt+Solving+%26+Video+Solutions+App",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Free Study App with NCERT Solutions, State Board Solution, IIT &amp; NEET Prepration",
-    "scoreText": "4.1",
-    "score": 4.071333
-  },
-  {
-    "title": "RTO Vehicle Information",
-    "appId": "com.vehicle.rto.vahan.status.information.register",
-    "url": "https://play.google.com/store/apps/details?id=com.vehicle.rto.vahan.status.information.register",
-    "icon": "https://play-lh.googleusercontent.com/hvh-XBfltZXftp7Dkrl3v3rmwfBSQVANdOf05lNJsA0xtw-CnkOh1Obv_P1Q6GT1jGI",
-    "developer": "Learn English In Hindi - Translator & Dictionary",
-    "developerId": "Learn+English+In+Hindi+-+Translator+%26+Dictionary",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Find vehicle Owner detail from their vehicle number. Check your driving license.",
-    "scoreText": "4.5",
-    "score": 4.4567227
+    "score": 4.2114296
   },
   {
     "title": "Cricket Line Guru : Cricket Live Line",
@@ -1103,21 +1033,77 @@
     "free": true,
     "summary": "Instant Cricket Match Updates and Fast Live Line, IPL 2021",
     "scoreText": "4.3",
-    "score": 4.2646036
+    "score": 4.2670016
   },
   {
-    "title": "Air Tool - Fast, Free Booster",
-    "appId": "com.airvpn.fast",
-    "url": "https://play.google.com/store/apps/details?id=com.airvpn.fast",
-    "icon": "https://play-lh.googleusercontent.com/JvXeY31gd5L_JMJ16Mn6KSkcm3iu4i9zxfFtBCY6vxlsBSKn4d2M3YZUuy_RXCzwAQn6",
-    "developer": "Empiraft",
-    "developerId": "Empiraft",
+    "title": "Snapseed",
+    "appId": "com.niksoftware.snapseed",
+    "url": "https://play.google.com/store/apps/details?id=com.niksoftware.snapseed",
+    "icon": "https://play-lh.googleusercontent.com/Rilq4obCk7XIl2Pjb8XT-Ydh_aI3hBNeFwro9fFXrIAuC-zPxCZ4feE4rx5fZ3jHNLw",
+    "developer": "Google LLC",
+    "developerId": "5700313618786177705",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Free app which you can use to open the internet.",
-    "scoreText": "3.6",
-    "score": 3.565371
+    "summary": "Professional quality photo edits with the new Snapseed.",
+    "scoreText": "4.4",
+    "score": 4.4136257
+  },
+  {
+    "title": "Brainly – Home Learning & Homework Help",
+    "appId": "co.brainly",
+    "url": "https://play.google.com/store/apps/details?id=co.brainly",
+    "icon": "https://play-lh.googleusercontent.com/ZX-LIMGoP14MnT3cfLYL2BRh9FvojYipkkUgV1_t6qbGDecf0JH3dW_Ah4Trutc2KA",
+    "developer": "Brainly, Inc",
+    "developerId": "8838836793258515669",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Home Learning App, Homework Answers",
+    "scoreText": "4.3",
+    "score": 4.332032
+  },
+  {
+    "title": "Top VPN Pro - Fast, Secure & Free Unlimited Proxy",
+    "appId": "com.top.freevpnpro",
+    "url": "https://play.google.com/store/apps/details?id=com.top.freevpnpro",
+    "icon": "https://play-lh.googleusercontent.com/plaJgFFsY5bM82m12HZZ07Y2WRPGZuailtzJq7iihx0hPfJaiPrdbhhZ7zzi_1rHHqw",
+    "developer": "CleanMaster",
+    "developerId": "CleanMaster",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Top VPN Pro is the best unlimited free VPN clients for android!",
+    "scoreText": "4.4",
+    "score": 4.4126687
+  },
+  {
+    "title": "Doubtnut: NCERT Solutions, Free IIT JEE & NEET App",
+    "appId": "com.doubtnutapp",
+    "url": "https://play.google.com/store/apps/details?id=com.doubtnutapp",
+    "icon": "https://play-lh.googleusercontent.com/5B_9zOP40F5NKiGB9LCd2aI39aWt6HeQV2D74QO8ohGqMq9Y583dsvUUO4neZxVE5g",
+    "developer": "Doubtnut: Free Doubt Solving & Video Solutions App",
+    "developerId": "Doubtnut:+Free+Doubt+Solving+%26+Video+Solutions+App",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Free Study App with NCERT Solutions, State Board Solution, IIT &amp; NEET Prepration",
+    "scoreText": "4.1",
+    "score": 4.0717854
+  },
+  {
+    "title": "RTO Vehicle Information",
+    "appId": "com.vehicle.rto.vahan.status.information.register",
+    "url": "https://play.google.com/store/apps/details?id=com.vehicle.rto.vahan.status.information.register",
+    "icon": "https://play-lh.googleusercontent.com/hvh-XBfltZXftp7Dkrl3v3rmwfBSQVANdOf05lNJsA0xtw-CnkOh1Obv_P1Q6GT1jGI",
+    "developer": "Learn English In Hindi - Translator & Dictionary",
+    "developerId": "Learn+English+In+Hindi+-+Translator+%26+Dictionary",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Find vehicle Owner detail from their vehicle number. Check your driving license.",
+    "scoreText": "4.5",
+    "score": 4.4641504
   },
   {
     "title": "YONO SBI: The Mobile Banking and Lifestyle App!",
@@ -1131,7 +1117,35 @@
     "free": true,
     "summary": "YONO SBI:Bank,Invest,Shop,Travel,Pay Bills,Recharge,use UPI to transfer money",
     "scoreText": "3.8",
-    "score": 3.7804196
+    "score": 3.7826326
+  },
+  {
+    "title": "Figure - Saxy Video Chat",
+    "appId": "com.figure.livefriends",
+    "url": "https://play.google.com/store/apps/details?id=com.figure.livefriends",
+    "icon": "https://play-lh.googleusercontent.com/aEDvS1AB1S7qd0DcBx6209A-d2wtU01hcNPrDJc-nOkQDSY4g8dgdu81YjxEmEsCX3M",
+    "developer": "FigureFun Opc Private Limited",
+    "developerId": "5550465345128311366",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "it's largest social media for video chat",
+    "scoreText": "3.4",
+    "score": 3.4456522
+  },
+  {
+    "title": "Air Tool - Fast, Free Booster",
+    "appId": "com.airvpn.fast",
+    "url": "https://play.google.com/store/apps/details?id=com.airvpn.fast",
+    "icon": "https://play-lh.googleusercontent.com/JvXeY31gd5L_JMJ16Mn6KSkcm3iu4i9zxfFtBCY6vxlsBSKn4d2M3YZUuy_RXCzwAQn6",
+    "developer": "Empiraft",
+    "developerId": "Empiraft",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Free app which you can use to open the internet.",
+    "scoreText": "3.4",
+    "score": 3.443662
   },
   {
     "title": "Instore: Video Downloader, Status, Story Saver",
@@ -1145,7 +1159,7 @@
     "free": true,
     "summary": "InStore - Best Video Downloader, Story Saver, Status Saver app with 20+ Tools.",
     "scoreText": "4.3",
-    "score": 4.3220186
+    "score": 4.3239045
   },
   {
     "title": "Amazon Prime Video",
@@ -1159,21 +1173,7 @@
     "free": true,
     "summary": "Watch TV shows and movies including award-winning Amazon exclusives.",
     "scoreText": "4.3",
-    "score": 4.316609
-  },
-  {
-    "title": "Aarogya Setu",
-    "appId": "nic.goi.aarogyasetu",
-    "url": "https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu",
-    "icon": "https://play-lh.googleusercontent.com/2FV06dPOPcV-vupN9_9zqPn-pUUio-OzbnqktzIVCdkPcBRRtqo-k63G1DLgIeuJD1np",
-    "developer": "NIC eGov Mobile Apps",
-    "developerId": "9076108670215860604",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "GoI’s app to connect health services with the people of India to fight COVID-19",
-    "scoreText": "3.8",
-    "score": 3.8208263
+    "score": 4.316544
   },
   {
     "title": "PDF Reader - PDF Viewer",
@@ -1187,21 +1187,21 @@
     "free": true,
     "summary": "Powerful PDF Reader application for Android 2021!!",
     "scoreText": "4.6",
-    "score": 4.593188
+    "score": 4.5933456
   },
   {
-    "title": "Figure - Saxy Video Chat",
-    "appId": "com.figure.livefriends",
-    "url": "https://play.google.com/store/apps/details?id=com.figure.livefriends",
-    "icon": "https://play-lh.googleusercontent.com/aEDvS1AB1S7qd0DcBx6209A-d2wtU01hcNPrDJc-nOkQDSY4g8dgdu81YjxEmEsCX3M",
-    "developer": "FigureFun Opc Private Limited",
-    "developerId": "5550465345128311366",
+    "title": "Aarogya Setu",
+    "appId": "nic.goi.aarogyasetu",
+    "url": "https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu",
+    "icon": "https://play-lh.googleusercontent.com/2FV06dPOPcV-vupN9_9zqPn-pUUio-OzbnqktzIVCdkPcBRRtqo-k63G1DLgIeuJD1np",
+    "developer": "NIC eGov Mobile Apps",
+    "developerId": "9076108670215860604",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "it's largest social media for video chat",
-    "scoreText": "3.6",
-    "score": 3.6146789
+    "summary": "GoI’s app to connect health services with the people of India to fight COVID-19",
+    "scoreText": "3.8",
+    "score": 3.8209872
   },
   {
     "title": "AppLock",
@@ -1215,7 +1215,7 @@
     "free": true,
     "summary": "Protect privacy. Lock apps, hide photos. Supports fingerprint lock &amp; cloud sync.",
     "scoreText": "4.0",
-    "score": 4.021739
+    "score": 4.013647
   },
   {
     "title": "Biugo-video maker, photo video maker, video editor",
@@ -1229,7 +1229,7 @@
     "free": true,
     "summary": "🏆Biugo-mv master video maker, boo video maker, video editor, snack video maker.",
     "scoreText": "4.2",
-    "score": 4.216218
+    "score": 4.214771
   },
   {
     "title": "IRCTC Train Booking, PNR Status, Running Status",
@@ -1243,21 +1243,7 @@
     "free": true,
     "summary": "IRCTC Ticket Booking, Where is My Train Location, Bus Booking, PNR Status",
     "scoreText": "4.4",
-    "score": 4.3911233
-  },
-  {
-    "title": "Candy, Bigg Boss OTT, Voot Select, Colors",
-    "appId": "com.tv.v18.viola",
-    "url": "https://play.google.com/store/apps/details?id=com.tv.v18.viola",
-    "icon": "https://play-lh.googleusercontent.com/xG9e5xK60y6j9Fj-i5Z_055tYYyVnY3pBRA83sieC5QLR3lMLN6tf-8h5E-Rb5gs7wo",
-    "developer": "Viacom18 Digital Media",
-    "developerId": "Viacom18+Digital+Media",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Free Bigg Boss OTT, Khatron Ke Khiladi, Udaariyaan, Candy, Asur @ ₹299/yr",
-    "scoreText": "3.7",
-    "score": 3.7062788
+    "score": 4.391217
   },
   {
     "title": "mAadhaar",
@@ -1271,7 +1257,21 @@
     "free": true,
     "summary": "mAadhaar-UIDAI’s official App for Aadhaar holders with an array of services",
     "scoreText": "3.0",
-    "score": 2.9780695
+    "score": 2.9860919
+  },
+  {
+    "title": "Candy, Bigg Boss OTT, Voot Select, Colors",
+    "appId": "com.tv.v18.viola",
+    "url": "https://play.google.com/store/apps/details?id=com.tv.v18.viola",
+    "icon": "https://play-lh.googleusercontent.com/xG9e5xK60y6j9Fj-i5Z_055tYYyVnY3pBRA83sieC5QLR3lMLN6tf-8h5E-Rb5gs7wo",
+    "developer": "Viacom18 Digital Media",
+    "developerId": "Viacom18+Digital+Media",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Free Bigg Boss OTT, Khatron Ke Khiladi, Udaariyaan, Candy, Asur @ ₹299/yr",
+    "scoreText": "3.7",
+    "score": 3.7065876
   },
   {
     "title": "OLX: Buy & Sell Near You with Online Classifieds",
@@ -1285,7 +1285,7 @@
     "free": true,
     "summary": "Goods for sale: Cars, Electronics to Jobs &amp; Services. Buy &amp; Sell locally!",
     "scoreText": "4.2",
-    "score": 4.1845903
+    "score": 4.184751
   },
   {
     "title": "Swiggy Food Order | Online Grocery | Delivery App",
@@ -1299,7 +1299,7 @@
     "free": true,
     "summary": "Order food, groceries &amp; essentials online, &amp; get quick doorstep deliveries.",
     "scoreText": "4.1",
-    "score": 4.143861
+    "score": 4.145572
   },
   {
     "title": "Share Karo Lite - Share & File Transfer, Shareit",
@@ -1313,7 +1313,7 @@
     "free": true,
     "summary": "Share Karo Lite - Share &amp; File Transfer, Shareit with Android/iOS/PC, Share it",
     "scoreText": "4.4",
-    "score": 4.407728
+    "score": 4.394661
   },
   {
     "title": "BOOYAH!",
@@ -1327,7 +1327,7 @@
     "free": true,
     "summary": "BOOYAH! is a universal app for short gaming clips, livestream and highlights!",
     "scoreText": "4.5",
-    "score": 4.4681883
+    "score": 4.468113
   },
   {
     "title": "VPN Master Pro - Free & Fast & Secure VPN Proxy",
@@ -1341,21 +1341,7 @@
     "free": true,
     "summary": "Fast, Free, Secure Unlimited VPN Proxy",
     "scoreText": "4.1",
-    "score": 4.1271152
-  },
-  {
-    "title": "VITA",
-    "appId": "com.snowcorp.vita",
-    "url": "https://play.google.com/store/apps/details?id=com.snowcorp.vita",
-    "icon": "https://play-lh.googleusercontent.com/i4pmzdjJwJJWetuC-bWuxNaC2F-25mz-GabX0sKxc3CqN6L-weL_3RaBvZmqREdOlkE",
-    "developer": "SNOW, Inc.",
-    "developerId": "SNOW,+Inc.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "VITA is a simple video editing app with trendy content.",
-    "scoreText": "4.3",
-    "score": 4.293172
+    "score": 4.1269245
   },
   {
     "title": "Google Translate",
@@ -1369,7 +1355,21 @@
     "free": true,
     "summary": "The world is closer than ever with over 100 languages",
     "scoreText": "4.5",
-    "score": 4.4627686
+    "score": 4.4627547
+  },
+  {
+    "title": "VITA",
+    "appId": "com.snowcorp.vita",
+    "url": "https://play.google.com/store/apps/details?id=com.snowcorp.vita",
+    "icon": "https://play-lh.googleusercontent.com/i4pmzdjJwJJWetuC-bWuxNaC2F-25mz-GabX0sKxc3CqN6L-weL_3RaBvZmqREdOlkE",
+    "developer": "SNOW, Inc.",
+    "developerId": "SNOW,+Inc.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "VITA is a simple video editing app with trendy content.",
+    "scoreText": "4.3",
+    "score": 4.294621
   },
   {
     "title": "Free Key VPN, Fast Secure Proxy & Applock",
@@ -1383,7 +1383,7 @@
     "free": true,
     "summary": "Fast VPN, AppLocker Master. Protect privacy. Lock apps, hide photos.",
     "scoreText": "4.0",
-    "score": 3.9836462
+    "score": 3.9791033
   },
   {
     "title": "CoinSwitch: Crypto Trading India | Buy & Sell BTC",
@@ -1397,7 +1397,21 @@
     "free": true,
     "summary": "Bitcoin, Ethereum, Dogecoin | Buy, Sell, Trade &amp; Invest | Sign up with INR 100",
     "scoreText": "4.1",
-    "score": 4.147018
+    "score": 4.1415606
+  },
+  {
+    "title": "E-Peek Pahani",
+    "appId": "org.mahait.epeek",
+    "url": "https://play.google.com/store/apps/details?id=org.mahait.epeek",
+    "icon": "https://play-lh.googleusercontent.com/HFg7kFAUXpIKE6L8QNw4Ncybw-nQvKtDmDS_inK942_ZlzNvhPCd35AKkpqD4-Mznw",
+    "developer": "Department of Revenue ,Government of Maharashtra .",
+    "developerId": "Department+of+Revenue+,Government+of+Maharashtra+.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "This app helps farmer for self crop reporting of crop data and crop stages.",
+    "scoreText": "3.2",
+    "score": 3.2285354
   },
   {
     "title": "VN Video Editor Maker VlogNow",
@@ -1411,21 +1425,7 @@
     "free": true,
     "summary": "A Quick and Pro Video Editor",
     "scoreText": "4.6",
-    "score": 4.59877
-  },
-  {
-    "title": "E-Peek Pahani",
-    "appId": "org.mahait.epeek",
-    "url": "https://play.google.com/store/apps/details?id=org.mahait.epeek",
-    "icon": "https://play-lh.googleusercontent.com/HFg7kFAUXpIKE6L8QNw4Ncybw-nQvKtDmDS_inK942_ZlzNvhPCd35AKkpqD4-Mznw",
-    "developer": "Department of Revenue ,Government of Maharashtra .",
-    "developerId": "Department+of+Revenue+,Government+of+Maharashtra+.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "This app helps farmer for self crop reporting of crop data and crop stages.",
-    "scoreText": "3.3",
-    "score": 3.254695
+    "score": 4.5981183
   },
   {
     "title": "Alibaba.com - Leading online B2B Trade Marketplace",
@@ -1439,7 +1439,7 @@
     "free": true,
     "summary": "Visit us during Super September — our BIGGEST sales event of the year!",
     "scoreText": "4.4",
-    "score": 4.4024396
+    "score": 4.4023542
   },
   {
     "title": "DigiLocker",
@@ -1452,36 +1452,8 @@
     "price": 0,
     "free": true,
     "summary": "DigiLocker  -  a simple and secure document wallet",
-    "scoreText": "4.2",
-    "score": 4.2472224
-  },
-  {
-    "title": "Kormo Jobs: Find your next job",
-    "appId": "com.area120.kormo.seeker",
-    "url": "https://play.google.com/store/apps/details?id=com.area120.kormo.seeker",
-    "icon": "https://play-lh.googleusercontent.com/ek3rXLX_98gM7aC3Q43qPpkuMuzSSKV8yBGQyJnQK592x0mgrFQxkEgWHD3ctYay6iEU",
-    "developer": "Google LLC",
-    "developerId": "5700313618786177705",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Find entry level jobs, schedule interviews with employers, &amp; build a CV",
-    "scoreText": "4.1",
-    "score": 4.1371193
-  },
-  {
-    "title": "Vi™ App – Recharge, Bill Pay, Movies & TV Shows",
-    "appId": "com.mventus.selfcare.activity",
-    "url": "https://play.google.com/store/apps/details?id=com.mventus.selfcare.activity",
-    "icon": "https://play-lh.googleusercontent.com/eZ1GnicImkKbxCpB7uRY8c-UR-zr5jxOiGU7wFbrsE9vn0M30xj-cyd5yYJD9P2TpA",
-    "developer": "Vodafone Idea Ltd.",
-    "developerId": "7975727898002738227",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Recharge, Bill payments &amp; Entertainment on the go with personalized experience",
-    "scoreText": "3.9",
-    "score": 3.8726437
+    "scoreText": "4.3",
+    "score": 4.2528167
   },
   {
     "title": "JioMart-Official App: Easy Online Shopping",
@@ -1495,119 +1467,35 @@
     "free": true,
     "summary": "Get the JioMart App to experience online grocery shopping like never before!",
     "scoreText": "4.3",
-    "score": 4.301418
+    "score": 4.3008704
   },
   {
-    "title": "Ola, Safe and affordable rides",
-    "appId": "com.olacabs.customer",
-    "url": "https://play.google.com/store/apps/details?id=com.olacabs.customer",
-    "icon": "https://play-lh.googleusercontent.com/FEloWOGywfRkEZL_i26Yb-yxr4efIe_xXD2ZIF3seR0OQ0B-Z1FXSamCv4XrwdrW8N4",
-    "developer": "ola",
-    "developerId": "ola",
+    "title": "Kormo Jobs: Find your next job",
+    "appId": "com.area120.kormo.seeker",
+    "url": "https://play.google.com/store/apps/details?id=com.area120.kormo.seeker",
+    "icon": "https://play-lh.googleusercontent.com/ek3rXLX_98gM7aC3Q43qPpkuMuzSSKV8yBGQyJnQK592x0mgrFQxkEgWHD3ctYay6iEU",
+    "developer": "Google LLC",
+    "developerId": "5700313618786177705",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Safe and affordable ride hailing",
-    "scoreText": "4.4",
-    "score": 4.3961325
+    "summary": "Find entry level jobs, schedule interviews with employers, &amp; build a CV",
+    "scoreText": "4.1",
+    "score": 4.136476
   },
   {
-    "title": "Upstox - Stocks, Mutual Funds & IPOs",
-    "appId": "in.upstox.pro",
-    "url": "https://play.google.com/store/apps/details?id=in.upstox.pro",
-    "icon": "https://play-lh.googleusercontent.com/Vikh3F13WxvjDKGoSd7ARmzGCvuVpD5O0tntwi4G3-7UK7je-xXy9Nry83IkQrnyxOs",
-    "developer": "Upstox",
-    "developerId": "Upstox",
+    "title": "Vi™ App – Recharge, Bill Pay, Movies & TV Shows",
+    "appId": "com.mventus.selfcare.activity",
+    "url": "https://play.google.com/store/apps/details?id=com.mventus.selfcare.activity",
+    "icon": "https://play-lh.googleusercontent.com/eZ1GnicImkKbxCpB7uRY8c-UR-zr5jxOiGU7wFbrsE9vn0M30xj-cyd5yYJD9P2TpA",
+    "developer": "Vodafone Idea Ltd.",
+    "developerId": "7975727898002738227",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Try our redesigned new app with upgraded features: https://uptx.to/new-upstox",
-    "scoreText": "4.4",
-    "score": 4.4166274
-  },
-  {
-    "title": "Scanner Go: Cam Scanner, PDF Scanner, Scanner App",
-    "appId": "com.cam.scanner.camscanner.documentscanner",
-    "url": "https://play.google.com/store/apps/details?id=com.cam.scanner.camscanner.documentscanner",
-    "icon": "https://play-lh.googleusercontent.com/1uZ27T3LnJNOAjtM8v2Kt3yGsp-zwmZOIXkexqjEolb8gAaMYO9aMyxRgoeKcWVt85Y",
-    "developer": "Appyhigh Technology",
-    "developerId": "8696216234951434473",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Scanner Go: Indian Cam scanner with PDF Scanner, PDF Maker. Trusted Scanner App.",
-    "scoreText": "4.4",
-    "score": 4.419345
-  },
-  {
-    "title": "Navi - Instant Personal and Home Loans",
-    "appId": "com.naviapp",
-    "url": "https://play.google.com/store/apps/details?id=com.naviapp",
-    "icon": "https://play-lh.googleusercontent.com/j_7V7DPWeH8n86vYxO52cqpOF4SF_xyw6ROtYQQrclBBkE3WbwiV1dp0ExkkiMpvmwug",
-    "developer": "navi.com",
-    "developerId": "8798049573186865414",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Personal And Home Loans App",
-    "scoreText": "4.0",
-    "score": 3.9665964
-  },
-  {
-    "title": "Status Saver - Download for Whatsapp",
-    "appId": "com.downlood.sav.whmedia",
-    "url": "https://play.google.com/store/apps/details?id=com.downlood.sav.whmedia",
-    "icon": "https://play-lh.googleusercontent.com/dOtuLxZmxS-9biz3kFkB4dRnexoff5YFskaPDKx0ZqzcHIvmYc-LXxiArV6_E4LKs00",
-    "developer": "Shree Ganesha Labs",
-    "developerId": "Shree+Ganesha+Labs",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Save Your Friend's Status from WhatsApp",
-    "scoreText": "4.4",
-    "score": 4.395944
-  },
-  {
-    "title": "IRCTC Train Booking - ConfirmTkt (Confirm Ticket)",
-    "appId": "com.confirmtkt.lite",
-    "url": "https://play.google.com/store/apps/details?id=com.confirmtkt.lite",
-    "icon": "https://play-lh.googleusercontent.com/QNd_0WuqGlrZCd44de5tdkA7NELPBH6tf5ZrLi61SIH1G7nVLkMoiPhXel5p-fjLtg",
-    "developer": "ConfirmTkt - Official IRCTC partner",
-    "developerId": "7058403369393424140",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "✔IRCTC Booking, ✔Free Cancellation, ✔Instant Refund, ✔Pnr status, ✔Train Status",
-    "scoreText": "4.6",
-    "score": 4.6225376
-  },
-  {
-    "title": "MV Bit master, MV master video status maker-MVBit",
-    "appId": "com.in.mvbit",
-    "url": "https://play.google.com/store/apps/details?id=com.in.mvbit",
-    "icon": "https://play-lh.googleusercontent.com/9Gn37UpKhhas8UqY7YFuJRmgLd_0cNwcDnWL1UC0Dw_iRCm0UoJS8nqkp_5D5gi9mhU",
-    "developer": "mvbit",
-    "developerId": "mvbit",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "🔥MVBit is the video editor, the best mv master video maker and mv status maker!",
-    "scoreText": "4.0",
-    "score": 3.9948409
-  },
-  {
-    "title": "B612 - Best Free Camera & Photo/Video Editor",
-    "appId": "com.linecorp.b612.android",
-    "url": "https://play.google.com/store/apps/details?id=com.linecorp.b612.android",
-    "icon": "https://play-lh.googleusercontent.com/MZQJwhOkgsXWeR-5-dey7Ckras4a9xx2JN8ZfQ_Twz0otjKwUcT6qkPWo8OheOShWeg",
-    "developer": "SNOW, Inc.",
-    "developerId": "SNOW,+Inc.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Meet trendy effects, filters, and stickers that are updated every day!",
-    "scoreText": "4.3",
-    "score": 4.3003907
+    "summary": "Recharge, Bill payments &amp; Entertainment on the go with personalized experience",
+    "scoreText": "3.9",
+    "score": 3.8729854
   },
   {
     "title": "Twitter",
@@ -1621,7 +1509,77 @@
     "free": true,
     "summary": "Breaking news, entertainment, sports, politics and everything in-between!",
     "scoreText": "3.4",
-    "score": 3.4355073
+    "score": 3.4355004
+  },
+  {
+    "title": "Scanner Go: Cam Scanner, PDF Scanner, Scanner App",
+    "appId": "com.cam.scanner.camscanner.documentscanner",
+    "url": "https://play.google.com/store/apps/details?id=com.cam.scanner.camscanner.documentscanner",
+    "icon": "https://play-lh.googleusercontent.com/1uZ27T3LnJNOAjtM8v2Kt3yGsp-zwmZOIXkexqjEolb8gAaMYO9aMyxRgoeKcWVt85Y",
+    "developer": "Appyhigh Technology",
+    "developerId": "8696216234951434473",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Scanner Go: Indian Cam scanner with PDF Scanner, PDF Maker. Trusted Scanner App.",
+    "scoreText": "4.4",
+    "score": 4.417437
+  },
+  {
+    "title": "Upstox - Stocks, Mutual Funds & IPOs",
+    "appId": "in.upstox.pro",
+    "url": "https://play.google.com/store/apps/details?id=in.upstox.pro",
+    "icon": "https://play-lh.googleusercontent.com/Vikh3F13WxvjDKGoSd7ARmzGCvuVpD5O0tntwi4G3-7UK7je-xXy9Nry83IkQrnyxOs",
+    "developer": "Upstox",
+    "developerId": "Upstox",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Try our redesigned new app with upgraded features: https://uptx.to/new-upstox",
+    "scoreText": "4.4",
+    "score": 4.4190826
+  },
+  {
+    "title": "Ola, Safe and affordable rides",
+    "appId": "com.olacabs.customer",
+    "url": "https://play.google.com/store/apps/details?id=com.olacabs.customer",
+    "icon": "https://play-lh.googleusercontent.com/FEloWOGywfRkEZL_i26Yb-yxr4efIe_xXD2ZIF3seR0OQ0B-Z1FXSamCv4XrwdrW8N4",
+    "developer": "ola",
+    "developerId": "ola",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Safe and affordable ride hailing",
+    "scoreText": "4.4",
+    "score": 4.3952994
+  },
+  {
+    "title": "Navi - Instant Personal and Home Loans",
+    "appId": "com.naviapp",
+    "url": "https://play.google.com/store/apps/details?id=com.naviapp",
+    "icon": "https://play-lh.googleusercontent.com/j_7V7DPWeH8n86vYxO52cqpOF4SF_xyw6ROtYQQrclBBkE3WbwiV1dp0ExkkiMpvmwug",
+    "developer": "navi.com",
+    "developerId": "8798049573186865414",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Personal And Home Loans App",
+    "scoreText": "4.0",
+    "score": 3.9696014
+  },
+  {
+    "title": "Status Saver - Download for Whatsapp",
+    "appId": "com.downlood.sav.whmedia",
+    "url": "https://play.google.com/store/apps/details?id=com.downlood.sav.whmedia",
+    "icon": "https://play-lh.googleusercontent.com/dOtuLxZmxS-9biz3kFkB4dRnexoff5YFskaPDKx0ZqzcHIvmYc-LXxiArV6_E4LKs00",
+    "developer": "Shree Ganesha Labs",
+    "developerId": "Shree+Ganesha+Labs",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Save Your Friend's Status from WhatsApp",
+    "scoreText": "4.4",
+    "score": 4.395069
   },
   {
     "title": "Adobe Scan: PDF Scanner, OCR",
@@ -1635,91 +1593,21 @@
     "free": true,
     "summary": "Turn forms into interactive digital docs - scan them to your device in seconds.",
     "scoreText": "4.7",
-    "score": 4.67741
+    "score": 4.677229
   },
   {
-    "title": "Domino's Pizza - Online Food Delivery App",
-    "appId": "com.Dominos",
-    "url": "https://play.google.com/store/apps/details?id=com.Dominos",
-    "icon": "https://play-lh.googleusercontent.com/_lq2HX0YJNDrr0EeUebLAB2JsGbRGyoFY-XOnuUFTPfeEqaHNIyMOGqLx-oq4mUWPpn0",
-    "developer": "Jubilant Foodworks",
-    "developerId": "Jubilant+Foodworks",
+    "title": "MV Bit master, MV master video status maker-MVBit",
+    "appId": "com.in.mvbit",
+    "url": "https://play.google.com/store/apps/details?id=com.in.mvbit",
+    "icon": "https://play-lh.googleusercontent.com/9Gn37UpKhhas8UqY7YFuJRmgLd_0cNwcDnWL1UC0Dw_iRCm0UoJS8nqkp_5D5gi9mhU",
+    "developer": "mvbit",
+    "developerId": "mvbit",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Get 50% off upto Rs.100 off. Use code: GAME50. T&amp;Cs apply.",
-    "scoreText": "4.3",
-    "score": 4.259923
-  },
-  {
-    "title": "Moj Lite",
-    "appId": "in.mohalla.video.lite",
-    "url": "https://play.google.com/store/apps/details?id=in.mohalla.video.lite",
-    "icon": "https://play-lh.googleusercontent.com/5U9RNg7I6LmCeNSsEJSVY9Zl9U3FEs1bnFABPHYe3Mb6JRWn0fLcSquFcV1deRQqxo4",
-    "developer": "ShareChat",
-    "developerId": "5425295683058781723",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Find best snacky videos to snack on now under 15 MB",
+    "summary": "🔥MVBit is the video editor, the best mv master video maker and mv status maker!",
     "scoreText": "4.0",
-    "score": 3.9909554
-  },
-  {
-    "title": "NightOwl VPN PRO - Fast , Free, Unlimited, Secure",
-    "appId": "com.nightowlvpnpro.free",
-    "url": "https://play.google.com/store/apps/details?id=com.nightowlvpnpro.free",
-    "icon": "https://play-lh.googleusercontent.com/b7ZhSyXEUmFh58O_XnnQETN4RlaSkBa_XWhAZuUGp0SK6SUHxeMyG88x4D0Pi_8ofA",
-    "developer": "Boostermaster",
-    "developerId": "8140781036193214166",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Best unlimited free vpn to unblock websites,protect privacy&amp;wifi hotspot",
-    "scoreText": "4.3",
-    "score": 4.2627344
-  },
-  {
-    "title": "Unacademy Learner App",
-    "appId": "com.unacademyapp",
-    "url": "https://play.google.com/store/apps/details?id=com.unacademyapp",
-    "icon": "https://play-lh.googleusercontent.com/DT0jm91vA_rOkxwatXhI4yVpjU4KI0augje6ZJGYxEyNjKvIhcQt8npiLHf5-ydclsqe",
-    "developer": "Unacademy",
-    "developerId": "Unacademy",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Interact with India’s Top Educators and take Live Classes, Mock Tests &amp; Quizzes",
-    "scoreText": "4.2",
-    "score": 4.185973
-  },
-  {
-    "title": "apna: Job Search India, Vacancy Alert, Online Work",
-    "appId": "com.apnatime",
-    "url": "https://play.google.com/store/apps/details?id=com.apnatime",
-    "icon": "https://play-lh.googleusercontent.com/EnLry-j8C9eYHDV2WObxdKKDXeExM7ML5FjrR98JU6TOkgNizFlt757rvRq3OAR9Wjy4",
-    "developer": "apna",
-    "developerId": "apna",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Full/Part Time Jobs ✓ Career Building Tips ✓ Naukri ✓ Professional Networking",
-    "scoreText": "4.4",
-    "score": 4.4104195
-  },
-  {
-    "title": "India's largest Community app - Kutumb",
-    "appId": "com.kutumb.android",
-    "url": "https://play.google.com/store/apps/details?id=com.kutumb.android",
-    "icon": "https://play-lh.googleusercontent.com/mVBxIhTiEe8g2PeQRkHIuK0ZPvH0trgQ7wij51gGX8ybrDeaXo6gD9YjG-0CZXr1GA",
-    "developer": "Kutumb App",
-    "developerId": "Kutumb+App",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Join your community | Connect with people in your community",
-    "scoreText": "4.7",
-    "score": 4.6779914
+    "score": 3.991681
   },
   {
     "title": "Live Cricket TV : Thoptv Pro Guide",
@@ -1733,91 +1621,7 @@
     "free": true,
     "summary": "Watch Live Cricket TV and web series on Thop TV Guide.",
     "scoreText": "3.7",
-    "score": 3.6822033
-  },
-  {
-    "title": "Buzo - Video Status Maker",
-    "appId": "buzo.particle.ly.mbit.video.status.maker",
-    "url": "https://play.google.com/store/apps/details?id=buzo.particle.ly.mbit.video.status.maker",
-    "icon": "https://play-lh.googleusercontent.com/WOckRml1VcS_-Pjv4yH3yCfdwrfwEH4FvYVzjMGwhJESEyHseW_Bn9iTwBQlc2ToOvA",
-    "developer": "Madrid Apps",
-    "developerId": "Madrid+Apps",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "🔥 Create Lyrical, Birthday and Anniversary Videos from your Photos. 🔥",
-    "scoreText": "4.5",
-    "score": 4.4939666
-  },
-  {
-    "title": "Adobe Lightroom: Photo Editor",
-    "appId": "com.adobe.lrmobile",
-    "url": "https://play.google.com/store/apps/details?id=com.adobe.lrmobile",
-    "icon": "https://play-lh.googleusercontent.com/PcFt-0OYNIT3NQWwozJ4_9YcCXtsH1OmTJwKPqu4qDG7D3cC3SbXbxyMWZIHe4LmQg",
-    "developer": "Adobe",
-    "developerId": "4734916851270416020",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Upgrade your photography with intuitive tools powered by AI.",
-    "scoreText": "4.2",
-    "score": 4.2110715
-  },
-  {
-    "title": "Aakash App for JEE & NEET",
-    "appId": "com.byjus.aakash.thelearningapp",
-    "url": "https://play.google.com/store/apps/details?id=com.byjus.aakash.thelearningapp",
-    "icon": "https://play-lh.googleusercontent.com/qy6YaKfAuAXV1V4U5T4RXXWXmUqua1XIBsygB4YaqRKLfsCEBbtQtHieOCiJAqHj42U",
-    "developer": "BYJU'S",
-    "developerId": "BYJU'S",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Ace your entrance exams. Prepare with the <b> Aakash App for JEE &amp; NEET</b>.",
-    "scoreText": "4.2",
-    "score": 4.192
-  },
-  {
-    "title": "InShare - Share Apps & File Transfer",
-    "appId": "sharefiles.sharemusic.shareapps.filetransfer",
-    "url": "https://play.google.com/store/apps/details?id=sharefiles.sharemusic.shareapps.filetransfer",
-    "icon": "https://play-lh.googleusercontent.com/gxtp7ofr1koCgwjb-Dsyu-e_gxz_dZBIAbg5AMaqjwDf7NM17lWMI0zUnwlz03DMhx-u",
-    "developer": "InShot Inc.",
-    "developerId": "InShot+Inc.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Share Apps &amp; Transfer files at the FASTEST speed, FREE &amp; 0 data usage!",
-    "scoreText": "4.6",
-    "score": 4.5838084
-  },
-  {
-    "title": "Gaana Music App| New Hindi Songs MP3, Free Podcast",
-    "appId": "com.gaana",
-    "url": "https://play.google.com/store/apps/details?id=com.gaana",
-    "icon": "https://play-lh.googleusercontent.com/vHw1Qv2MNAzoXiuJb8lNkybyHBzCsiWblKCefKnsukJlV9z4G0hGL_4uXzLUwxyT7a_q",
-    "developer": "Gamma Gaana Ltd",
-    "developerId": "Gamma+Gaana+Ltd",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Online Music App: New Songs, Latest Hindi Songs, Podcast, MP3 Songs Download App",
-    "scoreText": "4.5",
-    "score": 4.498308
-  },
-  {
-    "title": "Photo Collage Maker - Photo Editor - Face Camera",
-    "appId": "com.photoeditor.snapcial",
-    "url": "https://play.google.com/store/apps/details?id=com.photoeditor.snapcial",
-    "icon": "https://play-lh.googleusercontent.com/TaBIPcyymW7vVKm4kSkhjlyl7Ttk797KomkZZvZz3OyhNOdqe8d34qbkiF9qhuJH0A",
-    "developer": "Snapcial",
-    "developerId": "7847373722248999326",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Photo Collage Maker Photo Editor Pro Maker, Beauty Selfie Face Camera.",
-    "scoreText": "4.4",
-    "score": 4.437512
+    "score": 3.6923077
   },
   {
     "title": "Pinterest",
@@ -1831,49 +1635,119 @@
     "free": true,
     "summary": "One destination for a world of inspiration.",
     "scoreText": "4.6",
-    "score": 4.589468
+    "score": 4.5895634
   },
   {
-    "title": "ZArchiver",
-    "appId": "ru.zdevs.zarchiver",
-    "url": "https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver",
-    "icon": "https://play-lh.googleusercontent.com/D1POO3HtYVgSW65yv3JLMrr8F7L9RcYUfEw_ug3BhMhMgN0b2fZ414cYkmSwVRr737aY",
-    "developer": "ZDevs",
-    "developerId": "ZDevs",
+    "title": "B612 - Best Free Camera & Photo/Video Editor",
+    "appId": "com.linecorp.b612.android",
+    "url": "https://play.google.com/store/apps/details?id=com.linecorp.b612.android",
+    "icon": "https://play-lh.googleusercontent.com/MZQJwhOkgsXWeR-5-dey7Ckras4a9xx2JN8ZfQ_Twz0otjKwUcT6qkPWo8OheOShWeg",
+    "developer": "SNOW, Inc.",
+    "developerId": "SNOW,+Inc.",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "The easy 7zip app!",
-    "scoreText": "4.5",
-    "score": 4.4668818
+    "summary": "Meet trendy effects, filters, and stickers that are updated every day!",
+    "scoreText": "4.3",
+    "score": 4.3003116
   },
   {
-    "title": "Shield VPN - Free VPN Proxy & private browser",
-    "appId": "com.shieldvpn.free.proxy",
-    "url": "https://play.google.com/store/apps/details?id=com.shieldvpn.free.proxy",
-    "icon": "https://play-lh.googleusercontent.com/5Hj1kg1MUPAg1GN36tdELhE3yv8Q9AHSBHWHuHglBoKQ99K2_3xS86zgqE3JXFWneIM_",
-    "developer": "BaronBaron",
-    "developerId": "BaronBaron",
+    "title": "Domino's Pizza - Online Food Delivery App",
+    "appId": "com.Dominos",
+    "url": "https://play.google.com/store/apps/details?id=com.Dominos",
+    "icon": "https://play-lh.googleusercontent.com/_lq2HX0YJNDrr0EeUebLAB2JsGbRGyoFY-XOnuUFTPfeEqaHNIyMOGqLx-oq4mUWPpn0",
+    "developer": "Jubilant Foodworks",
+    "developerId": "Jubilant+Foodworks",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Fast, private, reliable internet use. Protect privacy.",
-    "scoreText": "3.8",
-    "score": 3.7578125
+    "summary": "Get 50% off upto Rs.100 off. Use code: GAME50. T&amp;Cs apply.",
+    "scoreText": "4.3",
+    "score": 4.25839
   },
   {
-    "title": "NeonArt Photo Editor: Photo Effects, Collage Maker",
-    "appId": "com.lyrebirdstudio.neon_art",
-    "url": "https://play.google.com/store/apps/details?id=com.lyrebirdstudio.neon_art",
-    "icon": "https://play-lh.googleusercontent.com/yM8czyHMsKycstPbeCuWDvCW7ZjWlxcTinrFJukdvDOv4OI_wle1g2btZPdhQ5WEudY",
-    "developer": "Lyrebird Studio",
-    "developerId": "8117239212302166287",
+    "title": "IRCTC Train Booking - ConfirmTkt (Confirm Ticket)",
+    "appId": "com.confirmtkt.lite",
+    "url": "https://play.google.com/store/apps/details?id=com.confirmtkt.lite",
+    "icon": "https://play-lh.googleusercontent.com/QNd_0WuqGlrZCd44de5tdkA7NELPBH6tf5ZrLi61SIH1G7nVLkMoiPhXel5p-fjLtg",
+    "developer": "ConfirmTkt - Official IRCTC partner",
+    "developerId": "7058403369393424140",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Neon photo editor with neon stickers, amazing filters &amp; effects for pic collage.",
-    "scoreText": "4.1",
-    "score": 4.130873
+    "summary": "✔IRCTC Booking, ✔Free Cancellation, ✔Instant Refund, ✔Pnr status, ✔Train Status",
+    "scoreText": "4.6",
+    "score": 4.622234
+  },
+  {
+    "title": "Moj Lite",
+    "appId": "in.mohalla.video.lite",
+    "url": "https://play.google.com/store/apps/details?id=in.mohalla.video.lite",
+    "icon": "https://play-lh.googleusercontent.com/5U9RNg7I6LmCeNSsEJSVY9Zl9U3FEs1bnFABPHYe3Mb6JRWn0fLcSquFcV1deRQqxo4",
+    "developer": "ShareChat",
+    "developerId": "5425295683058781723",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Find best snacky videos to snack on now under 15 MB",
+    "scoreText": "4.0",
+    "score": 3.9787114
+  },
+  {
+    "title": "NightOwl VPN PRO - Fast , Free, Unlimited, Secure",
+    "appId": "com.nightowlvpnpro.free",
+    "url": "https://play.google.com/store/apps/details?id=com.nightowlvpnpro.free",
+    "icon": "https://play-lh.googleusercontent.com/b7ZhSyXEUmFh58O_XnnQETN4RlaSkBa_XWhAZuUGp0SK6SUHxeMyG88x4D0Pi_8ofA",
+    "developer": "Boostermaster",
+    "developerId": "8140781036193214166",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Best unlimited free vpn to unblock websites,protect privacy&amp;wifi hotspot",
+    "scoreText": "4.3",
+    "score": 4.2613688
+  },
+  {
+    "title": "Unacademy Learner App",
+    "appId": "com.unacademyapp",
+    "url": "https://play.google.com/store/apps/details?id=com.unacademyapp",
+    "icon": "https://play-lh.googleusercontent.com/DT0jm91vA_rOkxwatXhI4yVpjU4KI0augje6ZJGYxEyNjKvIhcQt8npiLHf5-ydclsqe",
+    "developer": "Unacademy",
+    "developerId": "Unacademy",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Interact with India’s Top Educators and take Live Classes, Mock Tests &amp; Quizzes",
+    "scoreText": "4.2",
+    "score": 4.1859684
+  },
+  {
+    "title": "India's largest Community app - Kutumb",
+    "appId": "com.kutumb.android",
+    "url": "https://play.google.com/store/apps/details?id=com.kutumb.android",
+    "icon": "https://play-lh.googleusercontent.com/mVBxIhTiEe8g2PeQRkHIuK0ZPvH0trgQ7wij51gGX8ybrDeaXo6gD9YjG-0CZXr1GA",
+    "developer": "Kutumb App",
+    "developerId": "Kutumb+App",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Join your community | Connect with people in your community",
+    "scoreText": "4.7",
+    "score": 4.677352
+  },
+  {
+    "title": "apna: Job Search India, Vacancy Alert, Online Work",
+    "appId": "com.apnatime",
+    "url": "https://play.google.com/store/apps/details?id=com.apnatime",
+    "icon": "https://play-lh.googleusercontent.com/EnLry-j8C9eYHDV2WObxdKKDXeExM7ML5FjrR98JU6TOkgNizFlt757rvRq3OAR9Wjy4",
+    "developer": "apna",
+    "developerId": "apna",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Full/Part Time Jobs ✓ Career Building Tips ✓ Naukri ✓ Professional Networking",
+    "scoreText": "4.4",
+    "score": 4.416909
   },
   {
     "title": "Microsoft Teams",
@@ -1887,7 +1761,133 @@
     "free": true,
     "summary": "Microsoft Teams is your hub for teamwork in Office 365.",
     "scoreText": "4.2",
-    "score": 4.1941752
+    "score": 4.193184
+  },
+  {
+    "title": "Buzo - Video Status Maker",
+    "appId": "buzo.particle.ly.mbit.video.status.maker",
+    "url": "https://play.google.com/store/apps/details?id=buzo.particle.ly.mbit.video.status.maker",
+    "icon": "https://play-lh.googleusercontent.com/WOckRml1VcS_-Pjv4yH3yCfdwrfwEH4FvYVzjMGwhJESEyHseW_Bn9iTwBQlc2ToOvA",
+    "developer": "Madrid Apps",
+    "developerId": "Madrid+Apps",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "🔥 Create Lyrical, Birthday and Anniversary Videos from your Photos. 🔥",
+    "scoreText": "4.5",
+    "score": 4.4645014
+  },
+  {
+    "title": "Aakash App for JEE & NEET",
+    "appId": "com.byjus.aakash.thelearningapp",
+    "url": "https://play.google.com/store/apps/details?id=com.byjus.aakash.thelearningapp",
+    "icon": "https://play-lh.googleusercontent.com/qy6YaKfAuAXV1V4U5T4RXXWXmUqua1XIBsygB4YaqRKLfsCEBbtQtHieOCiJAqHj42U",
+    "developer": "BYJU'S",
+    "developerId": "BYJU'S",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Ace your entrance exams. Prepare with the <b> Aakash App for JEE &amp; NEET</b>.",
+    "scoreText": "4.2",
+    "score": 4.1908946
+  },
+  {
+    "title": "Adobe Lightroom: Photo Editor",
+    "appId": "com.adobe.lrmobile",
+    "url": "https://play.google.com/store/apps/details?id=com.adobe.lrmobile",
+    "icon": "https://play-lh.googleusercontent.com/PcFt-0OYNIT3NQWwozJ4_9YcCXtsH1OmTJwKPqu4qDG7D3cC3SbXbxyMWZIHe4LmQg",
+    "developer": "Adobe",
+    "developerId": "4734916851270416020",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Upgrade your photography with intuitive tools powered by AI.",
+    "scoreText": "4.2",
+    "score": 4.211477
+  },
+  {
+    "title": "Photo Collage Maker - Photo Editor - Face Camera",
+    "appId": "com.photoeditor.snapcial",
+    "url": "https://play.google.com/store/apps/details?id=com.photoeditor.snapcial",
+    "icon": "https://play-lh.googleusercontent.com/TaBIPcyymW7vVKm4kSkhjlyl7Ttk797KomkZZvZz3OyhNOdqe8d34qbkiF9qhuJH0A",
+    "developer": "Snapcial",
+    "developerId": "7847373722248999326",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Photo Collage Maker Photo Editor Pro Maker, Beauty Selfie Face Camera.",
+    "scoreText": "4.4",
+    "score": 4.4400225
+  },
+  {
+    "title": "Gaana Music App| New Hindi Songs MP3, Free Podcast",
+    "appId": "com.gaana",
+    "url": "https://play.google.com/store/apps/details?id=com.gaana",
+    "icon": "https://play-lh.googleusercontent.com/vHw1Qv2MNAzoXiuJb8lNkybyHBzCsiWblKCefKnsukJlV9z4G0hGL_4uXzLUwxyT7a_q",
+    "developer": "Gamma Gaana Ltd",
+    "developerId": "Gamma+Gaana+Ltd",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Online Music App: New Songs, Latest Hindi Songs, Podcast, MP3 Songs Download App",
+    "scoreText": "4.5",
+    "score": 4.4984055
+  },
+  {
+    "title": "InShare - Share Apps & File Transfer",
+    "appId": "sharefiles.sharemusic.shareapps.filetransfer",
+    "url": "https://play.google.com/store/apps/details?id=sharefiles.sharemusic.shareapps.filetransfer",
+    "icon": "https://play-lh.googleusercontent.com/gxtp7ofr1koCgwjb-Dsyu-e_gxz_dZBIAbg5AMaqjwDf7NM17lWMI0zUnwlz03DMhx-u",
+    "developer": "InShot Inc.",
+    "developerId": "InShot+Inc.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Share Apps &amp; Transfer files at the FASTEST speed, FREE &amp; 0 data usage!",
+    "scoreText": "4.6",
+    "score": 4.58365
+  },
+  {
+    "title": "Hot Live Cricket TV Streaming Guide,New Starsports",
+    "appId": "com.livetv.hotlivetv",
+    "url": "https://play.google.com/store/apps/details?id=com.livetv.hotlivetv",
+    "icon": "https://play-lh.googleusercontent.com/6kP8bKVUPN7ynqHC6v5Mr-4e45eEu6vmDh8frMkJB6kj9YVQTNHXsXjrVwGaOEbS4W_Q",
+    "developer": "Sport Live Free Movie Hub, HD Movie, Star HD Guide",
+    "developerId": "Sport+Live+Free+Movie+Hub,+HD+Movie,+Star+HD+Guide",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Hot Live Cricket Streaming Guide, in app provide of Star new sports",
+    "scoreText": "3.8",
+    "score": 3.816
+  },
+  {
+    "title": "Shield VPN - Free VPN Proxy & private browser",
+    "appId": "com.shieldvpn.free.proxy",
+    "url": "https://play.google.com/store/apps/details?id=com.shieldvpn.free.proxy",
+    "icon": "https://play-lh.googleusercontent.com/5Hj1kg1MUPAg1GN36tdELhE3yv8Q9AHSBHWHuHglBoKQ99K2_3xS86zgqE3JXFWneIM_",
+    "developer": "BaronBaron",
+    "developerId": "BaronBaron",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Fast, private, reliable internet use. Protect privacy.",
+    "scoreText": "3.9",
+    "score": 3.8972602
+  },
+  {
+    "title": "ZArchiver",
+    "appId": "ru.zdevs.zarchiver",
+    "url": "https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver",
+    "icon": "https://play-lh.googleusercontent.com/D1POO3HtYVgSW65yv3JLMrr8F7L9RcYUfEw_ug3BhMhMgN0b2fZ414cYkmSwVRr737aY",
+    "developer": "ZDevs",
+    "developerId": "ZDevs",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "The easy 7zip app!",
+    "scoreText": "4.5",
+    "score": 4.466313
   },
   {
     "title": "Bajaj Finserv - Instant Loans,Credit Card,EMI Card",
@@ -1901,7 +1901,7 @@
     "free": true,
     "summary": "EMI Card, Credit Card, Personal Loan, Home Loan, Health Insurance,EMI Calculator",
     "scoreText": "4.0",
-    "score": 3.954507
+    "score": 3.9546373
   },
   {
     "title": "WPS Office - Free Office Suite for Word,PDF,Excel",
@@ -1915,7 +1915,21 @@
     "free": true,
     "summary": "PDF, Word, Excel, PowerPoint, Form &amp; Notes, powerful as Microsoft Office &amp; FREE.",
     "scoreText": "4.6",
-    "score": 4.5926213
+    "score": 4.592429
+  },
+  {
+    "title": "NeonArt Photo Editor: Photo Effects, Collage Maker",
+    "appId": "com.lyrebirdstudio.neon_art",
+    "url": "https://play.google.com/store/apps/details?id=com.lyrebirdstudio.neon_art",
+    "icon": "https://play-lh.googleusercontent.com/yM8czyHMsKycstPbeCuWDvCW7ZjWlxcTinrFJukdvDOv4OI_wle1g2btZPdhQ5WEudY",
+    "developer": "Lyrebird Studio",
+    "developerId": "8117239212302166287",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Neon photo editor with neon stickers, amazing filters &amp; effects for pic collage.",
+    "scoreText": "4.1",
+    "score": 4.118032
   },
   {
     "title": "IRCTC Rail Connect",
@@ -1929,7 +1943,21 @@
     "free": true,
     "summary": "*** Official Mobile App By IRCTC ***\nTRAIN SEARCH SELECT &amp; BOOK PNR",
     "scoreText": "4.0",
-    "score": 4.0087194
+    "score": 4.0084167
+  },
+  {
+    "title": "Live Cricket TV - Watch Live Cricket Matches",
+    "appId": "com.raidapps.ptvsports.worldcup2019",
+    "url": "https://play.google.com/store/apps/details?id=com.raidapps.ptvsports.worldcup2019",
+    "icon": "https://play-lh.googleusercontent.com/hpg5b8a9aPGr9XmYtIOacedy_VUQC4KkUuFLDaXKt-le2Wdx6rTMB1rzxTlrUjRRwcI",
+    "developer": "Sports Bulletin",
+    "developerId": "7655757245701374522",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Live Cricket TV and Live Cricket Matches For all cricket lover and fans.",
+    "scoreText": "4.2",
+    "score": 4.2214484
   },
   {
     "title": "PhonePe Business",
@@ -1943,7 +1971,7 @@
     "free": true,
     "summary": "Grow your business, connect with customers and accept digital payments at store.",
     "scoreText": "4.3",
-    "score": 4.341237
+    "score": 4.3411465
   },
   {
     "title": "YouTube Studio",
@@ -1957,35 +1985,7 @@
     "free": true,
     "summary": "Manage your YouTube channel on the go",
     "scoreText": "4.3",
-    "score": 4.3249545
-  },
-  {
-    "title": "Hot Live Cricket TV Streaming Guide,New Starsports",
-    "appId": "com.livetv.hotlivetv",
-    "url": "https://play.google.com/store/apps/details?id=com.livetv.hotlivetv",
-    "icon": "https://play-lh.googleusercontent.com/6kP8bKVUPN7ynqHC6v5Mr-4e45eEu6vmDh8frMkJB6kj9YVQTNHXsXjrVwGaOEbS4W_Q",
-    "developer": "Sport Live Free Movie Hub, HD Movie, Star HD Guide",
-    "developerId": "Sport+Live+Free+Movie+Hub,+HD+Movie,+Star+HD+Guide",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Hot Live Cricket Streaming Guide, in app provide of Star new sports",
-    "scoreText": "3.9",
-    "score": 3.8938053
-  },
-  {
-    "title": "ProxySoft",
-    "appId": "com.proxysoft.softvpnproxy",
-    "url": "https://play.google.com/store/apps/details?id=com.proxysoft.softvpnproxy",
-    "icon": "https://play-lh.googleusercontent.com/cAVFVejPEj-jZWT5hccQexGxF3F4rstw3e4TFd5h0eI7SS-uxXTcOxPd5A_8_7mEFBk",
-    "developer": "React Content L.",
-    "developerId": "React+Content+L.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "ProxySoft - app with FREE VPN and private servers! Safely VPN!",
-    "scoreText": "4.3",
-    "score": 4.2761903
+    "score": 4.324723
   },
   {
     "title": "imo free video calls and chat",
@@ -1999,21 +1999,21 @@
     "free": true,
     "summary": "⭐Send and receive messages, participate in HD voice/video calls with others!",
     "scoreText": "4.1",
-    "score": 4.103829
+    "score": 4.1039276
   },
   {
-    "title": "Tata CLiQ Online Shopping App India",
-    "appId": "com.tul.tatacliq",
-    "url": "https://play.google.com/store/apps/details?id=com.tul.tatacliq",
-    "icon": "https://play-lh.googleusercontent.com/YYMB0q3VZuH1cegb-s636R6p4cIPivJ-4BMn04ogVWfw1l0JrJSFYZ2xvcjsPEWY5ro",
-    "developer": "Tata Unistore Limited",
-    "developerId": "6666667068815062475",
+    "title": "ProxySoft",
+    "appId": "com.proxysoft.softvpnproxy",
+    "url": "https://play.google.com/store/apps/details?id=com.proxysoft.softvpnproxy",
+    "icon": "https://play-lh.googleusercontent.com/cAVFVejPEj-jZWT5hccQexGxF3F4rstw3e4TFd5h0eI7SS-uxXTcOxPd5A_8_7mEFBk",
+    "developer": "React Content L.",
+    "developerId": "React+Content+L.",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Welcome to Tata CliQ - An Indian online shopping app for fashion and electronics",
+    "summary": "ProxySoft - app with FREE VPN and private servers! Safely VPN!",
     "scoreText": "4.2",
-    "score": 4.1680884
+    "score": 4.1747575
   },
   {
     "title": "FileMaster: File Manage, File Transfer Power Clean",
@@ -2027,21 +2027,21 @@
     "free": true,
     "summary": "Junk files and cache cleaner app with functional file explorer and manager.",
     "scoreText": "4.6",
-    "score": 4.6010237
+    "score": 4.60032
   },
   {
-    "title": "StarMaker: Sing free Karaoke, Record music videos",
-    "appId": "com.starmakerinteractive.starmaker",
-    "url": "https://play.google.com/store/apps/details?id=com.starmakerinteractive.starmaker",
-    "icon": "https://play-lh.googleusercontent.com/93H1tf40Tq_4rn9waqWa6Wm2wx_YBMfPuOsxbzovvrahm3ndyk6hdUzBzetmWTulsw7e",
-    "developer": "StarMaker Interactive",
-    "developerId": "8580624130716533255",
+    "title": "Tata CLiQ Online Shopping App India",
+    "appId": "com.tul.tatacliq",
+    "url": "https://play.google.com/store/apps/details?id=com.tul.tatacliq",
+    "icon": "https://play-lh.googleusercontent.com/YYMB0q3VZuH1cegb-s636R6p4cIPivJ-4BMn04ogVWfw1l0JrJSFYZ2xvcjsPEWY5ro",
+    "developer": "Tata Unistore Limited",
+    "developerId": "6666667068815062475",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Sing karaoke &amp; Record Music videos &amp; Sing to be a Supernova",
-    "scoreText": "4.6",
-    "score": 4.566487
+    "summary": "Welcome to Tata CliQ - An Indian online shopping app for fashion and electronics",
+    "scoreText": "4.2",
+    "score": 4.1678643
   },
   {
     "title": "New Uc Browser - Fast Indian Browser, Videos, News",
@@ -2055,21 +2055,21 @@
     "free": true,
     "summary": "New Uc Browser - Fast, Secure browser with Feed &amp; Downloader. Made in India",
     "scoreText": "3.7",
-    "score": 3.6597605
+    "score": 3.661017
   },
   {
-    "title": "HD Video Projector Simulator",
-    "appId": "com.hdvideoprojector.hdvideoplayer.mobileprojector",
-    "url": "https://play.google.com/store/apps/details?id=com.hdvideoprojector.hdvideoplayer.mobileprojector",
-    "icon": "https://play-lh.googleusercontent.com/zbbH9Ph2tqoiD81qfRDgHujhNHyuSBcoNikPEKeLsGpPu6Bv0DfC_xTOUIdUMTIYtg",
-    "developer": "Play Motion Developers",
-    "developerId": "Play+Motion+Developers",
+    "title": "StarMaker: Sing free Karaoke, Record music videos",
+    "appId": "com.starmakerinteractive.starmaker",
+    "url": "https://play.google.com/store/apps/details?id=com.starmakerinteractive.starmaker",
+    "icon": "https://play-lh.googleusercontent.com/93H1tf40Tq_4rn9waqWa6Wm2wx_YBMfPuOsxbzovvrahm3ndyk6hdUzBzetmWTulsw7e",
+    "developer": "StarMaker Interactive",
+    "developerId": "8580624130716533255",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "HD Video Projector Simulator, Mobile Projector App, Mobile Video Projector",
-    "scoreText": "1.8",
-    "score": 1.8224299
+    "summary": "Sing karaoke &amp; Record Music videos &amp; Sing to be a Supernova",
+    "scoreText": "4.6",
+    "score": 4.566164
   },
   {
     "title": "YouTube Kids",
@@ -2083,119 +2083,7 @@
     "free": true,
     "summary": "Encourage kids to discover the world with a suite of parental controls",
     "scoreText": "4.3",
-    "score": 4.2920284
-  },
-  {
-    "title": "Live Cricket TV - Watch Live Cricket Matches",
-    "appId": "com.raidapps.ptvsports.worldcup2019",
-    "url": "https://play.google.com/store/apps/details?id=com.raidapps.ptvsports.worldcup2019",
-    "icon": "https://play-lh.googleusercontent.com/hpg5b8a9aPGr9XmYtIOacedy_VUQC4KkUuFLDaXKt-le2Wdx6rTMB1rzxTlrUjRRwcI",
-    "developer": "Sports Bulletin",
-    "developerId": "7655757245701374522",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Live Cricket TV and Live Cricket Matches For all cricket lover and fans.",
-    "scoreText": "4.1",
-    "score": 4.1438746
-  },
-  {
-    "title": "Rocket VPN - Fast & Secure VPN Proxy",
-    "appId": "com.freerocket.vpn.fast",
-    "url": "https://play.google.com/store/apps/details?id=com.freerocket.vpn.fast",
-    "icon": "https://play-lh.googleusercontent.com/-w727-jHpZRm2ZDEWGIFIIg9TEJvY_THax6e-NU7gM4TTmB9MLnpvvD9WzhR8SfUXv8",
-    "developer": "private protector",
-    "developerId": "private+protector",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "100% free VPN! High VPN speed! The best unlimited free VPN clients for android.",
-    "scoreText": "4.0",
-    "score": 3.9652174
-  },
-  {
-    "title": "Fast VPN-Speed, Secure, Free Unlimited Proxy",
-    "appId": "com.app.fast.vpn",
-    "url": "https://play.google.com/store/apps/details?id=com.app.fast.vpn",
-    "icon": "https://play-lh.googleusercontent.com/NNni5beh1MfkzcpFUVw83Eiz_uPgs5Ah8OYrSdRYaa0vwp0lV8gnCzj5EKfnalWcsXo",
-    "developer": "SPEED VPN",
-    "developerId": "SPEED+VPN",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "High VPN fast, 100% free VPN,  Unblock Security Unlimited Free Proxy VPN",
-    "scoreText": "4.6",
-    "score": 4.5919237
-  },
-  {
-    "title": "Files by Google",
-    "appId": "com.google.android.apps.nbu.files",
-    "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files",
-    "icon": "https://play-lh.googleusercontent.com/1nfAdJs2Ep2q1skM7QwJ1uHooWSbpFkbIBHhAX6EmdzEKmtk42713TiTU28mWlkcFKPA",
-    "developer": "Google LLC",
-    "developerId": "5700313618786177705",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Clean up your phone, find files fast &amp; share files offline",
-    "scoreText": "4.6",
-    "score": 4.59515
-  },
-  {
-    "title": "Clean Master Ultra - Clean and Boost",
-    "appId": "com.cleanmaster.ultra",
-    "url": "https://play.google.com/store/apps/details?id=com.cleanmaster.ultra",
-    "icon": "https://play-lh.googleusercontent.com/SkE4gZ-pDR_N_BKTkqhD8V9yIcO6ddZBrUIWzb91lQXsb_coOvxeUGk24fsP6246t6s",
-    "developer": "MariApp Studio",
-    "developerId": "MariApp+Studio",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "With Clean Master Ultra your phone is fast, clean and protected!",
-    "scoreText": "3.7",
-    "score": 3.7476997
-  },
-  {
-    "title": "Groww - Stocks, Demat, Mutual Fund, SIP",
-    "appId": "com.nextbillion.groww",
-    "url": "https://play.google.com/store/apps/details?id=com.nextbillion.groww",
-    "icon": "https://play-lh.googleusercontent.com/7q2dwnqAFr91NBSBRGcE1tZQCJL-FYbUKEuy103bTmQowLl3yNY73ozy5cf1mso4pCS4",
-    "developer": "Groww - Stock Trading, Demat, Mutual Funds, SIP",
-    "developerId": "4902399402313106849",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Open Free Demat, Trade Stocks in NSE, BSE | Free Direct Mutual Fund &amp; SIP",
-    "scoreText": "4.3",
-    "score": 4.278386
-  },
-  {
-    "title": "FaceApp - Face Editor, Makeover & Beauty App",
-    "appId": "io.faceapp",
-    "url": "https://play.google.com/store/apps/details?id=io.faceapp",
-    "icon": "https://play-lh.googleusercontent.com/EEQ6z_3i9Co5ZMdp7qCSGiFd9ionjxLz3rMmDWVO1wDwUNi-EaEZFm4fyG5GWMrt5w",
-    "developer": "FaceApp Technology Ltd",
-    "developerId": "5045508959348955284",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Perfect selfie with just one tap",
-    "scoreText": "4.6",
-    "score": 4.606298
-  },
-  {
-    "title": "Calculator Lock - Gallery Vault, Hide Videos",
-    "appId": "com.calculator.hideu",
-    "url": "https://play.google.com/store/apps/details?id=com.calculator.hideu",
-    "icon": "https://play-lh.googleusercontent.com/ci9Ks5rfrHREPfqkFLoCGOcrvyuYLKhboEJmrkwVf7d2RkTZzm16k_n5HNcTdcPX7Q",
-    "developer": "Smart Utils Dev Team",
-    "developerId": "Smart+Utils+Dev+Team",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Keep Phone Safe and Hide Photos, Videos behind Calculator!",
-    "scoreText": "4.3",
-    "score": 4.3174477
+    "score": 4.291997
   },
   {
     "title": "mParivahan",
@@ -2209,21 +2097,35 @@
     "free": true,
     "summary": "Complete Transport Solution for Citizen",
     "scoreText": "4.3",
-    "score": 4.339412
+    "score": 4.3394856
   },
   {
-    "title": "Pataa - Address Made Simple",
-    "appId": "com.pataa",
-    "url": "https://play.google.com/store/apps/details?id=com.pataa",
-    "icon": "https://play-lh.googleusercontent.com/r4Gb7lhNJeT5DhniICMO4vNe10vblxK6161pLUnbOqsJNLL2a5q7uk4nMhx8SepbpAA",
-    "developer": "Pataa Navigations Pvt. Ltd.",
-    "developerId": "Pataa+Navigations+Pvt.+Ltd.",
+    "title": "Groww - Stocks, Demat, Mutual Fund, SIP",
+    "appId": "com.nextbillion.groww",
+    "url": "https://play.google.com/store/apps/details?id=com.nextbillion.groww",
+    "icon": "https://play-lh.googleusercontent.com/7q2dwnqAFr91NBSBRGcE1tZQCJL-FYbUKEuy103bTmQowLl3yNY73ozy5cf1mso4pCS4",
+    "developer": "Groww - Stock Trading, Demat, Mutual Funds, SIP",
+    "developerId": "4902399402313106849",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Address finder, location navigation with voice, maps, GPS, routes &amp; landmarks.",
+    "summary": "Open Free Demat, Trade Stocks in NSE, BSE | Free Direct Mutual Fund &amp; SIP",
     "scoreText": "4.3",
-    "score": 4.3086205
+    "score": 4.275587
+  },
+  {
+    "title": "Fast VPN-Speed, Secure, Free Unlimited Proxy",
+    "appId": "com.app.fast.vpn",
+    "url": "https://play.google.com/store/apps/details?id=com.app.fast.vpn",
+    "icon": "https://play-lh.googleusercontent.com/NNni5beh1MfkzcpFUVw83Eiz_uPgs5Ah8OYrSdRYaa0vwp0lV8gnCzj5EKfnalWcsXo",
+    "developer": "SPEED VPN",
+    "developerId": "SPEED+VPN",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "High VPN fast, 100% free VPN,  Unblock Security Unlimited Free Proxy VPN",
+    "scoreText": "4.6",
+    "score": 4.585699
   },
   {
     "title": "CoinDCX: Bitcoin & Crypto Investment app",
@@ -2237,7 +2139,77 @@
     "free": true,
     "summary": "India's simplest Bitcoin and cryptocurrency investment app for beginners!",
     "scoreText": "4.1",
-    "score": 4.1034136
+    "score": 4.106861
+  },
+  {
+    "title": "Pataa - Address Made Simple",
+    "appId": "com.pataa",
+    "url": "https://play.google.com/store/apps/details?id=com.pataa",
+    "icon": "https://play-lh.googleusercontent.com/r4Gb7lhNJeT5DhniICMO4vNe10vblxK6161pLUnbOqsJNLL2a5q7uk4nMhx8SepbpAA",
+    "developer": "Pataa Navigations Pvt. Ltd.",
+    "developerId": "Pataa+Navigations+Pvt.+Ltd.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Address finder, location navigation with voice, maps, GPS, routes &amp; landmarks.",
+    "scoreText": "4.3",
+    "score": 4.327731
+  },
+  {
+    "title": "Rocket VPN - Fast & Secure VPN Proxy",
+    "appId": "com.freerocket.vpn.fast",
+    "url": "https://play.google.com/store/apps/details?id=com.freerocket.vpn.fast",
+    "icon": "https://play-lh.googleusercontent.com/-w727-jHpZRm2ZDEWGIFIIg9TEJvY_THax6e-NU7gM4TTmB9MLnpvvD9WzhR8SfUXv8",
+    "developer": "private protector",
+    "developerId": "private+protector",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "100% free VPN! High VPN speed! The best unlimited free VPN clients for android.",
+    "scoreText": "4.0",
+    "score": 3.9557521
+  },
+  {
+    "title": "Clean Master Ultra - Clean and Boost",
+    "appId": "com.cleanmaster.ultra",
+    "url": "https://play.google.com/store/apps/details?id=com.cleanmaster.ultra",
+    "icon": "https://play-lh.googleusercontent.com/SkE4gZ-pDR_N_BKTkqhD8V9yIcO6ddZBrUIWzb91lQXsb_coOvxeUGk24fsP6246t6s",
+    "developer": "MariApp Studio",
+    "developerId": "MariApp+Studio",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "With Clean Master Ultra your phone is fast, clean and protected!",
+    "scoreText": "3.7",
+    "score": 3.7389815
+  },
+  {
+    "title": "FaceApp - Face Editor, Makeover & Beauty App",
+    "appId": "io.faceapp",
+    "url": "https://play.google.com/store/apps/details?id=io.faceapp",
+    "icon": "https://play-lh.googleusercontent.com/EEQ6z_3i9Co5ZMdp7qCSGiFd9ionjxLz3rMmDWVO1wDwUNi-EaEZFm4fyG5GWMrt5w",
+    "developer": "FaceApp Technology Ltd",
+    "developerId": "5045508959348955284",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Perfect selfie with just one tap",
+    "scoreText": "4.6",
+    "score": 4.6061234
+  },
+  {
+    "title": "Files by Google",
+    "appId": "com.google.android.apps.nbu.files",
+    "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files",
+    "icon": "https://play-lh.googleusercontent.com/1nfAdJs2Ep2q1skM7QwJ1uHooWSbpFkbIBHhAX6EmdzEKmtk42713TiTU28mWlkcFKPA",
+    "developer": "Google LLC",
+    "developerId": "5700313618786177705",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Clean up your phone, find files fast &amp; share files offline",
+    "scoreText": "4.6",
+    "score": 4.5950704
   },
   {
     "title": "Tata Sky Binge",
@@ -2250,78 +2222,8 @@
     "price": 0,
     "free": true,
     "summary": "Watch Movies &amp; Shows from premium OTT apps in One app, under One subscription!",
-    "scoreText": "3.9",
-    "score": 3.947059
-  },
-  {
-    "title": "Canva: Easy Graphic Design, Collage & Logo Maker",
-    "appId": "com.canva.editor",
-    "url": "https://play.google.com/store/apps/details?id=com.canva.editor",
-    "icon": "https://play-lh.googleusercontent.com/cLNhKpWEUJLyEyrhex2QgCKpc2qH19DCBGRJt3a1pXVMupkvOn-E_DBhhbl4ZAplEQ",
-    "developer": "Canva",
-    "developerId": "Canva",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Level up your Insta feed - Make a Canva Collage today! 👨‍🎨️",
-    "scoreText": "4.7",
-    "score": 4.689598
-  },
-  {
-    "title": "BoloJi - Video Call, Live Chat & Online Video Chat",
-    "appId": "com.boloji.live",
-    "url": "https://play.google.com/store/apps/details?id=com.boloji.live",
-    "icon": "https://play-lh.googleusercontent.com/BpJjxWxWnwEJZoKo1hbDUokduPwOcbWT4p14lUH1qKkCNTi2uwBYnloXbRI-eRp4FSY",
-    "developer": "Boloji Live",
-    "developerId": "Boloji+Live",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "An online video call app to enjoy live chat and close contact with new friends!",
-    "scoreText": "3.6",
-    "score": 3.6153846
-  },
-  {
-    "title": "Co-WIN Vaccinator App",
-    "appId": "com.cowinapp.app",
-    "url": "https://play.google.com/store/apps/details?id=com.cowinapp.app",
-    "icon": "https://play-lh.googleusercontent.com/prOx2TrtglSg5FRt08meDUxezPFkrIibGjRbXyGN6gdaNpNGLVqnjpF5o5gnitpF",
-    "developer": "National Health Portal-MoHFW",
-    "developerId": "National+Health+Portal-MoHFW",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Co-WIN – Government of India App for Vaccinators providing COVID-19 Vaccination",
-    "scoreText": "2.3",
-    "score": 2.3315113
-  },
-  {
-    "title": "Clean Guard: Virus Cleaner Free, Antivirus, VPN",
-    "appId": "fast.safe.guard.vpn",
-    "url": "https://play.google.com/store/apps/details?id=fast.safe.guard.vpn",
-    "icon": "https://play-lh.googleusercontent.com/Am8S2h05jlU9VHmIOm7eJcwnkDzCWtwEFVCcXrH4wy_lA08lN5T7lU39IaS05HZQMCI",
-    "developer": "Clean & Save Group",
-    "developerId": "Clean+%26+Save+Group",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Phone Cleaner, Clean Master, VPN, RAM Booster phone safe from virus",
-    "scoreText": "4.3",
-    "score": 4.3021235
-  },
-  {
-    "title": "Google Find My Device",
-    "appId": "com.google.android.apps.adm",
-    "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.adm",
-    "icon": "https://play-lh.googleusercontent.com/aX0ql6V6PvVotibIvaNW7CRjaJ2oUyBIX_WgSkAl36vOAaoXiw6yQufxVQ2LV_D2DLg",
-    "developer": "Google LLC",
-    "developerId": "5700313618786177705",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Find, ring, lock, and erase any lost Android device",
-    "scoreText": "4.4",
-    "score": 4.436492
+    "scoreText": "3.8",
+    "score": 3.8242812
   },
   {
     "title": "CRED: Credit Card Bills, Credit Score & Pay Rent",
@@ -2335,119 +2237,77 @@
     "free": true,
     "summary": "Check Credit Score, Credit Card Bill Payment, Pay Rent Online. Cashback &amp; Offers",
     "scoreText": "4.7",
-    "score": 4.72486
+    "score": 4.724791
   },
   {
-    "title": "Live Talk - free video chat",
-    "appId": "com.bingo.livetalk",
-    "url": "https://play.google.com/store/apps/details?id=com.bingo.livetalk",
-    "icon": "https://play-lh.googleusercontent.com/EjiEBbBrnSKvY1M1INngj3CYIVr4XC-IK58-R4bM0eYwRjeWOkMXDhxf4LODl7oDS5zz",
-    "developer": "Videokar",
-    "developerId": "8521988530178194280",
+    "title": "BoloJi - Video Call, Live Chat & Online Video Chat",
+    "appId": "com.boloji.live",
+    "url": "https://play.google.com/store/apps/details?id=com.boloji.live",
+    "icon": "https://play-lh.googleusercontent.com/BpJjxWxWnwEJZoKo1hbDUokduPwOcbWT4p14lUH1qKkCNTi2uwBYnloXbRI-eRp4FSY",
+    "developer": "Boloji Live",
+    "developerId": "Boloji+Live",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Livetalk is a new friend discovery app through video chats.",
-    "scoreText": "3.9",
-    "score": 3.9270656
+    "summary": "An online video call app to enjoy live chat and close contact with new friends!",
+    "scoreText": "3.7",
+    "score": 3.6807017
   },
   {
-    "title": "UMANG",
-    "appId": "in.gov.umang.negd.g2c",
-    "url": "https://play.google.com/store/apps/details?id=in.gov.umang.negd.g2c",
-    "icon": "https://play-lh.googleusercontent.com/fSnrSVy_LCg9FP3wJcA1cQ1zZLvOO743hZ_Fva2QSi-6H1rUBClqIpdhp59xhiYEtxU",
-    "developer": "MeitY, Government Of India",
-    "developerId": "MeitY,+Government+Of+India",
+    "title": "Canva: Easy Graphic Design, Collage & Logo Maker",
+    "appId": "com.canva.editor",
+    "url": "https://play.google.com/store/apps/details?id=com.canva.editor",
+    "icon": "https://play-lh.googleusercontent.com/cLNhKpWEUJLyEyrhex2QgCKpc2qH19DCBGRJt3a1pXVMupkvOn-E_DBhhbl4ZAplEQ",
+    "developer": "Canva",
+    "developerId": "Canva",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Unified Mobile Application for New-age Governance",
-    "scoreText": "4.2",
-    "score": 4.217175
+    "summary": "Level up your Insta feed - Make a Canva Collage today! 👨‍🎨️",
+    "scoreText": "4.7",
+    "score": 4.6898413
   },
   {
-    "title": "Photo Video Maker with Music",
-    "appId": "slideshow.photo.video.videomaker",
-    "url": "https://play.google.com/store/apps/details?id=slideshow.photo.video.videomaker",
-    "icon": "https://play-lh.googleusercontent.com/O_MflKBdUQ3Orhi2ZbrQsDWjM5m4umLCGvtdZeUvX1TqERhjCUxTIWK5Ftv3ijgwgQ",
-    "developer": "Photo Video Maker With Music Studio",
-    "developerId": "6924712529344561967",
+    "title": "Calculator Lock - Gallery Vault, Hide Videos",
+    "appId": "com.calculator.hideu",
+    "url": "https://play.google.com/store/apps/details?id=com.calculator.hideu",
+    "icon": "https://play-lh.googleusercontent.com/ci9Ks5rfrHREPfqkFLoCGOcrvyuYLKhboEJmrkwVf7d2RkTZzm16k_n5HNcTdcPX7Q",
+    "developer": "Smart Utils Dev Team",
+    "developerId": "Smart+Utils+Dev+Team",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Create video from photos, with animation, frames and music",
-    "scoreText": "4.0",
-    "score": 4.0010896
+    "summary": "Keep Phone Safe and Hide Photos, Videos behind Calculator!",
+    "scoreText": "4.3",
+    "score": 4.2720466
   },
   {
-    "title": "Document Scanner - (Made in India) PDF Creator",
-    "appId": "com.cv.docscanner",
-    "url": "https://play.google.com/store/apps/details?id=com.cv.docscanner",
-    "icon": "https://play-lh.googleusercontent.com/y9woBTOLroocv-vLD7kDdAq_gJeakr2eZEfEH9Vu8WN4vJTJsjEvlH81m-sdIIozAf0",
-    "developer": "Lufick",
-    "developerId": "8669027239641171656",
+    "title": "Clean Guard: Virus Cleaner Free, Antivirus, VPN",
+    "appId": "fast.safe.guard.vpn",
+    "url": "https://play.google.com/store/apps/details?id=fast.safe.guard.vpn",
+    "icon": "https://play-lh.googleusercontent.com/Am8S2h05jlU9VHmIOm7eJcwnkDzCWtwEFVCcXrH4wy_lA08lN5T7lU39IaS05HZQMCI",
+    "developer": "Clean & Save Group",
+    "developerId": "Clean+%26+Save+Group",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Free Mobile Document Scanner and PDF Creator App to scan documents on the fly",
-    "scoreText": "4.5",
-    "score": 4.4799004
+    "summary": "Phone Cleaner, Clean Master, VPN, RAM Booster phone safe from virus",
+    "scoreText": "4.3",
+    "score": 4.302748
   },
   {
-    "title": "Rooter: Watch & Stream Live Games & Esports",
-    "appId": "com.threesixteen.app",
-    "url": "https://play.google.com/store/apps/details?id=com.threesixteen.app",
-    "icon": "https://play-lh.googleusercontent.com/7KG3TyNpothvPuX6olwD4Ov5-vphaQYXc6Ala0al-N4IQTX2onPSU-fCLeFeIF6Ek0M",
-    "developer": "Rooter Sports",
-    "developerId": "Rooter+Sports",
+    "title": "Co-WIN Vaccinator App",
+    "appId": "com.cowinapp.app",
+    "url": "https://play.google.com/store/apps/details?id=com.cowinapp.app",
+    "icon": "https://play-lh.googleusercontent.com/prOx2TrtglSg5FRt08meDUxezPFkrIibGjRbXyGN6gdaNpNGLVqnjpF5o5gnitpF",
+    "developer": "National Health Portal-MoHFW",
+    "developerId": "National+Health+Portal-MoHFW",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "India&#39;s Biggest Gaming &amp; Esports App. Win Giveaways upto ₹5 Lakhs. Download Now!",
-    "scoreText": "4.5",
-    "score": 4.4897
-  },
-  {
-    "title": "Sticker.ly - Chat Stickers & Memes for WhatsApp",
-    "appId": "com.snowcorp.stickerly.android",
-    "url": "https://play.google.com/store/apps/details?id=com.snowcorp.stickerly.android",
-    "icon": "https://play-lh.googleusercontent.com/Zloy75waplWQKmBwcbIkHj_d76PrYwy00Q4Yc9LqerTc0d1VcZ5eH47PldSgxYBl",
-    "developer": "SNOW, Inc.",
-    "developerId": "SNOW,+Inc.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Sticker Maker &amp; Video Status for WhatsApp and Telegram - WAStickerApps",
-    "scoreText": "4.6",
-    "score": 4.6216316
-  },
-  {
-    "title": "Sexy Indian Girls Video Chat - Random Video Online",
-    "appId": "com.liulou.tami",
-    "url": "https://play.google.com/store/apps/details?id=com.liulou.tami",
-    "icon": "https://play-lh.googleusercontent.com/X0sh-kcHzHaok2FGQjp76dGDCGr2brRV_CluUuC76lbP-wjbTs38c-8Y3BHI1nkPavzK",
-    "developer": "KAPIL KUMAR",
-    "developerId": "KAPIL+KUMAR",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Video Chat - Random Video chat Online live",
-    "scoreText": "4.0",
-    "score": 4.013903
-  },
-  {
-    "title": "Minute VPN - Unlimited VPN, Security Free VPN",
-    "appId": "com.oneminute.vpn",
-    "url": "https://play.google.com/store/apps/details?id=com.oneminute.vpn",
-    "icon": "https://play-lh.googleusercontent.com/HrwntYQ9u8s59jzZJy93jOGPrNwfJFvevX2orJ5V0HOXRgssj9a6SbJCbat3_kDfHnI",
-    "developer": "charliegreenccp",
-    "developerId": "charliegreenccp",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Become Anonymous in one click. Protect privacy, Secure and Super Fast.",
-    "scoreText": "3.4",
-    "score": 3.3831775
+    "summary": "Co-WIN – Government of India App for Vaccinators providing COVID-19 Vaccination",
+    "scoreText": "2.3",
+    "score": 2.3293715
   },
   {
     "title": "iFonts - highlights cover, fonts, wallpapers",
@@ -2461,63 +2321,133 @@
     "free": true,
     "summary": "Try our free app, you find fonts, wallpapers, stickers and highlights cover!!!",
     "scoreText": "3.4",
-    "score": 3.387978
+    "score": 3.3523316
   },
   {
-    "title": "ZEDGE™ Wallpapers & Ringtones",
-    "appId": "net.zedge.android",
-    "url": "https://play.google.com/store/apps/details?id=net.zedge.android",
-    "icon": "https://play-lh.googleusercontent.com/Z63o8yKRMfj7W9E3DLYLCU_Hsg0377EnpjFDsq0069AemARWxhcmykS1M5SaSgnbHNM",
-    "developer": "Zedge",
-    "developerId": "Zedge",
+    "title": "Document Scanner - (Made in India) PDF Creator",
+    "appId": "com.cv.docscanner",
+    "url": "https://play.google.com/store/apps/details?id=com.cv.docscanner",
+    "icon": "https://play-lh.googleusercontent.com/y9woBTOLroocv-vLD7kDdAq_gJeakr2eZEfEH9Vu8WN4vJTJsjEvlH81m-sdIIozAf0",
+    "developer": "Lufick",
+    "developerId": "8669027239641171656",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Millions of free background wallpapers, ringtones, alarm &amp; notification sounds",
+    "summary": "Free Mobile Document Scanner and PDF Creator App to scan documents on the fly",
+    "scoreText": "4.5",
+    "score": 4.4792986
+  },
+  {
+    "title": "HD Video Projector Simulator",
+    "appId": "com.hdvideoprojector.hdvideoplayer.mobileprojector",
+    "url": "https://play.google.com/store/apps/details?id=com.hdvideoprojector.hdvideoplayer.mobileprojector",
+    "icon": "https://play-lh.googleusercontent.com/zbbH9Ph2tqoiD81qfRDgHujhNHyuSBcoNikPEKeLsGpPu6Bv0DfC_xTOUIdUMTIYtg",
+    "developer": "Play Motion Developers",
+    "developerId": "Play+Motion+Developers",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "HD Video Projector Simulator, Mobile Projector App, Mobile Video Projector",
+    "scoreText": "1.8",
+    "score": 1.847619
+  },
+  {
+    "title": "Google Find My Device",
+    "appId": "com.google.android.apps.adm",
+    "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.adm",
+    "icon": "https://play-lh.googleusercontent.com/aX0ql6V6PvVotibIvaNW7CRjaJ2oUyBIX_WgSkAl36vOAaoXiw6yQufxVQ2LV_D2DLg",
+    "developer": "Google LLC",
+    "developerId": "5700313618786177705",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Find, ring, lock, and erase any lost Android device",
     "scoreText": "4.4",
-    "score": 4.4333844
+    "score": 4.436682
   },
   {
-    "title": "PharmEasy – Online Medicine Ordering App",
-    "appId": "com.phonegap.rxpal",
-    "url": "https://play.google.com/store/apps/details?id=com.phonegap.rxpal",
-    "icon": "https://play-lh.googleusercontent.com/94w8YgbYtWqoaZsg1ROsnEhNlAOaEL376bIoiN36jNN4UKnF2hchJdaLSksKP_38bMs",
-    "developer": "Axelia Solutions Private Limited",
-    "developerId": "Axelia+Solutions+Private+Limited",
+    "title": "Live Talk - free video chat",
+    "appId": "com.bingo.livetalk",
+    "url": "https://play.google.com/store/apps/details?id=com.bingo.livetalk",
+    "icon": "https://play-lh.googleusercontent.com/EjiEBbBrnSKvY1M1INngj3CYIVr4XC-IK58-R4bM0eYwRjeWOkMXDhxf4LODl7oDS5zz",
+    "developer": "Videokar",
+    "developerId": "8521988530178194280",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "💊Online Pharmacy App: Get Flat 20% Off + 20% Cashback on Medicine Order",
+    "summary": "Livetalk is a new friend discovery app through video chats.",
+    "scoreText": "3.9",
+    "score": 3.926862
+  },
+  {
+    "title": "Photo Video Maker with Music",
+    "appId": "slideshow.photo.video.videomaker",
+    "url": "https://play.google.com/store/apps/details?id=slideshow.photo.video.videomaker",
+    "icon": "https://play-lh.googleusercontent.com/O_MflKBdUQ3Orhi2ZbrQsDWjM5m4umLCGvtdZeUvX1TqERhjCUxTIWK5Ftv3ijgwgQ",
+    "developer": "Photo Video Maker With Music Studio",
+    "developerId": "6924712529344561967",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Create video from photos, with animation, frames and music",
+    "scoreText": "4.0",
+    "score": 4.0029306
+  },
+  {
+    "title": "UMANG",
+    "appId": "in.gov.umang.negd.g2c",
+    "url": "https://play.google.com/store/apps/details?id=in.gov.umang.negd.g2c",
+    "icon": "https://play-lh.googleusercontent.com/fSnrSVy_LCg9FP3wJcA1cQ1zZLvOO743hZ_Fva2QSi-6H1rUBClqIpdhp59xhiYEtxU",
+    "developer": "MeitY, Government Of India",
+    "developerId": "MeitY,+Government+Of+India",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Unified Mobile Application for New-age Governance",
+    "scoreText": "4.2",
+    "score": 4.215379
+  },
+  {
+    "title": "Sexy Indian Girls Video Chat - Random Video Online",
+    "appId": "com.liulou.tami",
+    "url": "https://play.google.com/store/apps/details?id=com.liulou.tami",
+    "icon": "https://play-lh.googleusercontent.com/X0sh-kcHzHaok2FGQjp76dGDCGr2brRV_CluUuC76lbP-wjbTs38c-8Y3BHI1nkPavzK",
+    "developer": "KAPIL KUMAR",
+    "developerId": "KAPIL+KUMAR",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Video Chat - Random Video chat Online live",
+    "scoreText": "4.0",
+    "score": 4.0006423
+  },
+  {
+    "title": "Rooter: Watch & Stream Live Games & Esports",
+    "appId": "com.threesixteen.app",
+    "url": "https://play.google.com/store/apps/details?id=com.threesixteen.app",
+    "icon": "https://play-lh.googleusercontent.com/7KG3TyNpothvPuX6olwD4Ov5-vphaQYXc6Ala0al-N4IQTX2onPSU-fCLeFeIF6Ek0M",
+    "developer": "Rooter Sports",
+    "developerId": "Rooter+Sports",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "India&#39;s Biggest Gaming &amp; Esports App. Win Giveaways upto ₹5 Lakhs. Download Now!",
     "scoreText": "4.5",
-    "score": 4.4778976
+    "score": 4.488543
   },
   {
-    "title": "BHIM UPI, Money Transfer, Recharges & Pay Later",
-    "appId": "com.mobikwik_new",
-    "url": "https://play.google.com/store/apps/details?id=com.mobikwik_new",
-    "icon": "https://play-lh.googleusercontent.com/GupeUSus67H24ZCFhmDPNgbWVL6R7Sc39tM9o1-RJxDq9Jje8N-9nShpm_0x1ByUHKk",
-    "developer": "One MobiKwik Systems Limited",
-    "developerId": "One+MobiKwik+Systems+Limited",
+    "title": "Sticker.ly - Chat Stickers & Memes for WhatsApp",
+    "appId": "com.snowcorp.stickerly.android",
+    "url": "https://play.google.com/store/apps/details?id=com.snowcorp.stickerly.android",
+    "icon": "https://play-lh.googleusercontent.com/Zloy75waplWQKmBwcbIkHj_d76PrYwy00Q4Yc9LqerTc0d1VcZ5eH47PldSgxYBl",
+    "developer": "SNOW, Inc.",
+    "developerId": "SNOW,+Inc.",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Money Transfer, Mobile Recharge, Electricity Bill, BHIM UPI, Loan, Pay Later",
-    "scoreText": "4.1",
-    "score": 4.1257157
-  },
-  {
-    "title": "MBit Music Particle.ly Video Status Maker & Editor",
-    "appId": "com.fogg.photovideomaker",
-    "url": "https://play.google.com/store/apps/details?id=com.fogg.photovideomaker",
-    "icon": "https://play-lh.googleusercontent.com/cwSv-9lRH85js6L87M3FHljcfNm_KyqDxQOuAECiY3Pjx9ARKMy80Dq-pyaFxClpMA",
-    "developer": "MBit Music Inc.",
-    "developerId": "4809175298020157199",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "First fully Customized Beat wise Particle.ly Video Status Maker app - MBit.",
-    "scoreText": "4.5",
-    "score": 4.513451
+    "summary": "Sticker Maker &amp; Video Status for WhatsApp and Telegram - WAStickerApps",
+    "scoreText": "4.6",
+    "score": 4.621543
   },
   {
     "title": "Cricbuzz - In Indian Languages",
@@ -2531,7 +2461,91 @@
     "free": true,
     "summary": "Cricket Scores in Hindi, Tamil, Kannada, Telugu, Marathi, Bengali &amp; English",
     "scoreText": "4.0",
-    "score": 4.0425434
+    "score": 4.039174
+  },
+  {
+    "title": "Minute VPN - Unlimited VPN, Security Free VPN",
+    "appId": "com.oneminute.vpn",
+    "url": "https://play.google.com/store/apps/details?id=com.oneminute.vpn",
+    "icon": "https://play-lh.googleusercontent.com/HrwntYQ9u8s59jzZJy93jOGPrNwfJFvevX2orJ5V0HOXRgssj9a6SbJCbat3_kDfHnI",
+    "developer": "charliegreenccp",
+    "developerId": "charliegreenccp",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Become Anonymous in one click. Protect privacy, Secure and Super Fast.",
+    "scoreText": "3.5",
+    "score": 3.4727273
+  },
+  {
+    "title": "PharmEasy – Online Medicine Ordering App",
+    "appId": "com.phonegap.rxpal",
+    "url": "https://play.google.com/store/apps/details?id=com.phonegap.rxpal",
+    "icon": "https://play-lh.googleusercontent.com/94w8YgbYtWqoaZsg1ROsnEhNlAOaEL376bIoiN36jNN4UKnF2hchJdaLSksKP_38bMs",
+    "developer": "Axelia Solutions Private Limited",
+    "developerId": "Axelia+Solutions+Private+Limited",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "💊Online Pharmacy App: Get Flat 20% Off + 20% Cashback on Medicine Order",
+    "scoreText": "4.5",
+    "score": 4.4817457
+  },
+  {
+    "title": "ZEDGE™ Wallpapers & Ringtones",
+    "appId": "net.zedge.android",
+    "url": "https://play.google.com/store/apps/details?id=net.zedge.android",
+    "icon": "https://play-lh.googleusercontent.com/Z63o8yKRMfj7W9E3DLYLCU_Hsg0377EnpjFDsq0069AemARWxhcmykS1M5SaSgnbHNM",
+    "developer": "Zedge",
+    "developerId": "Zedge",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Millions of free background wallpapers, ringtones, alarm &amp; notification sounds",
+    "scoreText": "4.4",
+    "score": 4.4334173
+  },
+  {
+    "title": "Guide and Free Diamonds for Free",
+    "appId": "com.shreeharitech.guideforfreediamond",
+    "url": "https://play.google.com/store/apps/details?id=com.shreeharitech.guideforfreediamond",
+    "icon": "https://play-lh.googleusercontent.com/j2i90_kxJ1wyb6IpE2a8FbLspyCOnBvWOk3u100LurE_XuSS8lhTxEyexRL_XpwMGhBa",
+    "developer": "Shree Hari Tech",
+    "developerId": "Shree+Hari+Tech",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "You will learn how to gain coins without investing Coin in game for free",
+    "scoreText": "3.9",
+    "score": 3.9473684
+  },
+  {
+    "title": "BHIM UPI, Money Transfer, Recharges & Pay Later",
+    "appId": "com.mobikwik_new",
+    "url": "https://play.google.com/store/apps/details?id=com.mobikwik_new",
+    "icon": "https://play-lh.googleusercontent.com/GupeUSus67H24ZCFhmDPNgbWVL6R7Sc39tM9o1-RJxDq9Jje8N-9nShpm_0x1ByUHKk",
+    "developer": "One MobiKwik Systems Limited",
+    "developerId": "One+MobiKwik+Systems+Limited",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Money Transfer, Mobile Recharge, Electricity Bill, BHIM UPI, Loan, Pay Later",
+    "scoreText": "4.1",
+    "score": 4.125943
+  },
+  {
+    "title": "MBit Music Particle.ly Video Status Maker & Editor",
+    "appId": "com.fogg.photovideomaker",
+    "url": "https://play.google.com/store/apps/details?id=com.fogg.photovideomaker",
+    "icon": "https://play-lh.googleusercontent.com/cwSv-9lRH85js6L87M3FHljcfNm_KyqDxQOuAECiY3Pjx9ARKMy80Dq-pyaFxClpMA",
+    "developer": "MBit Music Inc.",
+    "developerId": "4809175298020157199",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "First fully Customized Beat wise Particle.ly Video Status Maker app - MBit.",
+    "scoreText": "4.5",
+    "score": 4.5139756
   },
   {
     "title": "Triller: Social Video Platform",
@@ -2545,35 +2559,7 @@
     "free": true,
     "summary": "record video, edit music, edit videos and share great content",
     "scoreText": "3.6",
-    "score": 3.5928643
-  },
-  {
-    "title": "Guide and Free Diamonds for Free",
-    "appId": "com.shreeharitech.guideforfreediamond",
-    "url": "https://play.google.com/store/apps/details?id=com.shreeharitech.guideforfreediamond",
-    "icon": "https://play-lh.googleusercontent.com/j2i90_kxJ1wyb6IpE2a8FbLspyCOnBvWOk3u100LurE_XuSS8lhTxEyexRL_XpwMGhBa",
-    "developer": "Shree Hari Tech",
-    "developerId": "Shree+Hari+Tech",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "You will learn how to gain coins without investing Coin in game for free",
-    "scoreText": "4.0",
-    "score": 3.9742267
-  },
-  {
-    "title": "Free Video Downloader - Video Downloader App",
-    "appId": "free.video.downloader.freevideodownloader",
-    "url": "https://play.google.com/store/apps/details?id=free.video.downloader.freevideodownloader",
-    "icon": "https://play-lh.googleusercontent.com/7EFNz7JQCgH8GDfDUSlLceR-3BLSVEqZtSsQgR3tUYaPxATsFdnjuPwkm9yPXpHBujso",
-    "developer": "Simple Design Ltd.",
-    "developerId": "Simple+Design+Ltd.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Fast download all videos from the Internet with free video downloader.",
-    "scoreText": "4.4",
-    "score": 4.368278
+    "score": 3.5936587
   },
   {
     "title": "Cashify - Sell Old & Used Mobile Phones Online",
@@ -2587,35 +2573,21 @@
     "free": true,
     "summary": "Sell Your Old and Used Smartphone in 60 Seconds and Get Instant Cash On Pickup.",
     "scoreText": "4.3",
-    "score": 4.325028
+    "score": 4.3230276
   },
   {
-    "title": "MX Takatak Lite",
-    "appId": "com.next.innovation.takatak.lite",
-    "url": "https://play.google.com/store/apps/details?id=com.next.innovation.takatak.lite",
-    "icon": "https://play-lh.googleusercontent.com/R1Em6oqBozfm9Ed_2TQl9xhaLbBEltALtXaUJVTt-ifPcyggBGPH8QTfjJIVEgk5jw",
-    "developer": "MX Media (formerly J2 Interactive)",
-    "developerId": "MX+Media+(formerly+J2+Interactive)",
+    "title": "Free Video Downloader - Video Downloader App",
+    "appId": "free.video.downloader.freevideodownloader",
+    "url": "https://play.google.com/store/apps/details?id=free.video.downloader.freevideodownloader",
+    "icon": "https://play-lh.googleusercontent.com/7EFNz7JQCgH8GDfDUSlLceR-3BLSVEqZtSsQgR3tUYaPxATsFdnjuPwkm9yPXpHBujso",
+    "developer": "Simple Design Ltd.",
+    "developerId": "Simple+Design+Ltd.",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "MX Takatak Lite -  A short video app",
-    "scoreText": "4.0",
-    "score": 4.0028353
-  },
-  {
-    "title": "QR Scanner - Barcode Scanner, QR Code Reader",
-    "appId": "com.trustedapp.qrcodebarcode",
-    "url": "https://play.google.com/store/apps/details?id=com.trustedapp.qrcodebarcode",
-    "icon": "https://play-lh.googleusercontent.com/LLYMyzStQ6mBtxB-yoxSeekuhcirzM5jo6xYxF1p1xuMABuAiLTl2bYD6vgRgwRD3ZU",
-    "developer": "TrustedApp",
-    "developerId": "5581123954802239973",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Scan QR Code, Barcode, QR code generator easily and quickly!!",
-    "scoreText": "4.6",
-    "score": 4.5993133
+    "summary": "Fast download all videos from the Internet with free video downloader.",
+    "scoreText": "4.4",
+    "score": 4.368616
   },
   {
     "title": "Vedantu: LIVE Learning App | Class 1-12, JEE, NEET",
@@ -2629,7 +2601,35 @@
     "free": true,
     "summary": "Education App for Students: Free LIVE classes, premium content &amp; NCERT Solutions",
     "scoreText": "4.1",
-    "score": 4.1353717
+    "score": 4.136569
+  },
+  {
+    "title": "MX Takatak Lite",
+    "appId": "com.next.innovation.takatak.lite",
+    "url": "https://play.google.com/store/apps/details?id=com.next.innovation.takatak.lite",
+    "icon": "https://play-lh.googleusercontent.com/R1Em6oqBozfm9Ed_2TQl9xhaLbBEltALtXaUJVTt-ifPcyggBGPH8QTfjJIVEgk5jw",
+    "developer": "MX Media (formerly J2 Interactive)",
+    "developerId": "MX+Media+(formerly+J2+Interactive)",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "MX Takatak Lite -  A short video app",
+    "scoreText": "4.0",
+    "score": 4.0192847
+  },
+  {
+    "title": "QR Scanner - Barcode Scanner, QR Code Reader",
+    "appId": "com.trustedapp.qrcodebarcode",
+    "url": "https://play.google.com/store/apps/details?id=com.trustedapp.qrcodebarcode",
+    "icon": "https://play-lh.googleusercontent.com/LLYMyzStQ6mBtxB-yoxSeekuhcirzM5jo6xYxF1p1xuMABuAiLTl2bYD6vgRgwRD3ZU",
+    "developer": "TrustedApp",
+    "developerId": "5581123954802239973",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Scan QR Code, Barcode, QR code generator easily and quickly!!",
+    "scoreText": "4.6",
+    "score": 4.5883017
   },
   {
     "title": "AppLock Go – App Lock with Security, Gallery Lock",
@@ -2643,7 +2643,7 @@
     "free": true,
     "summary": "AppLock Go: App Lock with a fingerprint &amp; Gallery Lock. Trusted by 1 Cr Indians.",
     "scoreText": "4.3",
-    "score": 4.302722
+    "score": 4.302152
   },
   {
     "title": "Story saver for Instagram, Video downloader, Reels",
@@ -2657,7 +2657,21 @@
     "free": true,
     "summary": "The best insta downloader to download videos, stories, photos from Instagram.",
     "scoreText": "4.8",
-    "score": 4.8179474
+    "score": 4.8180475
+  },
+  {
+    "title": "Gtv Live Sports",
+    "appId": "com.gtvlivesportsbd.gtvlive",
+    "url": "https://play.google.com/store/apps/details?id=com.gtvlivesportsbd.gtvlive",
+    "icon": "https://play-lh.googleusercontent.com/8utd6-gVjqERqxFWG-aPhajGU3fhTXG7CENFS2u2mMD3MIvUK-Th2MfLIiUvQv6C4k9x",
+    "developer": "Live Sports BD",
+    "developerId": "Live+Sports+BD",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Enjoy GTV Live sports app on your android mobile",
+    "scoreText": "3.9",
+    "score": 3.9404085
   },
   {
     "title": "Skin Tools",
@@ -2671,7 +2685,7 @@
     "free": true,
     "summary": "Download the complete Skin Config easily without safelink.",
     "scoreText": "4.5",
-    "score": 4.4738793
+    "score": 4.4731236
   },
   {
     "title": "Uplive - Live Video Streaming App",
@@ -2685,7 +2699,7 @@
     "free": true,
     "summary": "Uplive is one of the top video social apps, Hold in-house party online here",
     "scoreText": "4.2",
-    "score": 4.197283
+    "score": 4.1989007
   },
   {
     "title": "Opera Mini - fast web browser",
@@ -2699,21 +2713,7 @@
     "free": true,
     "summary": "Fast browser - offline file sharing, trending news, funny videos &amp; ad blocker.👍",
     "scoreText": "4.3",
-    "score": 4.318154
-  },
-  {
-    "title": "One Booster - Antivirus, Booster, Phone Cleaner",
-    "appId": "com.cleanteam.oneboost",
-    "url": "https://play.google.com/store/apps/details?id=com.cleanteam.oneboost",
-    "icon": "https://play-lh.googleusercontent.com/1EEkik4axHgMoiYIAQwcIWmxNhx3XYx3_gyvYGmlnsgAOozG6tw7H-iYXZomKmtgIOw",
-    "developer": "One Dot Moblie Limited",
-    "developerId": "8817236383700323055",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Keep the phone safe from virus, free up space and RAM to improve its performance",
-    "scoreText": "4.7",
-    "score": 4.6550927
+    "score": 4.3180485
   },
   {
     "title": "Adobe Acrobat Reader: Edit PDF",
@@ -2727,7 +2727,21 @@
     "free": true,
     "summary": "Sign PDFs on the screen for free. Effortlessly fill in, send &amp; receive files.",
     "scoreText": "4.6",
-    "score": 4.584626
+    "score": 4.584386
+  },
+  {
+    "title": "One Booster - Antivirus, Booster, Phone Cleaner",
+    "appId": "com.cleanteam.oneboost",
+    "url": "https://play.google.com/store/apps/details?id=com.cleanteam.oneboost",
+    "icon": "https://play-lh.googleusercontent.com/1EEkik4axHgMoiYIAQwcIWmxNhx3XYx3_gyvYGmlnsgAOozG6tw7H-iYXZomKmtgIOw",
+    "developer": "One Dot Moblie Limited",
+    "developerId": "8817236383700323055",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Keep the phone safe from virus, free up space and RAM to improve its performance",
+    "scoreText": "4.7",
+    "score": 4.6555085
   },
   {
     "title": "Duolingo: Learn English Free",
@@ -2741,35 +2755,7 @@
     "free": true,
     "summary": "Learn Spoken English and 30 other languages for free",
     "scoreText": "4.7",
-    "score": 4.6774697
-  },
-  {
-    "title": "Shopsy: App by Flipkart to Shop & Earn Money",
-    "appId": "com.flipkart.shopsy",
-    "url": "https://play.google.com/store/apps/details?id=com.flipkart.shopsy",
-    "icon": "https://play-lh.googleusercontent.com/4XViij3L_spzV2xl52i9-Qq2IcUukNtMEOPSIeD6JbNZq8mEzXK0YkUaz7ytifrW0-Q",
-    "developer": "Shopsy",
-    "developerId": "Shopsy",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Shopping App by Flipkart: Lowest Prices across Fashion &amp; more. Shop &amp; Earn Money",
-    "scoreText": "4.3",
-    "score": 4.333853
-  },
-  {
-    "title": "Google Photos",
-    "appId": "com.google.android.apps.photos",
-    "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
-    "icon": "https://play-lh.googleusercontent.com/ZyWNGIfzUyoajtFcD7NhMksHEZh37f-MkHVGr5Yfefa-IX7yj9SMfI82Z7a2wpdKCA",
-    "developer": "Google LLC",
-    "developerId": "5700313618786177705",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "The home for your memories. Relive, share, and organize your photos.",
-    "scoreText": "4.4",
-    "score": 4.4132752
+    "score": 4.6775036
   },
   {
     "title": "Automatic Call Recorder",
@@ -2783,20 +2769,34 @@
     "free": true,
     "summary": "The best way to record your phone calls.",
     "scoreText": "3.8",
-    "score": 3.7594366
+    "score": 3.7592769
   },
   {
-    "title": "Beauty Sweet Plus - Beauty Camera - Sweet Face",
-    "appId": "com.sweet.beauty.camera.plus.makeup.photo.editor",
-    "url": "https://play.google.com/store/apps/details?id=com.sweet.beauty.camera.plus.makeup.photo.editor",
-    "icon": "https://play-lh.googleusercontent.com/pM5yxW5RAj6l4UpDQvPklPnhiCR9QNuT_gT12CWfDmcF9-o7RW_O790z988spVdJUf0",
-    "developer": "GETECH Application",
-    "developerId": "6788597056868513100",
+    "title": "Shopsy: App by Flipkart to Shop & Earn Money",
+    "appId": "com.flipkart.shopsy",
+    "url": "https://play.google.com/store/apps/details?id=com.flipkart.shopsy",
+    "icon": "https://play-lh.googleusercontent.com/4XViij3L_spzV2xl52i9-Qq2IcUukNtMEOPSIeD6JbNZq8mEzXK0YkUaz7ytifrW0-Q",
+    "developer": "Shopsy",
+    "developerId": "Shopsy",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Beauty Sweet Plus - Sweet Snap  Let’s take a selfie with best selfie",
-    "scoreText": "4.0",
-    "score": 3.9691842
+    "summary": "Shopping App by Flipkart: Lowest Prices across Fashion &amp; more. Shop &amp; Earn Money",
+    "scoreText": "4.3",
+    "score": 4.344794
+  },
+  {
+    "title": "Google Photos",
+    "appId": "com.google.android.apps.photos",
+    "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+    "icon": "https://play-lh.googleusercontent.com/ZyWNGIfzUyoajtFcD7NhMksHEZh37f-MkHVGr5Yfefa-IX7yj9SMfI82Z7a2wpdKCA",
+    "developer": "Google LLC",
+    "developerId": "5700313618786177705",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "The home for your memories. Relive, share, and organize your photos.",
+    "scoreText": "4.4",
+    "score": 4.4131837
   }
 ]
