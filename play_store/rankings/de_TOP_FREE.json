@@ -1,19 +1,5 @@
 [
   {
-    "title": "CovPass",
-    "appId": "de.rki.covpass.app",
-    "url": "https://play.google.com/store/apps/details?id=de.rki.covpass.app",
-    "icon": "https://play-lh.googleusercontent.com/28acv1mXa-e5WtNWHMqtQDbh-IKUI_HN2_BvOhXJI3bbMHBkgwHtlX8CXbY8hfVnnw4",
-    "developer": "Robert Koch-Institut",
-    "developerId": "Robert+Koch-Institut",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Verify your vaccination, recovery, or negative test result.",
-    "scoreText": "4.2",
-    "score": 4.1837354
-  },
-  {
     "title": "Corona-Warn-App",
     "appId": "de.rki.coronawarnapp",
     "url": "https://play.google.com/store/apps/details?id=de.rki.coronawarnapp",
@@ -25,7 +11,21 @@
     "free": true,
     "summary": "Let‘s fight Corona together",
     "scoreText": "3.2",
-    "score": 3.1912892
+    "score": 3.189595
+  },
+  {
+    "title": "CovPass",
+    "appId": "de.rki.covpass.app",
+    "url": "https://play.google.com/store/apps/details?id=de.rki.covpass.app",
+    "icon": "https://play-lh.googleusercontent.com/28acv1mXa-e5WtNWHMqtQDbh-IKUI_HN2_BvOhXJI3bbMHBkgwHtlX8CXbY8hfVnnw4",
+    "developer": "Robert Koch-Institut",
+    "developerId": "Robert+Koch-Institut",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Verify your vaccination, recovery, or negative test result.",
+    "scoreText": "4.2",
+    "score": 4.1832914
   },
   {
     "title": "CovPassCheck",
@@ -39,7 +39,7 @@
     "free": true,
     "summary": "Quickly check EU Digital COVID certificates with the app.",
     "scoreText": "3.7",
-    "score": 3.7081218
+    "score": 3.71
   },
   {
     "title": "VR SecureGo plus: Zahlungen direkt freigeben",
@@ -53,7 +53,7 @@
     "free": true,
     "summary": "Authenticate banking and credit card transactions quickly and securely",
     "scoreText": "2.4",
-    "score": 2.432773
+    "score": 2.4268293
   },
   {
     "title": "QR & Barcode Scanner",
@@ -67,7 +67,7 @@
     "free": true,
     "summary": "The fastest QR code reader and Barcode scanner.",
     "scoreText": "4.6",
-    "score": 4.6360354
+    "score": 4.63622
   },
   {
     "title": "TikTok",
@@ -81,7 +81,7 @@
     "free": true,
     "summary": "Videos, Music &amp; Live Streams",
     "scoreText": "4.4",
-    "score": 4.3931704
+    "score": 4.3935122
   },
   {
     "title": "PayPal - Send, Shop, Manage",
@@ -95,7 +95,7 @@
     "free": true,
     "summary": "The PayPal app is the secure way to send and receive money, shop and pay in 4.",
     "scoreText": "4.6",
-    "score": 4.5848145
+    "score": 4.584446
   },
   {
     "title": "Kaufland - Offers & Leaflet",
@@ -109,7 +109,7 @@
     "free": true,
     "summary": "Discover supermarket offers, leaflets &amp; discounts. Plan your shopping list now.",
     "scoreText": "4.4",
-    "score": 4.427156
+    "score": 4.4249277
   },
   {
     "title": "ZOOM Cloud Meetings",
@@ -123,7 +123,7 @@
     "free": true,
     "summary": "Zoom is a free HD meeting app with video and screen sharing for up to 100 people",
     "scoreText": "4.2",
-    "score": 4.172704
+    "score": 4.174536
   },
   {
     "title": "Microsoft Teams",
@@ -137,7 +137,7 @@
     "free": true,
     "summary": "Chat, call or meet with anyone from anywhere with Microsoft Teams",
     "scoreText": "4.5",
-    "score": 4.456604
+    "score": 4.45538
   },
   {
     "title": "Blood Pressure App",
@@ -151,7 +151,7 @@
     "free": true,
     "summary": "Track your blood pressure easily and know reliable BP information.",
     "scoreText": "4.8",
-    "score": 4.75
+    "score": 4.7622375
   },
   {
     "title": "Mein dm",
@@ -165,7 +165,7 @@
     "free": true,
     "summary": "Your dm in one app - with shopping, coupons, Glückskind, PAYBACK, etc.",
     "scoreText": "4.6",
-    "score": 4.6312037
+    "score": 4.6333075
   },
   {
     "title": "eBay Kleinanzeigen Marketplace",
@@ -179,21 +179,7 @@
     "free": true,
     "summary": "Buy &amp; sell quickly and easily with Germany&#39;s biggest online flea market",
     "scoreText": "4.7",
-    "score": 4.687389
-  },
-  {
-    "title": "Post & DHL",
-    "appId": "de.dhl.paket",
-    "url": "https://play.google.com/store/apps/details?id=de.dhl.paket",
-    "icon": "https://play-lh.googleusercontent.com/8YSqYPpvDCZ_Z-nDfz_2tYY3dLNLYbN5g3hjEHzM4AB3clWhO8aEa5nBcNQi7Z8j9tE",
-    "developer": "Deutsche Post DHL",
-    "developerId": "Deutsche+Post+DHL",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Use the Post &amp; DHL offer conveniently on your smartphone or tablet",
-    "scoreText": "4.1",
-    "score": 4.134669
+    "score": 4.6872625
   },
   {
     "title": "Telegram",
@@ -207,7 +193,21 @@
     "free": true,
     "summary": "Telegram is a messaging app with a focus on speed and security.",
     "scoreText": "4.2",
-    "score": 4.1558657
+    "score": 4.1556454
+  },
+  {
+    "title": "Post & DHL",
+    "appId": "de.dhl.paket",
+    "url": "https://play.google.com/store/apps/details?id=de.dhl.paket",
+    "icon": "https://play-lh.googleusercontent.com/8YSqYPpvDCZ_Z-nDfz_2tYY3dLNLYbN5g3hjEHzM4AB3clWhO8aEa5nBcNQi7Z8j9tE",
+    "developer": "Deutsche Post DHL",
+    "developerId": "Deutsche+Post+DHL",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Use the Post &amp; DHL offer conveniently on your smartphone or tablet",
+    "scoreText": "4.1",
+    "score": 4.134432
   },
   {
     "title": "S-pushTAN",
@@ -221,7 +221,7 @@
     "free": true,
     "summary": "Mobile banking with S-pushTAN",
     "scoreText": "4.0",
-    "score": 3.9850264
+    "score": 3.9830234
   },
   {
     "title": "Opera Browser: Fast & Private",
@@ -235,7 +235,7 @@
     "free": true,
     "summary": "Meet the secure Opera Browser featuring privacy features, VPN &amp; Adblocker",
     "scoreText": "4.5",
-    "score": 4.541753
+    "score": 4.5417576
   },
   {
     "title": "Lidl Plus",
@@ -249,7 +249,7 @@
     "free": true,
     "summary": "Welcome to Lidl Plus - the app full of advantages and discounts",
     "scoreText": "4.3",
-    "score": 4.2583685
+    "score": 4.2588396
   },
   {
     "title": "QR Scanner - Barcode Scanner",
@@ -263,7 +263,7 @@
     "free": true,
     "summary": "Scan QR code &amp; Barcode with a fast QR code reader and create your own QR codes.",
     "scoreText": "4.6",
-    "score": 4.562249
+    "score": 4.5652175
   },
   {
     "title": "Doctolib",
@@ -277,7 +277,7 @@
     "free": true,
     "summary": "Book a physical or video consultation with a health professional",
     "scoreText": "4.8",
-    "score": 4.786802
+    "score": 4.783208
   },
   {
     "title": "Mein Laborergebnis",
@@ -305,7 +305,7 @@
     "free": true,
     "summary": "Easy shopping, easy payments",
     "scoreText": "4.6",
-    "score": 4.6418138
+    "score": 4.6410027
   },
   {
     "title": "OTTO - Shopping und Möbel",
@@ -319,21 +319,7 @@
     "free": true,
     "summary": "Huge selection of fashion, fashion, sneakers, furniture, furnishings &amp; technology",
     "scoreText": "4.6",
-    "score": 4.5967855
-  },
-  {
-    "title": "Duolingo: language lessons",
-    "appId": "com.duolingo",
-    "url": "https://play.google.com/store/apps/details?id=com.duolingo",
-    "icon": "https://play-lh.googleusercontent.com/hSyebBlYwtE2aMjzSIHasUO9cQv9HgNAw9owy6ADO0szOKYO3rDk60r7jcyXu82Fbq1M",
-    "developer": "Duolingo",
-    "developerId": "6957685454452609502",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Learn Spanish, French, German, Italian, English and more languages for free.",
-    "scoreText": "4.4",
-    "score": 4.4063826
+    "score": 4.5967884
   },
   {
     "title": "Instagram",
@@ -347,63 +333,7 @@
     "free": true,
     "summary": "Bringing you closer to the people and things you love.",
     "scoreText": "3.5",
-    "score": 3.5054367
-  },
-  {
-    "title": "GreenPass EU",
-    "appId": "eu.greenpassapp.greenpassrk",
-    "url": "https://play.google.com/store/apps/details?id=eu.greenpassapp.greenpassrk",
-    "icon": "https://play-lh.googleusercontent.com/ICarnMNaVgddS6enpE0hOZ-XUZ8EI0ysf-RiAKlsubw-iR73KICRKNi57Y5ZTPxHSwkV",
-    "developer": "Österreichisches Rotes Kreuz, Landesverband OÖ",
-    "developerId": "%C3%96sterreichisches+Rotes+Kreuz,+Landesverband+O%C3%96",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "GreenPass enables the management of digital green certificates throughout the EU",
-    "scoreText": "3.9",
-    "score": 3.8666666
-  },
-  {
-    "title": "Sparkasse Ihre mobile Filiale",
-    "appId": "com.starfinanz.smob.android.sfinanzstatus",
-    "url": "https://play.google.com/store/apps/details?id=com.starfinanz.smob.android.sfinanzstatus",
-    "icon": "https://play-lh.googleusercontent.com/xx3G2EbL8GjsrOtYSu7RFsjKxeqy-BD2-U41mdjUmLBhWWJiy08ZtECpTbJE--63sdQ",
-    "developer": "Star Finanz GmbH",
-    "developerId": "7726158915375061177",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "THE OFFICIAL APP OF THE SAVINGS BANK - YOUR MOBILE STORE",
-    "scoreText": "4.4",
-    "score": 4.421345
-  },
-  {
-    "title": "luca",
-    "appId": "de.culture4life.luca",
-    "url": "https://play.google.com/store/apps/details?id=de.culture4life.luca",
-    "icon": "https://play-lh.googleusercontent.com/AI6EHrRPbj1IBAK3Xv3cremc35aOM08WDHh1eDvh58H_iUb2LNO84s9yI6Y7ceg2Szc",
-    "developer": "culture4life GmbH",
-    "developerId": "culture4life+GmbH",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "luca helps you to share your contact data encrypted and securely.",
-    "scoreText": "3.9",
-    "score": 3.9198825
-  },
-  {
-    "title": "Disney+",
-    "appId": "com.disney.disneyplus",
-    "url": "https://play.google.com/store/apps/details?id=com.disney.disneyplus",
-    "icon": "https://play-lh.googleusercontent.com/xoGGYH2LgLibLDBoxMg-ZE16b-RNfITw_OgXBWRAPin2FZY4FGB9QKBYApR-0rSCkQ",
-    "developer": "Disney",
-    "developerId": "Disney",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Stream and download your favorite movies, TV shows &amp; Originals on Disney+",
-    "scoreText": "3.9",
-    "score": 3.8810425
+    "score": 3.505682
   },
   {
     "title": "Snapchat",
@@ -417,49 +347,21 @@
     "free": true,
     "summary": "Share the moment!",
     "scoreText": "4.1",
-    "score": 4.112108
+    "score": 4.11199
   },
   {
-    "title": "QR & Barcode Reader",
-    "appId": "com.teacapps.barcodescanner",
-    "url": "https://play.google.com/store/apps/details?id=com.teacapps.barcodescanner",
-    "icon": "https://play-lh.googleusercontent.com/-CvY0c-MmYQf2xaJQ6TVj_PZO4lpKG3T-i78UOolkpMxwlUen3KsakPA7I8OOwjOx_Q",
-    "developer": "TeaCapps",
-    "developerId": "TeaCapps",
+    "title": "Duolingo: language lessons",
+    "appId": "com.duolingo",
+    "url": "https://play.google.com/store/apps/details?id=com.duolingo",
+    "icon": "https://play-lh.googleusercontent.com/hSyebBlYwtE2aMjzSIHasUO9cQv9HgNAw9owy6ADO0szOKYO3rDk60r7jcyXu82Fbq1M",
+    "developer": "Duolingo",
+    "developerId": "6957685454452609502",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Functional QR scanner and barcode reader that requires little storage space.",
+    "summary": "Learn Spanish, French, German, Italian, English and more languages for free.",
     "scoreText": "4.4",
-    "score": 4.4463687
-  },
-  {
-    "title": "Samsung Smart Switch Mobile",
-    "appId": "com.sec.android.easyMover",
-    "url": "https://play.google.com/store/apps/details?id=com.sec.android.easyMover",
-    "icon": "https://play-lh.googleusercontent.com/KlHY0O3groJhp-QsW4CBfxZuabFkfGOhjIjrlQw-b28Z6KXmYn3QSFbrtgZsJz4HYw",
-    "developer": "Samsung Electronics Co.,  Ltd.",
-    "developerId": "5200379633052405703",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "If you can't download, you can open Smart Switch from device's Settings menu",
-    "scoreText": "4.0",
-    "score": 3.95764
-  },
-  {
-    "title": "WhatsApp Messenger",
-    "appId": "com.whatsapp",
-    "url": "https://play.google.com/store/apps/details?id=com.whatsapp",
-    "icon": "https://play-lh.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN",
-    "developer": "WhatsApp LLC",
-    "developerId": "WhatsApp+LLC",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Simple. Reliable. Private.",
-    "scoreText": "3.9",
-    "score": 3.903966
+    "score": 4.4061294
   },
   {
     "title": "Fressnapf - Tierbedarf",
@@ -476,6 +378,118 @@
     "score": 3.27
   },
   {
+    "title": "GreenPass EU",
+    "appId": "eu.greenpassapp.greenpassrk",
+    "url": "https://play.google.com/store/apps/details?id=eu.greenpassapp.greenpassrk",
+    "icon": "https://play-lh.googleusercontent.com/ICarnMNaVgddS6enpE0hOZ-XUZ8EI0ysf-RiAKlsubw-iR73KICRKNi57Y5ZTPxHSwkV",
+    "developer": "Österreichisches Rotes Kreuz, Landesverband OÖ",
+    "developerId": "%C3%96sterreichisches+Rotes+Kreuz,+Landesverband+O%C3%96",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "GreenPass enables the management of digital green certificates throughout the EU",
+    "scoreText": "3.8",
+    "score": 3.7931035
+  },
+  {
+    "title": "Sparkasse Ihre mobile Filiale",
+    "appId": "com.starfinanz.smob.android.sfinanzstatus",
+    "url": "https://play.google.com/store/apps/details?id=com.starfinanz.smob.android.sfinanzstatus",
+    "icon": "https://play-lh.googleusercontent.com/xx3G2EbL8GjsrOtYSu7RFsjKxeqy-BD2-U41mdjUmLBhWWJiy08ZtECpTbJE--63sdQ",
+    "developer": "Star Finanz GmbH",
+    "developerId": "7726158915375061177",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "THE OFFICIAL APP OF THE SAVINGS BANK - YOUR MOBILE STORE",
+    "scoreText": "4.4",
+    "score": 4.421507
+  },
+  {
+    "title": "luca",
+    "appId": "de.culture4life.luca",
+    "url": "https://play.google.com/store/apps/details?id=de.culture4life.luca",
+    "icon": "https://play-lh.googleusercontent.com/AI6EHrRPbj1IBAK3Xv3cremc35aOM08WDHh1eDvh58H_iUb2LNO84s9yI6Y7ceg2Szc",
+    "developer": "culture4life GmbH",
+    "developerId": "culture4life+GmbH",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "luca helps you to share your contact data encrypted and securely.",
+    "scoreText": "3.9",
+    "score": 3.9204185
+  },
+  {
+    "title": "Disney+",
+    "appId": "com.disney.disneyplus",
+    "url": "https://play.google.com/store/apps/details?id=com.disney.disneyplus",
+    "icon": "https://play-lh.googleusercontent.com/xoGGYH2LgLibLDBoxMg-ZE16b-RNfITw_OgXBWRAPin2FZY4FGB9QKBYApR-0rSCkQ",
+    "developer": "Disney",
+    "developerId": "Disney",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Stream and download your favorite movies, TV shows &amp; Originals on Disney+",
+    "scoreText": "3.9",
+    "score": 3.8863156
+  },
+  {
+    "title": "QR & Barcode Reader",
+    "appId": "com.teacapps.barcodescanner",
+    "url": "https://play.google.com/store/apps/details?id=com.teacapps.barcodescanner",
+    "icon": "https://play-lh.googleusercontent.com/-CvY0c-MmYQf2xaJQ6TVj_PZO4lpKG3T-i78UOolkpMxwlUen3KsakPA7I8OOwjOx_Q",
+    "developer": "TeaCapps",
+    "developerId": "TeaCapps",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Functional QR scanner and barcode reader that requires little storage space.",
+    "scoreText": "4.4",
+    "score": 4.4455876
+  },
+  {
+    "title": "Samsung Smart Switch Mobile",
+    "appId": "com.sec.android.easyMover",
+    "url": "https://play.google.com/store/apps/details?id=com.sec.android.easyMover",
+    "icon": "https://play-lh.googleusercontent.com/KlHY0O3groJhp-QsW4CBfxZuabFkfGOhjIjrlQw-b28Z6KXmYn3QSFbrtgZsJz4HYw",
+    "developer": "Samsung Electronics Co.,  Ltd.",
+    "developerId": "5200379633052405703",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "If you can't download, you can open Smart Switch from device's Settings menu",
+    "scoreText": "4.0",
+    "score": 3.958428
+  },
+  {
+    "title": "Lieferando.de - Order Food",
+    "appId": "com.yopeso.lieferando",
+    "url": "https://play.google.com/store/apps/details?id=com.yopeso.lieferando",
+    "icon": "https://play-lh.googleusercontent.com/m3rRmjE9J6Ojug58m96ovhwO0Qqp85EQoxpl1qeza4P_ZjKbjax8BDwSWdmxxDJ9ChM",
+    "developer": "Takeaway.com",
+    "developerId": "Takeaway.com",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Hungry? No mood for cooking? Order delicious food now with Lieferando.de app!",
+    "scoreText": "4.3",
+    "score": 4.32493
+  },
+  {
+    "title": "WhatsApp Messenger",
+    "appId": "com.whatsapp",
+    "url": "https://play.google.com/store/apps/details?id=com.whatsapp",
+    "icon": "https://play-lh.googleusercontent.com/bYtqbOcTYOlgc6gqZ2rwb8lptHuwlNE75zYJu6Bn076-hTmvd96HH-6v7S0YUAAJXoJN",
+    "developer": "WhatsApp LLC",
+    "developerId": "WhatsApp+LLC",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Simple. Reliable. Private.",
+    "scoreText": "3.9",
+    "score": 3.9039617
+  },
+  {
     "title": "Amazon Prime Video",
     "appId": "com.amazon.avod.thirdpartyclient",
     "url": "https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient",
@@ -487,7 +501,7 @@
     "free": true,
     "summary": "Watch TV shows and movies including award-winning Amazon exclusives.",
     "scoreText": "4.2",
-    "score": 4.215883
+    "score": 4.21648
   },
   {
     "title": "Adobe Acrobat Reader: Edit PDF",
@@ -501,7 +515,7 @@
     "free": true,
     "summary": "Sign PDFs on the go. Effortlessly fill in, send &amp; receive files.",
     "scoreText": "4.5",
-    "score": 4.5023155
+    "score": 4.50262
   },
   {
     "title": "Triple A",
@@ -529,21 +543,7 @@
     "free": true,
     "summary": "Browse, search &amp; buy millions of products right from your Android device.",
     "scoreText": "4.2",
-    "score": 4.205767
-  },
-  {
-    "title": "Lieferando.de - Order Food",
-    "appId": "com.yopeso.lieferando",
-    "url": "https://play.google.com/store/apps/details?id=com.yopeso.lieferando",
-    "icon": "https://play-lh.googleusercontent.com/m3rRmjE9J6Ojug58m96ovhwO0Qqp85EQoxpl1qeza4P_ZjKbjax8BDwSWdmxxDJ9ChM",
-    "developer": "Takeaway.com",
-    "developerId": "Takeaway.com",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Hungry? No mood for cooking? Order delicious food now with Lieferando.de app!",
-    "scoreText": "4.3",
-    "score": 4.3243523
+    "score": 4.205681
   },
   {
     "title": "Pinterest",
@@ -557,7 +557,7 @@
     "free": true,
     "summary": "One destination for a world of inspiration.",
     "scoreText": "4.4",
-    "score": 4.437879
+    "score": 4.4371967
   },
   {
     "title": "Signal Private Messenger",
@@ -571,7 +571,7 @@
     "free": true,
     "summary": "Say “hello” to privacy.",
     "scoreText": "4.5",
-    "score": 4.4863605
+    "score": 4.486518
   },
   {
     "title": "Vinted - Second-hand clothing",
@@ -585,7 +585,7 @@
     "free": true,
     "summary": "Sell and thrift for clothes on the marketplace app for vintage fashion!",
     "scoreText": "4.3",
-    "score": 4.3318815
+    "score": 4.3315988
   },
   {
     "title": "MeinMagenta: Handy & Festnetz",
@@ -599,7 +599,7 @@
     "free": true,
     "summary": "Your consumption, costs and all services in one app",
     "scoreText": "4.2",
-    "score": 4.2195225
+    "score": 4.218658
   },
   {
     "title": "Stolpersteine NRW",
@@ -627,7 +627,7 @@
     "free": true,
     "summary": "Dive into anything",
     "scoreText": "4.0",
-    "score": 4.0274096
+    "score": 4.027491
   },
   {
     "title": "HealthForYou",
@@ -641,7 +641,7 @@
     "free": true,
     "summary": "HealthForYou – stay active, healthy and connected",
     "scoreText": "3.5",
-    "score": 3.5179152
+    "score": 3.538961
   },
   {
     "title": "CapCut - Video Editor",
@@ -655,7 +655,7 @@
     "free": true,
     "summary": "Capture the moment and Cut",
     "scoreText": "4.3",
-    "score": 4.3006196
+    "score": 4.291282
   },
   {
     "title": "Nect",
@@ -669,7 +669,7 @@
     "free": true,
     "summary": "Nect Selfie Ident - The next generation of digital identity verification.",
     "scoreText": "4.8",
-    "score": 4.76149
+    "score": 4.7589746
   },
   {
     "title": "Google Translate",
@@ -683,7 +683,21 @@
     "free": true,
     "summary": "The world is closer than ever with over 100 languages",
     "scoreText": "4.3",
-    "score": 4.3230367
+    "score": 4.312254
+  },
+  {
+    "title": "Netflix",
+    "appId": "com.netflix.mediaclient",
+    "url": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient",
+    "icon": "https://play-lh.googleusercontent.com/TBRwjS_qfJCSj1m7zZB93FnpJM5fSpMA_wUlFDLxWAb45T9RmwBvQd5cWR5viJJOhkI",
+    "developer": "Netflix, Inc.",
+    "developerId": "Netflix,+Inc.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Netflix is the leading subscription service for watching TV episodes and movies.",
+    "scoreText": "4.1",
+    "score": 4.063001
   },
   {
     "title": "McDonald’s Deutschland",
@@ -697,7 +711,7 @@
     "free": true,
     "summary": "The official McDonald's app: coupons, vouchers, promotions, products, services",
     "scoreText": "4.5",
-    "score": 4.4979825
+    "score": 4.498468
   },
   {
     "title": "what3words",
@@ -711,7 +725,7 @@
     "free": true,
     "summary": "This free app helps you find, share and navigate to any precise location",
     "scoreText": "3.8",
-    "score": 3.7586207
+    "score": 3.7510917
   },
   {
     "title": "VR Banking - Deine mobile Bank",
@@ -725,7 +739,7 @@
     "free": true,
     "summary": "Manage bank accounts on the go",
     "scoreText": "2.1",
-    "score": 2.0925925
+    "score": 2.0723684
   },
   {
     "title": "Zalando – online fashion store",
@@ -739,7 +753,21 @@
     "free": true,
     "summary": "Shop the latest trends and get inspiration on the go, anytime.",
     "scoreText": "4.7",
-    "score": 4.7065163
+    "score": 4.7065153
+  },
+  {
+    "title": "Spotify: Music and Podcasts",
+    "appId": "com.spotify.music",
+    "url": "https://play.google.com/store/apps/details?id=com.spotify.music",
+    "icon": "https://play-lh.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM",
+    "developer": "Spotify AB",
+    "developerId": "Spotify+AB",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Discover new music &amp; play your favorite songs, albums, artists &amp; podcasts",
+    "scoreText": "4.2",
+    "score": 4.204992
   },
   {
     "title": "CHECK24 Vergleiche",
@@ -753,7 +781,7 @@
     "free": true,
     "summary": "Compare, change, save. Compare with CHECK24 prices and conditions.",
     "scoreText": "4.7",
-    "score": 4.7290964
+    "score": 4.7298203
   },
   {
     "title": "Discord - Chat, Talk & Hangout",
@@ -767,7 +795,7 @@
     "free": true,
     "summary": "Chat, game, stream, share, join communities and hang out with friends.",
     "scoreText": "4.2",
-    "score": 4.180099
+    "score": 4.180791
   },
   {
     "title": "Move to iOS",
@@ -795,7 +823,7 @@
     "free": true,
     "summary": "The free learning app for all subjects for K-5. For classrooms &amp; homeschooling.",
     "scoreText": "4.8",
-    "score": 4.804599
+    "score": 4.804275
   },
   {
     "title": "Smart Cleaner",
@@ -809,7 +837,7 @@
     "free": true,
     "summary": "Smart Cleaner is a professional and easy-to-use cleaning management tool",
     "scoreText": "4.6",
-    "score": 4.5779815
+    "score": 4.61
   },
   {
     "title": "Flink: Groceries in minutes",
@@ -826,18 +854,18 @@
     "score": 4.536932
   },
   {
-    "title": "Netflix",
-    "appId": "com.netflix.mediaclient",
-    "url": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient",
-    "icon": "https://play-lh.googleusercontent.com/TBRwjS_qfJCSj1m7zZB93FnpJM5fSpMA_wUlFDLxWAb45T9RmwBvQd5cWR5viJJOhkI",
-    "developer": "Netflix, Inc.",
-    "developerId": "Netflix,+Inc.",
+    "title": "eBay: The shopping marketplace",
+    "appId": "com.ebay.mobile",
+    "url": "https://play.google.com/store/apps/details?id=com.ebay.mobile",
+    "icon": "https://play-lh.googleusercontent.com/31-mJUIynIfQBizOn-w1yWLKHBxVeRKA3gz348_E3K-TnuEaqCjn_-Fr9j0yQ6i0y5E",
+    "developer": "eBay Mobile",
+    "developerId": "6005619443614255030",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Netflix is the leading subscription service for watching TV episodes and movies.",
-    "scoreText": "4.1",
-    "score": 4.0640407
+    "summary": "Shop, discover deals, make money - tech, fashion, watches, sneakers, home/garden",
+    "scoreText": "4.5",
+    "score": 4.504021
   },
   {
     "title": "Taxfix German tax declaration",
@@ -851,7 +879,7 @@
     "free": true,
     "summary": "Fast &amp; easy tax software without tax forms. For employees, students and expats",
     "scoreText": "4.5",
-    "score": 4.489023
+    "score": 4.4908094
   },
   {
     "title": "Joyn | deine Streaming App",
@@ -865,21 +893,7 @@
     "free": true,
     "summary": "Over 60 live TV channels and a media library with originals, previews and more.",
     "scoreText": "3.2",
-    "score": 3.2039058
-  },
-  {
-    "title": "Spotify: Music and Podcasts",
-    "appId": "com.spotify.music",
-    "url": "https://play.google.com/store/apps/details?id=com.spotify.music",
-    "icon": "https://play-lh.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM",
-    "developer": "Spotify AB",
-    "developerId": "Spotify+AB",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Discover new music &amp; play your favorite songs, albums, artists &amp; podcasts",
-    "scoreText": "4.2",
-    "score": 4.2048483
+    "score": 3.2033138
   },
   {
     "title": "ePassGo",
@@ -892,22 +906,8 @@
     "price": 0,
     "free": true,
     "summary": "Für Privatpersonen",
-    "scoreText": "3.3",
-    "score": 3.2596154
-  },
-  {
-    "title": "eBay: The shopping marketplace",
-    "appId": "com.ebay.mobile",
-    "url": "https://play.google.com/store/apps/details?id=com.ebay.mobile",
-    "icon": "https://play-lh.googleusercontent.com/31-mJUIynIfQBizOn-w1yWLKHBxVeRKA3gz348_E3K-TnuEaqCjn_-Fr9j0yQ6i0y5E",
-    "developer": "eBay Mobile",
-    "developerId": "6005619443614255030",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Shop, discover deals, make money - tech, fashion, watches, sneakers, home/garden",
-    "scoreText": "4.5",
-    "score": 4.5038376
+    "scoreText": "3.2",
+    "score": 3.2476192
   },
   {
     "title": "YAZIO Fasting & Food Tracker",
@@ -921,7 +921,7 @@
     "free": true,
     "summary": "No-Diet Weight Loss: Lose Weight with Calorie Counting &amp; Intermittent Fasting",
     "scoreText": "4.5",
-    "score": 4.5412755
+    "score": 4.541732
   },
   {
     "title": "RTL+",
@@ -935,7 +935,7 @@
     "free": true,
     "summary": "RTL +: Germany's largest entertainment in one app",
     "scoreText": "3.5",
-    "score": 3.4871795
+    "score": 3.4886017
   },
   {
     "title": "Amazon Alexa",
@@ -949,7 +949,7 @@
     "free": true,
     "summary": "ALWAYS READY, CONNECTED, AND FAST. Just ask.",
     "scoreText": "4.3",
-    "score": 4.2930737
+    "score": 4.292821
   },
   {
     "title": "EDEKA",
@@ -963,7 +963,7 @@
     "free": true,
     "summary": "Save when shopping with offers, vouchers and coupons &amp; pay via app!",
     "scoreText": "4.2",
-    "score": 4.2130156
+    "score": 4.220447
   },
   {
     "title": "SHEIN-Fashion Shopping Online",
@@ -977,7 +977,7 @@
     "free": true,
     "summary": "Meet the SHEIN app - Your one-stop shop for trends at prices you'll Love!",
     "scoreText": "4.4",
-    "score": 4.3557396
+    "score": 4.35588
   },
   {
     "title": "ImmoScout24 - House & Apartment Search",
@@ -991,21 +991,7 @@
     "free": true,
     "summary": "Find, rent and buy real estate or property in Germany with the Immo Scout app.",
     "scoreText": "4.3",
-    "score": 4.2899895
-  },
-  {
-    "title": "Joom. Shopping for every day.",
-    "appId": "com.joom",
-    "url": "https://play.google.com/store/apps/details?id=com.joom",
-    "icon": "https://play-lh.googleusercontent.com/1mmKs73UWn-3ntvGfV35Ze49Zbsx7T_sqXO9XjUGPUufYtfljCEIlt2nFY8-OKrWcg",
-    "developer": "Joom",
-    "developerId": "Joom",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Free worldwide shipping, low prices, special deals, and customer reviews.",
-    "scoreText": "4.5",
-    "score": 4.51406
+    "score": 4.289869
   },
   {
     "title": "HP Smart",
@@ -1019,7 +1005,7 @@
     "free": true,
     "summary": "Set up, scan, print, share, and manage your HP printer",
     "scoreText": "3.9",
-    "score": 3.9235215
+    "score": 3.9193976
   },
   {
     "title": "AusweisApp2",
@@ -1033,7 +1019,7 @@
     "free": true,
     "summary": "Use of the online ID function with ID card / e-residence permit / eID",
     "scoreText": "3.6",
-    "score": 3.576723
+    "score": 3.5782664
   },
   {
     "title": "kaufDA - Weekly Ads, Discounts & Local Deals",
@@ -1047,7 +1033,7 @@
     "free": true,
     "summary": "Find weekly ads &amp; local deals in one app. Save € at Lidl, Edeka, Saturn...",
     "scoreText": "4.4",
-    "score": 4.370282
+    "score": 4.3696594
   },
   {
     "title": "PAYBACK - Karte und Coupons",
@@ -1061,7 +1047,7 @@
     "free": true,
     "summary": "Even more points, exclusive coupons and offers. Save now!",
     "scoreText": "4.1",
-    "score": 4.0650535
+    "score": 4.0652647
   },
   {
     "title": "Super VPN-Secure Fast",
@@ -1074,8 +1060,8 @@
     "price": 0,
     "free": true,
     "summary": "Super VPN high speed and stability",
-    "scoreText": "4.2",
-    "score": 4.1747575
+    "scoreText": "4.3",
+    "score": 4.267327
   },
   {
     "title": "simpleclub - Die Lernapp",
@@ -1089,7 +1075,7 @@
     "free": true,
     "summary": "The # 1 for school &amp; home",
     "scoreText": "4.3",
-    "score": 4.2601504
+    "score": 4.254491
   },
   {
     "title": "Picsart Photo & Video Editor",
@@ -1103,7 +1089,21 @@
     "free": true,
     "summary": "Remix pictures &amp; stickers into awesome collages and memes",
     "scoreText": "4.0",
-    "score": 4.0105815
+    "score": 4.0107026
+  },
+  {
+    "title": "Joom. Shopping for every day.",
+    "appId": "com.joom",
+    "url": "https://play.google.com/store/apps/details?id=com.joom",
+    "icon": "https://play-lh.googleusercontent.com/1mmKs73UWn-3ntvGfV35Ze49Zbsx7T_sqXO9XjUGPUufYtfljCEIlt2nFY8-OKrWcg",
+    "developer": "Joom",
+    "developerId": "Joom",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Free worldwide shipping, low prices, special deals, and customer reviews.",
+    "scoreText": "4.5",
+    "score": 4.5133123
   },
   {
     "title": "Music Downloader Mp3 Download Music",
@@ -1117,7 +1117,7 @@
     "free": true,
     "summary": "Mp3 Music Downloader for you Search unlimited download new music",
     "scoreText": "4.8",
-    "score": 4.821429
+    "score": 4.8175673
   },
   {
     "title": "Twitch: Live Game Streaming",
@@ -1131,21 +1131,7 @@
     "free": true,
     "summary": "Multiplayer Gaming, Live Esports &amp; Gamer Chat: Watch Fortnite, Minecraft &amp; PUBG",
     "scoreText": "4.4",
-    "score": 4.4265556
-  },
-  {
-    "title": "POSTIDENT",
-    "appId": "de.deutschepost.postident",
-    "url": "https://play.google.com/store/apps/details?id=de.deutschepost.postident",
-    "icon": "https://play-lh.googleusercontent.com/uOT97F7BAdbjsQoqA73HSnvQhs3XWlO_yIMGdKACF5AGX0qgImiZ6Wqg2ts5zyZBhSJ-",
-    "developer": "Deutsche Post DHL",
-    "developerId": "Deutsche+Post+DHL",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "POSTIDENT for the convenient, simple and secure verification of your identity.",
-    "scoreText": "4.5",
-    "score": 4.506769
+    "score": 4.426557
   },
   {
     "title": "Too Good To Go: End Food Waste",
@@ -1159,7 +1145,7 @@
     "free": true,
     "summary": "Eat delicious food for next to nothing and fight food waste!",
     "scoreText": "4.8",
-    "score": 4.8297253
+    "score": 4.8293204
   },
   {
     "title": "IKEA",
@@ -1173,21 +1159,7 @@
     "free": true,
     "summary": "With the IKEA app, you can explore, shop for furniture, and check out—simply.",
     "scoreText": "4.3",
-    "score": 4.2582555
-  },
-  {
-    "title": "DB Navigator",
-    "appId": "de.hafas.android.db",
-    "url": "https://play.google.com/store/apps/details?id=de.hafas.android.db",
-    "icon": "https://play-lh.googleusercontent.com/6ErQQ0bzaLghv2F2dm5smkPjYQ_t9uep0yi3OSYY16O9QdyQfV1Uj2TW5MT-wRHJbg",
-    "developer": "Deutsche Bahn",
-    "developerId": "Deutsche+Bahn",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Tickets, real-time information and coach sequence",
-    "scoreText": "3.5",
-    "score": 3.5410707
+    "score": 4.251487
   },
   {
     "title": "FaceApp: Face Editor",
@@ -1201,119 +1173,35 @@
     "free": true,
     "summary": "Natural Beauty, Selfie Retouch",
     "scoreText": "4.6",
-    "score": 4.577171
+    "score": 4.5792136
   },
   {
-    "title": "Sticker maker",
-    "appId": "com.marsvard.stickermakerforwhatsapp",
-    "url": "https://play.google.com/store/apps/details?id=com.marsvard.stickermakerforwhatsapp",
-    "icon": "https://play-lh.googleusercontent.com/7WoJ43YUgwTmFa-SF88Mmp-HW9EMgPQPAiAnnrw-72GujiF7ymDrguQ2mvJ59hHTtp1r",
-    "developer": "Viko & Co",
-    "developerId": "Viko+%26+Co",
+    "title": "DB Navigator",
+    "appId": "de.hafas.android.db",
+    "url": "https://play.google.com/store/apps/details?id=de.hafas.android.db",
+    "icon": "https://play-lh.googleusercontent.com/6ErQQ0bzaLghv2F2dm5smkPjYQ_t9uep0yi3OSYY16O9QdyQfV1Uj2TW5MT-wRHJbg",
+    "developer": "Deutsche Bahn",
+    "developerId": "Deutsche+Bahn",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Create your own sticker packs for WhatsApp, cut out your photos or import memes!",
-    "scoreText": "4.4",
-    "score": 4.3691416
+    "summary": "Tickets, real-time information and coach sequence",
+    "scoreText": "3.5",
+    "score": 3.5399745
   },
   {
-    "title": "HERE WeGo Maps & Navigation",
-    "appId": "com.here.app.maps",
-    "url": "https://play.google.com/store/apps/details?id=com.here.app.maps",
-    "icon": "https://play-lh.googleusercontent.com/-bhi_ljcXMvf3lKXcma-Ho1D9Ck9Fu2Cf1KXC5mwW4gJFG8SAFt1KCD8ctodcnlpi00",
-    "developer": "HERE Apps LLC",
-    "developerId": "HERE+Apps+LLC",
+    "title": "POSTIDENT",
+    "appId": "de.deutschepost.postident",
+    "url": "https://play.google.com/store/apps/details?id=de.deutschepost.postident",
+    "icon": "https://play-lh.googleusercontent.com/uOT97F7BAdbjsQoqA73HSnvQhs3XWlO_yIMGdKACF5AGX0qgImiZ6Wqg2ts5zyZBhSJ-",
+    "developer": "Deutsche Post DHL",
+    "developerId": "Deutsche+Post+DHL",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Enjoy the journey",
-    "scoreText": "2.7",
-    "score": 2.658358
-  },
-  {
-    "title": "mobile.de - car market",
-    "appId": "de.mobile.android.app",
-    "url": "https://play.google.com/store/apps/details?id=de.mobile.android.app",
-    "icon": "https://play-lh.googleusercontent.com/ZtSaR6lqWaz_pzujp64myd3shYRgbLCHFzBM-vOqB2XB3Ri0Z5BIj3ThuuEbdismJJbw",
-    "developer": "mobile.de GmbH",
-    "developerId": "mobile.de+GmbH",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Buy and sell vehicles - at Germany's largest vehicle market",
-    "scoreText": "4.7",
-    "score": 4.6664453
-  },
-  {
-    "title": "idealo: Find Latest Deals",
-    "appId": "de.idealo.android",
-    "url": "https://play.google.com/store/apps/details?id=de.idealo.android",
-    "icon": "https://play-lh.googleusercontent.com/wrg4klUHgYQox25hAXUy49bS8UPC78gvy21fRkV03upkeOif87abvVl8E5QXQzfcjA",
-    "developer": "idealo internet GmbH",
-    "developerId": "idealo+internet+GmbH",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Relax... We'll find you the real deals. Set a Price Alert, compare and save.",
-    "scoreText": "4.4",
-    "score": 4.422376
-  },
-  {
-    "title": "ibis Paint X",
-    "appId": "jp.ne.ibis.ibispaintx.app",
-    "url": "https://play.google.com/store/apps/details?id=jp.ne.ibis.ibispaintx.app",
-    "icon": "https://play-lh.googleusercontent.com/QcfhlXm32JDnj3WM2-TSL78ad99x4slovX4OzCSLSPU3uRN-mGXpKyM_yeXiewhz0Lk",
-    "developer": "ibis inc.",
-    "developerId": "ibis+inc.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Share the joy of painting with ibis Paint X! Drawing anime and manga art.",
-    "scoreText": "3.7",
-    "score": 3.7413394
-  },
-  {
-    "title": "Booking.com: Hotels and more",
-    "appId": "com.booking",
-    "url": "https://play.google.com/store/apps/details?id=com.booking",
-    "icon": "https://play-lh.googleusercontent.com/OSr8skhGVmspz4WJQgjGcaFy1OkIJrd_Afr_X6a9Z4tAAtq4bDdOmxlCbSznf0UFxnai",
-    "developer": "Booking.com Hotels & Vacation Rentals",
-    "developerId": "8601716327451933581",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Book your whole trip in one app",
-    "scoreText": "4.6",
-    "score": 4.613703
-  },
-  {
-    "title": "immowelt - Immobilien, Wohnungen & Häuser",
-    "appId": "de.immowelt.android.immobiliensuche",
-    "url": "https://play.google.com/store/apps/details?id=de.immowelt.android.immobiliensuche",
-    "icon": "https://play-lh.googleusercontent.com/D6all3dWgccLFkV9lwuf8RMt7saiBcOUr4powggxcwbyb1dMbuWgHEvnPuCvWVJ-FBgc",
-    "developer": "immowelt GmbH",
-    "developerId": "7672457817289840622",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Don't miss any real estate offers even when you're on the move!",
-    "scoreText": "4.2",
-    "score": 4.17859
-  },
-  {
-    "title": "momox - Verkaufe Bücher, DVDs, CDs, Spiele & mehr",
-    "appId": "de.momox",
-    "url": "https://play.google.com/store/apps/details?id=de.momox",
-    "icon": "https://play-lh.googleusercontent.com/Pb0V8KOJXa8s5ZIoR36aaegH5rdzTKmv1vpL-UZlghff8MmhMVH60FRkyylWp_SoWw",
-    "developer": "momox AG",
-    "developerId": "momox+AG",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Scan the ISBN &amp; sell used books, Blu-rays, CDs and games. 📚 📀 🎮",
-    "scoreText": "3.8",
-    "score": 3.7725224
+    "summary": "POSTIDENT for the convenient, simple and secure verification of your identity.",
+    "scoreText": "4.5",
+    "score": 4.5077004
   },
   {
     "title": "Shazam: Music Discovery",
@@ -1327,175 +1215,91 @@
     "free": true,
     "summary": "Find artists, lyrics &amp; videos. Play or connect to stream music now!",
     "scoreText": "4.8",
-    "score": 4.7546787
+    "score": 4.754738
   },
   {
-    "title": "Babbel - Learn Languages",
-    "appId": "com.babbel.mobile.android.en",
-    "url": "https://play.google.com/store/apps/details?id=com.babbel.mobile.android.en",
-    "icon": "https://play-lh.googleusercontent.com/xN4oZ4Re23KNtp9u2y4i-UYJ0TjjFjhs53okaauQUz-oP3LaOBQZZHVaNFU69GAT7x8",
-    "developer": "Babbel",
-    "developerId": "6066251638635097876",
+    "title": "Sticker maker",
+    "appId": "com.marsvard.stickermakerforwhatsapp",
+    "url": "https://play.google.com/store/apps/details?id=com.marsvard.stickermakerforwhatsapp",
+    "icon": "https://play-lh.googleusercontent.com/7WoJ43YUgwTmFa-SF88Mmp-HW9EMgPQPAiAnnrw-72GujiF7ymDrguQ2mvJ59hHTtp1r",
+    "developer": "Viko & Co",
+    "developerId": "Viko+%26+Co",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Language learning app - Learn Spanish, French, Italian, German, Russian, etc.",
-    "scoreText": "4.5",
-    "score": 4.487713
+    "summary": "Create your own sticker packs for WhatsApp, cut out your photos or import memes!",
+    "scoreText": "4.4",
+    "score": 4.3693137
   },
   {
-    "title": "Google Authenticator",
-    "appId": "com.google.android.apps.authenticator2",
-    "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2",
-    "icon": "https://play-lh.googleusercontent.com/HPc5gptPzRw3wFhJE1ZCnTqlvEvuVFBAsV9etfouOhdRbkp-zNtYTzKUmUVPERSZ_lAL",
-    "developer": "Google LLC",
-    "developerId": "5700313618786177705",
+    "title": "HERE WeGo Maps & Navigation",
+    "appId": "com.here.app.maps",
+    "url": "https://play.google.com/store/apps/details?id=com.here.app.maps",
+    "icon": "https://play-lh.googleusercontent.com/-bhi_ljcXMvf3lKXcma-Ho1D9Ck9Fu2Cf1KXC5mwW4gJFG8SAFt1KCD8ctodcnlpi00",
+    "developer": "HERE Apps LLC",
+    "developerId": "HERE+Apps+LLC",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Enable 2-step verification to protect your account from hijacking.",
-    "scoreText": "3.9",
-    "score": 3.9202518
+    "summary": "Enjoy the journey",
+    "scoreText": "2.7",
+    "score": 2.6589925
   },
   {
-    "title": "MISTPLAY: Play to earn rewards",
-    "appId": "com.mistplay.mistplay",
-    "url": "https://play.google.com/store/apps/details?id=com.mistplay.mistplay",
-    "icon": "https://play-lh.googleusercontent.com/wJudKHVH5mFC5irWA-f9DeqBYRa1jYQLBwtW8ge2M1Cbg-NgMHQR7kEPK6HbIygT3Ws",
-    "developer": "MISTPLAY",
-    "developerId": "MISTPLAY",
+    "title": "mobile.de - car market",
+    "appId": "de.mobile.android.app",
+    "url": "https://play.google.com/store/apps/details?id=de.mobile.android.app",
+    "icon": "https://play-lh.googleusercontent.com/ZtSaR6lqWaz_pzujp64myd3shYRgbLCHFzBM-vOqB2XB3Ri0Z5BIj3ThuuEbdismJJbw",
+    "developer": "mobile.de GmbH",
+    "developerId": "mobile.de+GmbH",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Collect units by playing games - exchange units for gift cards of your choice!",
-    "scoreText": "4.2",
-    "score": 4.2126865
+    "summary": "Buy and sell vehicles - at Germany's largest vehicle market",
+    "scoreText": "4.7",
+    "score": 4.6666446
   },
   {
-    "title": "AutoScout24: Buy & sell cars",
-    "appId": "com.autoscout24",
-    "url": "https://play.google.com/store/apps/details?id=com.autoscout24",
-    "icon": "https://play-lh.googleusercontent.com/Qa90bmVrFgO950-lwOLTAkHllRsO_rBD9vRwN5q1pd_i2wQePAnTs17P2jExz40W_uQ",
-    "developer": "AutoScout24 GmbH",
-    "developerId": "6039364087858800745",
+    "title": "idealo: Find Latest Deals",
+    "appId": "de.idealo.android",
+    "url": "https://play.google.com/store/apps/details?id=de.idealo.android",
+    "icon": "https://play-lh.googleusercontent.com/wrg4klUHgYQox25hAXUy49bS8UPC78gvy21fRkV03upkeOif87abvVl8E5QXQzfcjA",
+    "developer": "idealo internet GmbH",
+    "developerId": "idealo+internet+GmbH",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Find over 1 million new &amp; used cars, vans or motorcycles",
-    "scoreText": "4.5",
-    "score": 4.4725547
+    "summary": "Relax... We'll find you the real deals. Set a Price Alert, compare and save.",
+    "scoreText": "4.4",
+    "score": 4.422188
   },
   {
-    "title": "Amazon Music: Discover Songs",
-    "appId": "com.amazon.mp3",
-    "url": "https://play.google.com/store/apps/details?id=com.amazon.mp3",
-    "icon": "https://play-lh.googleusercontent.com/c0uMGe9aLRQxGtAXB_9xnKnG83VOGRD7NtglvnzPj9SYS3_ZYA_EYhtP86nePn0vjI0",
-    "developer": "Amazon Mobile LLC",
-    "developerId": "Amazon+Mobile+LLC",
+    "title": "ibis Paint X",
+    "appId": "jp.ne.ibis.ibispaintx.app",
+    "url": "https://play.google.com/store/apps/details?id=jp.ne.ibis.ibispaintx.app",
+    "icon": "https://play-lh.googleusercontent.com/QcfhlXm32JDnj3WM2-TSL78ad99x4slovX4OzCSLSPU3uRN-mGXpKyM_yeXiewhz0Lk",
+    "developer": "ibis inc.",
+    "developerId": "ibis+inc.",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Listen to podcasts, trending playlists, hit music, and your favorite songs",
+    "summary": "Share the joy of painting with ibis Paint X! Drawing anime and manga art.",
     "scoreText": "3.7",
-    "score": 3.6819077
+    "score": 3.7401998
   },
   {
-    "title": "Speed VPN",
-    "appId": "com.hotv.apps.speedvp",
-    "url": "https://play.google.com/store/apps/details?id=com.hotv.apps.speedvp",
-    "icon": "https://play-lh.googleusercontent.com/H_u3QyM5crVVB-nJ_1n429OmiP27WBZ8z22EUsM8NpGJGbmQoVnWFrpn_xx942tMIage",
-    "developer": "Fox One Studio",
-    "developerId": "Fox+One+Studio",
+    "title": "Booking.com: Hotels and more",
+    "appId": "com.booking",
+    "url": "https://play.google.com/store/apps/details?id=com.booking",
+    "icon": "https://play-lh.googleusercontent.com/OSr8skhGVmspz4WJQgjGcaFy1OkIJrd_Afr_X6a9Z4tAAtq4bDdOmxlCbSznf0UFxnai",
+    "developer": "Booking.com Hotels & Vacation Rentals",
+    "developerId": "8601716327451933581",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Speed VPN provides premium VPN services",
-    "scoreText": "3.0",
-    "score": 2.9904761
-  },
-  {
-    "title": "Messenger",
-    "appId": "com.facebook.orca",
-    "url": "https://play.google.com/store/apps/details?id=com.facebook.orca",
-    "icon": "https://play-lh.googleusercontent.com/ldcQMpP7OaVmglCF6kGas9cY_K0PsJzSSosx2saw9KF1m3RHaEXpH_9mwBWaYnkmctk",
-    "developer": "Meta Platforms, Inc.",
-    "developerId": "Meta+Platforms,+Inc.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Free group video chat, video calls, voice calls and text messaging.",
-    "scoreText": "3.8",
-    "score": 3.8230276
-  },
-  {
-    "title": "Kahoot! Play & Create Quizzes",
-    "appId": "no.mobitroll.kahoot.android",
-    "url": "https://play.google.com/store/apps/details?id=no.mobitroll.kahoot.android",
-    "icon": "https://play-lh.googleusercontent.com/olxQnj68Ot_7CRPSO6UCSaEYlk6pIv-WDQ7eBAd4dqvT-8-FhmNjHJb-6FbMCZrf3rf_",
-    "developer": "Kahoot!",
-    "developerId": "5643238107618943124",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Create and play learning games at school, at home or at work!",
-    "scoreText": "4.5",
-    "score": 4.4680233
-  },
-  {
-    "title": "Mobiles Bezahlen",
-    "appId": "com.s_payment.mobiles_bezahlen",
-    "url": "https://play.google.com/store/apps/details?id=com.s_payment.mobiles_bezahlen",
-    "icon": "https://play-lh.googleusercontent.com/i4ZR2VbIMOGtBPUTYnHHCm6VgkF7xAS1p8bch6Bt9B4gzSwZ8dpVDMg_OJNLaTWB57E",
-    "developer": "S-Payment GmbH",
-    "developerId": "S-Payment+GmbH",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Your digital wallet: easy and convenient payment with your smartphone.",
-    "scoreText": "4.3",
-    "score": 4.2586946
-  },
-  {
-    "title": "Microsoft Authenticator",
-    "appId": "com.azure.authenticator",
-    "url": "https://play.google.com/store/apps/details?id=com.azure.authenticator",
-    "icon": "https://play-lh.googleusercontent.com/_1CV99jklLbXuun-6E7eCPR-sKKeZc602rhw_QHZz-qm7xrPdgWsJVc7NtFkkliI8No",
-    "developer": "Microsoft Corporation",
-    "developerId": "6720847872553662727",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "No more passwords, easier sign-in, and greater protection for your accounts.",
+    "summary": "Book your whole trip in one app",
     "scoreText": "4.6",
-    "score": 4.6199365
-  },
-  {
-    "title": "bonprix - fashion & style",
-    "appId": "de.bonprix",
-    "url": "https://play.google.com/store/apps/details?id=de.bonprix",
-    "icon": "https://play-lh.googleusercontent.com/EwfGlJDMSlX1A_Sp3KDn_alGkzWEiyjT5oTIwkj7zi32i2iihVspEoEZ4paElCp1KEk",
-    "developer": "bonprix Handelsgesellschaft mbH",
-    "developerId": "9131093019835172916",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Download our free app and shop the latest fashion and homeware trends today!",
-    "scoreText": "4.6",
-    "score": 4.616377
-  },
-  {
-    "title": "Netto-App",
-    "appId": "com.valuephone.vpnetto",
-    "url": "https://play.google.com/store/apps/details?id=com.valuephone.vpnetto",
-    "icon": "https://play-lh.googleusercontent.com/6m-vgC_2rC0MDZDoarQtm4Il7ogT9NvHjz5hXnEhUUwNdesO8BB4cgSJRVm2PUOSViVe",
-    "developer": "Netto Marken-Discount Stiftung & Co. KG",
-    "developerId": "Netto+Marken-Discount+Stiftung+%26+Co.+KG",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Offers, Coupons &amp; Payments",
-    "scoreText": "4.5",
-    "score": 4.548619
+    "score": 4.614058
   },
   {
     "title": "Google Home",
@@ -1509,245 +1313,175 @@
     "free": true,
     "summary": "Set up and control your compatible Nest, Chromecast, and Google Home devices.",
     "scoreText": "3.5",
-    "score": 3.4928992
+    "score": 3.4918432
   },
   {
-    "title": "getir: Lebensmittel in Minuten",
-    "appId": "com.getir",
-    "url": "https://play.google.com/store/apps/details?id=com.getir",
-    "icon": "https://play-lh.googleusercontent.com/AdMmQjBuz0z6BH-d1D6bb2_4i95KyCla0VRNtXigGOQSgHARYGY_iZJOoZUY9V7O4g",
-    "developer": "getir",
-    "developerId": "getir",
+    "title": "immowelt - Immobilien, Wohnungen & Häuser",
+    "appId": "de.immowelt.android.immobiliensuche",
+    "url": "https://play.google.com/store/apps/details?id=de.immowelt.android.immobiliensuche",
+    "icon": "https://play-lh.googleusercontent.com/D6all3dWgccLFkV9lwuf8RMt7saiBcOUr4powggxcwbyb1dMbuWgHEvnPuCvWVJ-FBgc",
+    "developer": "immowelt GmbH",
+    "developerId": "7672457817289840622",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Getir liefert Lebensmittel in wenigen Minuten, Tag und Nacht.",
-    "scoreText": "4.8",
-    "score": 4.815668
+    "summary": "Don't miss any real estate offers even when you're on the move!",
+    "scoreText": "4.2",
+    "score": 4.176743
   },
   {
-    "title": "Twitter",
-    "appId": "com.twitter.android",
-    "url": "https://play.google.com/store/apps/details?id=com.twitter.android",
-    "icon": "https://play-lh.googleusercontent.com/wIf3HtczQDjHzHuu7vezhqNs0zXAG85F7VmP7nhsTxO3OHegrVXlqIh_DWBYi86FTIGk",
-    "developer": "Twitter, Inc.",
-    "developerId": "Twitter,+Inc.",
+    "title": "momox - Verkaufe Bücher, DVDs, CDs, Spiele & mehr",
+    "appId": "de.momox",
+    "url": "https://play.google.com/store/apps/details?id=de.momox",
+    "icon": "https://play-lh.googleusercontent.com/Pb0V8KOJXa8s5ZIoR36aaegH5rdzTKmv1vpL-UZlghff8MmhMVH60FRkyylWp_SoWw",
+    "developer": "momox AG",
+    "developerId": "momox+AG",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Now with Twitter spaces: Join, listen, and speak in live audio conversations",
+    "summary": "Scan the ISBN &amp; sell used books, Blu-rays, CDs and games. 📚 📀 🎮",
+    "scoreText": "3.8",
+    "score": 3.7689888
+  },
+  {
+    "title": "Babbel - Learn Languages",
+    "appId": "com.babbel.mobile.android.en",
+    "url": "https://play.google.com/store/apps/details?id=com.babbel.mobile.android.en",
+    "icon": "https://play-lh.googleusercontent.com/xN4oZ4Re23KNtp9u2y4i-UYJ0TjjFjhs53okaauQUz-oP3LaOBQZZHVaNFU69GAT7x8",
+    "developer": "Babbel",
+    "developerId": "6066251638635097876",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Language learning app - Learn Spanish, French, Italian, German, Russian, etc.",
+    "scoreText": "4.5",
+    "score": 4.487751
+  },
+  {
+    "title": "MISTPLAY: Play to earn rewards",
+    "appId": "com.mistplay.mistplay",
+    "url": "https://play.google.com/store/apps/details?id=com.mistplay.mistplay",
+    "icon": "https://play-lh.googleusercontent.com/wJudKHVH5mFC5irWA-f9DeqBYRa1jYQLBwtW8ge2M1Cbg-NgMHQR7kEPK6HbIygT3Ws",
+    "developer": "MISTPLAY",
+    "developerId": "MISTPLAY",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Collect units by playing games - exchange units for gift cards of your choice!",
+    "scoreText": "4.2",
+    "score": 4.2044945
+  },
+  {
+    "title": "AutoScout24: Buy & sell cars",
+    "appId": "com.autoscout24",
+    "url": "https://play.google.com/store/apps/details?id=com.autoscout24",
+    "icon": "https://play-lh.googleusercontent.com/Qa90bmVrFgO950-lwOLTAkHllRsO_rBD9vRwN5q1pd_i2wQePAnTs17P2jExz40W_uQ",
+    "developer": "AutoScout24 GmbH",
+    "developerId": "6039364087858800745",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Find over 1 million new &amp; used cars, vans or motorcycles",
+    "scoreText": "4.5",
+    "score": 4.4732766
+  },
+  {
+    "title": "Amazon Music: Discover Songs",
+    "appId": "com.amazon.mp3",
+    "url": "https://play.google.com/store/apps/details?id=com.amazon.mp3",
+    "icon": "https://play-lh.googleusercontent.com/c0uMGe9aLRQxGtAXB_9xnKnG83VOGRD7NtglvnzPj9SYS3_ZYA_EYhtP86nePn0vjI0",
+    "developer": "Amazon Mobile LLC",
+    "developerId": "Amazon+Mobile+LLC",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Listen to podcasts, trending playlists, hit music, and your favorite songs",
     "scoreText": "3.7",
-    "score": 3.7196515
+    "score": 3.6819375
   },
   {
-    "title": "FitCoach: Fitness Coach & Diet",
-    "appId": "net.workout.lose.weight.fitness.fit.coach",
-    "url": "https://play.google.com/store/apps/details?id=net.workout.lose.weight.fitness.fit.coach",
-    "icon": "https://play-lh.googleusercontent.com/8XD9QezvIkKX6qvoIsZhGGltrh8R10EKw05HD2Jh_NMbjuuCZOcPY8hIGX-DfGp8KaPK",
-    "developer": "Mobilious Limited",
-    "developerId": "Mobilious+Limited",
+    "title": "Speed VPN",
+    "appId": "com.hotv.apps.speedvp",
+    "url": "https://play.google.com/store/apps/details?id=com.hotv.apps.speedvp",
+    "icon": "https://play-lh.googleusercontent.com/H_u3QyM5crVVB-nJ_1n429OmiP27WBZ8z22EUsM8NpGJGbmQoVnWFrpn_xx942tMIage",
+    "developer": "Fox One Studio",
+    "developerId": "Fox+One+Studio",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "At-home workouts for weight loss, fitness challenge, meal planner &amp; food guide",
-    "scoreText": "4.0",
-    "score": 3.9882352
+    "summary": "Speed VPN provides premium VPN services",
+    "scoreText": "3.0",
+    "score": 3.0196078
   },
   {
-    "title": "Webex Meetings",
-    "appId": "com.cisco.webex.meetings",
-    "url": "https://play.google.com/store/apps/details?id=com.cisco.webex.meetings",
-    "icon": "https://play-lh.googleusercontent.com/v7KvbeIbypHKyEv1IMvy1qCN3ZytBb7FlDKBxo3ke_DuM1kdGmegvqVG6qhFx8U13Ug",
-    "developer": "Cisco Systems, Inc.",
-    "developerId": "Cisco+Systems,+Inc.",
+    "title": "Messenger",
+    "appId": "com.facebook.orca",
+    "url": "https://play.google.com/store/apps/details?id=com.facebook.orca",
+    "icon": "https://play-lh.googleusercontent.com/ldcQMpP7OaVmglCF6kGas9cY_K0PsJzSSosx2saw9KF1m3RHaEXpH_9mwBWaYnkmctk",
+    "developer": "Meta Platforms, Inc.",
+    "developerId": "Meta+Platforms,+Inc.",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Tap into a Webex meeting, wherever you are, with Webex Meetings for Android!",
-    "scoreText": "4.2",
-    "score": 4.2347903
+    "summary": "Free group video chat, video calls, voice calls and text messaging.",
+    "scoreText": "3.8",
+    "score": 3.8227544
   },
   {
-    "title": "Cash’em All: Play & Win",
-    "appId": "online.cashemall.app",
-    "url": "https://play.google.com/store/apps/details?id=online.cashemall.app",
-    "icon": "https://play-lh.googleusercontent.com/9rWTlJi8FcJT6ZWqeQ072A6IhcJ_NdOzqRl2JwNIMjxgwxmSmslsdYglYzg3bJrfoQY",
-    "developer": "Cash'em All",
-    "developerId": "Cash'em+All",
+    "title": "Kahoot! Play & Create Quizzes",
+    "appId": "no.mobitroll.kahoot.android",
+    "url": "https://play.google.com/store/apps/details?id=no.mobitroll.kahoot.android",
+    "icon": "https://play-lh.googleusercontent.com/olxQnj68Ot_7CRPSO6UCSaEYlk6pIv-WDQ7eBAd4dqvT-8-FhmNjHJb-6FbMCZrf3rf_",
+    "developer": "Kahoot!",
+    "developerId": "5643238107618943124",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Play games and earn money on your Paypal account or win gift cards.",
-    "scoreText": "4.2",
-    "score": 4.183023
-  },
-  {
-    "title": "Mein o2",
-    "appId": "canvasm.myo2",
-    "url": "https://play.google.com/store/apps/details?id=canvasm.myo2",
-    "icon": "https://play-lh.googleusercontent.com/f6Ui411i7epEPhHfAv9KyojQf3DZ9oI1ZmO3AUxjqXe6PMUQuDfkZE-sybcJeca3IcM",
-    "developer": "Telefónica Germany GmbH & Co. OHG",
-    "developerId": "Telef%C3%B3nica+Germany+GmbH+%26+Co.+OHG",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "&quot;My o2&quot; - consumption display, invoice, contract data, offers &amp; loyalty benefits",
+    "summary": "Create and play learning games at school, at home or at work!",
     "scoreText": "4.5",
-    "score": 4.5313716
+    "score": 4.4666667
   },
   {
-    "title": "WEBTOON",
-    "appId": "com.naver.linewebtoon",
-    "url": "https://play.google.com/store/apps/details?id=com.naver.linewebtoon",
-    "icon": "https://play-lh.googleusercontent.com/96JNm8WSKYZP4TKBV94uz-COb0tJv_Ud8S1etZUaRCOp227tkTTCb9yPp_ZfNLTIWMs",
-    "developer": "WEBTOON ENTERTAINMENT",
-    "developerId": "WEBTOON+ENTERTAINMENT",
+    "title": "Mobiles Bezahlen",
+    "appId": "com.s_payment.mobiles_bezahlen",
+    "url": "https://play.google.com/store/apps/details?id=com.s_payment.mobiles_bezahlen",
+    "icon": "https://play-lh.googleusercontent.com/i4ZR2VbIMOGtBPUTYnHHCm6VgkF7xAS1p8bch6Bt9B4gzSwZ8dpVDMg_OJNLaTWB57E",
+    "developer": "S-Payment GmbH",
+    "developerId": "S-Payment+GmbH",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Lies Comics jederzeit und überall, auch ohne Internetverbindung!",
-    "scoreText": "4.7",
-    "score": 4.733906
+    "summary": "Your digital wallet: easy and convenient payment with your smartphone.",
+    "scoreText": "4.3",
+    "score": 4.258077
   },
   {
-    "title": "ZDFmediathek & Live TV",
-    "appId": "com.zdf.android.mediathek",
-    "url": "https://play.google.com/store/apps/details?id=com.zdf.android.mediathek",
-    "icon": "https://play-lh.googleusercontent.com/vFmoPzaBKwEz5ZqI1juRcepUJBCCu_NxKtkdbRXNR3wnFeoyvQ8UY0TmIqIOXUkXXVBl",
-    "developer": "ZDFonline",
-    "developerId": "ZDFonline",
+    "title": "Microsoft Authenticator",
+    "appId": "com.azure.authenticator",
+    "url": "https://play.google.com/store/apps/details?id=com.azure.authenticator",
+    "icon": "https://play-lh.googleusercontent.com/_1CV99jklLbXuun-6E7eCPR-sKKeZc602rhw_QHZz-qm7xrPdgWsJVc7NtFkkliI8No",
+    "developer": "Microsoft Corporation",
+    "developerId": "6720847872553662727",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "ZDFmediathek: Live TV 📺, on-demand videos 🎥, Bookmarks 📄 and more.",
-    "scoreText": "4.2",
-    "score": 4.2022705
-  },
-  {
-    "title": "Adobe Scan: PDF Scanner, OCR",
-    "appId": "com.adobe.scan.android",
-    "url": "https://play.google.com/store/apps/details?id=com.adobe.scan.android",
-    "icon": "https://play-lh.googleusercontent.com/ML99HbuCA7xDVJatxeYRsYjoO2RM4d09kNdytU0yZc5L-c58AfCoE6brHlv8GAL-cZ4",
-    "developer": "Adobe",
-    "developerId": "4734916851270416020",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Turn forms into interactive digital docs - scan them to your device in seconds.",
-    "scoreText": "4.7",
-    "score": 4.7128754
-  },
-  {
-    "title": "Scalable Capital: ETF & Stocks",
-    "appId": "capital.scalable.droid",
-    "url": "https://play.google.com/store/apps/details?id=capital.scalable.droid",
-    "icon": "https://play-lh.googleusercontent.com/6UM2Mk5F7Rlao-hbDUFGp4kdmnIm0DFtPHQWJS7dBLWJbd3AUiCJHxtHJlYr5DbjWPSQ",
-    "developer": "Scalable GmbH",
-    "developerId": "Scalable+GmbH",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Unlimited trading in stocks, ETFs, funds and derivatives.",
-    "scoreText": "3.9",
-    "score": 3.8833992
-  },
-  {
-    "title": "REWE - Online Shop & Märkte",
-    "appId": "com.rewedigital.shop",
-    "url": "https://play.google.com/store/apps/details?id=com.rewedigital.shop",
-    "icon": "https://play-lh.googleusercontent.com/ToAKkcPAVUyBw2mo77hcp4z8mplulPkEPReeqa3cWbPZ07nXrOuPxffIjtVX16iEUgY",
-    "developer": "REWE Markt GmbH",
-    "developerId": "4681548187824065561",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "REWE. Your market. - The supermarket with delivery to your home 🍅🥑 🛒",
-    "scoreText": "4.5",
-    "score": 4.5123005
-  },
-  {
-    "title": "Meine AOK",
-    "appId": "de.aoksystems.amg",
-    "url": "https://play.google.com/store/apps/details?id=de.aoksystems.amg",
-    "icon": "https://play-lh.googleusercontent.com/BfzIi7u0paY5qda5a8xR5ySp4_kvWWktGHsZgUN6dbnflNnBe-vfi3tRzJpZkLa0LWo",
-    "developer": "AOK – Die Gesundheitskasse",
-    "developerId": "AOK+%E2%80%93+Die+Gesundheitskasse",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "The mobile office for customers of the AOK.",
+    "summary": "No more passwords, easier sign-in, and greater protection for your accounts.",
     "scoreText": "4.6",
-    "score": 4.6151805
+    "score": 4.6192203
   },
   {
-    "title": "FileMaster: File Manage, File Transfer Power Clean",
-    "appId": "com.root.clean.boost.explorer.filemanager",
-    "url": "https://play.google.com/store/apps/details?id=com.root.clean.boost.explorer.filemanager",
-    "icon": "https://play-lh.googleusercontent.com/58sr3IvX1wiE8ei_BICqPgywKgZ5DPpmRL_2YuZINnFlz_9D2os9PmueeZPPtZno0zk",
-    "developer": "SmartVisionMobi",
-    "developerId": "5801333510719199969",
+    "title": "Netto-App",
+    "appId": "com.valuephone.vpnetto",
+    "url": "https://play.google.com/store/apps/details?id=com.valuephone.vpnetto",
+    "icon": "https://play-lh.googleusercontent.com/6m-vgC_2rC0MDZDoarQtm4Il7ogT9NvHjz5hXnEhUUwNdesO8BB4cgSJRVm2PUOSViVe",
+    "developer": "Netto Marken-Discount Stiftung & Co. KG",
+    "developerId": "Netto+Marken-Discount+Stiftung+%26+Co.+KG",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Junk files and cache cleaner app with functional file explorer and manager.",
+    "summary": "Offers, Coupons &amp; Payments",
     "scoreText": "4.5",
-    "score": 4.4735518
-  },
-  {
-    "title": "YouTube Kids",
-    "appId": "com.google.android.apps.youtube.kids",
-    "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.kids",
-    "icon": "https://play-lh.googleusercontent.com/S4wylkvt2jz16hnG9IG0pAZosbB82nWWy8P-rQkb54uH-SCVd5L2j7z7x1Vz5pZvIRc",
-    "developer": "Google LLC",
-    "developerId": "5700313618786177705",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Encourage kids to discover the world with a suite of parental controls",
-    "scoreText": "4.2",
-    "score": 4.219951
-  },
-  {
-    "title": "Crypto.com - Buy BTC, ETH",
-    "appId": "co.mona.android",
-    "url": "https://play.google.com/store/apps/details?id=co.mona.android",
-    "icon": "https://play-lh.googleusercontent.com/LPjOvRg00ZLcmUvYbvELUX9qN46wUSRrDadTyAxkJIhP8GzUMIA1VZSWxB77BJ0yl1vl",
-    "developer": "Crypto Technology Holdings Limited",
-    "developerId": "7437982941245696477",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Crypto Wallet to Buy, Sell, and Pay with Crypto",
-    "scoreText": "4.0",
-    "score": 4.0014243
-  },
-  {
-    "title": "Lidl - Offers & Leaflets",
-    "appId": "de.sec.mobile",
-    "url": "https://play.google.com/store/apps/details?id=de.sec.mobile",
-    "icon": "https://play-lh.googleusercontent.com/TMl79NK6oA1jiFH94pNZSDs9IasWOrEE9E17ff44D-D3J7hkNlT5SM09jZs5sf5GqCg",
-    "developer": "Lidl",
-    "developerId": "7666509303365930182",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Get the latest news about our offers and the pick of the week! - #LidlSuprises",
-    "scoreText": "3.9",
-    "score": 3.882671
-  },
-  {
-    "title": "Etsy: Buy & Sell Unique Items",
-    "appId": "com.etsy.android",
-    "url": "https://play.google.com/store/apps/details?id=com.etsy.android",
-    "icon": "https://play-lh.googleusercontent.com/giKCCPigafUbKQ1AkXVxSjQ1PggetEI96ORNKxxhQdvGAFhto71kO4zf7gZ9oOdLIQe5",
-    "developer": "Etsy, Inc",
-    "developerId": "Etsy,+Inc",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Shop our global marketplace of handmade, vintage and creative goods",
-    "scoreText": "4.9",
-    "score": 4.8676925
+    "score": 4.5461726
   },
   {
     "title": "Rossmann - Coupons & Angebote",
@@ -1761,7 +1495,217 @@
     "free": true,
     "summary": "Exclusive coupons &amp; current offers for your Rossmann purchase.",
     "scoreText": "4.6",
-    "score": 4.5689836
+    "score": 4.5691447
+  },
+  {
+    "title": "bonprix - fashion & style",
+    "appId": "de.bonprix",
+    "url": "https://play.google.com/store/apps/details?id=de.bonprix",
+    "icon": "https://play-lh.googleusercontent.com/EwfGlJDMSlX1A_Sp3KDn_alGkzWEiyjT5oTIwkj7zi32i2iihVspEoEZ4paElCp1KEk",
+    "developer": "bonprix Handelsgesellschaft mbH",
+    "developerId": "9131093019835172916",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Download our free app and shop the latest fashion and homeware trends today!",
+    "scoreText": "4.6",
+    "score": 4.6167316
+  },
+  {
+    "title": "Google Authenticator",
+    "appId": "com.google.android.apps.authenticator2",
+    "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2",
+    "icon": "https://play-lh.googleusercontent.com/HPc5gptPzRw3wFhJE1ZCnTqlvEvuVFBAsV9etfouOhdRbkp-zNtYTzKUmUVPERSZ_lAL",
+    "developer": "Google LLC",
+    "developerId": "5700313618786177705",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Enable 2-step verification to protect your account from hijacking.",
+    "scoreText": "3.9",
+    "score": 3.922513
+  },
+  {
+    "title": "getir: Lebensmittel in Minuten",
+    "appId": "com.getir",
+    "url": "https://play.google.com/store/apps/details?id=com.getir",
+    "icon": "https://play-lh.googleusercontent.com/AdMmQjBuz0z6BH-d1D6bb2_4i95KyCla0VRNtXigGOQSgHARYGY_iZJOoZUY9V7O4g",
+    "developer": "getir",
+    "developerId": "getir",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Getir liefert Lebensmittel in wenigen Minuten, Tag und Nacht.",
+    "scoreText": "4.8",
+    "score": 4.818182
+  },
+  {
+    "title": "Twitter",
+    "appId": "com.twitter.android",
+    "url": "https://play.google.com/store/apps/details?id=com.twitter.android",
+    "icon": "https://play-lh.googleusercontent.com/wIf3HtczQDjHzHuu7vezhqNs0zXAG85F7VmP7nhsTxO3OHegrVXlqIh_DWBYi86FTIGk",
+    "developer": "Twitter, Inc.",
+    "developerId": "Twitter,+Inc.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Now with Twitter spaces: Join, listen, and speak in live audio conversations",
+    "scoreText": "3.7",
+    "score": 3.7190428
+  },
+  {
+    "title": "FitCoach: Fitness Coach & Diet",
+    "appId": "net.workout.lose.weight.fitness.fit.coach",
+    "url": "https://play.google.com/store/apps/details?id=net.workout.lose.weight.fitness.fit.coach",
+    "icon": "https://play-lh.googleusercontent.com/8XD9QezvIkKX6qvoIsZhGGltrh8R10EKw05HD2Jh_NMbjuuCZOcPY8hIGX-DfGp8KaPK",
+    "developer": "Mobilious Limited",
+    "developerId": "Mobilious+Limited",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "At-home workouts for weight loss, fitness challenge, meal planner &amp; food guide",
+    "scoreText": "4.0",
+    "score": 4
+  },
+  {
+    "title": "Webex Meetings",
+    "appId": "com.cisco.webex.meetings",
+    "url": "https://play.google.com/store/apps/details?id=com.cisco.webex.meetings",
+    "icon": "https://play-lh.googleusercontent.com/v7KvbeIbypHKyEv1IMvy1qCN3ZytBb7FlDKBxo3ke_DuM1kdGmegvqVG6qhFx8U13Ug",
+    "developer": "Cisco Systems, Inc.",
+    "developerId": "Cisco+Systems,+Inc.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Tap into a Webex meeting, wherever you are, with Webex Meetings for Android!",
+    "scoreText": "4.2",
+    "score": 4.2336783
+  },
+  {
+    "title": "Mein o2",
+    "appId": "canvasm.myo2",
+    "url": "https://play.google.com/store/apps/details?id=canvasm.myo2",
+    "icon": "https://play-lh.googleusercontent.com/f6Ui411i7epEPhHfAv9KyojQf3DZ9oI1ZmO3AUxjqXe6PMUQuDfkZE-sybcJeca3IcM",
+    "developer": "Telefónica Germany GmbH & Co. OHG",
+    "developerId": "Telef%C3%B3nica+Germany+GmbH+%26+Co.+OHG",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "&quot;My o2&quot; - consumption display, invoice, contract data, offers &amp; loyalty benefits",
+    "scoreText": "4.5",
+    "score": 4.5309486
+  },
+  {
+    "title": "WEBTOON",
+    "appId": "com.naver.linewebtoon",
+    "url": "https://play.google.com/store/apps/details?id=com.naver.linewebtoon",
+    "icon": "https://play-lh.googleusercontent.com/96JNm8WSKYZP4TKBV94uz-COb0tJv_Ud8S1etZUaRCOp227tkTTCb9yPp_ZfNLTIWMs",
+    "developer": "WEBTOON ENTERTAINMENT",
+    "developerId": "WEBTOON+ENTERTAINMENT",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Lies Comics jederzeit und überall, auch ohne Internetverbindung!",
+    "scoreText": "4.7",
+    "score": 4.723077
+  },
+  {
+    "title": "ZDFmediathek & Live TV",
+    "appId": "com.zdf.android.mediathek",
+    "url": "https://play.google.com/store/apps/details?id=com.zdf.android.mediathek",
+    "icon": "https://play-lh.googleusercontent.com/vFmoPzaBKwEz5ZqI1juRcepUJBCCu_NxKtkdbRXNR3wnFeoyvQ8UY0TmIqIOXUkXXVBl",
+    "developer": "ZDFonline",
+    "developerId": "ZDFonline",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "ZDFmediathek: Live TV 📺, on-demand videos 🎥, Bookmarks 📄 and more.",
+    "scoreText": "4.2",
+    "score": 4.20266
+  },
+  {
+    "title": "Cash’em All: Play & Win",
+    "appId": "online.cashemall.app",
+    "url": "https://play.google.com/store/apps/details?id=online.cashemall.app",
+    "icon": "https://play-lh.googleusercontent.com/9rWTlJi8FcJT6ZWqeQ072A6IhcJ_NdOzqRl2JwNIMjxgwxmSmslsdYglYzg3bJrfoQY",
+    "developer": "Cash'em All",
+    "developerId": "Cash'em+All",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Play games and earn money on your Paypal account or win gift cards.",
+    "scoreText": "4.2",
+    "score": 4.1879435
+  },
+  {
+    "title": "REWE - Online Shop & Märkte",
+    "appId": "com.rewedigital.shop",
+    "url": "https://play.google.com/store/apps/details?id=com.rewedigital.shop",
+    "icon": "https://play-lh.googleusercontent.com/ToAKkcPAVUyBw2mo77hcp4z8mplulPkEPReeqa3cWbPZ07nXrOuPxffIjtVX16iEUgY",
+    "developer": "REWE Markt GmbH",
+    "developerId": "4681548187824065561",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "REWE. Your market. - The supermarket with delivery to your home 🍅🥑 🛒",
+    "scoreText": "4.5",
+    "score": 4.509644
+  },
+  {
+    "title": "YouTube Kids",
+    "appId": "com.google.android.apps.youtube.kids",
+    "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.kids",
+    "icon": "https://play-lh.googleusercontent.com/S4wylkvt2jz16hnG9IG0pAZosbB82nWWy8P-rQkb54uH-SCVd5L2j7z7x1Vz5pZvIRc",
+    "developer": "Google LLC",
+    "developerId": "5700313618786177705",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Encourage kids to discover the world with a suite of parental controls",
+    "scoreText": "4.2",
+    "score": 4.224012
+  },
+  {
+    "title": "Crypto.com - Buy BTC, ETH",
+    "appId": "co.mona.android",
+    "url": "https://play.google.com/store/apps/details?id=co.mona.android",
+    "icon": "https://play-lh.googleusercontent.com/LPjOvRg00ZLcmUvYbvELUX9qN46wUSRrDadTyAxkJIhP8GzUMIA1VZSWxB77BJ0yl1vl",
+    "developer": "Crypto Technology Holdings Limited",
+    "developerId": "7437982941245696477",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Crypto Wallet to Buy, Sell, and Pay with Crypto",
+    "scoreText": "4.0",
+    "score": 3.9985754
+  },
+  {
+    "title": "Lidl - Offers & Leaflets",
+    "appId": "de.sec.mobile",
+    "url": "https://play.google.com/store/apps/details?id=de.sec.mobile",
+    "icon": "https://play-lh.googleusercontent.com/TMl79NK6oA1jiFH94pNZSDs9IasWOrEE9E17ff44D-D3J7hkNlT5SM09jZs5sf5GqCg",
+    "developer": "Lidl",
+    "developerId": "7666509303365930182",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Get the latest news about our offers and the pick of the week! - #LidlSuprises",
+    "scoreText": "3.9",
+    "score": 3.8826985
+  },
+  {
+    "title": "Etsy: Buy & Sell Unique Items",
+    "appId": "com.etsy.android",
+    "url": "https://play.google.com/store/apps/details?id=com.etsy.android",
+    "icon": "https://play-lh.googleusercontent.com/giKCCPigafUbKQ1AkXVxSjQ1PggetEI96ORNKxxhQdvGAFhto71kO4zf7gZ9oOdLIQe5",
+    "developer": "Etsy, Inc",
+    "developerId": "Etsy,+Inc",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Shop our global marketplace of handmade, vintage and creative goods",
+    "scoreText": "4.9",
+    "score": 4.867941
   },
   {
     "title": "Audible: audiobooks & podcasts",
@@ -1775,7 +1719,7 @@
     "free": true,
     "summary": "Enjoy original stories and podcasts. Listen to health &amp; wellness audio books",
     "scoreText": "4.5",
-    "score": 4.468964
+    "score": 4.4709234
   },
   {
     "title": "ADAC Spritpreise",
@@ -1792,18 +1736,18 @@
     "score": 2.5660863
   },
   {
-    "title": "Trade Republic: Mobile Broker",
-    "appId": "de.traderepublic.app",
-    "url": "https://play.google.com/store/apps/details?id=de.traderepublic.app",
-    "icon": "https://play-lh.googleusercontent.com/B8611U7Dhx5h8E2NJm7yJTSYUss6mzbsqA0KfB_K_hyerEXVMSbeZxWP5oH2N7qEsD3W",
-    "developer": "Trade Republic Bank GmbH",
-    "developerId": "Trade+Republic+Bank+GmbH",
+    "title": "FileMaster: File Manage, File Transfer Power Clean",
+    "appId": "com.root.clean.boost.explorer.filemanager",
+    "url": "https://play.google.com/store/apps/details?id=com.root.clean.boost.explorer.filemanager",
+    "icon": "https://play-lh.googleusercontent.com/58sr3IvX1wiE8ei_BICqPgywKgZ5DPpmRL_2YuZINnFlz_9D2os9PmueeZPPtZno0zk",
+    "developer": "SmartVisionMobi",
+    "developerId": "5801333510719199969",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Commission-free trading",
-    "scoreText": "4.3",
-    "score": 4.2779517
+    "summary": "Junk files and cache cleaner app with functional file explorer and manager.",
+    "scoreText": "4.5",
+    "score": 4.472849
   },
   {
     "title": "MeinProspekt – Local Deals & Weekly Ads",
@@ -1817,7 +1761,63 @@
     "free": true,
     "summary": "Find German weekly ads, coupons &amp; local deals from Aldi, Media Markt, Edeka, …",
     "scoreText": "4.4",
-    "score": 4.4077578
+    "score": 4.4082503
+  },
+  {
+    "title": "Bioscientia Travel Pass",
+    "appId": "de.bioscientia.docnet.app.travelpass",
+    "url": "https://play.google.com/store/apps/details?id=de.bioscientia.docnet.app.travelpass",
+    "icon": "https://play-lh.googleusercontent.com/t38s3IVbbVQhdOJZ1y4S5a4XFCafq-8fqUgP8uDlUvexzb0RP2GmLVVOQBCEcwhQphs",
+    "developer": "doc.net by SHG GmbH & Co.KG",
+    "developerId": "doc.net+by+SHG+GmbH+%26+Co.KG",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Receive push notifications, check test results, travel without borders",
+    "scoreText": "4.0",
+    "score": 4
+  },
+  {
+    "title": "HD Video Screen Mirroring Cast",
+    "appId": "com.satcast.mcasterr",
+    "url": "https://play.google.com/store/apps/details?id=com.satcast.mcasterr",
+    "icon": "https://play-lh.googleusercontent.com/HDtMQttcZGJheaBKc4wn6z8uxrkILxAv7YRUZ-FxkcGEZTp9hWf_-ZMi2LOEeEE4Klc",
+    "developer": "Legafly",
+    "developerId": "Legafly",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "HD Video Screen Mirroring is best for Cast, Connect &amp; mirroring Mobile to TV!",
+    "scoreText": "1.9",
+    "score": 1.9411764
+  },
+  {
+    "title": "TK-App",
+    "appId": "de.tk.tkapp",
+    "url": "https://play.google.com/store/apps/details?id=de.tk.tkapp",
+    "icon": "https://play-lh.googleusercontent.com/NA2CHgWurjEvBcodWEv4nUyugv0Yd_jKtAdXTcDKutiaj5EPFooT7OCXrQbE8pObmY4",
+    "developer": "Techniker Krankenkasse (TK)",
+    "developerId": "Techniker+Krankenkasse+(TK)",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "The TK-App puts a digital all-purpose tool into the hands of their customers.",
+    "scoreText": "4.7",
+    "score": 4.681777
+  },
+  {
+    "title": "H&M - we love fashion",
+    "appId": "com.hm.goe",
+    "url": "https://play.google.com/store/apps/details?id=com.hm.goe",
+    "icon": "https://play-lh.googleusercontent.com/fZ7YafYdCZ7U4LK4J7YiZXfIxdW2VqBODOv5moszVcVN721KGnQXQo9xPFy0Ws0tZw",
+    "developer": "H&M",
+    "developerId": "H%26M",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "H&amp;M app - shopping made easier! Browse,shop and keep an eye on the latest trends",
+    "scoreText": "4.6",
+    "score": 4.6462293
   },
   {
     "title": "KLARTAX",
@@ -1834,62 +1834,6 @@
     "score": 3.7843137
   },
   {
-    "title": "Bioscientia Travel Pass",
-    "appId": "de.bioscientia.docnet.app.travelpass",
-    "url": "https://play.google.com/store/apps/details?id=de.bioscientia.docnet.app.travelpass",
-    "icon": "https://play-lh.googleusercontent.com/t38s3IVbbVQhdOJZ1y4S5a4XFCafq-8fqUgP8uDlUvexzb0RP2GmLVVOQBCEcwhQphs",
-    "developer": "doc.net by SHG GmbH & Co.KG",
-    "developerId": "doc.net+by+SHG+GmbH+%26+Co.KG",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Receive push notifications, check test results, travel without borders",
-    "scoreText": "4.0",
-    "score": 4.0285716
-  },
-  {
-    "title": "HD Video Screen Mirroring Cast",
-    "appId": "com.satcast.mcasterr",
-    "url": "https://play.google.com/store/apps/details?id=com.satcast.mcasterr",
-    "icon": "https://play-lh.googleusercontent.com/HDtMQttcZGJheaBKc4wn6z8uxrkILxAv7YRUZ-FxkcGEZTp9hWf_-ZMi2LOEeEE4Klc",
-    "developer": "Legafly",
-    "developerId": "Legafly",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "HD Video Screen Mirroring is best for Cast, Connect &amp; mirroring Mobile to TV!",
-    "scoreText": "2.0",
-    "score": 1.96
-  },
-  {
-    "title": "TK-App",
-    "appId": "de.tk.tkapp",
-    "url": "https://play.google.com/store/apps/details?id=de.tk.tkapp",
-    "icon": "https://play-lh.googleusercontent.com/NA2CHgWurjEvBcodWEv4nUyugv0Yd_jKtAdXTcDKutiaj5EPFooT7OCXrQbE8pObmY4",
-    "developer": "Techniker Krankenkasse (TK)",
-    "developerId": "Techniker+Krankenkasse+(TK)",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "The TK-App puts a digital all-purpose tool into the hands of their customers.",
-    "scoreText": "4.7",
-    "score": 4.68293
-  },
-  {
-    "title": "H&M - we love fashion",
-    "appId": "com.hm.goe",
-    "url": "https://play.google.com/store/apps/details?id=com.hm.goe",
-    "icon": "https://play-lh.googleusercontent.com/fZ7YafYdCZ7U4LK4J7YiZXfIxdW2VqBODOv5moszVcVN721KGnQXQo9xPFy0Ws0tZw",
-    "developer": "H&M",
-    "developerId": "H%26M",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "H&amp;M app - shopping made easier! Browse,shop and keep an eye on the latest trends",
-    "scoreText": "4.6",
-    "score": 4.646185
-  },
-  {
     "title": "Google Earth",
     "appId": "com.google.earth",
     "url": "https://play.google.com/store/apps/details?id=com.google.earth",
@@ -1901,21 +1845,21 @@
     "free": true,
     "summary": "Find satellite images of any location. Discover cities and mountains with tours.",
     "scoreText": "4.2",
-    "score": 4.152145
+    "score": 4.1528645
   },
   {
-    "title": "DocMorris",
-    "appId": "de.docmorris.pharmacyapp",
-    "url": "https://play.google.com/store/apps/details?id=de.docmorris.pharmacyapp",
-    "icon": "https://play-lh.googleusercontent.com/agSDVD_6UluQF_02wnYSEWO4cZZHQ1nRjY_ehd8AcQVmxQpfQQntnl6FLeWCZbLR-xs",
-    "developer": "Versandapotheke DocMorris",
-    "developerId": "6501443598430079239",
+    "title": "Adobe Scan: PDF Scanner, OCR",
+    "appId": "com.adobe.scan.android",
+    "url": "https://play.google.com/store/apps/details?id=com.adobe.scan.android",
+    "icon": "https://play-lh.googleusercontent.com/ML99HbuCA7xDVJatxeYRsYjoO2RM4d09kNdytU0yZc5L-c58AfCoE6brHlv8GAL-cZ4",
+    "developer": "Adobe",
+    "developerId": "4734916851270416020",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Simply order medicines &amp; scan e-prescriptions at the DocMorris pharmacy",
-    "scoreText": "4.6",
-    "score": 4.642748
+    "summary": "Turn forms into interactive digital docs - scan them to your device in seconds.",
+    "scoreText": "4.7",
+    "score": 4.710612
   },
   {
     "title": "Smart Cleaner Pro",
@@ -1929,7 +1873,7 @@
     "free": true,
     "summary": "The tool that cleans junk and improves battery life",
     "scoreText": "4.4",
-    "score": 4.3619046
+    "score": 4.366337
   },
   {
     "title": "PDF Reader - Free PDF Viewer, Book Reader",
@@ -1943,7 +1887,7 @@
     "free": true,
     "summary": "Read PDF files like a book. PDF reader manages all your PDF files and documents.",
     "scoreText": "4.6",
-    "score": 4.584
+    "score": 4.572581
   },
   {
     "title": "Firefox Fast & Private Browser",
@@ -1957,21 +1901,21 @@
     "free": true,
     "summary": "Only non-profit-backed browser with ad blocker that is secure, private &amp; fast",
     "scoreText": "4.5",
-    "score": 4.5316796
+    "score": 4.531102
   },
   {
-    "title": "Pluto TV - Live TV and Movies",
-    "appId": "tv.pluto.android",
-    "url": "https://play.google.com/store/apps/details?id=tv.pluto.android",
-    "icon": "https://play-lh.googleusercontent.com/gIiZK9ZUU7tt8N08ozfe8OPBnW-KPREAHdbN1WDvqqSscVdAQuuP2_i2c1Gm2zHJ_S9x",
-    "developer": "Pluto, Inc.",
-    "developerId": "Pluto,+Inc.",
+    "title": "Trade Republic: Mobile Broker",
+    "appId": "de.traderepublic.app",
+    "url": "https://play.google.com/store/apps/details?id=de.traderepublic.app",
+    "icon": "https://play-lh.googleusercontent.com/B8611U7Dhx5h8E2NJm7yJTSYUss6mzbsqA0KfB_K_hyerEXVMSbeZxWP5oH2N7qEsD3W",
+    "developer": "Trade Republic Bank GmbH",
+    "developerId": "Trade+Republic+Bank+GmbH",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Watch Free TV! 100s of channels and 1000s of Movies and TV Shows Free!",
-    "scoreText": "3.8",
-    "score": 3.752515
+    "summary": "Commission-free trading",
+    "scoreText": "4.3",
+    "score": 4.275844
   },
   {
     "title": "Google Pay",
@@ -1985,7 +1929,7 @@
     "free": true,
     "summary": "The fast, simple way to pay with Google",
     "scoreText": "3.7",
-    "score": 3.7148771
+    "score": 3.714128
   },
   {
     "title": "Facebook",
@@ -1999,21 +1943,21 @@
     "free": true,
     "summary": "Find friends, watch live videos, play games &amp; save photos in your social network",
     "scoreText": "2.1",
-    "score": 2.0797706
+    "score": 2.107316
   },
   {
-    "title": "Untis Mobile",
-    "appId": "com.grupet.web.app",
-    "url": "https://play.google.com/store/apps/details?id=com.grupet.web.app",
-    "icon": "https://play-lh.googleusercontent.com/6lUhld8gFhB0_b-lpce_crw-gdH70lDnXot5ckVmOFMh91jag56whanU-Q30nLt68sr5",
-    "developer": "Untis Mobile",
-    "developerId": "Untis+Mobile",
+    "title": "Meine AOK",
+    "appId": "de.aoksystems.amg",
+    "url": "https://play.google.com/store/apps/details?id=de.aoksystems.amg",
+    "icon": "https://play-lh.googleusercontent.com/BfzIi7u0paY5qda5a8xR5ySp4_kvWWktGHsZgUN6dbnflNnBe-vfi3tRzJpZkLa0LWo",
+    "developer": "AOK – Die Gesundheitskasse",
+    "developerId": "AOK+%E2%80%93+Die+Gesundheitskasse",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Access your up-to-date timetable information at anytime from everywhere.",
-    "scoreText": "4.0",
-    "score": 4.0221925
+    "summary": "The mobile office for customers of the AOK.",
+    "scoreText": "4.6",
+    "score": 4.6156306
   },
   {
     "title": "Fast Cleaner & CPU Cooler",
@@ -2027,7 +1971,21 @@
     "free": true,
     "summary": "Fast Cleaner： A necessary app with small size and strong functions.",
     "scoreText": "4.8",
-    "score": 4.8349514
+    "score": 4.838095
+  },
+  {
+    "title": "DocMorris",
+    "appId": "de.docmorris.pharmacyapp",
+    "url": "https://play.google.com/store/apps/details?id=de.docmorris.pharmacyapp",
+    "icon": "https://play-lh.googleusercontent.com/agSDVD_6UluQF_02wnYSEWO4cZZHQ1nRjY_ehd8AcQVmxQpfQQntnl6FLeWCZbLR-xs",
+    "developer": "Versandapotheke DocMorris",
+    "developerId": "6501443598430079239",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Simply order medicines &amp; scan e-prescriptions at the DocMorris pharmacy",
+    "scoreText": "4.6",
+    "score": 4.637681
   },
   {
     "title": "AUTODOC: buy car parts online",
@@ -2041,7 +1999,7 @@
     "free": true,
     "summary": "Save up to 38% on Car Parts. Auto Parts for all Car Brands. 2 Years Warranty.",
     "scoreText": "4.4",
-    "score": 4.4488754
+    "score": 4.4473233
   },
   {
     "title": "MeinVodafone",
@@ -2055,35 +2013,7 @@
     "free": true,
     "summary": "Your Vodafone Service-App",
     "scoreText": "4.3",
-    "score": 4.2662725
-  },
-  {
-    "title": "QR Code Scanner & Scanner App",
-    "appId": "qrcodescanner.barcodescanner.qrscanner.qrcodereader",
-    "url": "https://play.google.com/store/apps/details?id=qrcodescanner.barcodescanner.qrscanner.qrcodereader",
-    "icon": "https://play-lh.googleusercontent.com/RoyISAGF5LUElHru01gH68qKEncQRiDYLIHPHBNptPvZc6PrFVSSLJk3aQIIlFvdOc0",
-    "developer": "QR Code Scanner.",
-    "developerId": "QR+Code+Scanner.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Free &amp; fastest QR scanner, barcode reader for all formats. Lightest scanner app!",
-    "scoreText": "4.4",
-    "score": 4.4117646
-  },
-  {
-    "title": "Microsoft Outlook",
-    "appId": "com.microsoft.office.outlook",
-    "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.outlook",
-    "icon": "https://play-lh.googleusercontent.com/Zk9elS0eGXDr0L4W6-Ey7YwHbRNjkyezHC8iCc8rWp64lNIjlByS8TDF9qDSZbiEWY4",
-    "developer": "Microsoft Corporation",
-    "developerId": "6720847872553662727",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Always stay connected on Outlook. Manage your email, calendar &amp; files in one app",
-    "scoreText": "4.4",
-    "score": 4.3797007
+    "score": 4.2665067
   },
   {
     "title": "clever-tanken.de",
@@ -2097,7 +2027,63 @@
     "free": true,
     "summary": "Compare fuel prices &amp; save money",
     "scoreText": "4.3",
-    "score": 4.256855
+    "score": 4.257063
+  },
+  {
+    "title": "Pluto TV - Live TV and Movies",
+    "appId": "tv.pluto.android",
+    "url": "https://play.google.com/store/apps/details?id=tv.pluto.android",
+    "icon": "https://play-lh.googleusercontent.com/gIiZK9ZUU7tt8N08ozfe8OPBnW-KPREAHdbN1WDvqqSscVdAQuuP2_i2c1Gm2zHJ_S9x",
+    "developer": "Pluto, Inc.",
+    "developerId": "Pluto,+Inc.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Watch Free TV! 100s of channels and 1000s of Movies and TV Shows Free!",
+    "scoreText": "3.8",
+    "score": 3.76
+  },
+  {
+    "title": "QR Code Scanner & Scanner App",
+    "appId": "qrcodescanner.barcodescanner.qrscanner.qrcodereader",
+    "url": "https://play.google.com/store/apps/details?id=qrcodescanner.barcodescanner.qrscanner.qrcodereader",
+    "icon": "https://play-lh.googleusercontent.com/RoyISAGF5LUElHru01gH68qKEncQRiDYLIHPHBNptPvZc6PrFVSSLJk3aQIIlFvdOc0",
+    "developer": "QR Code Scanner.",
+    "developerId": "QR+Code+Scanner.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Free &amp; fastest QR scanner, barcode reader for all formats. Lightest scanner app!",
+    "scoreText": "4.4",
+    "score": 4.4
+  },
+  {
+    "title": "Microsoft Outlook",
+    "appId": "com.microsoft.office.outlook",
+    "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.outlook",
+    "icon": "https://play-lh.googleusercontent.com/Zk9elS0eGXDr0L4W6-Ey7YwHbRNjkyezHC8iCc8rWp64lNIjlByS8TDF9qDSZbiEWY4",
+    "developer": "Microsoft Corporation",
+    "developerId": "6720847872553662727",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Always stay connected on Outlook. Manage your email, calendar &amp; files in one app",
+    "scoreText": "4.4",
+    "score": 4.3809495
+  },
+  {
+    "title": "Scalable Capital: ETF & Stocks",
+    "appId": "capital.scalable.droid",
+    "url": "https://play.google.com/store/apps/details?id=capital.scalable.droid",
+    "icon": "https://play-lh.googleusercontent.com/6UM2Mk5F7Rlao-hbDUFGp4kdmnIm0DFtPHQWJS7dBLWJbd3AUiCJHxtHJlYr5DbjWPSQ",
+    "developer": "Scalable GmbH",
+    "developerId": "Scalable+GmbH",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Unlimited trading in stocks, ETFs, funds and derivatives.",
+    "scoreText": "3.9",
+    "score": 3.877712
   },
   {
     "title": "Auto Clicker - Automatic tap",
@@ -2111,7 +2097,7 @@
     "free": true,
     "summary": "The tool about auto clicker. Help you automate repeated taps.",
     "scoreText": "4.2",
-    "score": 4.185941
+    "score": 4.1734233
   },
   {
     "title": "HomeAway Vacation Rentals",
@@ -2125,21 +2111,7 @@
     "free": true,
     "summary": "Book beach houses, cabins, condos, and more, worldwide",
     "scoreText": "4.0",
-    "score": 3.9818652
-  },
-  {
-    "title": "WhatsApp Business",
-    "appId": "com.whatsapp.w4b",
-    "url": "https://play.google.com/store/apps/details?id=com.whatsapp.w4b",
-    "icon": "https://play-lh.googleusercontent.com/ebs6ftYUkOKlDY0M174OpvargwbDyHUVAnO_G5aE0dL5GBQKCtfh3adN5H3ZMThXogDi",
-    "developer": "WhatsApp LLC",
-    "developerId": "WhatsApp+LLC",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Simple tool for businesses to talk to their customers.",
-    "scoreText": "4.3",
-    "score": 4.339899
+    "score": 3.9844155
   },
   {
     "title": "Canon PRINT Inkjet/SELPHY",
@@ -2153,7 +2125,7 @@
     "free": true,
     "summary": "FREE app for PIXMA &amp; MAXIFY, SELPHY by Canon\nPrint from your smart device easily",
     "scoreText": "4.5",
-    "score": 4.5238786
+    "score": 4.523981
   },
   {
     "title": "Canva: Design, Photo & Video",
@@ -2167,7 +2139,7 @@
     "free": true,
     "summary": "Your all-in-one graphic design, photo &amp; video editing tool that&#39;s easy to use.",
     "scoreText": "4.6",
-    "score": 4.6203346
+    "score": 4.6198883
   },
   {
     "title": "QR Code & Barcode Scanner",
@@ -2181,7 +2153,7 @@
     "free": true,
     "summary": "The simplest, yet effective QR scanner and barcode reader - QR code scanner app",
     "scoreText": "4.7",
-    "score": 4.6679387
+    "score": 4.6685715
   },
   {
     "title": "ALDI TALK",
@@ -2195,21 +2167,21 @@
     "free": true,
     "summary": "Check credit, charge and manage options",
     "scoreText": "4.4",
-    "score": 4.408844
+    "score": 4.4088416
   },
   {
-    "title": "HP Print Service Plugin",
-    "appId": "com.hp.android.printservice",
-    "url": "https://play.google.com/store/apps/details?id=com.hp.android.printservice",
-    "icon": "https://play-lh.googleusercontent.com/kfg71sF9VqFDT9eQVjDe62PPgEZYSX3e3la5C6ESnC9dZ-ND1p0lzoDYI7AMyrjO4fA",
-    "developer": "HP Inc.",
-    "developerId": "9030305074573031837",
+    "title": "WhatsApp Business",
+    "appId": "com.whatsapp.w4b",
+    "url": "https://play.google.com/store/apps/details?id=com.whatsapp.w4b",
+    "icon": "https://play-lh.googleusercontent.com/ebs6ftYUkOKlDY0M174OpvargwbDyHUVAnO_G5aE0dL5GBQKCtfh3adN5H3ZMThXogDi",
+    "developer": "WhatsApp LLC",
+    "developerId": "WhatsApp+LLC",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "The plugin enables printing from your apps to HP printers.",
+    "summary": "Simple tool for businesses to talk to their customers.",
     "scoreText": "4.3",
-    "score": 4.294185
+    "score": 4.3408976
   },
   {
     "title": "AliExpress",
@@ -2223,7 +2195,7 @@
     "free": true,
     "summary": "Enjoy 3-10 workday delivery on selected items",
     "scoreText": "4.4",
-    "score": 4.4336824
+    "score": 4.432888
   },
   {
     "title": "Optimizer Pro: remove junk",
@@ -2237,7 +2209,7 @@
     "free": true,
     "summary": "The perfect tool for optimizing your device and your battery.",
     "scoreText": "4.2",
-    "score": 4.203125
+    "score": 4.207692
   },
   {
     "title": "Blitzer.de",
@@ -2251,7 +2223,7 @@
     "free": true,
     "summary": "Blitzer.de turns your smartphone into the perfect speed camera alert system!",
     "scoreText": "4.7",
-    "score": 4.669201
+    "score": 4.6692038
   },
   {
     "title": "Knowunity - Deine Schulapp",
@@ -2265,7 +2237,7 @@
     "free": true,
     "summary": "Your learning app for the simpler everyday school life. Easier learning &amp; less stress",
     "scoreText": "4.6",
-    "score": 4.604534
+    "score": 4.607595
   },
   {
     "title": "DeutschlandCard",
@@ -2279,7 +2251,21 @@
     "free": true,
     "summary": "Shopping, points, saving",
     "scoreText": "4.4",
-    "score": 4.396954
+    "score": 4.396785
+  },
+  {
+    "title": "HP Print Service Plugin",
+    "appId": "com.hp.android.printservice",
+    "url": "https://play.google.com/store/apps/details?id=com.hp.android.printservice",
+    "icon": "https://play-lh.googleusercontent.com/kfg71sF9VqFDT9eQVjDe62PPgEZYSX3e3la5C6ESnC9dZ-ND1p0lzoDYI7AMyrjO4fA",
+    "developer": "HP Inc.",
+    "developerId": "9030305074573031837",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "The plugin enables printing from your apps to HP printers.",
+    "scoreText": "4.3",
+    "score": 4.2942653
   },
   {
     "title": "Tinder - Dating & Make Friends",
@@ -2293,7 +2279,7 @@
     "free": true,
     "summary": "App to Match, Chat &amp; Date with New People - online, near you &amp; around the world!",
     "scoreText": "2.8",
-    "score": 2.7762
+    "score": 2.776513
   },
   {
     "title": "QR Scanner: Barcode Scanner & QR Code Scanner",
@@ -2307,7 +2293,7 @@
     "free": true,
     "summary": "Fast, Simple QR code scanner &amp; barcode scanner. Scanner app for all formats!",
     "scoreText": "4.8",
-    "score": 4.8345003
+    "score": 4.834816
   },
   {
     "title": "WordBit ألمانية  (German for Arabic)",
@@ -2335,7 +2321,7 @@
     "free": true,
     "summary": "A free &amp; powerful junk cleaner &amp; phone booster. Make your phone as fast as new.",
     "scoreText": "4.5",
-    "score": 4.4660296
+    "score": 4.456869
   },
   {
     "title": "Document Scan: PDF scanner",
@@ -2348,36 +2334,8 @@
     "price": 0,
     "free": true,
     "summary": "Document scanner, scan to PDF, text OCR, PDF scanner and PDF converter",
-    "scoreText": "4.6",
-    "score": 4.5833335
-  },
-  {
-    "title": "All Document Reader and Viewer",
-    "appId": "com.documentreader.documentapp.filereader",
-    "url": "https://play.google.com/store/apps/details?id=com.documentreader.documentapp.filereader",
-    "icon": "https://play-lh.googleusercontent.com/ml92UzQ9G494ZBEyE_TaDLSOBqrEKHalmnYz4ZCPQoVQIf1Ew4BoSF9f1Tsg4kt137SS",
-    "developer": "TrustedApp",
-    "developerId": "5581123954802239973",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Super All Document Reader: Office Suite and read PDF, ppt, txt, excel, docx",
     "scoreText": "4.5",
-    "score": 4.4736843
-  },
-  {
-    "title": "BURGER KING®",
-    "appId": "de.burgerking.kingfinder",
-    "url": "https://play.google.com/store/apps/details?id=de.burgerking.kingfinder",
-    "icon": "https://play-lh.googleusercontent.com/PDSuJ9JjikJ2kNqMoKFEOJ6NpX7_SNXJuW7ixBRiqR_ptEBjjYn5JFm3W4DO7zHMQ5M",
-    "developer": "Burger King, Inc.",
-    "developerId": "Burger+King,+Inc.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Download the official BURGER KING® app now.",
-    "scoreText": "3.5",
-    "score": 3.5120842
+    "score": 4.542222
   },
   {
     "title": "PatPat - Kids & Baby Clothing",
@@ -2391,7 +2349,63 @@
     "free": true,
     "summary": "Baby, toddler, kids clothing online shopping deals &amp; discounts. Shop safe &amp; easy",
     "scoreText": "4.5",
-    "score": 4.4780364
+    "score": 4.469657
+  },
+  {
+    "title": "All Document Reader and Viewer",
+    "appId": "com.documentreader.documentapp.filereader",
+    "url": "https://play.google.com/store/apps/details?id=com.documentreader.documentapp.filereader",
+    "icon": "https://play-lh.googleusercontent.com/ml92UzQ9G494ZBEyE_TaDLSOBqrEKHalmnYz4ZCPQoVQIf1Ew4BoSF9f1Tsg4kt137SS",
+    "developer": "TrustedApp",
+    "developerId": "5581123954802239973",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Super All Document Reader: Office Suite and read PDF, ppt, txt, excel, docx",
+    "scoreText": "4.5",
+    "score": 4.5193796
+  },
+  {
+    "title": "BURGER KING®",
+    "appId": "de.burgerking.kingfinder",
+    "url": "https://play.google.com/store/apps/details?id=de.burgerking.kingfinder",
+    "icon": "https://play-lh.googleusercontent.com/PDSuJ9JjikJ2kNqMoKFEOJ6NpX7_SNXJuW7ixBRiqR_ptEBjjYn5JFm3W4DO7zHMQ5M",
+    "developer": "Burger King, Inc.",
+    "developerId": "Burger+King,+Inc.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Download the official BURGER KING® app now.",
+    "scoreText": "3.5",
+    "score": 3.5147235
+  },
+  {
+    "title": "Airbnb",
+    "appId": "com.airbnb.android",
+    "url": "https://play.google.com/store/apps/details?id=com.airbnb.android",
+    "icon": "https://play-lh.googleusercontent.com/1zfN_BL13q20v0wvBzMWiZ_sL_t4KcCJBeAMRpOZeT3p34quM-4-pO-VcLj8PJNXPA0",
+    "developer": "Airbnb",
+    "developerId": "Airbnb",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "The Airbnb app brings together a global community of guests and Hosts.",
+    "scoreText": "4.3",
+    "score": 4.333439
+  },
+  {
+    "title": "Untis Mobile",
+    "appId": "com.grupet.web.app",
+    "url": "https://play.google.com/store/apps/details?id=com.grupet.web.app",
+    "icon": "https://play-lh.googleusercontent.com/6lUhld8gFhB0_b-lpce_crw-gdH70lDnXot5ckVmOFMh91jag56whanU-Q30nLt68sr5",
+    "developer": "Untis Mobile",
+    "developerId": "Untis+Mobile",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Access your up-to-date timetable information at anytime from everywhere.",
+    "scoreText": "4.0",
+    "score": 4.0234604
   },
   {
     "title": "Google Play Games",
@@ -2405,7 +2419,21 @@
     "free": true,
     "summary": "Play games instantly, save progress, and earn achievements.",
     "scoreText": "4.1",
-    "score": 4.131326
+    "score": 4.131208
+  },
+  {
+    "title": "ARD Mediathek",
+    "appId": "de.swr.avp.ard",
+    "url": "https://play.google.com/store/apps/details?id=de.swr.avp.ard",
+    "icon": "https://play-lh.googleusercontent.com/2Akd0-mbn9I4gjospdkQNz2myHmp4hSscMHzTV-EDttsX0tnpqBjWmvq2qJ3qVuhog",
+    "developer": "ARD Online",
+    "developerId": "ARD+Online",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Movies, series, documentaries, shows, news, livestreams and much more...",
+    "scoreText": "3.2",
+    "score": 3.1555338
   },
   {
     "title": "VPN Master Pro - Fast & Secure",
@@ -2433,7 +2461,7 @@
     "free": true,
     "summary": "Photo editor pro with filters for pictures, neon, glitch, collage.",
     "scoreText": "4.8",
-    "score": 4.8481607
+    "score": 4.8487525
   },
   {
     "title": "Home Workout - No Equipment",
@@ -2447,7 +2475,7 @@
     "free": true,
     "summary": "Home workouts for fitness &amp; fast bodybuilding at home - no equipment needed.",
     "scoreText": "4.9",
-    "score": 4.9067507
+    "score": 4.906118
   },
   {
     "title": "heyOBI: DIY-Projekte mit OBI",
@@ -2461,7 +2489,7 @@
     "free": true,
     "summary": "Personal advice, market navigation, inspiration, care calendar, discounts &amp; more!",
     "scoreText": "4.5",
-    "score": 4.474906
+    "score": 4.47191
   },
   {
     "title": "Screen Recorder - XRecorder",
@@ -2475,7 +2503,7 @@
     "free": true,
     "summary": "Screen recorder with audio to take live videos&amp; Screenshot in high quality!",
     "scoreText": "4.8",
-    "score": 4.77771
+    "score": 4.7784557
   },
   {
     "title": "Wayfair - Shop All Things Home",
@@ -2489,7 +2517,7 @@
     "free": true,
     "summary": "Furniture, Décor &amp; Design Tips",
     "scoreText": "4.6",
-    "score": 4.601626
+    "score": 4.611691
   },
   {
     "title": "WEB.DE Mail & Cloud",
@@ -2503,21 +2531,7 @@
     "free": true,
     "summary": "All your e-mails at your fingertips",
     "scoreText": "4.5",
-    "score": 4.4615846
-  },
-  {
-    "title": "Airbnb",
-    "appId": "com.airbnb.android",
-    "url": "https://play.google.com/store/apps/details?id=com.airbnb.android",
-    "icon": "https://play-lh.googleusercontent.com/1zfN_BL13q20v0wvBzMWiZ_sL_t4KcCJBeAMRpOZeT3p34quM-4-pO-VcLj8PJNXPA0",
-    "developer": "Airbnb",
-    "developerId": "Airbnb",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "The Airbnb app brings together a global community of guests and Hosts.",
-    "scoreText": "4.3",
-    "score": 4.3332276
+    "score": 4.4616094
   },
   {
     "title": "HD Video Screen Mirroring",
@@ -2534,20 +2548,6 @@
     "score": 1.1818181
   },
   {
-    "title": "ARD Mediathek",
-    "appId": "de.swr.avp.ard",
-    "url": "https://play.google.com/store/apps/details?id=de.swr.avp.ard",
-    "icon": "https://play-lh.googleusercontent.com/2Akd0-mbn9I4gjospdkQNz2myHmp4hSscMHzTV-EDttsX0tnpqBjWmvq2qJ3qVuhog",
-    "developer": "ARD Online",
-    "developerId": "ARD+Online",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Movies, series, documentaries, shows, news, livestreams and much more...",
-    "scoreText": "3.2",
-    "score": 3.1539211
-  },
-  {
     "title": "PDF Scanner - Document Scanner",
     "appId": "com.camscanner.documentscanner.pdfscanner.textscanner.photos.scanner",
     "url": "https://play.google.com/store/apps/details?id=com.camscanner.documentscanner.pdfscanner.textscanner.photos.scanner",
@@ -2559,7 +2559,7 @@
     "free": true,
     "summary": "Scan clear images into PDF Documents with camera scanner &amp; share as PDF or JPEG",
     "scoreText": "4.7",
-    "score": 4.7340155
+    "score": 4.7244897
   },
   {
     "title": "Finanzguru",
@@ -2573,7 +2573,21 @@
     "free": true,
     "summary": "With the Financial Guru app, your finances are done by themselves",
     "scoreText": "4.6",
-    "score": 4.571322
+    "score": 4.5732074
+  },
+  {
+    "title": "Amazon Photos",
+    "appId": "com.amazon.clouddrive.photos",
+    "url": "https://play.google.com/store/apps/details?id=com.amazon.clouddrive.photos",
+    "icon": "https://play-lh.googleusercontent.com/_a9HTg8dzNCL7ZJoWesNTjvBtWTsrK2O-wEPLcIeEdHmp8RTAVW349z_l9G-vrNTPiE",
+    "developer": "Amazon Mobile LLC",
+    "developerId": "Amazon+Mobile+LLC",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Prime members get unlimited photo storage and 5GB for video",
+    "scoreText": "4.6",
+    "score": 4.6062417
   },
   {
     "title": "TickTock Video Wallpaper by TikTok",
@@ -2587,7 +2601,7 @@
     "free": true,
     "summary": "Best Free TikTok Video Wallpaper Maker. All the TikTokers are Using It!",
     "scoreText": "4.8",
-    "score": 4.774194
+    "score": 4.761726
   },
   {
     "title": "Google Lens",
@@ -2601,7 +2615,7 @@
     "free": true,
     "summary": "Mit einem Blick suchen und einfach mehr über deine Umgebung erfahren.",
     "scoreText": "4.4",
-    "score": 4.4381623
+    "score": 4.436903
   },
   {
     "title": "PayPal Business: Send Invoices and Track Sales",
@@ -2615,7 +2629,7 @@
     "free": true,
     "summary": "Easily send invoices &amp; manage your business with the PayPal Business app.",
     "scoreText": "4.1",
-    "score": 4.139073
+    "score": 4.144737
   },
   {
     "title": "Akinator",
@@ -2629,21 +2643,21 @@
     "free": true,
     "summary": "Akinator can read your mind and tell you what character you are thinking of!",
     "scoreText": "4.4",
-    "score": 4.444456
+    "score": 4.4454007
   },
   {
-    "title": "Microsoft Word: Edit Documents",
-    "appId": "com.microsoft.office.word",
-    "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.word",
-    "icon": "https://play-lh.googleusercontent.com/9kABykeGovHPy-dN19lRxxnCp8IZK3Pkl8qLFNxrEe-hhKVZeiyhTBEIRUt6t-vhxQ",
-    "developer": "Microsoft Corporation",
-    "developerId": "6720847872553662727",
+    "title": "File Recovery",
+    "appId": "net.filerecover.app",
+    "url": "https://play.google.com/store/apps/details?id=net.filerecover.app",
+    "icon": "https://play-lh.googleusercontent.com/M3ffS0WQcg0O2eZqA9BlNaJefME6KjSdFmaJn6mkUmK1drO4VTAnATEhFhUPnl2swWgt",
+    "developer": "File Recovery",
+    "developerId": "6005881960505728204",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Powerful mobile writing app. Use Word to easily write, create, edit &amp; share docs",
-    "scoreText": "4.3",
-    "score": 4.325482
+    "summary": "Recovery deleted photo, recover deleted video, recovery deleted audio",
+    "scoreText": "3.8",
+    "score": 3.7692308
   },
   {
     "title": "GMX - Mail & Cloud",
@@ -2657,21 +2671,7 @@
     "free": true,
     "summary": "Experience GMX Mail on your Android phone!",
     "scoreText": "4.5",
-    "score": 4.4847813
-  },
-  {
-    "title": "Facebook Lite",
-    "appId": "com.facebook.lite",
-    "url": "https://play.google.com/store/apps/details?id=com.facebook.lite",
-    "icon": "https://play-lh.googleusercontent.com/J--_O-bAdNwLKs8XXsm9dTbt4B19wHXq6qGr5eCAJEagPrdC86aB8RieIkRdqKtSbNM",
-    "developer": "Meta Platforms, Inc.",
-    "developerId": "Meta+Platforms,+Inc.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Get all the power of Facebook, using fewer resources.",
-    "scoreText": "4.0",
-    "score": 4.0480976
+    "score": 4.4847097
   },
   {
     "title": "Dogorama – The Dog Community",
@@ -2685,7 +2685,7 @@
     "free": true,
     "summary": "Recommended by Martin Rütter: Dog friends, poison bait alarms and much more",
     "scoreText": "4.8",
-    "score": 4.8030796
+    "score": 4.80419
   },
   {
     "title": "Bring! Grocery Shopping List",
@@ -2699,7 +2699,7 @@
     "free": true,
     "summary": "Share shopping lists with other people and plan together. Try it out!",
     "scoreText": "4.6",
-    "score": 4.624013
+    "score": 4.62413
   },
   {
     "title": "Sketchbook",
@@ -2713,7 +2713,7 @@
     "free": true,
     "summary": "Sketch and paint on your device with the feel and freedom of drawing on paper",
     "scoreText": "3.8",
-    "score": 3.8294117
+    "score": 3.8280632
   },
   {
     "title": "LightInTheBox Online Shopping",
@@ -2727,7 +2727,35 @@
     "free": true,
     "summary": "The LightInTheBox App can easily take you through a fantastic shopping journey.",
     "scoreText": "4.1",
-    "score": 4.140753
+    "score": 4.143556
+  },
+  {
+    "title": "Facebook Lite",
+    "appId": "com.facebook.lite",
+    "url": "https://play.google.com/store/apps/details?id=com.facebook.lite",
+    "icon": "https://play-lh.googleusercontent.com/J--_O-bAdNwLKs8XXsm9dTbt4B19wHXq6qGr5eCAJEagPrdC86aB8RieIkRdqKtSbNM",
+    "developer": "Meta Platforms, Inc.",
+    "developerId": "Meta+Platforms,+Inc.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Get all the power of Facebook, using fewer resources.",
+    "scoreText": "4.0",
+    "score": 4.047517
+  },
+  {
+    "title": "NordVPN – fast VPN for privacy",
+    "appId": "com.nordvpn.android",
+    "url": "https://play.google.com/store/apps/details?id=com.nordvpn.android",
+    "icon": "https://play-lh.googleusercontent.com/X8hJVUEzH6Q5N0g5npd0gz4rYPmvSek1ScQL8cmnIa8bLtXeAcRQJbLaoBAL-4YXIQ",
+    "developer": "Nord Security",
+    "developerId": "7891240193247683246",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Enjoy ultimate online privacy and security with the NordVPN  app for Android.",
+    "scoreText": "4.3",
+    "score": 4.3061423
   },
   {
     "title": "Aktion Mensch-Lotterie",
@@ -2741,7 +2769,7 @@
     "free": true,
     "summary": "Get the Aktion Mensch app easily if your lot has won!",
     "scoreText": "4.5",
-    "score": 4.487805
+    "score": 4.4891043
   },
   {
     "title": "Google Docs",
@@ -2769,34 +2797,6 @@
     "free": true,
     "summary": "Debeka ePortal MY HEALTH *: Your digital health platform",
     "scoreText": "1.9",
-    "score": 1.923913
-  },
-  {
-    "title": "Video Editor & Maker - InShot",
-    "appId": "com.camerasideas.instashot",
-    "url": "https://play.google.com/store/apps/details?id=com.camerasideas.instashot",
-    "icon": "https://play-lh.googleusercontent.com/mjmbWruxfo8oYHsBNI7b76KLj1AEJQo7hXwlmi05EvfFwubOjo8nQJrVEHRe4Vbgpo8",
-    "developer": "InShot Video Editor",
-    "developerId": "InShot+Video+Editor",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Pro Video Editor with Music! Edit video with effects, slideshow &amp; slow motion",
-    "scoreText": "4.8",
-    "score": 4.829828
-  },
-  {
-    "title": "Step Tracker - Pedometer, iStep",
-    "appId": "steptracker.healthandfitness.walkingtracker.pedometer",
-    "url": "https://play.google.com/store/apps/details?id=steptracker.healthandfitness.walkingtracker.pedometer",
-    "icon": "https://play-lh.googleusercontent.com/wvs_WarF5DUUbcocx1hKtn5ehs-j2HjaHhAlGTu2IuI0hVcXqOQw78ynEbD5a7AGsS0",
-    "developer": "Leap Fitness Group",
-    "developerId": "Leap+Fitness+Group",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Daily step tracker, free pedometer &amp; map tracker to count steps and calories.",
-    "scoreText": "4.8",
-    "score": 4.8499227
+    "score": 1.9299921
   }
 ]
