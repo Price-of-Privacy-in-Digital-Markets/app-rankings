@@ -11,21 +11,7 @@
     "free": true,
     "summary": "Now with Twitter spaces: Join, listen, and speak in live audio conversations",
     "scoreText": "3.8",
-    "score": 3.8161018
-  },
-  {
-    "title": "YouTube",
-    "appId": "com.google.android.youtube",
-    "url": "https://play.google.com/store/apps/details?id=com.google.android.youtube",
-    "icon": "https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc",
-    "developer": "Google LLC",
-    "developerId": "5700313618786177705",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Enjoy your favorite videos and channels with the official YouTube app.",
-    "scoreText": "4.1",
-    "score": 4.0944676
+    "score": 3.8160665
   },
   {
     "title": "Telegram",
@@ -39,7 +25,21 @@
     "free": true,
     "summary": "Telegram is a messaging app with a focus on speed and security.",
     "scoreText": "4.4",
-    "score": 4.365414
+    "score": 4.3652244
+  },
+  {
+    "title": "YouTube",
+    "appId": "com.google.android.youtube",
+    "url": "https://play.google.com/store/apps/details?id=com.google.android.youtube",
+    "icon": "https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc",
+    "developer": "Google LLC",
+    "developerId": "5700313618786177705",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Enjoy your favorite videos and channels with the official YouTube app.",
+    "scoreText": "4.1",
+    "score": 4.094663
   },
   {
     "title": "Instagram",
@@ -53,7 +53,7 @@
     "free": true,
     "summary": "Bringing you closer to the people and things you love.",
     "scoreText": "4.2",
-    "score": 4.2023582
+    "score": 4.2019525
   },
   {
     "title": "LetsVPN",
@@ -67,7 +67,7 @@
     "free": true,
     "summary": "The VPN that Always Connects",
     "scoreText": "4.6",
-    "score": 4.642666
+    "score": 4.640896
   },
   {
     "title": "Surf VPN - Best Free Unlimited Proxy",
@@ -81,7 +81,7 @@
     "free": true,
     "summary": "Surf VPN is a revolutionary VPN service specially designed for mobile devices.",
     "scoreText": "4.3",
-    "score": 4.3064218
+    "score": 4.306416
   },
   {
     "title": "Google",
@@ -95,35 +95,7 @@
     "free": true,
     "summary": "Find quick answers, explore your interests, and stay up to date with Discover.",
     "scoreText": "4.3",
-    "score": 4.329626
-  },
-  {
-    "title": "Gmail",
-    "appId": "com.google.android.gm",
-    "url": "https://play.google.com/store/apps/details?id=com.google.android.gm",
-    "icon": "https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI",
-    "developer": "Google LLC",
-    "developerId": "5700313618786177705",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Connect, create, and collaborate with Gmail, part of Google Workspace.",
-    "scoreText": "4.3",
-    "score": 4.348173
-  },
-  {
-    "title": "紙飛機-TG中文版, 福利群组资源",
-    "appId": "org.telegram.zhifeiji",
-    "url": "https://play.google.com/store/apps/details?id=org.telegram.zhifeiji",
-    "icon": "https://play-lh.googleusercontent.com/ZuqhU4yTrrXb0EkhFRHf4yNSb6udTsGhjSkJndHrrM1mnYriCVoUefrjHlSzkTnmQ_U",
-    "developer": "Tg-Chinese",
-    "developerId": "Tg-Chinese",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Paper Airplane-TG Chinese Version is a TG client specially developed for Chinese users.",
-    "scoreText": "4.7",
-    "score": 4.672414
+    "score": 4.329632
   },
   {
     "title": "Google Play Games",
@@ -137,7 +109,35 @@
     "free": true,
     "summary": "Play games instantly, save progress, and earn achievements.",
     "scoreText": "4.3",
-    "score": 4.2751646
+    "score": 4.2749286
+  },
+  {
+    "title": "Gmail",
+    "appId": "com.google.android.gm",
+    "url": "https://play.google.com/store/apps/details?id=com.google.android.gm",
+    "icon": "https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI",
+    "developer": "Google LLC",
+    "developerId": "5700313618786177705",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Connect, create, and collaborate with Gmail, part of Google Workspace.",
+    "scoreText": "4.3",
+    "score": 4.348329
+  },
+  {
+    "title": "紙飛機-TG中文版, 福利群组资源",
+    "appId": "org.telegram.zhifeiji",
+    "url": "https://play.google.com/store/apps/details?id=org.telegram.zhifeiji",
+    "icon": "https://play-lh.googleusercontent.com/ZuqhU4yTrrXb0EkhFRHf4yNSb6udTsGhjSkJndHrrM1mnYriCVoUefrjHlSzkTnmQ_U",
+    "developer": "Tg-Chinese",
+    "developerId": "Tg-Chinese",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Paper Airplane-TG Chinese Version is a TG client specially developed for Chinese users.",
+    "scoreText": "4.6",
+    "score": 4.6486487
   },
   {
     "title": "Google Chrome: Fast & Secure",
@@ -151,7 +151,7 @@
     "free": true,
     "summary": "Fast, simple, and secure. Google Chrome browser for Android phones and tablets.",
     "scoreText": "4.2",
-    "score": 4.2314305
+    "score": 4.2313337
   },
   {
     "title": "Mayi VPN - Fast & Secure VPN",
@@ -165,7 +165,7 @@
     "free": true,
     "summary": "Access the anonymous, secure and fast internet with just one tap",
     "scoreText": "4.7",
-    "score": 4.747892
+    "score": 4.7472506
   },
   {
     "title": "Flightradar24 Flight Tracker",
@@ -179,7 +179,7 @@
     "free": true,
     "summary": "Track airplanes and follow flights with our real-time flight tracker",
     "scoreText": "4.7",
-    "score": 4.650049
+    "score": 4.6501164
   },
   {
     "title": "Wang VPN - Fast Secure VPN",
@@ -193,21 +193,7 @@
     "free": true,
     "summary": "Hi I am Wang who wants to help you protect your privacy. Love you.",
     "scoreText": "4.8",
-    "score": 4.797112
-  },
-  {
-    "title": "Discord - Chat, Talk & Hangout",
-    "appId": "com.discord",
-    "url": "https://play.google.com/store/apps/details?id=com.discord",
-    "icon": "https://play-lh.googleusercontent.com/0oO5sAneb9lJP6l8c6DH4aj6f85qNpplQVHmPmbbBxAukDnlO7DarDW0b-kEIHa8SQ",
-    "developer": "Discord Inc.",
-    "developerId": "Discord+Inc.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Chat, game, stream, share, join communities and hang out with friends.",
-    "scoreText": "4.4",
-    "score": 4.44713
+    "score": 4.797285
   },
   {
     "title": "EmoVPN",
@@ -221,7 +207,7 @@
     "free": true,
     "summary": "Stable Secure and Fast VPN",
     "scoreText": "4.9",
-    "score": 4.889764
+    "score": 4.897638
   },
   {
     "title": "WhatsApp Messenger",
@@ -235,7 +221,35 @@
     "free": true,
     "summary": "Simple. Reliable. Private.",
     "scoreText": "4.2",
-    "score": 4.192014
+    "score": 4.1919136
+  },
+  {
+    "title": "Discord - Chat, Talk & Hangout",
+    "appId": "com.discord",
+    "url": "https://play.google.com/store/apps/details?id=com.discord",
+    "icon": "https://play-lh.googleusercontent.com/0oO5sAneb9lJP6l8c6DH4aj6f85qNpplQVHmPmbbBxAukDnlO7DarDW0b-kEIHa8SQ",
+    "developer": "Discord Inc.",
+    "developerId": "Discord+Inc.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Chat, game, stream, share, join communities and hang out with friends.",
+    "scoreText": "4.4",
+    "score": 4.4471035
+  },
+  {
+    "title": "Bingo VPN | 饼哥 翻墙 外贸 科学上网 高速免费",
+    "appId": "com.sbget.free",
+    "url": "https://play.google.com/store/apps/details?id=com.sbget.free",
+    "icon": "https://play-lh.googleusercontent.com/xzvrt2CKPRIN_AzmOvrRRFKIBC_hkUyMEqhLSNQx3H70RczZXdosnwdjBZQvK3aMncs",
+    "developer": "隔壁老王和他的朋友们",
+    "developerId": "8780743713622428159",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "One-click over the wall, scientific Internet access, foreign trade assistant, break through the network blockade, Bingo VPN gives you freedom",
+    "scoreText": "4.8",
+    "score": 4.85
   },
   {
     "title": "Google Maps",
@@ -249,21 +263,7 @@
     "free": true,
     "summary": "Real-time GPS navigation &amp; local suggestions for food, events, &amp; activities",
     "scoreText": "4.3",
-    "score": 4.2860093
-  },
-  {
-    "title": "Bingo VPN | 饼哥 翻墙 外贸 科学上网 高速免费",
-    "appId": "com.sbget.free",
-    "url": "https://play.google.com/store/apps/details?id=com.sbget.free",
-    "icon": "https://play-lh.googleusercontent.com/xzvrt2CKPRIN_AzmOvrRRFKIBC_hkUyMEqhLSNQx3H70RczZXdosnwdjBZQvK3aMncs",
-    "developer": "隔壁老王和他的朋友们",
-    "developerId": "8780743713622428159",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "One-click over the wall, scientific Internet access, foreign trade assistant, break through the network blockade, Bingo VPN gives you freedom",
-    "scoreText": "4.9",
-    "score": 4.9029126
+    "score": 4.286021
   },
   {
     "title": "Xiaoming VPN - Simple Free Unlimited & Safe",
@@ -277,7 +277,7 @@
     "free": true,
     "summary": "Simple Free Unlimited &amp; Security. No signing up. Just one button to use",
     "scoreText": "4.6",
-    "score": 4.574693
+    "score": 4.5753064
   },
   {
     "title": "Steam",
@@ -291,7 +291,7 @@
     "free": true,
     "summary": "Steam: chat and participate in the Steam community, catch unbeatable Steam sales",
     "scoreText": "3.7",
-    "score": 3.7295458
+    "score": 3.7289097
   },
   {
     "title": "原子网络加速器 - 免费高速VPN - 一键链接，方便快捷",
@@ -304,8 +304,22 @@
     "price": 0,
     "free": true,
     "summary": "Atomic Power VPN accelerator, simple, fast, safe and stable, helps you surf the global Internet, and escorts your network links!",
-    "scoreText": "4.5",
-    "score": 4.5096154
+    "scoreText": "4.4",
+    "score": 4.45
+  },
+  {
+    "title": "VPN - Super Unlimited Proxy",
+    "appId": "com.free.vpn.super.hotspot.open",
+    "url": "https://play.google.com/store/apps/details?id=com.free.vpn.super.hotspot.open",
+    "icon": "https://play-lh.googleusercontent.com/fd0tiWCj1DdmE0UtudWdNSrV7dppz2JCrmWQAV2JBw9e59qO_jmmlLe5o7y7NnbDog",
+    "developer": "VPN Super Inc.",
+    "developerId": "VPN+Super+Inc.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Unlimited VPN master to unblock sites, WiFi hotspot security, protect privacy",
+    "scoreText": "4.8",
+    "score": 4.84886
   },
   {
     "title": "Google Translate",
@@ -319,21 +333,7 @@
     "free": true,
     "summary": "The world is closer than ever with over 100 languages",
     "scoreText": "4.3",
-    "score": 4.348783
-  },
-  {
-    "title": "VPN - Super Unlimited Proxy",
-    "appId": "com.free.vpn.super.hotspot.open",
-    "url": "https://play.google.com/store/apps/details?id=com.free.vpn.super.hotspot.open",
-    "icon": "https://play-lh.googleusercontent.com/fd0tiWCj1DdmE0UtudWdNSrV7dppz2JCrmWQAV2JBw9e59qO_jmmlLe5o7y7NnbDog",
-    "developer": "VPN Super Inc.",
-    "developerId": "VPN+Super+Inc.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Unlimited VPN master to unblock sites, WiFi hotspot security, protect privacy",
-    "scoreText": "4.9",
-    "score": 4.851716
+    "score": 4.348661
   },
   {
     "title": "Galaxy VPN - VPN Unlimited time & Data transfer",
@@ -347,7 +347,7 @@
     "free": true,
     "summary": "Compact and VPN unlimited time unlimited data transfer &amp; boost your network",
     "scoreText": "4.8",
-    "score": 4.7711563
+    "score": 4.7716513
   },
   {
     "title": "Twitch: Live Game Streaming",
@@ -361,7 +361,7 @@
     "free": true,
     "summary": "Multiplayer Gaming, Live Esports &amp; Gamer Chat: Watch Fortnite, Minecraft &amp; PUBG",
     "scoreText": "4.5",
-    "score": 4.4924626
+    "score": 4.492494
   },
   {
     "title": "Firefox Fast & Private Browser",
@@ -375,7 +375,7 @@
     "free": true,
     "summary": "Only non-profit-backed browser with ad blocker that is secure, private &amp; fast",
     "scoreText": "4.5",
-    "score": 4.5094543
+    "score": 4.5093703
   },
   {
     "title": "GoFly VPN,V2ray,Trojan,sock5",
@@ -389,7 +389,7 @@
     "free": true,
     "summary": "Video 1080P is our basic operation, 4K HD is our goal.",
     "scoreText": "4.8",
-    "score": 4.7967916
+    "score": 4.7971783
   },
   {
     "title": "Veee+ VPN - Fast & Stable VPN",
@@ -406,20 +406,6 @@
     "score": 4.453737
   },
   {
-    "title": "Reddit",
-    "appId": "com.reddit.frontpage",
-    "url": "https://play.google.com/store/apps/details?id=com.reddit.frontpage",
-    "icon": "https://play-lh.googleusercontent.com/8Vw-7MAm558750a4M55fiOlUf7lP2cYnFuqSWynrygIiyEEiQQDa_xxHKYOX83L0UD2T",
-    "developer": "reddit Inc.",
-    "developerId": "reddit+Inc.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Dive into anything",
-    "scoreText": "4.1",
-    "score": 4.147518
-  },
-  {
     "title": "Snapchat",
     "appId": "com.snapchat.android",
     "url": "https://play.google.com/store/apps/details?id=com.snapchat.android",
@@ -431,7 +417,21 @@
     "free": true,
     "summary": "Share the moment!",
     "scoreText": "4.2",
-    "score": 4.2473226
+    "score": 4.2474537
+  },
+  {
+    "title": "Reddit",
+    "appId": "com.reddit.frontpage",
+    "url": "https://play.google.com/store/apps/details?id=com.reddit.frontpage",
+    "icon": "https://play-lh.googleusercontent.com/8Vw-7MAm558750a4M55fiOlUf7lP2cYnFuqSWynrygIiyEEiQQDa_xxHKYOX83L0UD2T",
+    "developer": "reddit Inc.",
+    "developerId": "reddit+Inc.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Dive into anything",
+    "scoreText": "4.1",
+    "score": 4.1471987
   },
   {
     "title": "bilibili-彈幕動畫戲劇線上看",
@@ -445,21 +445,7 @@
     "free": true,
     "summary": "The videos you are interested in are all at station B",
     "scoreText": "3.0",
-    "score": 3.0205338
-  },
-  {
-    "title": "PikPak-Safe Cloud, Video Saver",
-    "appId": "com.pikcloud.pikpak",
-    "url": "https://play.google.com/store/apps/details?id=com.pikcloud.pikpak",
-    "icon": "https://play-lh.googleusercontent.com/yRjZo0L_BykQpz2RCdI2qvIg_ImOYHs_E8x0aNaOMtFCWVYKfKgfPqBdIsX1-XDRFG8",
-    "developer": "PIKCLOUD PTE. LTD.",
-    "developerId": "9025053426477963208",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Fast and safely collect files from Telegram with up to 10TB Private Cloud.",
-    "scoreText": "4.4",
-    "score": 4.419048
+    "score": 3.0182812
   },
   {
     "title": "Microsoft Edge: Web Browser",
@@ -473,21 +459,21 @@
     "free": true,
     "summary": "Shop online with Microsoft Edge, the browser that helps you save time &amp; money",
     "scoreText": "4.5",
-    "score": 4.5371747
+    "score": 4.5392003
   },
   {
-    "title": "ZOOM Cloud Meetings",
-    "appId": "us.zoom.videomeetings",
-    "url": "https://play.google.com/store/apps/details?id=us.zoom.videomeetings",
-    "icon": "https://play-lh.googleusercontent.com/JgU6AIREDMsGLmrFSJ8OwLb-JJVw_jwqdwEZWUHemAj0V5Dl7i7GOpmranv2GsCKobM",
-    "developer": "zoom.us",
-    "developerId": "zoom.us",
+    "title": "PikPak-Safe Cloud, Video Saver",
+    "appId": "com.pikcloud.pikpak",
+    "url": "https://play.google.com/store/apps/details?id=com.pikcloud.pikpak",
+    "icon": "https://play-lh.googleusercontent.com/yRjZo0L_BykQpz2RCdI2qvIg_ImOYHs_E8x0aNaOMtFCWVYKfKgfPqBdIsX1-XDRFG8",
+    "developer": "PIKCLOUD PTE. LTD.",
+    "developerId": "9025053426477963208",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Zoom is a free HD meeting app with video and screen sharing for up to 100 people",
-    "scoreText": "4.0",
-    "score": 4.031571
+    "summary": "Fast and safely collect files from Telegram with up to 10TB Private Cloud.",
+    "scoreText": "4.5",
+    "score": 4.5
   },
   {
     "title": "WhiteShark2 Free VPN",
@@ -504,6 +490,20 @@
     "score": 4.55
   },
   {
+    "title": "ZOOM Cloud Meetings",
+    "appId": "us.zoom.videomeetings",
+    "url": "https://play.google.com/store/apps/details?id=us.zoom.videomeetings",
+    "icon": "https://play-lh.googleusercontent.com/JgU6AIREDMsGLmrFSJ8OwLb-JJVw_jwqdwEZWUHemAj0V5Dl7i7GOpmranv2GsCKobM",
+    "developer": "zoom.us",
+    "developerId": "zoom.us",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Zoom is a free HD meeting app with video and screen sharing for up to 100 people",
+    "scoreText": "4.0",
+    "score": 4.030542
+  },
+  {
     "title": "Google Authenticator",
     "appId": "com.google.android.apps.authenticator2",
     "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2",
@@ -515,63 +515,7 @@
     "free": true,
     "summary": "Enable 2-step verification to protect your account from hijacking.",
     "scoreText": "3.9",
-    "score": 3.928667
-  },
-  {
-    "title": "小羽VPN 免费高速 不限流量 稳定安全 老王蚂蚁小明vpn",
-    "appId": "com.github.smallwings",
-    "url": "https://play.google.com/store/apps/details?id=com.github.smallwings",
-    "icon": "https://play-lh.googleusercontent.com/Uc7kRUNF0QoJBHrEOYtKlG7XfwwR3gOuqtiUuk3Y7T4zcdnHknF9cvFiBitSVJ6qJw",
-    "developer": "small wings",
-    "developerId": "small+wings",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Xiaoyu VPN Free over the wall Unlimited traffic One-click connection Support returning to China Lightest VPN only 5M size Safe and seamless High-speed and stable More secure encryption algorithm Follow me irons Scientific Internet Clean and no routines Continuous update",
-    "scoreText": "4.7",
-    "score": 4.6732674
-  },
-  {
-    "title": "Duolingo: language lessons",
-    "appId": "com.duolingo",
-    "url": "https://play.google.com/store/apps/details?id=com.duolingo",
-    "icon": "https://play-lh.googleusercontent.com/hSyebBlYwtE2aMjzSIHasUO9cQv9HgNAw9owy6ADO0szOKYO3rDk60r7jcyXu82Fbq1M",
-    "developer": "Duolingo",
-    "developerId": "6957685454452609502",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Learn Spanish, French, German, Italian, English and more languages for free.",
-    "scoreText": "4.6",
-    "score": 4.6421833
-  },
-  {
-    "title": "Gboard - the Google Keyboard",
-    "appId": "com.google.android.inputmethod.latin",
-    "url": "https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin",
-    "icon": "https://play-lh.googleusercontent.com/X64En0aW6jkvDnd5kr16u-YuUsoJ1W2cBzJab3CQ5lObLeQ3T61DpB7AwIoZ7uqgCn4",
-    "developer": "Google LLC",
-    "developerId": "5700313618786177705",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Fast and smart typing with Emojis, GIFs, and more",
-    "scoreText": "4.5",
-    "score": 4.493058
-  },
-  {
-    "title": "Tinder - Dating & Make Friends",
-    "appId": "com.tinder",
-    "url": "https://play.google.com/store/apps/details?id=com.tinder",
-    "icon": "https://play-lh.googleusercontent.com/fDpoqIbZ884ylRnMK8Lx9Fu4DsLQk5yt4f9WkxeOAPpGnzc9BTi_YKkMsLvoMdx7Uzg",
-    "developer": "Tinder",
-    "developerId": "8070166968320699506",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "The dating app that does it all - make friends, meet people, or find a date",
-    "scoreText": "3.3",
-    "score": 3.3268938
+    "score": 3.9282775
   },
   {
     "title": "V2VPN - A Fast, Free, Secure VPN Proxy",
@@ -585,7 +529,63 @@
     "free": true,
     "summary": "V2VPN is a fast,  free, high availability secure VPN proxy service.",
     "scoreText": "4.7",
-    "score": 4.690936
+    "score": 4.6902523
+  },
+  {
+    "title": "小羽VPN 免费高速 不限流量 稳定安全 老王蚂蚁小明vpn",
+    "appId": "com.github.smallwings",
+    "url": "https://play.google.com/store/apps/details?id=com.github.smallwings",
+    "icon": "https://play-lh.googleusercontent.com/Uc7kRUNF0QoJBHrEOYtKlG7XfwwR3gOuqtiUuk3Y7T4zcdnHknF9cvFiBitSVJ6qJw",
+    "developer": "small wings",
+    "developerId": "small+wings",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Xiaoyu VPN Free over the wall Unlimited traffic One-click connection Support returning to China Lightest VPN only 5M size Safe and seamless High-speed and stable More secure encryption algorithm Follow me irons Scientific Internet Clean and no routines Continuous update",
+    "scoreText": "4.7",
+    "score": 4.68
+  },
+  {
+    "title": "Gboard - the Google Keyboard",
+    "appId": "com.google.android.inputmethod.latin",
+    "url": "https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin",
+    "icon": "https://play-lh.googleusercontent.com/X64En0aW6jkvDnd5kr16u-YuUsoJ1W2cBzJab3CQ5lObLeQ3T61DpB7AwIoZ7uqgCn4",
+    "developer": "Google LLC",
+    "developerId": "5700313618786177705",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Fast and smart typing with Emojis, GIFs, and more",
+    "scoreText": "4.5",
+    "score": 4.4926543
+  },
+  {
+    "title": "Duolingo: language lessons",
+    "appId": "com.duolingo",
+    "url": "https://play.google.com/store/apps/details?id=com.duolingo",
+    "icon": "https://play-lh.googleusercontent.com/hSyebBlYwtE2aMjzSIHasUO9cQv9HgNAw9owy6ADO0szOKYO3rDk60r7jcyXu82Fbq1M",
+    "developer": "Duolingo",
+    "developerId": "6957685454452609502",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Learn Spanish, French, German, Italian, English and more languages for free.",
+    "scoreText": "4.6",
+    "score": 4.6426296
+  },
+  {
+    "title": "Tinder - Dating & Make Friends",
+    "appId": "com.tinder",
+    "url": "https://play.google.com/store/apps/details?id=com.tinder",
+    "icon": "https://play-lh.googleusercontent.com/fDpoqIbZ884ylRnMK8Lx9Fu4DsLQk5yt4f9WkxeOAPpGnzc9BTi_YKkMsLvoMdx7Uzg",
+    "developer": "Tinder",
+    "developerId": "8070166968320699506",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "The dating app that does it all - make friends, meet people, or find a date",
+    "scoreText": "3.3",
+    "score": 3.3267727
   },
   {
     "title": "Video Downloader for Tiktok",
@@ -599,21 +599,7 @@
     "free": true,
     "summary": "Video downloader for tiktok - save tiktok video &amp; remove watermark tick - tock",
     "scoreText": "4.7",
-    "score": 4.6675005
-  },
-  {
-    "title": "Pinterest",
-    "appId": "com.pinterest",
-    "url": "https://play.google.com/store/apps/details?id=com.pinterest",
-    "icon": "https://play-lh.googleusercontent.com/dVsv8Hc4TOUeLFAahxR8KANg22W9dj2jBsTW1VHv3CV-5NCZjP9D9i2j5IpfVx2NTB8",
-    "developer": "Pinterest",
-    "developerId": "Pinterest",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "One destination for a world of inspiration.",
-    "scoreText": "4.6",
-    "score": 4.5847163
+    "score": 4.6689653
   },
   {
     "title": "Potato chat",
@@ -627,21 +613,21 @@
     "free": true,
     "summary": "Potato is a messaging app with a focus on speed and security.",
     "scoreText": "3.1",
-    "score": 3.1094527
+    "score": 3.1083744
   },
   {
-    "title": "LinkedIn: Jobs & Business News",
-    "appId": "com.linkedin.android",
-    "url": "https://play.google.com/store/apps/details?id=com.linkedin.android",
-    "icon": "https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw",
-    "developer": "LinkedIn",
-    "developerId": "6860682062931868151",
+    "title": "Pinterest",
+    "appId": "com.pinterest",
+    "url": "https://play.google.com/store/apps/details?id=com.pinterest",
+    "icon": "https://play-lh.googleusercontent.com/dVsv8Hc4TOUeLFAahxR8KANg22W9dj2jBsTW1VHv3CV-5NCZjP9D9i2j5IpfVx2NTB8",
+    "developer": "Pinterest",
+    "developerId": "Pinterest",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Find relevant job openings, set up alerts and get salary insights with LinkedIn",
-    "scoreText": "4.4",
-    "score": 4.380814
+    "summary": "One destination for a world of inspiration.",
+    "scoreText": "4.6",
+    "score": 4.584775
   },
   {
     "title": "Wang VPN Lite - Fresh Simple",
@@ -655,21 +641,7 @@
     "free": true,
     "summary": "The WangVPN Lite version. Using simple style different from the original.",
     "scoreText": "4.8",
-    "score": 4.8162937
-  },
-  {
-    "title": "v2rayNG",
-    "appId": "com.v2ray.ang",
-    "url": "https://play.google.com/store/apps/details?id=com.v2ray.ang",
-    "icon": "https://play-lh.googleusercontent.com/x3RFim6Fb-bgRd-HnV9VNrdqBRueyOuUjvu7ZNv7eRYC5Idl3WU_GSxa7bpx5yyUT30",
-    "developer": "CaptainIron",
-    "developerId": "CaptainIron",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "v2ray Android client",
-    "scoreText": "4.5",
-    "score": 4.51641
+    "score": 4.8163776
   },
   {
     "title": "QQ",
@@ -683,21 +655,35 @@
     "free": true,
     "summary": "I have been communicating for 21 years and chatting with 900 million people!",
     "scoreText": "2.2",
-    "score": 2.245703
+    "score": 2.2457678
   },
   {
-    "title": "VPN Super Proxy - Proxy Master",
-    "appId": "com.free.vpn.proxy.master.app",
-    "url": "https://play.google.com/store/apps/details?id=com.free.vpn.proxy.master.app",
-    "icon": "https://play-lh.googleusercontent.com/HwB_W-vYUDNV71jXL4RuwgEAiogi2MJgvF9NlJ_rW73UmwG8mZATtK_AlFS1HATASA",
-    "developer": "Hotspot VPN & Proxy Master",
-    "developerId": "Hotspot+VPN+%26+Proxy+Master",
+    "title": "LinkedIn: Jobs & Business News",
+    "appId": "com.linkedin.android",
+    "url": "https://play.google.com/store/apps/details?id=com.linkedin.android",
+    "icon": "https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw",
+    "developer": "LinkedIn",
+    "developerId": "6860682062931868151",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Super VPN for android, super vpn &amp; turbo fast vpn app, unblock any content!",
-    "scoreText": "4.6",
-    "score": 4.613319
+    "summary": "Find relevant job openings, set up alerts and get salary insights with LinkedIn",
+    "scoreText": "4.4",
+    "score": 4.3809457
+  },
+  {
+    "title": "v2rayNG",
+    "appId": "com.v2ray.ang",
+    "url": "https://play.google.com/store/apps/details?id=com.v2ray.ang",
+    "icon": "https://play-lh.googleusercontent.com/x3RFim6Fb-bgRd-HnV9VNrdqBRueyOuUjvu7ZNv7eRYC5Idl3WU_GSxa7bpx5yyUT30",
+    "developer": "CaptainIron",
+    "developerId": "CaptainIron",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "v2ray Android client",
+    "scoreText": "4.5",
+    "score": 4.51041
   },
   {
     "title": "VPN.lat: Unlimited and Secure",
@@ -711,77 +697,7 @@
     "free": true,
     "summary": "Hide your IP, unblock sites and surf safely on the internet.",
     "scoreText": "4.4",
-    "score": 4.400393
-  },
-  {
-    "title": "Lantern: Open Internet for All",
-    "appId": "org.getlantern.lantern",
-    "url": "https://play.google.com/store/apps/details?id=org.getlantern.lantern",
-    "icon": "https://play-lh.googleusercontent.com/e6IDrA5scUL51lxDW62YF1pyGNFg9v6oshYTYNt4KAl7CFh02ykY5EKqkttzdRU-w81A",
-    "developer": "Team Lantern",
-    "developerId": "Team+Lantern",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Can’t access popular video, messaging or other apps? Download Lantern for free!",
-    "scoreText": "4.3",
-    "score": 4.3137383
-  },
-  {
-    "title": "Galaxy VPN Lite: Data Security Unlimited time",
-    "appId": "com.galaxylab.ss.lite",
-    "url": "https://play.google.com/store/apps/details?id=com.galaxylab.ss.lite",
-    "icon": "https://play-lh.googleusercontent.com/B6CC7rkCsvzi9cKhp_4NwlBnYMoLYEPMJuMp3bJI_rc5ZEU4rMuifLeTUHRARUJMzzg",
-    "developer": "GalaxyLab",
-    "developerId": "GalaxyLab",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Lite app Free VPN Secure Unlimited time &amp; traffic strong security",
-    "scoreText": "4.7",
-    "score": 4.7411766
-  },
-  {
-    "title": "ACT VPN – Unlimited VPN & Fast VPN Proxy",
-    "appId": "com.vpn.kmvpn11",
-    "url": "https://play.google.com/store/apps/details?id=com.vpn.kmvpn11",
-    "icon": "https://play-lh.googleusercontent.com/lZEKAdd0DANGdKl2xL9cOHw4pQQfM3xuRB4PYRhrNMPoJ7X1KknJkERDk-IlFpHOQ4UJ",
-    "developer": "VPN 翻墙",
-    "developerId": "VPN+%E7%BF%BB%E5%A2%99",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "100% Unlimited VPN! High VPN speed",
-    "scoreText": "4.6",
-    "score": 4.6453457
-  },
-  {
-    "title": "Aox VPN",
-    "appId": "com.craftvpn.craft",
-    "url": "https://play.google.com/store/apps/details?id=com.craftvpn.craft",
-    "icon": "https://play-lh.googleusercontent.com/K-W_zab4OlQDHa3lJOXqX_9n6hO8HRKwHW7wzCxzqccDRrS8OwFpcgwW5qFhHtLzo1s",
-    "developer": "Six-Sense Technology & Media Pte. Ltd.",
-    "developerId": "Six-Sense+Technology+%26+Media+Pte.+Ltd.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "The best VPN",
-    "scoreText": "4.4",
-    "score": 4.4409447
-  },
-  {
-    "title": "MX Player",
-    "appId": "com.mxtech.videoplayer.ad",
-    "url": "https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad",
-    "icon": "https://play-lh.googleusercontent.com/e_rNLzyR9i3wwy8BwEsIS4uz0fFu29p5RoXoNZt2L0Ef7cJ2QhAcw1x_K51A19HpzQ",
-    "developer": "MX Media (formerly J2 Interactive)",
-    "developerId": "MX+Media+(formerly+J2+Interactive)",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Powerful video player with advanced hardware acceleration and subtitle supports.",
-    "scoreText": "4.2",
-    "score": 4.2328362
+    "score": 4.3998694
   },
   {
     "title": "KUTO VPN - A fast, secure VPN",
@@ -795,21 +711,7 @@
     "free": true,
     "summary": "A secure, unlimited and super fast VPN, support TV cast &amp; VPN hotspot",
     "scoreText": "4.6",
-    "score": 4.627644
-  },
-  {
-    "title": "Chrome Beta",
-    "appId": "com.chrome.beta",
-    "url": "https://play.google.com/store/apps/details?id=com.chrome.beta",
-    "icon": "https://play-lh.googleusercontent.com/XZB1L7nFZVsMyBGbV1qmf139ijkQLdeyQH-Bh5P9D2mU3vY2oEfoP2mwz0hItjxyxZo",
-    "developer": "Google LLC",
-    "developerId": "5700313618786177705",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "The speed and simplicity of Chrome, now on your Android device in beta.",
-    "scoreText": "4.3",
-    "score": 4.3386507
+    "score": 4.6270576
   },
   {
     "title": "GitHub",
@@ -823,7 +725,105 @@
     "free": true,
     "summary": "Triage notifications, review, comment, and merge, right from your mobile device",
     "scoreText": "4.7",
-    "score": 4.711566
+    "score": 4.711445
+  },
+  {
+    "title": "VPN Super Proxy - Proxy Master",
+    "appId": "com.free.vpn.proxy.master.app",
+    "url": "https://play.google.com/store/apps/details?id=com.free.vpn.proxy.master.app",
+    "icon": "https://play-lh.googleusercontent.com/HwB_W-vYUDNV71jXL4RuwgEAiogi2MJgvF9NlJ_rW73UmwG8mZATtK_AlFS1HATASA",
+    "developer": "Hotspot VPN & Proxy Master",
+    "developerId": "Hotspot+VPN+%26+Proxy+Master",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Super VPN for android, super vpn &amp; turbo fast vpn app, unblock any content!",
+    "scoreText": "4.6",
+    "score": 4.610706
+  },
+  {
+    "title": "Galaxy VPN Lite: Data Security Unlimited time",
+    "appId": "com.galaxylab.ss.lite",
+    "url": "https://play.google.com/store/apps/details?id=com.galaxylab.ss.lite",
+    "icon": "https://play-lh.googleusercontent.com/B6CC7rkCsvzi9cKhp_4NwlBnYMoLYEPMJuMp3bJI_rc5ZEU4rMuifLeTUHRARUJMzzg",
+    "developer": "GalaxyLab",
+    "developerId": "GalaxyLab",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Lite app Free VPN Secure Unlimited time &amp; traffic strong security",
+    "scoreText": "4.7",
+    "score": 4.7055216
+  },
+  {
+    "title": "Aox VPN",
+    "appId": "com.craftvpn.craft",
+    "url": "https://play.google.com/store/apps/details?id=com.craftvpn.craft",
+    "icon": "https://play-lh.googleusercontent.com/K-W_zab4OlQDHa3lJOXqX_9n6hO8HRKwHW7wzCxzqccDRrS8OwFpcgwW5qFhHtLzo1s",
+    "developer": "Six-Sense Technology & Media Pte. Ltd.",
+    "developerId": "Six-Sense+Technology+%26+Media+Pte.+Ltd.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "The best VPN",
+    "scoreText": "4.4",
+    "score": 4.418605
+  },
+  {
+    "title": "Lantern: Open Internet for All",
+    "appId": "org.getlantern.lantern",
+    "url": "https://play.google.com/store/apps/details?id=org.getlantern.lantern",
+    "icon": "https://play-lh.googleusercontent.com/e6IDrA5scUL51lxDW62YF1pyGNFg9v6oshYTYNt4KAl7CFh02ykY5EKqkttzdRU-w81A",
+    "developer": "Team Lantern",
+    "developerId": "Team+Lantern",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Can’t access popular video, messaging or other apps? Download Lantern for free!",
+    "scoreText": "4.3",
+    "score": 4.315271
+  },
+  {
+    "title": "ACT VPN – Unlimited VPN & Fast VPN Proxy",
+    "appId": "com.vpn.kmvpn11",
+    "url": "https://play.google.com/store/apps/details?id=com.vpn.kmvpn11",
+    "icon": "https://play-lh.googleusercontent.com/lZEKAdd0DANGdKl2xL9cOHw4pQQfM3xuRB4PYRhrNMPoJ7X1KknJkERDk-IlFpHOQ4UJ",
+    "developer": "VPN 翻墙",
+    "developerId": "VPN+%E7%BF%BB%E5%A2%99",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "100% Unlimited VPN! High VPN speed",
+    "scoreText": "4.6",
+    "score": 4.647579
+  },
+  {
+    "title": "Chrome Beta",
+    "appId": "com.chrome.beta",
+    "url": "https://play.google.com/store/apps/details?id=com.chrome.beta",
+    "icon": "https://play-lh.googleusercontent.com/XZB1L7nFZVsMyBGbV1qmf139ijkQLdeyQH-Bh5P9D2mU3vY2oEfoP2mwz0hItjxyxZo",
+    "developer": "Google LLC",
+    "developerId": "5700313618786177705",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "The speed and simplicity of Chrome, now on your Android device in beta.",
+    "scoreText": "4.3",
+    "score": 4.339223
+  },
+  {
+    "title": "MX Player",
+    "appId": "com.mxtech.videoplayer.ad",
+    "url": "https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad",
+    "icon": "https://play-lh.googleusercontent.com/e_rNLzyR9i3wwy8BwEsIS4uz0fFu29p5RoXoNZt2L0Ef7cJ2QhAcw1x_K51A19HpzQ",
+    "developer": "MX Media (formerly J2 Interactive)",
+    "developerId": "MX+Media+(formerly+J2+Interactive)",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Powerful video player with advanced hardware acceleration and subtitle supports.",
+    "scoreText": "4.2",
+    "score": 4.232893
   },
   {
     "title": "STEPN",
@@ -837,7 +837,7 @@
     "free": true,
     "summary": "STEPN is a Web3 running app with fun game and social elements.",
     "scoreText": "4.1",
-    "score": 4.0829268
+    "score": 4.0651164
   },
   {
     "title": "MEGA",
@@ -851,21 +851,7 @@
     "free": true,
     "summary": "MEGA is Cloud Storage with secure always-on privacy.",
     "scoreText": "4.5",
-    "score": 4.5333095
-  },
-  {
-    "title": "MetaMask - Blockchain Wallet",
-    "appId": "io.metamask",
-    "url": "https://play.google.com/store/apps/details?id=io.metamask",
-    "icon": "https://play-lh.googleusercontent.com/8rzHJpfkdFwA0Lo6_CHUjoNt8OU3EyIe9BZNKGqj0C8BhleguW9LhXHbS46FAtLAJ9r2",
-    "developer": "ConsenSys",
-    "developerId": "ConsenSys",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "A secure wallet &amp; gateway to blockchain sites",
-    "scoreText": "4.4",
-    "score": 4.43635
+    "score": 4.53317
   },
   {
     "title": "Wikipedia",
@@ -879,21 +865,7 @@
     "free": true,
     "summary": "The official app for Wikipedia, the world’s largest source of information.",
     "scoreText": "4.5",
-    "score": 4.5134034
-  },
-  {
-    "title": "NordVPN – fast VPN for privacy",
-    "appId": "com.nordvpn.android",
-    "url": "https://play.google.com/store/apps/details?id=com.nordvpn.android",
-    "icon": "https://play-lh.googleusercontent.com/X8hJVUEzH6Q5N0g5npd0gz4rYPmvSek1ScQL8cmnIa8bLtXeAcRQJbLaoBAL-4YXIQ",
-    "developer": "Nord Security",
-    "developerId": "7891240193247683246",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Enjoy ultimate online privacy and security with the NordVPN  app for Android.",
-    "scoreText": "4.3",
-    "score": 4.347563
+    "score": 4.513801
   },
   {
     "title": "Tik-Tik Video Player",
@@ -907,35 +879,21 @@
     "free": true,
     "summary": "Tik-Tik Video Player give you enjoy smoother, better quality videos &amp; movies.",
     "scoreText": "4.0",
-    "score": 3.995185
+    "score": 3.9976313
   },
   {
-    "title": "WhatsApp Business",
-    "appId": "com.whatsapp.w4b",
-    "url": "https://play.google.com/store/apps/details?id=com.whatsapp.w4b",
-    "icon": "https://play-lh.googleusercontent.com/ebs6ftYUkOKlDY0M174OpvargwbDyHUVAnO_G5aE0dL5GBQKCtfh3adN5H3ZMThXogDi",
-    "developer": "WhatsApp LLC",
-    "developerId": "WhatsApp+LLC",
+    "title": "NordVPN – fast VPN for privacy",
+    "appId": "com.nordvpn.android",
+    "url": "https://play.google.com/store/apps/details?id=com.nordvpn.android",
+    "icon": "https://play-lh.googleusercontent.com/X8hJVUEzH6Q5N0g5npd0gz4rYPmvSek1ScQL8cmnIa8bLtXeAcRQJbLaoBAL-4YXIQ",
+    "developer": "Nord Security",
+    "developerId": "7891240193247683246",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Simple tool for businesses to talk to their customers.",
-    "scoreText": "4.2",
-    "score": 4.225607
-  },
-  {
-    "title": "PandaVPN Pro - Easy To Use",
-    "appId": "com.pandavpn.androidproxy",
-    "url": "https://play.google.com/store/apps/details?id=com.pandavpn.androidproxy",
-    "icon": "https://play-lh.googleusercontent.com/gKr-5LEfGdA5MgN6TGACQmpIaM-LRTmxHMHDNVeVf0wk7CTUonyzSRE44oThKiLRtZs",
-    "developer": "PandaVPN Official",
-    "developerId": "9181202348949223715",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "To be the Fastest, Most Private &amp; Secure VPN Worldwide",
-    "scoreText": "4.4",
-    "score": 4.442015
+    "summary": "Enjoy ultimate online privacy and security with the NordVPN  app for Android.",
+    "scoreText": "4.3",
+    "score": 4.347335
   },
   {
     "title": "Binance: Buy BTC & 600+ Crypto",
@@ -949,35 +907,35 @@
     "free": true,
     "summary": "Bitcoin, Crypto, NFTs, SHIB, DOGE. Get them all at the world's largest exchange.",
     "scoreText": "3.8",
-    "score": 3.775062
+    "score": 3.7745001
   },
   {
-    "title": "eBay: The shopping marketplace",
-    "appId": "com.ebay.mobile",
-    "url": "https://play.google.com/store/apps/details?id=com.ebay.mobile",
-    "icon": "https://play-lh.googleusercontent.com/31-mJUIynIfQBizOn-w1yWLKHBxVeRKA3gz348_E3K-TnuEaqCjn_-Fr9j0yQ6i0y5E",
-    "developer": "eBay Mobile",
-    "developerId": "6005619443614255030",
+    "title": "MetaMask - Blockchain Wallet",
+    "appId": "io.metamask",
+    "url": "https://play.google.com/store/apps/details?id=io.metamask",
+    "icon": "https://play-lh.googleusercontent.com/8rzHJpfkdFwA0Lo6_CHUjoNt8OU3EyIe9BZNKGqj0C8BhleguW9LhXHbS46FAtLAJ9r2",
+    "developer": "ConsenSys",
+    "developerId": "ConsenSys",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Shop, discover deals, make money - tech, fashion, watches, sneakers, home/garden",
-    "scoreText": "4.6",
-    "score": 4.605923
+    "summary": "A secure wallet &amp; gateway to blockchain sites",
+    "scoreText": "4.4",
+    "score": 4.4378567
   },
   {
-    "title": "Upnet VPN",
-    "appId": "com.upnetvpn.gp",
-    "url": "https://play.google.com/store/apps/details?id=com.upnetvpn.gp",
-    "icon": "https://play-lh.googleusercontent.com/ggM1wlJqmM1LXcw3O-o514R0urX0p0QapQ8DaxyB-fqUdxFCa_0QUDrOgzS5Xcyd_S8",
-    "developer": "Upnet",
-    "developerId": "Upnet",
+    "title": "WhatsApp Business",
+    "appId": "com.whatsapp.w4b",
+    "url": "https://play.google.com/store/apps/details?id=com.whatsapp.w4b",
+    "icon": "https://play-lh.googleusercontent.com/ebs6ftYUkOKlDY0M174OpvargwbDyHUVAnO_G5aE0dL5GBQKCtfh3adN5H3ZMThXogDi",
+    "developer": "WhatsApp LLC",
+    "developerId": "WhatsApp+LLC",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Stable Fast and Easy to use",
-    "scoreText": "4.5",
-    "score": 4.464684
+    "summary": "Simple tool for businesses to talk to their customers.",
+    "scoreText": "4.2",
+    "score": 4.2255325
   },
   {
     "title": "OKX: Buy Bitcoin, ETH, Crypto",
@@ -991,7 +949,91 @@
     "free": true,
     "summary": "OKEx is now OKX! Buy, Sell, &amp; Trade Bitcoin, NFTs, ETH and other Cryptos Easily.",
     "scoreText": "4.5",
-    "score": 4.5369925
+    "score": 4.5384655
+  },
+  {
+    "title": "PandaVPN Pro - Easy To Use",
+    "appId": "com.pandavpn.androidproxy",
+    "url": "https://play.google.com/store/apps/details?id=com.pandavpn.androidproxy",
+    "icon": "https://play-lh.googleusercontent.com/gKr-5LEfGdA5MgN6TGACQmpIaM-LRTmxHMHDNVeVf0wk7CTUonyzSRE44oThKiLRtZs",
+    "developer": "PandaVPN Official",
+    "developerId": "9181202348949223715",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "To be the Fastest, Most Private &amp; Secure VPN Worldwide",
+    "scoreText": "4.4",
+    "score": 4.4406424
+  },
+  {
+    "title": "Upnet VPN",
+    "appId": "com.upnetvpn.gp",
+    "url": "https://play.google.com/store/apps/details?id=com.upnetvpn.gp",
+    "icon": "https://play-lh.googleusercontent.com/ggM1wlJqmM1LXcw3O-o514R0urX0p0QapQ8DaxyB-fqUdxFCa_0QUDrOgzS5Xcyd_S8",
+    "developer": "Upnet",
+    "developerId": "Upnet",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Stable Fast and Easy to use",
+    "scoreText": "4.5",
+    "score": 4.472196
+  },
+  {
+    "title": "eBay: The shopping marketplace",
+    "appId": "com.ebay.mobile",
+    "url": "https://play.google.com/store/apps/details?id=com.ebay.mobile",
+    "icon": "https://play-lh.googleusercontent.com/31-mJUIynIfQBizOn-w1yWLKHBxVeRKA3gz348_E3K-TnuEaqCjn_-Fr9j0yQ6i0y5E",
+    "developer": "eBay Mobile",
+    "developerId": "6005619443614255030",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Shop, discover deals, make money - tech, fashion, watches, sneakers, home/garden",
+    "scoreText": "4.6",
+    "score": 4.605871
+  },
+  {
+    "title": "Opera Browser: Fast & Private",
+    "appId": "com.opera.browser",
+    "url": "https://play.google.com/store/apps/details?id=com.opera.browser",
+    "icon": "https://play-lh.googleusercontent.com/tkwW6uWRyX7Weduiqz8y26b-ks4NTQjtILg50srjSuN1c2UZj3mxpWD2cBme51gp6Q",
+    "developer": "Opera",
+    "developerId": "6928237143520558692",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Meet the secure Opera Browser featuring privacy features, VPN &amp; Adblocker",
+    "scoreText": "4.5",
+    "score": 4.505712
+  },
+  {
+    "title": "淘宝",
+    "appId": "com.taobao.taobao",
+    "url": "https://play.google.com/store/apps/details?id=com.taobao.taobao",
+    "icon": "https://play-lh.googleusercontent.com/Bwi9xj52jhVs2XlLdcUHeRAWBEirDGWam0zw79HCQmmZTQfH5EPYQhdETC_lEGD2RbA",
+    "developer": "Taobao",
+    "developerId": "Taobao",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Shop Taobao, you have everything!",
+    "scoreText": "3.4",
+    "score": 3.4033885
+  },
+  {
+    "title": "Shadowroket for android",
+    "appId": "com.v2cross.proxy",
+    "url": "https://play.google.com/store/apps/details?id=com.v2cross.proxy",
+    "icon": "https://play-lh.googleusercontent.com/V_O47Zs1uc2G_GnvXYQyOy3YoXZjlPQwzPYLrsRiTdW7Yen8DWJ48kSP2tK4X1eGYH4",
+    "developer": "Cross Ltd.",
+    "developerId": "8036522649445842263",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Supports Trojan, Vmess, VLESS, Socks, Shadowsocks, with built-in  servers.",
+    "scoreText": "4.8",
+    "score": 4.7504106
   },
   {
     "title": "旋风加速器",
@@ -1008,48 +1050,6 @@
     "score": 4.5544553
   },
   {
-    "title": "Opera Browser: Fast & Private",
-    "appId": "com.opera.browser",
-    "url": "https://play.google.com/store/apps/details?id=com.opera.browser",
-    "icon": "https://play-lh.googleusercontent.com/tkwW6uWRyX7Weduiqz8y26b-ks4NTQjtILg50srjSuN1c2UZj3mxpWD2cBme51gp6Q",
-    "developer": "Opera",
-    "developerId": "6928237143520558692",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Meet the secure Opera Browser featuring privacy features, VPN &amp; Adblocker",
-    "scoreText": "4.5",
-    "score": 4.505604
-  },
-  {
-    "title": "淘宝",
-    "appId": "com.taobao.taobao",
-    "url": "https://play.google.com/store/apps/details?id=com.taobao.taobao",
-    "icon": "https://play-lh.googleusercontent.com/Bwi9xj52jhVs2XlLdcUHeRAWBEirDGWam0zw79HCQmmZTQfH5EPYQhdETC_lEGD2RbA",
-    "developer": "Taobao",
-    "developerId": "Taobao",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Shop Taobao, you have everything!",
-    "scoreText": "3.4",
-    "score": 3.404237
-  },
-  {
-    "title": "Shadowroket for android",
-    "appId": "com.v2cross.proxy",
-    "url": "https://play.google.com/store/apps/details?id=com.v2cross.proxy",
-    "icon": "https://play-lh.googleusercontent.com/V_O47Zs1uc2G_GnvXYQyOy3YoXZjlPQwzPYLrsRiTdW7Yen8DWJ48kSP2tK4X1eGYH4",
-    "developer": "Cross Ltd.",
-    "developerId": "8036522649445842263",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Supports Trojan, Vmess, VLESS, Socks, Shadowsocks, with built-in  servers.",
-    "scoreText": "4.8",
-    "score": 4.75
-  },
-  {
     "title": "小火箭VPN网络加速器 —— 你的安卓科学上网好帮手",
     "appId": "rocket.service.super",
     "url": "https://play.google.com/store/apps/details?id=rocket.service.super",
@@ -1061,77 +1061,7 @@
     "free": true,
     "summary": "No need to register, one-click connection, simple to use, free forever VPN, to protect your network anonymity and security",
     "scoreText": "4.5",
-    "score": 4.48
-  },
-  {
-    "title": "Tumblr – Culture, Art, Chaos",
-    "appId": "com.tumblr",
-    "url": "https://play.google.com/store/apps/details?id=com.tumblr",
-    "icon": "https://play-lh.googleusercontent.com/GF4f5IHZvQuH8MgAlyq8ThfHLiY4gck5PP5ul8qMnWbG34YNgSes8sVxIRgT-eiYgZ8",
-    "developer": "Tumblr, Inc",
-    "developerId": "Tumblr,+Inc",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Explore on your own terms",
-    "scoreText": "4.5",
-    "score": 4.4760222
-  },
-  {
-    "title": "Wallpaper Engine",
-    "appId": "io.wallpaperengine.weclient",
-    "url": "https://play.google.com/store/apps/details?id=io.wallpaperengine.weclient",
-    "icon": "https://play-lh.googleusercontent.com/MumkEpSL7dj16Rt_JfqgKPmMhaWlBhQN5HD2sxNpCgKhUEiIkfcktW_pllWM3wfKeQ",
-    "developer": "Wallpaper Engine Team",
-    "developerId": "Wallpaper+Engine+Team",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Transfer your live wallpapers from Windows to Android using Wallpaper Engine!",
-    "scoreText": "4.4",
-    "score": 4.415366
-  },
-  {
-    "title": "Open Camera",
-    "appId": "net.sourceforge.opencamera",
-    "url": "https://play.google.com/store/apps/details?id=net.sourceforge.opencamera",
-    "icon": "https://play-lh.googleusercontent.com/GkhngtFrSb3G9WXkWxJ9IRppbGVbNy7b_xyqa12Xa-Y3My_SXtsLamI5kR6or5zWGA",
-    "developer": "Mark Harman",
-    "developerId": "Mark+Harman",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Open Source Camera app.",
-    "scoreText": "4.1",
-    "score": 4.148338
-  },
-  {
-    "title": "VLC for Android",
-    "appId": "org.videolan.vlc",
-    "url": "https://play.google.com/store/apps/details?id=org.videolan.vlc",
-    "icon": "https://play-lh.googleusercontent.com/nPnJc260PPoupBe-DcVQ-MNr6149dphdEoEAN-C9xwgctpVXbwsuyon_jEZ3uPWWYQ",
-    "developer": "Videolabs",
-    "developerId": "6364851808230428105",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "VLC for Android is the best open source video and music player, fast and easy!",
-    "scoreText": "4.3",
-    "score": 4.293441
-  },
-  {
-    "title": "Alipay",
-    "appId": "com.eg.android.AlipayGphone",
-    "url": "https://play.google.com/store/apps/details?id=com.eg.android.AlipayGphone",
-    "icon": "https://play-lh.googleusercontent.com/xV6gK4t0SF7AW4LK3slUzj4WIY1SfzRtq-zFTygFSO9wg-JXTJImEi34rrxhsRutXQ",
-    "developer": "Alipay (Hangzhou) Technology Co. Ltd",
-    "developerId": "Alipay+(Hangzhou)+Technology+Co.+Ltd",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Stay connected! Send, receive and make payments in a matter of seconds.",
-    "scoreText": "3.2",
-    "score": 3.2216136
+    "score": 4.480392
   },
   {
     "title": "Tor Browser: Official, Private, & Secure",
@@ -1145,7 +1075,77 @@
     "free": true,
     "summary": "Experience real private browsing without tracking, surveillance, or censorship.",
     "scoreText": "4.3",
-    "score": 4.3207536
+    "score": 4.320978
+  },
+  {
+    "title": "Tumblr – Culture, Art, Chaos",
+    "appId": "com.tumblr",
+    "url": "https://play.google.com/store/apps/details?id=com.tumblr",
+    "icon": "https://play-lh.googleusercontent.com/GF4f5IHZvQuH8MgAlyq8ThfHLiY4gck5PP5ul8qMnWbG34YNgSes8sVxIRgT-eiYgZ8",
+    "developer": "Tumblr, Inc",
+    "developerId": "Tumblr,+Inc",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Explore on your own terms",
+    "scoreText": "4.5",
+    "score": 4.476098
+  },
+  {
+    "title": "Wallpaper Engine",
+    "appId": "io.wallpaperengine.weclient",
+    "url": "https://play.google.com/store/apps/details?id=io.wallpaperengine.weclient",
+    "icon": "https://play-lh.googleusercontent.com/MumkEpSL7dj16Rt_JfqgKPmMhaWlBhQN5HD2sxNpCgKhUEiIkfcktW_pllWM3wfKeQ",
+    "developer": "Wallpaper Engine Team",
+    "developerId": "Wallpaper+Engine+Team",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Transfer your live wallpapers from Windows to Android using Wallpaper Engine!",
+    "scoreText": "4.4",
+    "score": 4.419547
+  },
+  {
+    "title": "VLC for Android",
+    "appId": "org.videolan.vlc",
+    "url": "https://play.google.com/store/apps/details?id=org.videolan.vlc",
+    "icon": "https://play-lh.googleusercontent.com/nPnJc260PPoupBe-DcVQ-MNr6149dphdEoEAN-C9xwgctpVXbwsuyon_jEZ3uPWWYQ",
+    "developer": "Videolabs",
+    "developerId": "6364851808230428105",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "VLC for Android is the best open source video and music player, fast and easy!",
+    "scoreText": "4.3",
+    "score": 4.2934065
+  },
+  {
+    "title": "Alipay",
+    "appId": "com.eg.android.AlipayGphone",
+    "url": "https://play.google.com/store/apps/details?id=com.eg.android.AlipayGphone",
+    "icon": "https://play-lh.googleusercontent.com/xV6gK4t0SF7AW4LK3slUzj4WIY1SfzRtq-zFTygFSO9wg-JXTJImEi34rrxhsRutXQ",
+    "developer": "Alipay (Hangzhou) Technology Co. Ltd",
+    "developerId": "Alipay+(Hangzhou)+Technology+Co.+Ltd",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Stay connected! Send, receive and make payments in a matter of seconds.",
+    "scoreText": "3.2",
+    "score": 3.2223868
+  },
+  {
+    "title": "Open Camera",
+    "appId": "net.sourceforge.opencamera",
+    "url": "https://play.google.com/store/apps/details?id=net.sourceforge.opencamera",
+    "icon": "https://play-lh.googleusercontent.com/GkhngtFrSb3G9WXkWxJ9IRppbGVbNy7b_xyqa12Xa-Y3My_SXtsLamI5kR6or5zWGA",
+    "developer": "Mark Harman",
+    "developerId": "Mark+Harman",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Open Source Camera app.",
+    "scoreText": "4.1",
+    "score": 4.149138
   },
   {
     "title": "Video Downloader",
@@ -1159,7 +1159,7 @@
     "free": true,
     "summary": "A Simple app to download Video &amp; Music from the Internet.",
     "scoreText": "4.7",
-    "score": 4.7398357
+    "score": 4.740043
   },
   {
     "title": "Chrome Dev",
@@ -1173,63 +1173,7 @@
     "free": true,
     "summary": "The speed and simplicity of Chrome, before everyone else.",
     "scoreText": "4.3",
-    "score": 4.251257
-  },
-  {
-    "title": "Microsoft Teams",
-    "appId": "com.microsoft.teams",
-    "url": "https://play.google.com/store/apps/details?id=com.microsoft.teams",
-    "icon": "https://play-lh.googleusercontent.com/jKU64njy8urP89V1O63eJxMtvWjDGETPlHVIhDv9WZAYzsSxRWyWZkUlBJZj_HbkHA",
-    "developer": "Microsoft Corporation",
-    "developerId": "6720847872553662727",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Chat, call or meet with anyone from anywhere with Microsoft Teams",
-    "scoreText": "4.5",
-    "score": 4.5373683
-  },
-  {
-    "title": "京东",
-    "appId": "com.jingdong.app.mall",
-    "url": "https://play.google.com/store/apps/details?id=com.jingdong.app.mall",
-    "icon": "https://play-lh.googleusercontent.com/LWaIZ0sOjW3gUC0yNXIrPGZe9jxNDDpqv9TI-IguAcHvtX30bCTlcNhDaXpu1s5ZBiQ",
-    "developer": "京东",
-    "developerId": "%E4%BA%AC%E4%B8%9C",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Live up to every love",
-    "scoreText": "3.1",
-    "score": 3.0851648
-  },
-  {
-    "title": "Google Go: A lighter, faster way to search",
-    "appId": "com.google.android.apps.searchlite",
-    "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.searchlite",
-    "icon": "https://play-lh.googleusercontent.com/RZ5luCUwc5QtJP9xDn-ZCwEutT160GVyoh5K1eu4YJ5fD7v4LP5ptVdgR9mz4Hnr7A",
-    "developer": "Google LLC",
-    "developerId": "5700313618786177705",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Everything you need in one app",
-    "scoreText": "4.2",
-    "score": 4.220801
-  },
-  {
-    "title": "Quora — Ask Questions, Get Answers",
-    "appId": "com.quora.android",
-    "url": "https://play.google.com/store/apps/details?id=com.quora.android",
-    "icon": "https://play-lh.googleusercontent.com/EAVZzDs5jPuXJaR-zNoD3rzYYUu9VcdXciQYq1w2-n55QQeN3yo_krmM__rMjk4GR5FX",
-    "developer": "Quora, Inc.",
-    "developerId": "Quora,+Inc.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Quora is a place to share knowledge and better understand the world",
-    "scoreText": "4.5",
-    "score": 4.467983
+    "score": 4.251016
   },
   {
     "title": "Your Phone Companion - Link to Windows",
@@ -1243,21 +1187,35 @@
     "free": true,
     "summary": "Access your phone’s notifications, calls, apps, photos &amp; texts on your PC.",
     "scoreText": "4.2",
-    "score": 4.238994
+    "score": 4.2376084
   },
   {
-    "title": "Steam Link",
-    "appId": "com.valvesoftware.steamlink",
-    "url": "https://play.google.com/store/apps/details?id=com.valvesoftware.steamlink",
-    "icon": "https://play-lh.googleusercontent.com/LJp18yPRgdNRXSykeH2rJtaqWH-wrR0S1amiwm1KTWKwe7bwblwzGpCsPg4Rqz19VDs",
-    "developer": "Valve Corporation",
-    "developerId": "Valve+Corporation",
+    "title": "Quora — Ask Questions, Get Answers",
+    "appId": "com.quora.android",
+    "url": "https://play.google.com/store/apps/details?id=com.quora.android",
+    "icon": "https://play-lh.googleusercontent.com/EAVZzDs5jPuXJaR-zNoD3rzYYUu9VcdXciQYq1w2-n55QQeN3yo_krmM__rMjk4GR5FX",
+    "developer": "Quora, Inc.",
+    "developerId": "Quora,+Inc.",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Stream Your Steam Library",
-    "scoreText": "3.8",
-    "score": 3.811658
+    "summary": "Quora is a place to share knowledge and better understand the world",
+    "scoreText": "4.5",
+    "score": 4.4679265
+  },
+  {
+    "title": "Microsoft Teams",
+    "appId": "com.microsoft.teams",
+    "url": "https://play.google.com/store/apps/details?id=com.microsoft.teams",
+    "icon": "https://play-lh.googleusercontent.com/jKU64njy8urP89V1O63eJxMtvWjDGETPlHVIhDv9WZAYzsSxRWyWZkUlBJZj_HbkHA",
+    "developer": "Microsoft Corporation",
+    "developerId": "6720847872553662727",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Chat, call or meet with anyone from anywhere with Microsoft Teams",
+    "scoreText": "4.5",
+    "score": 4.537485
   },
   {
     "title": "DeepL Translate",
@@ -1271,7 +1229,49 @@
     "free": true,
     "summary": "Translate and communicate on the go between 26 languages.",
     "scoreText": "4.3",
-    "score": 4.330472
+    "score": 4.334677
+  },
+  {
+    "title": "PixShaft (Pixiv第三方)",
+    "appId": "ceui.lisa.pixiv",
+    "url": "https://play.google.com/store/apps/details?id=ceui.lisa.pixiv",
+    "icon": "https://play-lh.googleusercontent.com/c0QHX6CFUJAsSZDYlWjBZZvSbjXgvUv0Ks2nGspDa2MLvH69v2pOD2t4u9Gyxw1CulQ",
+    "developer": "CeuiLiSA",
+    "developerId": "CeuiLiSA",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Pixiv third-party client, support direct connection in mainland China",
+    "scoreText": "4.5",
+    "score": 4.4517546
+  },
+  {
+    "title": "Google Go: A lighter, faster way to search",
+    "appId": "com.google.android.apps.searchlite",
+    "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.searchlite",
+    "icon": "https://play-lh.googleusercontent.com/RZ5luCUwc5QtJP9xDn-ZCwEutT160GVyoh5K1eu4YJ5fD7v4LP5ptVdgR9mz4Hnr7A",
+    "developer": "Google LLC",
+    "developerId": "5700313618786177705",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Everything you need in one app",
+    "scoreText": "4.2",
+    "score": 4.221577
+  },
+  {
+    "title": "Steam Link",
+    "appId": "com.valvesoftware.steamlink",
+    "url": "https://play.google.com/store/apps/details?id=com.valvesoftware.steamlink",
+    "icon": "https://play-lh.googleusercontent.com/LJp18yPRgdNRXSykeH2rJtaqWH-wrR0S1amiwm1KTWKwe7bwblwzGpCsPg4Rqz19VDs",
+    "developer": "Valve Corporation",
+    "developerId": "Valve+Corporation",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Stream Your Steam Library",
+    "scoreText": "3.8",
+    "score": 3.8110929
   },
   {
     "title": "vpnify - Unlimited VPN Proxy",
@@ -1285,49 +1285,7 @@
     "free": true,
     "summary": "No Sign Up! vpnify is the fast VPN high speed Proxy! One-Click Connect.",
     "scoreText": "4.3",
-    "score": 4.2647486
-  },
-  {
-    "title": "Play Services Info (Update)",
-    "appId": "com.weberdo.apps.serviceinfo",
-    "url": "https://play.google.com/store/apps/details?id=com.weberdo.apps.serviceinfo",
-    "icon": "https://play-lh.googleusercontent.com/HVachQZ6mgvDJPcbjfz1QKNixJBT4hl2m_vXzT-rgIp-5uorc-VUu1Pu18IG2MyH084",
-    "developer": "weberdo",
-    "developerId": "6793328204317855704",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Utility app to check the status, install and update the Google Play services",
-    "scoreText": "4.4",
-    "score": 4.423263
-  },
-  {
-    "title": "Google Photos",
-    "appId": "com.google.android.apps.photos",
-    "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
-    "icon": "https://play-lh.googleusercontent.com/ZyWNGIfzUyoajtFcD7NhMksHEZh37f-MkHVGr5Yfefa-IX7yj9SMfI82Z7a2wpdKCA",
-    "developer": "Google LLC",
-    "developerId": "5700313618786177705",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "The home for your memories. Relive, share, and organize your photos.",
-    "scoreText": "4.5",
-    "score": 4.472477
-  },
-  {
-    "title": "PixShaft (Pixiv第三方)",
-    "appId": "ceui.lisa.pixiv",
-    "url": "https://play.google.com/store/apps/details?id=ceui.lisa.pixiv",
-    "icon": "https://play-lh.googleusercontent.com/c0QHX6CFUJAsSZDYlWjBZZvSbjXgvUv0Ks2nGspDa2MLvH69v2pOD2t4u9Gyxw1CulQ",
-    "developer": "CeuiLiSA",
-    "developerId": "CeuiLiSA",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Pixiv third-party client, support direct connection in mainland China",
-    "scoreText": "4.4",
-    "score": 4.4493394
+    "score": 4.2642307
   },
   {
     "title": "Go VPN",
@@ -1341,7 +1299,7 @@
     "free": true,
     "summary": "Go VPN Free Fast Secret",
     "scoreText": "4.6",
-    "score": 4.62
+    "score": 4.6237626
   },
   {
     "title": "Snapseed",
@@ -1355,49 +1313,7 @@
     "free": true,
     "summary": "Professional quality photo edits with the new Snapseed.",
     "scoreText": "4.4",
-    "score": 4.3532395
-  },
-  {
-    "title": "Beyond LIVE",
-    "appId": "com.beyondlive.apps",
-    "url": "https://play.google.com/store/apps/details?id=com.beyondlive.apps",
-    "icon": "https://play-lh.googleusercontent.com/LCwq-7whGGVnqCkyOm8Xk6NfUFE3uOY-Tk-czp0ar6IoHqUAsYmLL0Ww9qp3wcRqp04",
-    "developer": "株式会社Beyond Live Corporation",
-    "developerId": "%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEBeyond+Live+Corporation",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Beyond LIVE, an online concert streaming platform for fans all over the world!",
-    "scoreText": "3.4",
-    "score": 3.4086022
-  },
-  {
-    "title": "Kiwi Browser - Fast & Quiet",
-    "appId": "com.kiwibrowser.browser",
-    "url": "https://play.google.com/store/apps/details?id=com.kiwibrowser.browser",
-    "icon": "https://play-lh.googleusercontent.com/IpPy16lik1fLrJs0fkaFuKrUm6Hw9Q3KDa2gLbewoze0Ko39gEIOyDECYOZBFJLHGeo",
-    "developer": "Geometry OU",
-    "developerId": "Geometry+OU",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Kiwi Browser is a fast browser for Android with extensions support",
-    "scoreText": "4.3",
-    "score": 4.2837696
-  },
-  {
-    "title": "Adobe Lightroom: Photo Editor",
-    "appId": "com.adobe.lrmobile",
-    "url": "https://play.google.com/store/apps/details?id=com.adobe.lrmobile",
-    "icon": "https://play-lh.googleusercontent.com/ynzziGfmYSMe4TjtQ98tn0LSLnb3xdQJKdXM-foaH2Iv0-eBXJWkQEXejQjbIvXG0g",
-    "developer": "Adobe",
-    "developerId": "4734916851270416020",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Try our guided tutorials and learn the tricks for faster editing.",
-    "scoreText": "4.3",
-    "score": 4.301399
+    "score": 4.3533044
   },
   {
     "title": "极光加速 一键秒连VPN 科学上网无限流量加速器梯子",
@@ -1411,105 +1327,77 @@
     "free": true,
     "summary": "\"Flip the wall VPN\" does not limit the network and traffic <br> Own IDC, multiple routes, stable Internet access without dropping <br> Hide IP identity and location, protect your privacy duration",
     "scoreText": "4.9",
-    "score": 4.8845577
+    "score": 4.885246
   },
   {
-    "title": "Notion - notes, docs, tasks",
-    "appId": "notion.id",
-    "url": "https://play.google.com/store/apps/details?id=notion.id",
-    "icon": "https://play-lh.googleusercontent.com/EJkCp7Ey-kFnbnJIrB6Ii0EwykRl8qqaNWsoh4lgCCJ0s9U7btD_P7AjC6qUt0Mcfcg",
-    "developer": "Notion Labs, Inc.",
-    "developerId": "Notion+Labs,+Inc.",
+    "title": "Kiwi Browser - Fast & Quiet",
+    "appId": "com.kiwibrowser.browser",
+    "url": "https://play.google.com/store/apps/details?id=com.kiwibrowser.browser",
+    "icon": "https://play-lh.googleusercontent.com/IpPy16lik1fLrJs0fkaFuKrUm6Hw9Q3KDa2gLbewoze0Ko39gEIOyDECYOZBFJLHGeo",
+    "developer": "Geometry OU",
+    "developerId": "Geometry+OU",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "The all-in-one workspace",
-    "scoreText": "3.8",
-    "score": 3.842477
+    "summary": "Kiwi Browser is a fast browser for Android with extensions support",
+    "scoreText": "4.3",
+    "score": 4.2835007
   },
   {
-    "title": "Xbox",
-    "appId": "com.microsoft.xboxone.smartglass",
-    "url": "https://play.google.com/store/apps/details?id=com.microsoft.xboxone.smartglass",
-    "icon": "https://play-lh.googleusercontent.com/hihXCV-0wxOXB5N7uBREaJeCVK0BDjNEBtKwNAncftZMflpEvasiKXn7vCKxu9qGpvk",
-    "developer": "Microsoft Corporation",
-    "developerId": "6720847872553662727",
+    "title": "Play Services Info (Update)",
+    "appId": "com.weberdo.apps.serviceinfo",
+    "url": "https://play.google.com/store/apps/details?id=com.weberdo.apps.serviceinfo",
+    "icon": "https://play-lh.googleusercontent.com/HVachQZ6mgvDJPcbjfz1QKNixJBT4hl2m_vXzT-rgIp-5uorc-VUu1Pu18IG2MyH084",
+    "developer": "weberdo",
+    "developerId": "6793328204317855704",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "The Xbox app keeps you connected to the fun with your friends, games, &amp; console.",
+    "summary": "Utility app to check the status, install and update the Google Play services",
+    "scoreText": "4.4",
+    "score": 4.423581
+  },
+  {
+    "title": "京东",
+    "appId": "com.jingdong.app.mall",
+    "url": "https://play.google.com/store/apps/details?id=com.jingdong.app.mall",
+    "icon": "https://play-lh.googleusercontent.com/LWaIZ0sOjW3gUC0yNXIrPGZe9jxNDDpqv9TI-IguAcHvtX30bCTlcNhDaXpu1s5ZBiQ",
+    "developer": "京东",
+    "developerId": "%E4%BA%AC%E4%B8%9C",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Live up to every love",
+    "scoreText": "3.1",
+    "score": 3.085048
+  },
+  {
+    "title": "Beyond LIVE",
+    "appId": "com.beyondlive.apps",
+    "url": "https://play.google.com/store/apps/details?id=com.beyondlive.apps",
+    "icon": "https://play-lh.googleusercontent.com/LCwq-7whGGVnqCkyOm8Xk6NfUFE3uOY-Tk-czp0ar6IoHqUAsYmLL0Ww9qp3wcRqp04",
+    "developer": "株式会社Beyond Live Corporation",
+    "developerId": "%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEBeyond+Live+Corporation",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Beyond LIVE, an online concert streaming platform for fans all over the world!",
+    "scoreText": "3.3",
+    "score": 3.2810812
+  },
+  {
+    "title": "Google Photos",
+    "appId": "com.google.android.apps.photos",
+    "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos",
+    "icon": "https://play-lh.googleusercontent.com/ZyWNGIfzUyoajtFcD7NhMksHEZh37f-MkHVGr5Yfefa-IX7yj9SMfI82Z7a2wpdKCA",
+    "developer": "Google LLC",
+    "developerId": "5700313618786177705",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "The home for your memories. Relive, share, and organize your photos.",
     "scoreText": "4.5",
-    "score": 4.5421352
-  },
-  {
-    "title": "Video Downloader for Twitter",
-    "appId": "twittervideodownloader.twitter.videoindir.savegif.twdown",
-    "url": "https://play.google.com/store/apps/details?id=twittervideodownloader.twitter.videoindir.savegif.twdown",
-    "icon": "https://play-lh.googleusercontent.com/G8ip5hVAaAFxmBON3XMk1hgxyhvmR31SEAlK-wIwuGPFEfghVQkdsSjuaIId355ZDZE",
-    "developer": "AhaSave Video Downloader",
-    "developerId": "AhaSave+Video+Downloader",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Downloading videos from Twitter with Twdown, save Twitter videos with 1 click.",
-    "scoreText": "4.9",
-    "score": 4.872307
-  },
-  {
-    "title": "Telegram X",
-    "appId": "org.thunderdog.challegram",
-    "url": "https://play.google.com/store/apps/details?id=org.thunderdog.challegram",
-    "icon": "https://play-lh.googleusercontent.com/Zmol9WVk6mjWE38P6wc3Aaz9mQn-VFhviKllLP4kiplfW4xIEjgYmKUalZcFsOOnDQ",
-    "developer": "Telegram FZ-LLC",
-    "developerId": "Telegram+FZ-LLC",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Instant messaging — simple, fast, secure, and synced across all your devices.",
-    "scoreText": "4.1",
-    "score": 4.121391
-  },
-  {
-    "title": "Microsoft Authenticator",
-    "appId": "com.azure.authenticator",
-    "url": "https://play.google.com/store/apps/details?id=com.azure.authenticator",
-    "icon": "https://play-lh.googleusercontent.com/_1CV99jklLbXuun-6E7eCPR-sKKeZc602rhw_QHZz-qm7xrPdgWsJVc7NtFkkliI8No",
-    "developer": "Microsoft Corporation",
-    "developerId": "6720847872553662727",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "No more passwords, easier sign-in, and greater protection for your accounts.",
-    "scoreText": "4.7",
-    "score": 4.6973944
-  },
-  {
-    "title": "1DM: Adblock Browser, Video & Torrent Downloader",
-    "appId": "idm.internet.download.manager",
-    "url": "https://play.google.com/store/apps/details?id=idm.internet.download.manager",
-    "icon": "https://play-lh.googleusercontent.com/cvdER0qgn-J36TrPVdvoQ3oWa3QzUVnIaPvXhddOgVZhz50tfxFAAbw76PqWEtlHmTo",
-    "developer": "Vicky Bonick",
-    "developerId": "6290983356531270140",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Download Audio, Video, Files, Torrent upto 500% faster with pause/resume support",
-    "scoreText": "4.5",
-    "score": 4.493391
-  },
-  {
-    "title": "佛跳墙VPN",
-    "appId": "com.fotiaoqiangvpn.android",
-    "url": "https://play.google.com/store/apps/details?id=com.fotiaoqiangvpn.android",
-    "icon": "https://play-lh.googleusercontent.com/Zn5G0mnhG3-gYTFqqcU0MuamKJmF5LunkhRNDtiyOA8nRDwHWVaphPpP0FTBUl8dmGw",
-    "developer": "佛跳墙",
-    "developerId": "%E4%BD%9B%E8%B7%B3%E5%A2%99",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "The great satisfaction of VPN madman, V2Ray, Trojan, SSR, ultimate speed, ultimate privacy...satisfy all your fantasies about VPN!",
-    "scoreText": "3.7",
-    "score": 3.68
+    "score": 4.4726562
   },
   {
     "title": "微博",
@@ -1523,7 +1411,21 @@
     "free": true,
     "summary": "Follow celebrity hotspots, learn about news, watch live video broadcasts, and discover new things anytime, anywhere",
     "scoreText": "3.8",
-    "score": 3.8054297
+    "score": 3.8054976
+  },
+  {
+    "title": "Adobe Lightroom: Photo Editor",
+    "appId": "com.adobe.lrmobile",
+    "url": "https://play.google.com/store/apps/details?id=com.adobe.lrmobile",
+    "icon": "https://play-lh.googleusercontent.com/ynzziGfmYSMe4TjtQ98tn0LSLnb3xdQJKdXM-foaH2Iv0-eBXJWkQEXejQjbIvXG0g",
+    "developer": "Adobe",
+    "developerId": "4734916851270416020",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Try our guided tutorials and learn the tricks for faster editing.",
+    "scoreText": "4.3",
+    "score": 4.301338
   },
   {
     "title": "Speedtest by Ookla",
@@ -1537,7 +1439,77 @@
     "free": true,
     "summary": "From the makers of Speedtest.net. Take free and accurate speed tests anywhere!",
     "scoreText": "4.3",
-    "score": 4.2935033
+    "score": 4.2934985
+  },
+  {
+    "title": "Notion - notes, docs, tasks",
+    "appId": "notion.id",
+    "url": "https://play.google.com/store/apps/details?id=notion.id",
+    "icon": "https://play-lh.googleusercontent.com/x0c3oYR37epb0-26jpbMds_RC2GJqIUHP8kKZ-jbbHfw7AhyRcT957LHM62Ks3Jsqw",
+    "developer": "Notion Labs, Inc.",
+    "developerId": "Notion+Labs,+Inc.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "The all-in-one workspace",
+    "scoreText": "3.8",
+    "score": 3.8435597
+  },
+  {
+    "title": "Xbox",
+    "appId": "com.microsoft.xboxone.smartglass",
+    "url": "https://play.google.com/store/apps/details?id=com.microsoft.xboxone.smartglass",
+    "icon": "https://play-lh.googleusercontent.com/hihXCV-0wxOXB5N7uBREaJeCVK0BDjNEBtKwNAncftZMflpEvasiKXn7vCKxu9qGpvk",
+    "developer": "Microsoft Corporation",
+    "developerId": "6720847872553662727",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "The Xbox app keeps you connected to the fun with your friends, games, &amp; console.",
+    "scoreText": "4.5",
+    "score": 4.541754
+  },
+  {
+    "title": "1DM: Adblock Browser, Video & Torrent Downloader",
+    "appId": "idm.internet.download.manager",
+    "url": "https://play.google.com/store/apps/details?id=idm.internet.download.manager",
+    "icon": "https://play-lh.googleusercontent.com/cvdER0qgn-J36TrPVdvoQ3oWa3QzUVnIaPvXhddOgVZhz50tfxFAAbw76PqWEtlHmTo",
+    "developer": "Vicky Bonick",
+    "developerId": "6290983356531270140",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Download Audio, Video, Files, Torrent upto 500% faster with pause/resume support",
+    "scoreText": "4.5",
+    "score": 4.4928184
+  },
+  {
+    "title": "Telegram X",
+    "appId": "org.thunderdog.challegram",
+    "url": "https://play.google.com/store/apps/details?id=org.thunderdog.challegram",
+    "icon": "https://play-lh.googleusercontent.com/Zmol9WVk6mjWE38P6wc3Aaz9mQn-VFhviKllLP4kiplfW4xIEjgYmKUalZcFsOOnDQ",
+    "developer": "Telegram FZ-LLC",
+    "developerId": "Telegram+FZ-LLC",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Instant messaging — simple, fast, secure, and synced across all your devices.",
+    "scoreText": "4.1",
+    "score": 4.122324
+  },
+  {
+    "title": "Microsoft Authenticator",
+    "appId": "com.azure.authenticator",
+    "url": "https://play.google.com/store/apps/details?id=com.azure.authenticator",
+    "icon": "https://play-lh.googleusercontent.com/_1CV99jklLbXuun-6E7eCPR-sKKeZc602rhw_QHZz-qm7xrPdgWsJVc7NtFkkliI8No",
+    "developer": "Microsoft Corporation",
+    "developerId": "6720847872553662727",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "No more passwords, easier sign-in, and greater protection for your accounts.",
+    "scoreText": "4.7",
+    "score": 4.6973333
   },
   {
     "title": "ZArchiver",
@@ -1551,7 +1523,21 @@
     "free": true,
     "summary": "The easy 7zip app!",
     "scoreText": "4.4",
-    "score": 4.411223
+    "score": 4.410585
+  },
+  {
+    "title": "佛跳墙VPN",
+    "appId": "com.fotiaoqiangvpn.android",
+    "url": "https://play.google.com/store/apps/details?id=com.fotiaoqiangvpn.android",
+    "icon": "https://play-lh.googleusercontent.com/Zn5G0mnhG3-gYTFqqcU0MuamKJmF5LunkhRNDtiyOA8nRDwHWVaphPpP0FTBUl8dmGw",
+    "developer": "佛跳墙",
+    "developerId": "%E4%BD%9B%E8%B7%B3%E5%A2%99",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "The great satisfaction of VPN madman, V2Ray, Trojan, SSR, ultimate speed, ultimate privacy...satisfy all your fantasies about VPN!",
+    "scoreText": "3.7",
+    "score": 3.69
   },
   {
     "title": "闲鱼",
@@ -1565,21 +1551,7 @@
     "free": true,
     "summary": "Idle trading platform, interesting life community",
     "scoreText": "2.7",
-    "score": 2.7347448
-  },
-  {
-    "title": "Microsoft Outlook",
-    "appId": "com.microsoft.office.outlook",
-    "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.outlook",
-    "icon": "https://play-lh.googleusercontent.com/Zk9elS0eGXDr0L4W6-Ey7YwHbRNjkyezHC8iCc8rWp64lNIjlByS8TDF9qDSZbiEWY4",
-    "developer": "Microsoft Corporation",
-    "developerId": "6720847872553662727",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Manage your email &amp; calendars on Outlook &amp; collaborate with anyone, anywhere",
-    "scoreText": "4.6",
-    "score": 4.6331334
+    "score": 2.733831
   },
   {
     "title": "Shazam: Music Discovery",
@@ -1593,7 +1565,35 @@
     "free": true,
     "summary": "Find artists, lyrics &amp; videos. Play or connect to stream music now!",
     "scoreText": "4.7",
-    "score": 4.7477856
+    "score": 4.747764
+  },
+  {
+    "title": "Video Downloader for Twitter",
+    "appId": "twittervideodownloader.twitter.videoindir.savegif.twdown",
+    "url": "https://play.google.com/store/apps/details?id=twittervideodownloader.twitter.videoindir.savegif.twdown",
+    "icon": "https://play-lh.googleusercontent.com/G8ip5hVAaAFxmBON3XMk1hgxyhvmR31SEAlK-wIwuGPFEfghVQkdsSjuaIId355ZDZE",
+    "developer": "AhaSave Video Downloader",
+    "developerId": "AhaSave+Video+Downloader",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Downloading videos from Twitter with Twdown, save Twitter videos with 1 click.",
+    "scoreText": "4.9",
+    "score": 4.873016
+  },
+  {
+    "title": "Microsoft Outlook",
+    "appId": "com.microsoft.office.outlook",
+    "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.outlook",
+    "icon": "https://play-lh.googleusercontent.com/Zk9elS0eGXDr0L4W6-Ey7YwHbRNjkyezHC8iCc8rWp64lNIjlByS8TDF9qDSZbiEWY4",
+    "developer": "Microsoft Corporation",
+    "developerId": "6720847872553662727",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Manage your email &amp; calendars on Outlook &amp; collaborate with anyone, anywhere",
+    "scoreText": "4.6",
+    "score": 4.633144
   },
   {
     "title": "F1 TV",
@@ -1607,49 +1607,7 @@
     "free": true,
     "summary": "Stream Formula 1® Live",
     "scoreText": "2.8",
-    "score": 2.8472517
-  },
-  {
-    "title": "国际新闻 World News & Newspaper",
-    "appId": "com.cclappdevgmail.worldchinesenews",
-    "url": "https://play.google.com/store/apps/details?id=com.cclappdevgmail.worldchinesenews",
-    "icon": "https://play-lh.googleusercontent.com/gbfs96R63GCXUfRW1P83dflYmHcKQNb9V8Np59L3IhbR9jGqeJ5psSHCkVKyYyEA39Nl",
-    "developer": "CCL App Dev",
-    "developerId": "CCL+App+Dev",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Gather news sources from newspapers around the world to provide comprehensive and timely news coverage.",
-    "scoreText": "4.7",
-    "score": 4.742574
-  },
-  {
-    "title": "Live Earth Map - World Map 3D",
-    "appId": "com.live.earthmap.streetview.livecam",
-    "url": "https://play.google.com/store/apps/details?id=com.live.earthmap.streetview.livecam",
-    "icon": "https://play-lh.googleusercontent.com/8f1vjGyo93fXs68tJaiNpfH1qMdLF4ITWWBDrd0wzpRttL7b-Si6ZYYZU7QIxObJ2w",
-    "developer": "Pixamattic Inc -Live Earth Cameras, GPS Navigation",
-    "developerId": "7979507058952385263",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Lets explore the world&#39;s famous places by using Live Cams, GPS &amp; Satellite View.",
-    "scoreText": "4.3",
-    "score": 4.295499
-  },
-  {
-    "title": "WEMIX Wallet",
-    "appId": "com.wemadetree.wemixwallet",
-    "url": "https://play.google.com/store/apps/details?id=com.wemadetree.wemixwallet",
-    "icon": "https://play-lh.googleusercontent.com/e4Vq3dIhvph-gmYYJwvW1HvGer93ErubwLEk5kwCrFqpHdBkffZHBYy3XHViTZ7byFs",
-    "developer": "WEMADE TREE PTE. LTD.",
-    "developerId": "WEMADE+TREE+PTE.+LTD.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Play high-quality games, Obtain a digital assets, Manage my wealth in WEMIX",
-    "scoreText": "3.2",
-    "score": 3.1967213
+    "score": 2.8490908
   },
   {
     "title": "TokenPocket Wallet Crypto DeFi",
@@ -1663,21 +1621,49 @@
     "free": true,
     "summary": "A multi-chains wallet supports BTC, ETH, BSC, TRON and so on. Enjoy DeFi, GameFi",
     "scoreText": "4.7",
-    "score": 4.6669636
+    "score": 4.6642985
   },
   {
-    "title": "拼多多",
-    "appId": "com.xunmeng.pinduoduo",
-    "url": "https://play.google.com/store/apps/details?id=com.xunmeng.pinduoduo",
-    "icon": "https://play-lh.googleusercontent.com/Fc_2kZ_9IDq5tPGeHVga9JJfPryEYSEPsavqG1bfvRCb3WV1C4HwVijywU7Y090hErA",
-    "developer": "上海寻梦信息技术有限公司",
-    "developerId": "%E4%B8%8A%E6%B5%B7%E5%AF%BB%E6%A2%A6%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8",
+    "title": "Live Earth Map - World Map 3D",
+    "appId": "com.live.earthmap.streetview.livecam",
+    "url": "https://play.google.com/store/apps/details?id=com.live.earthmap.streetview.livecam",
+    "icon": "https://play-lh.googleusercontent.com/8f1vjGyo93fXs68tJaiNpfH1qMdLF4ITWWBDrd0wzpRttL7b-Si6ZYYZU7QIxObJ2w",
+    "developer": "Pixamattic Inc -Live Earth Cameras, GPS Navigation",
+    "developerId": "7979507058952385263",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "It’s cheap to buy it together.",
-    "scoreText": "3.3",
-    "score": 3.298387
+    "summary": "Lets explore the world&#39;s famous places by using Live Cams, GPS &amp; Satellite View.",
+    "scoreText": "4.3",
+    "score": 4.2828097
+  },
+  {
+    "title": "国际新闻 World News & Newspaper",
+    "appId": "com.cclappdevgmail.worldchinesenews",
+    "url": "https://play.google.com/store/apps/details?id=com.cclappdevgmail.worldchinesenews",
+    "icon": "https://play-lh.googleusercontent.com/gbfs96R63GCXUfRW1P83dflYmHcKQNb9V8Np59L3IhbR9jGqeJ5psSHCkVKyYyEA39Nl",
+    "developer": "CCL App Dev",
+    "developerId": "CCL+App+Dev",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Gather news sources from newspapers around the world to provide comprehensive and timely news coverage.",
+    "scoreText": "4.7",
+    "score": 4.7058825
+  },
+  {
+    "title": "WEMIX Wallet",
+    "appId": "com.wemadetree.wemixwallet",
+    "url": "https://play.google.com/store/apps/details?id=com.wemadetree.wemixwallet",
+    "icon": "https://play-lh.googleusercontent.com/e4Vq3dIhvph-gmYYJwvW1HvGer93ErubwLEk5kwCrFqpHdBkffZHBYy3XHViTZ7byFs",
+    "developer": "WEMADE TREE PTE. LTD.",
+    "developerId": "WEMADE+TREE+PTE.+LTD.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Play high-quality games, Obtain a digital assets, Manage my wealth in WEMIX",
+    "scoreText": "3.2",
+    "score": 3.194412
   },
   {
     "title": "Download Twitter Videos - GIF",
@@ -1691,21 +1677,21 @@
     "free": true,
     "summary": "Fast save Twitter videos, GIF and photos with Free video downloader for Twitter.",
     "scoreText": "4.7",
-    "score": 4.724793
+    "score": 4.7220454
   },
   {
-    "title": "Magnet Search - Torrent Search",
-    "appId": "com.content.magnetsearch",
-    "url": "https://play.google.com/store/apps/details?id=com.content.magnetsearch",
-    "icon": "https://play-lh.googleusercontent.com/_5vH4N2Lhqh9usJrlo3giTolGfWNzrEE2G3sME-y6XBxMS3TrooGYW9b_MmZH9ff-s0",
-    "developer": "MagnetCrawler",
-    "developerId": "MagnetCrawler",
+    "title": "拼多多",
+    "appId": "com.xunmeng.pinduoduo",
+    "url": "https://play.google.com/store/apps/details?id=com.xunmeng.pinduoduo",
+    "icon": "https://play-lh.googleusercontent.com/Fc_2kZ_9IDq5tPGeHVga9JJfPryEYSEPsavqG1bfvRCb3WV1C4HwVijywU7Y090hErA",
+    "developer": "上海寻梦信息技术有限公司",
+    "developerId": "%E4%B8%8A%E6%B5%B7%E5%AF%BB%E6%A2%A6%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "It's easy to find the resources（torrent） you want.",
-    "scoreText": "4.6",
-    "score": 4.5820894
+    "summary": "It’s cheap to buy it together.",
+    "scoreText": "3.3",
+    "score": 3.315364
   },
   {
     "title": "VPN Secure - Free VPN & Hotspot VPN",
@@ -1719,7 +1705,35 @@
     "free": true,
     "summary": "the best VPN &amp; UNLIMITED 100% FREE high speed VPN Proxy on Android",
     "scoreText": "4.6",
-    "score": 4.6415524
+    "score": 4.6477275
+  },
+  {
+    "title": "Magnet Search - Torrent Search",
+    "appId": "com.content.magnetsearch",
+    "url": "https://play.google.com/store/apps/details?id=com.content.magnetsearch",
+    "icon": "https://play-lh.googleusercontent.com/_5vH4N2Lhqh9usJrlo3giTolGfWNzrEE2G3sME-y6XBxMS3TrooGYW9b_MmZH9ff-s0",
+    "developer": "MagnetCrawler",
+    "developerId": "MagnetCrawler",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "It's easy to find the resources（torrent） you want.",
+    "scoreText": "4.6",
+    "score": 4.5841584
+  },
+  {
+    "title": "Video downloader for Instagram",
+    "appId": "instasaver.instagram.video.downloader.photo",
+    "url": "https://play.google.com/store/apps/details?id=instasaver.instagram.video.downloader.photo",
+    "icon": "https://play-lh.googleusercontent.com/EeeFYrisK3DbswX2cIR0hHCRRljyNV3KyegIcKqGaJiRangMsjmLRbhXqXP1XNEWlg",
+    "developer": "Video Downloader & Video Saver",
+    "developerId": "Video+Downloader+%26+Video+Saver",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Downloader for Instagram helps to save videos from Instagram and save story.",
+    "scoreText": "4.8",
+    "score": 4.784805
   },
   {
     "title": "Weibo",
@@ -1733,7 +1747,7 @@
     "free": true,
     "summary": "Sina Weibo International Edition, Discover! Hot new stuff at your fingertips.",
     "scoreText": "3.3",
-    "score": 3.255925
+    "score": 3.2564523
   },
   {
     "title": "CloudPN - Free VPN for Chinese users",
@@ -1761,7 +1775,7 @@
     "free": true,
     "summary": "Skype for Business extends the power of Lync and Skype to your mobile device",
     "scoreText": "4.1",
-    "score": 4.125919
+    "score": 4.125674
   },
   {
     "title": "小红书 - 标记我的生活",
@@ -1775,7 +1789,21 @@
     "free": true,
     "summary": "美好生活分享社区",
     "scoreText": "4.4",
-    "score": 4.361332
+    "score": 4.3609443
+  },
+  {
+    "title": "Uplive-Live Stream, Go Live",
+    "appId": "com.asiainno.uplive",
+    "url": "https://play.google.com/store/apps/details?id=com.asiainno.uplive",
+    "icon": "https://play-lh.googleusercontent.com/v5pjTY7wbu367W3EB-qpbRSdD9B7K7GQURDddy4yEfy441-zV9NM1twYrM_CYAtAJdr0",
+    "developer": "Asia Innovations HK Limited",
+    "developerId": "Asia+Innovations+HK+Limited",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Watch live streams 24/7. Interact with others through live chat or video chat.",
+    "scoreText": "4.1",
+    "score": 4.060364
   },
   {
     "title": "Microsoft Translator",
@@ -1789,35 +1817,7 @@
     "free": true,
     "summary": "Translate text, voice, images, and conversations into 70+ languages",
     "scoreText": "4.7",
-    "score": 4.6511784
-  },
-  {
-    "title": "Video downloader for Instagram",
-    "appId": "instasaver.instagram.video.downloader.photo",
-    "url": "https://play.google.com/store/apps/details?id=instasaver.instagram.video.downloader.photo",
-    "icon": "https://play-lh.googleusercontent.com/EeeFYrisK3DbswX2cIR0hHCRRljyNV3KyegIcKqGaJiRangMsjmLRbhXqXP1XNEWlg",
-    "developer": "Video Downloader & Video Saver",
-    "developerId": "Video+Downloader+%26+Video+Saver",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Downloader for Instagram helps to save videos from Instagram and save story.",
-    "scoreText": "4.8",
-    "score": 4.7846956
-  },
-  {
-    "title": "ニコニコ動画",
-    "appId": "jp.nicovideo.android",
-    "url": "https://play.google.com/store/apps/details?id=jp.nicovideo.android",
-    "icon": "https://play-lh.googleusercontent.com/_C1KxgGIw43g2Y2G8salrswvYqkkBum5896cCrFOWkgdAxZI10efI-oQxfWRfLOBysE",
-    "developer": "株式会社ドワンゴ",
-    "developerId": "%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%89%E3%83%AF%E3%83%B3%E3%82%B4",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "More than 18 million videos in total Video service Nico Nico Douga with the app! You can enjoy videos of various genres such as live games, anime, music, and Vocaloid with comments.",
-    "scoreText": "3.5",
-    "score": 3.506839
+    "score": 4.651287
   },
   {
     "title": "AfreecaTV",
@@ -1831,21 +1831,7 @@
     "free": true,
     "summary": "Freely socialize and stream on AfreecaTV!",
     "scoreText": "3.5",
-    "score": 3.452321
-  },
-  {
-    "title": "Microsoft OneNote: Save Ideas and Organize Notes",
-    "appId": "com.microsoft.office.onenote",
-    "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.onenote",
-    "icon": "https://play-lh.googleusercontent.com/3Wr_nlhRHjIGfPd-BNUbgffLfxPPqNW8GFPscqnQ4t2aPRyKlFMuXT4yhb-PSMsHgss",
-    "developer": "Microsoft Corporation",
-    "developerId": "6720847872553662727",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Powerful notepad to capture ideas &amp; save notes. Easily organize &amp; share notes",
-    "scoreText": "4.3",
-    "score": 4.2974615
+    "score": 3.452273
   },
   {
     "title": "Via Browser - Fast & Light - Geek Best Choice",
@@ -1859,35 +1845,7 @@
     "free": true,
     "summary": "Make hard things simple.  Lite Browser with Lightning Speed &amp; Mini usage.",
     "scoreText": "4.2",
-    "score": 4.237387
-  },
-  {
-    "title": "MEEFF - Make Global Friends",
-    "appId": "com.noyesrun.meeff.kr",
-    "url": "https://play.google.com/store/apps/details?id=com.noyesrun.meeff.kr",
-    "icon": "https://play-lh.googleusercontent.com/VgE5vrT4Sl-3X2qaJFfNNqEGJcgAoYiOSN63RtjuKCh5Ki0doDDdGYqO0OE1nYW1myqz",
-    "developer": "AD(x) Inc.",
-    "developerId": "AD(x)+Inc.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "social chat",
-    "scoreText": "3.9",
-    "score": 3.918841
-  },
-  {
-    "title": "BBC News",
-    "appId": "bbc.mobile.news.ww",
-    "url": "https://play.google.com/store/apps/details?id=bbc.mobile.news.ww",
-    "icon": "https://play-lh.googleusercontent.com/Iip-8Yn3PLAzecCMb4ZaHTvFObl3ETUWZmd5zLflhbB6BXKyNc5aM4hrGAA9NXSs7i0",
-    "developer": "BBC Studios Limited",
-    "developerId": "BBC+Studios+Limited",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Download the official BBC News app for international audiences.",
-    "scoreText": "4.4",
-    "score": 4.392319
+    "score": 4.236837
   },
   {
     "title": "Microsoft Launcher",
@@ -1901,63 +1859,21 @@
     "free": true,
     "summary": "Personalize your phone and stay organized on the go.",
     "scoreText": "4.7",
-    "score": 4.67424
+    "score": 4.6740932
   },
   {
-    "title": "UC Browser-Safe, Fast, Private",
-    "appId": "com.UCMobile.intl",
-    "url": "https://play.google.com/store/apps/details?id=com.UCMobile.intl",
-    "icon": "https://play-lh.googleusercontent.com/_bWmqDaBs5MmibbqYFuwoJJotoDeB5HmjJIzup4CAYiw0gA5rSCyh6NlpKZkquWWW4U",
-    "developer": "UCWeb Singapore Pte. Ltd.",
-    "developerId": "5209823851140033458",
+    "title": "ニコニコ動画",
+    "appId": "jp.nicovideo.android",
+    "url": "https://play.google.com/store/apps/details?id=jp.nicovideo.android",
+    "icon": "https://play-lh.googleusercontent.com/_C1KxgGIw43g2Y2G8salrswvYqkkBum5896cCrFOWkgdAxZI10efI-oQxfWRfLOBysE",
+    "developer": "株式会社ドワンゴ",
+    "developerId": "%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%89%E3%83%AF%E3%83%B3%E3%82%B4",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Provides a smooth experience while surfing, downloading files or watching videos",
-    "scoreText": "3.9",
-    "score": 3.9212778
-  },
-  {
-    "title": "Pi Network",
-    "appId": "com.blockchainvault",
-    "url": "https://play.google.com/store/apps/details?id=com.blockchainvault",
-    "icon": "https://play-lh.googleusercontent.com/ItxDn_WNq3QPvuXS1jaXwujqvRobrH-hpEqbDy1iCVx0b5Z5dv9ADyfd83Dn6cDsNbE",
-    "developer": "SocialChain",
-    "developerId": "SocialChain",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "An inclusive digital currency",
-    "scoreText": "4.6",
-    "score": 4.5842013
-  },
-  {
-    "title": "Gradient: Face Beauty Editor",
-    "appId": "com.tickettothemoon.gradient.photo",
-    "url": "https://play.google.com/store/apps/details?id=com.tickettothemoon.gradient.photo",
-    "icon": "https://play-lh.googleusercontent.com/Q1ReNCyqz0hWy8_GDPKncdFkwnLOyLGC1t0Wotv7-hFWgdDi0lfUFArra94tFbEQeIo",
-    "developer": "TICKET TO THE MOON, INC.",
-    "developerId": "TICKET+TO+THE+MOON,+INC.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Tune your selfie with AI",
-    "scoreText": "4.6",
-    "score": 4.556251
-  },
-  {
-    "title": "Fake GPS location",
-    "appId": "com.lexa.fakegps",
-    "url": "https://play.google.com/store/apps/details?id=com.lexa.fakegps",
-    "icon": "https://play-lh.googleusercontent.com/0IAs5zhKgOxvlAZlzOlZN2i9gv887ppbQhaFcvqF1ygmjxDdKnNZH8aFvT7U0XV5EA",
-    "developer": "Lexa",
-    "developerId": "Lexa",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Teleport your phone to any place in the world with one click!",
-    "scoreText": "4.6",
-    "score": 4.6110244
+    "summary": "More than 18 million videos in total Video service Nico Nico Douga with the app! You can enjoy videos of various genres such as live games, anime, music, and Vocaloid with comments.",
+    "scoreText": "3.5",
+    "score": 3.5069914
   },
   {
     "title": "Pi Browser",
@@ -1971,7 +1887,77 @@
     "free": true,
     "summary": "A decentralized web experience",
     "scoreText": "4.6",
-    "score": 4.5567975
+    "score": 4.5523896
+  },
+  {
+    "title": "Microsoft OneNote: Save Ideas and Organize Notes",
+    "appId": "com.microsoft.office.onenote",
+    "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.onenote",
+    "icon": "https://play-lh.googleusercontent.com/3Wr_nlhRHjIGfPd-BNUbgffLfxPPqNW8GFPscqnQ4t2aPRyKlFMuXT4yhb-PSMsHgss",
+    "developer": "Microsoft Corporation",
+    "developerId": "6720847872553662727",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Powerful notepad to capture ideas &amp; save notes. Easily organize &amp; share notes",
+    "scoreText": "4.3",
+    "score": 4.2977076
+  },
+  {
+    "title": "Pi Network",
+    "appId": "com.blockchainvault",
+    "url": "https://play.google.com/store/apps/details?id=com.blockchainvault",
+    "icon": "https://play-lh.googleusercontent.com/ItxDn_WNq3QPvuXS1jaXwujqvRobrH-hpEqbDy1iCVx0b5Z5dv9ADyfd83Dn6cDsNbE",
+    "developer": "SocialChain",
+    "developerId": "SocialChain",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "An inclusive digital currency",
+    "scoreText": "4.6",
+    "score": 4.583434
+  },
+  {
+    "title": "MEEFF - Make Global Friends",
+    "appId": "com.noyesrun.meeff.kr",
+    "url": "https://play.google.com/store/apps/details?id=com.noyesrun.meeff.kr",
+    "icon": "https://play-lh.googleusercontent.com/VgE5vrT4Sl-3X2qaJFfNNqEGJcgAoYiOSN63RtjuKCh5Ki0doDDdGYqO0OE1nYW1myqz",
+    "developer": "AD(x) Inc.",
+    "developerId": "AD(x)+Inc.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "social chat",
+    "scoreText": "3.9",
+    "score": 3.9186482
+  },
+  {
+    "title": "Gradient: Face Beauty Editor",
+    "appId": "com.tickettothemoon.gradient.photo",
+    "url": "https://play.google.com/store/apps/details?id=com.tickettothemoon.gradient.photo",
+    "icon": "https://play-lh.googleusercontent.com/Q1ReNCyqz0hWy8_GDPKncdFkwnLOyLGC1t0Wotv7-hFWgdDi0lfUFArra94tFbEQeIo",
+    "developer": "TICKET TO THE MOON, INC.",
+    "developerId": "TICKET+TO+THE+MOON,+INC.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Tune your selfie with AI",
+    "scoreText": "4.6",
+    "score": 4.556019
+  },
+  {
+    "title": "UC Browser-Safe, Fast, Private",
+    "appId": "com.UCMobile.intl",
+    "url": "https://play.google.com/store/apps/details?id=com.UCMobile.intl",
+    "icon": "https://play-lh.googleusercontent.com/_bWmqDaBs5MmibbqYFuwoJJotoDeB5HmjJIzup4CAYiw0gA5rSCyh6NlpKZkquWWW4U",
+    "developer": "UCWeb Singapore Pte. Ltd.",
+    "developerId": "5209823851140033458",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Provides a smooth experience while surfing, downloading files or watching videos",
+    "scoreText": "3.9",
+    "score": 3.9213119
   },
   {
     "title": "PixEz flutter(Pixiv第三方)",
@@ -1988,6 +1974,34 @@
     "score": 4.7956204
   },
   {
+    "title": "BBC News",
+    "appId": "bbc.mobile.news.ww",
+    "url": "https://play.google.com/store/apps/details?id=bbc.mobile.news.ww",
+    "icon": "https://play-lh.googleusercontent.com/Iip-8Yn3PLAzecCMb4ZaHTvFObl3ETUWZmd5zLflhbB6BXKyNc5aM4hrGAA9NXSs7i0",
+    "developer": "BBC Studios Limited",
+    "developerId": "BBC+Studios+Limited",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Download the official BBC News app for international audiences.",
+    "scoreText": "4.4",
+    "score": 4.392378
+  },
+  {
+    "title": "Fake GPS location",
+    "appId": "com.lexa.fakegps",
+    "url": "https://play.google.com/store/apps/details?id=com.lexa.fakegps",
+    "icon": "https://play-lh.googleusercontent.com/0IAs5zhKgOxvlAZlzOlZN2i9gv887ppbQhaFcvqF1ygmjxDdKnNZH8aFvT7U0XV5EA",
+    "developer": "Lexa",
+    "developerId": "Lexa",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Teleport your phone to any place in the world with one click!",
+    "scoreText": "4.6",
+    "score": 4.610882
+  },
+  {
     "title": "Tantan",
     "appId": "com.p1.mobile.putong",
     "url": "https://play.google.com/store/apps/details?id=com.p1.mobile.putong",
@@ -1999,35 +2013,7 @@
     "free": true,
     "summary": "Get to know interesting people around you and find your perfect match.",
     "scoreText": "4.3",
-    "score": 4.2900496
-  },
-  {
-    "title": "ReadEra - book reader pdf, epub, word",
-    "appId": "org.readera",
-    "url": "https://play.google.com/store/apps/details?id=org.readera",
-    "icon": "https://play-lh.googleusercontent.com/qw8lAHXaZodAE4c3D1Jkia3V8Np-PxTnyQpUIx439ibABba0L50TVKI4jfY4N4QwzAA",
-    "developer": "READERA LLC",
-    "developerId": "7884016305306450409",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Read books PDF, EPUB, WORD, KINDLE, MOBI! Your ebook reader among reading apps.",
-    "scoreText": "4.9",
-    "score": 4.8529015
-  },
-  {
-    "title": "Uplive-Live Stream, Go Live",
-    "appId": "com.asiainno.uplive",
-    "url": "https://play.google.com/store/apps/details?id=com.asiainno.uplive",
-    "icon": "https://play-lh.googleusercontent.com/v5pjTY7wbu367W3EB-qpbRSdD9B7K7GQURDddy4yEfy441-zV9NM1twYrM_CYAtAJdr0",
-    "developer": "Asia Innovations HK Limited",
-    "developerId": "Asia+Innovations+HK+Limited",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Watch live streams 24/7. Interact with others through live chat or video chat.",
-    "scoreText": "4.1",
-    "score": 4.0606728
+    "score": 4.290112
   },
   {
     "title": "Home Workout - No Equipment",
@@ -2041,7 +2027,21 @@
     "free": true,
     "summary": "Home workouts for fitness &amp; fast bodybuilding at home - no equipment needed.",
     "scoreText": "4.9",
-    "score": 4.9002376
+    "score": 4.900347
+  },
+  {
+    "title": "知乎",
+    "appId": "com.zhihu.android",
+    "url": "https://play.google.com/store/apps/details?id=com.zhihu.android",
+    "icon": "https://play-lh.googleusercontent.com/9VnaS24lBlvuUkKiIg4rNdFb6d5UcYpOI17vun8l7VbHkry-jbpnJmsjfIVahGkEklE",
+    "developer": "Zhihu Inc.",
+    "developerId": "Zhihu+Inc.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "If there is a question, there will be an answer",
+    "scoreText": "2.5",
+    "score": 2.489337
   },
   {
     "title": "µTorrent®- Torrent Downloader",
@@ -2055,49 +2055,21 @@
     "free": true,
     "summary": "#1 Torrent App for Android. The Official uTorrent App for Phones.",
     "scoreText": "4.6",
-    "score": 4.5607743
+    "score": 4.560704
   },
   {
-    "title": "Video Player All Format",
-    "appId": "video.player.videoplayer",
-    "url": "https://play.google.com/store/apps/details?id=video.player.videoplayer",
-    "icon": "https://play-lh.googleusercontent.com/zLPDAeTG-HOJ_TOz4ZtyiFFwc2WgGdtJOfFJ02iV6oBQWHWh7CH4Lu97wjxHvSbh7w",
-    "developer": "InShot Inc.",
-    "developerId": "InShot+Inc.",
+    "title": "ReadEra - book reader pdf, epub, word",
+    "appId": "org.readera",
+    "url": "https://play.google.com/store/apps/details?id=org.readera",
+    "icon": "https://play-lh.googleusercontent.com/qw8lAHXaZodAE4c3D1Jkia3V8Np-PxTnyQpUIx439ibABba0L50TVKI4jfY4N4QwzAA",
+    "developer": "READERA LLC",
+    "developerId": "7884016305306450409",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Support ALL video formats, 4K &amp; HD, private folder, Chromecast, Background Play.",
-    "scoreText": "4.8",
-    "score": 4.7743087
-  },
-  {
-    "title": "高德地图",
-    "appId": "com.autonavi.minimap",
-    "url": "https://play.google.com/store/apps/details?id=com.autonavi.minimap",
-    "icon": "https://play-lh.googleusercontent.com/l3jypy2cfNXc6R3vWstSgWHqZz-WKn5K3HyDSjDehwoh8rrsXan1byG45TQzDTkZ3azG",
-    "developer": "高德软件",
-    "developerId": "%E9%AB%98%E5%BE%B7%E8%BD%AF%E4%BB%B6",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Mobile Life Location Service Portal",
-    "scoreText": "3.3",
-    "score": 3.3426776
-  },
-  {
-    "title": "VPN free & secure fast proxy shield by GOVPN",
-    "appId": "com.free.vpn.turbo.fast.secure.govpn",
-    "url": "https://play.google.com/store/apps/details?id=com.free.vpn.turbo.fast.secure.govpn",
-    "icon": "https://play-lh.googleusercontent.com/s1RwHh94O5HkHLWOBUDp-y-hFxOjytnlA_R422bXA8ZEieOTQptDiFf1PEwGtdCitGY",
-    "developer": "GOVPN",
-    "developerId": "GOVPN",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "free VPN for safe web browsing. Unlimited, no cost proxy",
-    "scoreText": "4.6",
-    "score": 4.5847673
+    "summary": "Read books PDF, EPUB, WORD, KINDLE, MOBI! Your ebook reader among reading apps.",
+    "scoreText": "4.9",
+    "score": 4.852807
   },
   {
     "title": "Onflix - Netflix Ratings & Updates",
@@ -2114,60 +2086,46 @@
     "score": 3.9384615
   },
   {
-    "title": "知乎",
-    "appId": "com.zhihu.android",
-    "url": "https://play.google.com/store/apps/details?id=com.zhihu.android",
-    "icon": "https://play-lh.googleusercontent.com/9VnaS24lBlvuUkKiIg4rNdFb6d5UcYpOI17vun8l7VbHkry-jbpnJmsjfIVahGkEklE",
-    "developer": "Zhihu Inc.",
-    "developerId": "Zhihu+Inc.",
+    "title": "高德地图",
+    "appId": "com.autonavi.minimap",
+    "url": "https://play.google.com/store/apps/details?id=com.autonavi.minimap",
+    "icon": "https://play-lh.googleusercontent.com/l3jypy2cfNXc6R3vWstSgWHqZz-WKn5K3HyDSjDehwoh8rrsXan1byG45TQzDTkZ3azG",
+    "developer": "高德软件",
+    "developerId": "%E9%AB%98%E5%BE%B7%E8%BD%AF%E4%BB%B6",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "If there is a question, there will be an answer",
-    "scoreText": "2.5",
-    "score": 2.4904928
+    "summary": "Mobile Life Location Service Portal",
+    "scoreText": "3.3",
+    "score": 3.338983
   },
   {
-    "title": "TED",
-    "appId": "com.ted.android",
-    "url": "https://play.google.com/store/apps/details?id=com.ted.android",
-    "icon": "https://play-lh.googleusercontent.com/rcI6L8JBagw27bBiS-sjTAxdurhdf-bWLcTQVH6gjYHym3Nf0VOhyzOdzaEYM9NTBXxk",
-    "developer": "TED Conferences LLC",
-    "developerId": "4835355749321943317",
+    "title": "VPN free & secure fast proxy shield by GOVPN",
+    "appId": "com.free.vpn.turbo.fast.secure.govpn",
+    "url": "https://play.google.com/store/apps/details?id=com.free.vpn.turbo.fast.secure.govpn",
+    "icon": "https://play-lh.googleusercontent.com/s1RwHh94O5HkHLWOBUDp-y-hFxOjytnlA_R422bXA8ZEieOTQptDiFf1PEwGtdCitGY",
+    "developer": "GOVPN",
+    "developerId": "GOVPN",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Inspiring talks by remarkable people, accessible to anyone",
-    "scoreText": "4.4",
-    "score": 4.3833413
+    "summary": "free VPN for safe web browsing. Unlimited, no cost proxy",
+    "scoreText": "4.6",
+    "score": 4.5814247
   },
   {
-    "title": "Breaking News: Local & Alerts",
-    "appId": "ma.safe.bn",
-    "url": "https://play.google.com/store/apps/details?id=ma.safe.bn",
-    "icon": "https://play-lh.googleusercontent.com/blO52aLoIwSmO6mYe7cL2ZxV6zhPDC7--AdpcSkVrpPaeZJouPrbaD6Iz51VNdmu9Vc",
-    "developer": "SAFE APPS",
-    "developerId": "7893226527422530588",
+    "title": "Video Player All Format",
+    "appId": "video.player.videoplayer",
+    "url": "https://play.google.com/store/apps/details?id=video.player.videoplayer",
+    "icon": "https://play-lh.googleusercontent.com/zLPDAeTG-HOJ_TOz4ZtyiFFwc2WgGdtJOfFJ02iV6oBQWHWh7CH4Lu97wjxHvSbh7w",
+    "developer": "InShot Inc.",
+    "developerId": "InShot+Inc.",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Never miss local or Breaking news anymore. Join conversations, share your ideas.",
-    "scoreText": "4.5",
-    "score": 4.5089335
-  },
-  {
-    "title": "PrivadoVPN - Fast & Secure VPN",
-    "appId": "io.privado.android",
-    "url": "https://play.google.com/store/apps/details?id=io.privado.android",
-    "icon": "https://play-lh.googleusercontent.com/zUFTsPHIH1bakhaTNioeKc2bXkp_5dZlULq7NLb10xMefXFB1_qko70yNyW_pR2cIA",
-    "developer": "Privado Networks",
-    "developerId": "5357428927169080690",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "PrivadoVPN is a Zero-Log VPN with the fastest, most secure service.",
-    "scoreText": "4.1",
-    "score": 4.1363635
+    "summary": "Support ALL video formats, 4K &amp; HD, private folder, Chromecast, Background Play.",
+    "scoreText": "4.8",
+    "score": 4.774318
   },
   {
     "title": "Stellarium Mobile - Star Map",
@@ -2181,49 +2139,7 @@
     "free": true,
     "summary": "A realistic sky map to observe stars, planets, satellites and constellations!",
     "scoreText": "4.7",
-    "score": 4.723016
-  },
-  {
-    "title": "Video Downloader for Instagram",
-    "appId": "instagram.video.downloader.story.saver",
-    "url": "https://play.google.com/store/apps/details?id=instagram.video.downloader.story.saver",
-    "icon": "https://play-lh.googleusercontent.com/SG6H2V6wOqMRPN-Vu_v9uQJgrLjzboME9pQvhJMWixsP1aotaiui21x0UGQM87t-3LQ",
-    "developer": "ETM Video Downloader",
-    "developerId": "ETM+Video+Downloader",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "This app helps save Instagram video and photos from Instagram feed and IG story",
-    "scoreText": "4.8",
-    "score": 4.830736
-  },
-  {
-    "title": "Photoshop Express Photo Editor",
-    "appId": "com.adobe.psmobile",
-    "url": "https://play.google.com/store/apps/details?id=com.adobe.psmobile",
-    "icon": "https://play-lh.googleusercontent.com/JqLqNGQ1z1gpBJ1QiWw1xqj18A1iDUoMPg9y_htBM5o-jLN_TOkbZqU2XcLN7jiLgQ",
-    "developer": "Adobe",
-    "developerId": "4734916851270416020",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Quickly and easily edit photos on the go with Photoshop Express.",
-    "scoreText": "4.4",
-    "score": 4.365225
-  },
-  {
-    "title": "imToken: Crypto & DeFi Wallet",
-    "appId": "im.token.app",
-    "url": "https://play.google.com/store/apps/details?id=im.token.app",
-    "icon": "https://play-lh.googleusercontent.com/URWnNCpBu_Agtyxw0kc1JfdVIfj-GuHwplo9PBdRpqXnC8qTOZkEQCDfH7asv3RcOw",
-    "developer": "IMTOKEN PTE.LTD.",
-    "developerId": "IMTOKEN+PTE.LTD.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Your Crypto Wallet for Bitcoin, Ethereum to hold NFTs and trade on DeFi, Tron",
-    "scoreText": "3.4",
-    "score": 3.4071589
+    "score": 4.7216945
   },
   {
     "title": "OpenSea: NFT marketplace",
@@ -2237,35 +2153,49 @@
     "free": true,
     "summary": "Discover, collect, and sell NFTs on the largest NFT marketplace",
     "scoreText": "4.1",
-    "score": 4.0809107
+    "score": 4.081888
   },
   {
-    "title": "Tandem: Language exchange",
-    "appId": "net.tandem",
-    "url": "https://play.google.com/store/apps/details?id=net.tandem",
-    "icon": "https://play-lh.googleusercontent.com/59HnspVYAgoSKOLDQtH8rAOOX0q7GOBINYj_tgZAdIdpFtwzOslIwa6x-V67NV-Kyw",
-    "developer": "Tripod Technology GmbH",
-    "developerId": "Tripod+Technology+GmbH",
+    "title": "TED",
+    "appId": "com.ted.android",
+    "url": "https://play.google.com/store/apps/details?id=com.ted.android",
+    "icon": "https://play-lh.googleusercontent.com/rcI6L8JBagw27bBiS-sjTAxdurhdf-bWLcTQVH6gjYHym3Nf0VOhyzOdzaEYM9NTBXxk",
+    "developer": "TED Conferences LLC",
+    "developerId": "4835355749321943317",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Learn 300+ languages and practice with a community of 15 million native speakers",
+    "summary": "Inspiring talks by remarkable people, accessible to anyone",
     "scoreText": "4.4",
-    "score": 4.4147053
+    "score": 4.3830557
   },
   {
-    "title": "MySOS",
-    "appId": "net.allm.mysos",
-    "url": "https://play.google.com/store/apps/details?id=net.allm.mysos",
-    "icon": "https://play-lh.googleusercontent.com/DgLxSUhIH5zAHDrqkRSUDluoHhgTqxx6qdKwp1CW2incFZp6uxJ8s7gSA3aAr770YgyU",
-    "developer": "Allm Inc.",
-    "developerId": "Allm+Inc.",
+    "title": "Breaking News: Local & Alerts",
+    "appId": "ma.safe.bn",
+    "url": "https://play.google.com/store/apps/details?id=ma.safe.bn",
+    "icon": "https://play-lh.googleusercontent.com/blO52aLoIwSmO6mYe7cL2ZxV6zhPDC7--AdpcSkVrpPaeZJouPrbaD6Iz51VNdmu9Vc",
+    "developer": "SAFE APPS",
+    "developerId": "7893226527422530588",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "\"MySOS\" is life-saving and emergency services.",
-    "scoreText": "2.7",
-    "score": 2.6893203
+    "summary": "Never miss local or Breaking news anymore. Join conversations, share your ideas.",
+    "scoreText": "4.5",
+    "score": 4.5088277
+  },
+  {
+    "title": "豆瓣",
+    "appId": "com.douban.frodo",
+    "url": "https://play.google.com/store/apps/details?id=com.douban.frodo",
+    "icon": "https://play-lh.googleusercontent.com/wq_uYqchjgPJ-JogCFcA0hrSL_qIggRwmU3GICto_Kq6Qo1PTeeD4zq2yIs6TJJm_Q",
+    "developer": "北京豆网科技有限公司",
+    "developerId": "%E5%8C%97%E4%BA%AC%E8%B1%86%E7%BD%91%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Interesting and diverse cultural life community",
+    "scoreText": "3.4",
+    "score": 3.4334571
   },
   {
     "title": "Device ID",
@@ -2282,46 +2212,32 @@
     "score": 4.8
   },
   {
-    "title": "豆瓣",
-    "appId": "com.douban.frodo",
-    "url": "https://play.google.com/store/apps/details?id=com.douban.frodo",
-    "icon": "https://play-lh.googleusercontent.com/wq_uYqchjgPJ-JogCFcA0hrSL_qIggRwmU3GICto_Kq6Qo1PTeeD4zq2yIs6TJJm_Q",
-    "developer": "北京豆网科技有限公司",
-    "developerId": "%E5%8C%97%E4%BA%AC%E8%B1%86%E7%BD%91%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8",
+    "title": "PrivadoVPN - Fast & Secure VPN",
+    "appId": "io.privado.android",
+    "url": "https://play.google.com/store/apps/details?id=io.privado.android",
+    "icon": "https://play-lh.googleusercontent.com/zUFTsPHIH1bakhaTNioeKc2bXkp_5dZlULq7NLb10xMefXFB1_qko70yNyW_pR2cIA",
+    "developer": "Privado Networks",
+    "developerId": "5357428927169080690",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Interesting and diverse cultural life community",
-    "scoreText": "3.4",
-    "score": 3.4341028
+    "summary": "PrivadoVPN is a Zero-Log VPN with the fastest, most secure service.",
+    "scoreText": "4.1",
+    "score": 4.1059604
   },
   {
-    "title": "HK Radio 香港收音機 - Chinese Radio",
-    "appId": "com.likelylabs.hkradio",
-    "url": "https://play.google.com/store/apps/details?id=com.likelylabs.hkradio",
-    "icon": "https://play-lh.googleusercontent.com/dWjqNeRsy8PxgYM95Z0JDef2g62jHbSEEmpRSmKSK0m6_AH7tFQ24ZULLWPJuh08H_Mf",
-    "developer": "Likely Labs",
-    "developerId": "Likely+Labs",
+    "title": "Video Downloader for Instagram",
+    "appId": "instagram.video.downloader.story.saver",
+    "url": "https://play.google.com/store/apps/details?id=instagram.video.downloader.story.saver",
+    "icon": "https://play-lh.googleusercontent.com/SG6H2V6wOqMRPN-Vu_v9uQJgrLjzboME9pQvhJMWixsP1aotaiui21x0UGQM87t-3LQ",
+    "developer": "ETM Video Downloader",
+    "developerId": "ETM+Video+Downloader",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Listen live to Chinese radio stations around the world - 24小時全天候收聽全球各地的粵語華語電台",
-    "scoreText": "4.5",
-    "score": 4.4925194
-  },
-  {
-    "title": "Formula 1®",
-    "appId": "com.softpauer.f1timingapp2014.basic",
-    "url": "https://play.google.com/store/apps/details?id=com.softpauer.f1timingapp2014.basic",
-    "icon": "https://play-lh.googleusercontent.com/lpfApTJxj24VQnWUxxEEMDHKnvax1mpOuxasHXepOXccBH94DlX1ECLDoqgPTwp4JUk",
-    "developer": "Formula One Digital Media Limited",
-    "developerId": "Formula+One+Digital+Media+Limited",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Never miss a moment with the F1® App: all the news, videos and timings.",
-    "scoreText": "4.4",
-    "score": 4.398706
+    "summary": "This app helps save Instagram video and photos from Instagram feed and IG story",
+    "scoreText": "4.8",
+    "score": 4.8310533
   },
   {
     "title": "Viber - Safe Chats And Calls",
@@ -2335,21 +2251,49 @@
     "free": true,
     "summary": "Enjoy secure messaging video and audio calls no matter where you’re calling",
     "scoreText": "4.4",
-    "score": 4.3824034
+    "score": 4.3824267
   },
   {
-    "title": "Spotistats for Spotify",
-    "appId": "dev.netlob.spotistats",
-    "url": "https://play.google.com/store/apps/details?id=dev.netlob.spotistats",
-    "icon": "https://play-lh.googleusercontent.com/OO06tTnQyEckM3dUDbHqmWXpI-7IbYlodDxVR7L4buzOX6KQvAeTJEV_Q45cznM63mJ-",
-    "developer": "Sjoerd",
-    "developerId": "8596493465287119793",
+    "title": "HK Radio 香港收音機 - Chinese Radio",
+    "appId": "com.likelylabs.hkradio",
+    "url": "https://play.google.com/store/apps/details?id=com.likelylabs.hkradio",
+    "icon": "https://play-lh.googleusercontent.com/dWjqNeRsy8PxgYM95Z0JDef2g62jHbSEEmpRSmKSK0m6_AH7tFQ24ZULLWPJuh08H_Mf",
+    "developer": "Likely Labs",
+    "developerId": "Likely+Labs",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Gain into your Spotify! View your top tracks, artists, albums and much more!",
-    "scoreText": "4.6",
-    "score": 4.603918
+    "summary": "Listen live to Chinese radio stations around the world - 24小時全天候收聽全球各地的粵語華語電台",
+    "scoreText": "4.5",
+    "score": 4.490149
+  },
+  {
+    "title": "imToken: Crypto & DeFi Wallet",
+    "appId": "im.token.app",
+    "url": "https://play.google.com/store/apps/details?id=im.token.app",
+    "icon": "https://play-lh.googleusercontent.com/URWnNCpBu_Agtyxw0kc1JfdVIfj-GuHwplo9PBdRpqXnC8qTOZkEQCDfH7asv3RcOw",
+    "developer": "IMTOKEN PTE.LTD.",
+    "developerId": "IMTOKEN+PTE.LTD.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Your Crypto Wallet for Bitcoin, Ethereum to hold NFTs and trade on DeFi, Tron",
+    "scoreText": "3.4",
+    "score": 3.3964365
+  },
+  {
+    "title": "MySOS",
+    "appId": "net.allm.mysos",
+    "url": "https://play.google.com/store/apps/details?id=net.allm.mysos",
+    "icon": "https://play-lh.googleusercontent.com/DgLxSUhIH5zAHDrqkRSUDluoHhgTqxx6qdKwp1CW2incFZp6uxJ8s7gSA3aAr770YgyU",
+    "developer": "Allm Inc.",
+    "developerId": "Allm+Inc.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "\"MySOS\" is life-saving and emergency services.",
+    "scoreText": "2.7",
+    "score": 2.6699028
   },
   {
     "title": "Files by Google",
@@ -2363,7 +2307,21 @@
     "free": true,
     "summary": "Clean up your phone, find files fast &amp; share files offline",
     "scoreText": "4.6",
-    "score": 4.594944
+    "score": 4.594858
+  },
+  {
+    "title": "Tandem: Language exchange",
+    "appId": "net.tandem",
+    "url": "https://play.google.com/store/apps/details?id=net.tandem",
+    "icon": "https://play-lh.googleusercontent.com/59HnspVYAgoSKOLDQtH8rAOOX0q7GOBINYj_tgZAdIdpFtwzOslIwa6x-V67NV-Kyw",
+    "developer": "Tripod Technology GmbH",
+    "developerId": "Tripod+Technology+GmbH",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Learn 300+ languages and practice with a community of 15 million native speakers",
+    "scoreText": "4.4",
+    "score": 4.414475
   },
   {
     "title": "巴哈姆特動畫瘋",
@@ -2377,7 +2335,35 @@
     "free": true,
     "summary": "Bahamute launch of genuine free animation platform that provides updated simultaneously with the Japanese anime of the season!",
     "scoreText": "4.7",
-    "score": 4.691294
+    "score": 4.6911097
+  },
+  {
+    "title": "Formula 1®",
+    "appId": "com.softpauer.f1timingapp2014.basic",
+    "url": "https://play.google.com/store/apps/details?id=com.softpauer.f1timingapp2014.basic",
+    "icon": "https://play-lh.googleusercontent.com/lpfApTJxj24VQnWUxxEEMDHKnvax1mpOuxasHXepOXccBH94DlX1ECLDoqgPTwp4JUk",
+    "developer": "Formula One Digital Media Limited",
+    "developerId": "Formula+One+Digital+Media+Limited",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Never miss a moment with the F1® App: all the news, videos and timings.",
+    "scoreText": "4.4",
+    "score": 4.397947
+  },
+  {
+    "title": "Spotistats for Spotify",
+    "appId": "dev.netlob.spotistats",
+    "url": "https://play.google.com/store/apps/details?id=dev.netlob.spotistats",
+    "icon": "https://play-lh.googleusercontent.com/OO06tTnQyEckM3dUDbHqmWXpI-7IbYlodDxVR7L4buzOX6KQvAeTJEV_Q45cznM63mJ-",
+    "developer": "Sjoerd",
+    "developerId": "8596493465287119793",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Gain into your Spotify! View your top tracks, artists, albums and much more!",
+    "scoreText": "4.6",
+    "score": 4.6027756
   },
   {
     "title": "HelloTalk - Learn Languages",
@@ -2391,7 +2377,49 @@
     "free": true,
     "summary": "Language learning app, language exchange by chatting with native speakers!",
     "scoreText": "4.3",
-    "score": 4.3339148
+    "score": 4.333704
+  },
+  {
+    "title": "Photoshop Express Photo Editor",
+    "appId": "com.adobe.psmobile",
+    "url": "https://play.google.com/store/apps/details?id=com.adobe.psmobile",
+    "icon": "https://play-lh.googleusercontent.com/JqLqNGQ1z1gpBJ1QiWw1xqj18A1iDUoMPg9y_htBM5o-jLN_TOkbZqU2XcLN7jiLgQ",
+    "developer": "Adobe",
+    "developerId": "4734916851270416020",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Quickly and easily edit photos on the go with Photoshop Express.",
+    "scoreText": "4.4",
+    "score": 4.365164
+  },
+  {
+    "title": "Google Calendar",
+    "appId": "com.google.android.calendar",
+    "url": "https://play.google.com/store/apps/details?id=com.google.android.calendar",
+    "icon": "https://play-lh.googleusercontent.com/Jsbb0EeesKUbDTl3UyDKO6sNz45RCMh7gnoI6giQcQz1f5Mj0J4TRh7Psyu53vShh-qm",
+    "developer": "Google LLC",
+    "developerId": "5700313618786177705",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Always know what’s next with Google Calendar, part of Google Workspace.",
+    "scoreText": "4.3",
+    "score": 4.2896276
+  },
+  {
+    "title": "SnapTik - Tiktok Downloader",
+    "appId": "com.video.downloader.snapx",
+    "url": "https://play.google.com/store/apps/details?id=com.video.downloader.snapx",
+    "icon": "https://play-lh.googleusercontent.com/PCx7DEwPmOOGQXb-2TTG2M0tONImLtxjDzaSOQ6J43glhbPGnjje201hO5fAcMv61g",
+    "developer": "SnapTik Video Downloader",
+    "developerId": "5834742616895713729",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Video downloader no watermark for TikTok, Instagram, Facebook, Twitter.",
+    "scoreText": "4.8",
+    "score": 4.756333
   },
   {
     "title": "BitComet - Download Torrent or HTTP",
@@ -2419,77 +2447,7 @@
     "free": true,
     "summary": "When you want to know what’s happening, tap into the global news power of CNN.",
     "scoreText": "4.6",
-    "score": 4.6208878
-  },
-  {
-    "title": "SnapTik - Tiktok Downloader",
-    "appId": "com.video.downloader.snapx",
-    "url": "https://play.google.com/store/apps/details?id=com.video.downloader.snapx",
-    "icon": "https://play-lh.googleusercontent.com/PCx7DEwPmOOGQXb-2TTG2M0tONImLtxjDzaSOQ6J43glhbPGnjje201hO5fAcMv61g",
-    "developer": "SnapTik Video Downloader",
-    "developerId": "5834742616895713729",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Video downloader no watermark for TikTok, Instagram, Facebook, Twitter.",
-    "scoreText": "4.8",
-    "score": 4.7569857
-  },
-  {
-    "title": "Brave Private Web Browser",
-    "appId": "com.brave.browser",
-    "url": "https://play.google.com/store/apps/details?id=com.brave.browser",
-    "icon": "https://play-lh.googleusercontent.com/I1foi2Irrv7tW9ee9kgP0wfnMzaVb6y17muvpKsFcUrKYsDlmCyWuTRh5m93KJZ24dY",
-    "developer": "Brave Software",
-    "developerId": "Brave+Software",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Fast internet, secure web browser, incognito search engine with pop-up blocker.",
-    "scoreText": "4.6",
-    "score": 4.6229277
-  },
-  {
-    "title": "CamScanner - PDF Scanner App",
-    "appId": "com.intsig.camscanner",
-    "url": "https://play.google.com/store/apps/details?id=com.intsig.camscanner",
-    "icon": "https://play-lh.googleusercontent.com/eWYNxjXiub6-HqtwoS2d4bl-NkqcKgOHansSnXXqje8-K9XLRwflOgEYwSzPMicdAA",
-    "developer": "CamSoft Information",
-    "developerId": "CamSoft+Information",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Scan paperwork into PDF/JPG, generate your own e-signature and send fax or email",
-    "scoreText": "4.8",
-    "score": 4.803698
-  },
-  {
-    "title": "Google Calendar",
-    "appId": "com.google.android.calendar",
-    "url": "https://play.google.com/store/apps/details?id=com.google.android.calendar",
-    "icon": "https://play-lh.googleusercontent.com/Jsbb0EeesKUbDTl3UyDKO6sNz45RCMh7gnoI6giQcQz1f5Mj0J4TRh7Psyu53vShh-qm",
-    "developer": "Google LLC",
-    "developerId": "5700313618786177705",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Always know what’s next with Google Calendar, part of Google Workspace.",
-    "scoreText": "4.3",
-    "score": 4.2897415
-  },
-  {
-    "title": "KMPlayer - All Video Player",
-    "appId": "com.kmplayer",
-    "url": "https://play.google.com/store/apps/details?id=com.kmplayer",
-    "icon": "https://play-lh.googleusercontent.com/c50C3ph3Sm4u4NtSzp1f5dp4_-8KOy-Xj0fMKnI9noJ5Q0s9XKzElgDXgMZ-_5Il7Usq",
-    "developer": "PANDORA.TV",
-    "developerId": "7605759772428498531",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Plays many videos flawlessly. HD, FHD, UHD, 4K, 8K - Support all format files",
-    "scoreText": "4.2",
-    "score": 4.161562
+    "score": 4.621332
   },
   {
     "title": "RAR",
@@ -2503,63 +2461,21 @@
     "free": true,
     "summary": "Create RAR and ZIP, unpack RAR, ZIP, TAR, GZ, BZ2, XZ, 7z, ISO, ARJ archives.",
     "scoreText": "4.4",
-    "score": 4.371647
+    "score": 4.3713226
   },
   {
-    "title": "Video Downloader for TikTok",
-    "appId": "tiktok.tiktokvideodownloader.savetiktokvideo.nowatermark",
-    "url": "https://play.google.com/store/apps/details?id=tiktok.tiktokvideodownloader.savetiktokvideo.nowatermark",
-    "icon": "https://play-lh.googleusercontent.com/1ozFbZNZSc_yXv6uaHpKN_X56pcD1Osh5CRJmwPyfFflWL51uG7fstZfxxRPQ3xFCcUf",
-    "developer": "Black Technology Tools",
-    "developerId": "Black+Technology+Tools",
+    "title": "Brave Private Web Browser",
+    "appId": "com.brave.browser",
+    "url": "https://play.google.com/store/apps/details?id=com.brave.browser",
+    "icon": "https://play-lh.googleusercontent.com/I1foi2Irrv7tW9ee9kgP0wfnMzaVb6y17muvpKsFcUrKYsDlmCyWuTRh5m93KJZ24dY",
+    "developer": "Brave Software",
+    "developerId": "Brave+Software",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Video Downloader for TikTok with no watermark, share favorite video to friends.",
+    "summary": "Fast internet, secure web browser, incognito search engine with pop-up blocker.",
     "scoreText": "4.6",
-    "score": 4.55
-  },
-  {
-    "title": "Shadowsocks",
-    "appId": "com.github.shadowsocks",
-    "url": "https://play.google.com/store/apps/details?id=com.github.shadowsocks",
-    "icon": "https://play-lh.googleusercontent.com/ZfcrP3bgiRW3Yx1lyFY0SgD65K3bRGzkcjSnr9g2-wSlKDCmqTsZSaFMtDWxKM5vSMN6",
-    "developer": "Max Lv",
-    "developerId": "Max+Lv",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Shadowsocks: a secure socks5 proxy.",
-    "scoreText": "4.0",
-    "score": 3.9523737
-  },
-  {
-    "title": "Lose Weight App for Men",
-    "appId": "menloseweight.loseweightappformen.weightlossformen",
-    "url": "https://play.google.com/store/apps/details?id=menloseweight.loseweightappformen.weightlossformen",
-    "icon": "https://play-lh.googleusercontent.com/ZC_z7M7rdlKutl8hOiXcNKBSxwnPnbTWG_QsBfnhfIAVsVAB6WjWGYgZ3qXHy1N5XEM",
-    "developer": "Leap Fitness Group",
-    "developerId": "Leap+Fitness+Group",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Lose Weight and Burn Belly Fat at home with workout for men in 30 days.",
-    "scoreText": "4.9",
-    "score": 4.9164424
-  },
-  {
-    "title": "Seagull VPN-Easy and reliable!",
-    "appId": "tool.seagull.v",
-    "url": "https://play.google.com/store/apps/details?id=tool.seagull.v",
-    "icon": "https://play-lh.googleusercontent.com/9QJymX68rz9KMsuySHHK8lQ-pfCXgNhGdfSiF9Q8ZKrYqffKyuv_TZWDNdB56fkTHiA",
-    "developer": "service365",
-    "developerId": "service365",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Seagull VPN provides dozens of servers from global and it's free forever!",
-    "scoreText": "4.6",
-    "score": 4.583181
+    "score": 4.6220484
   },
   {
     "title": "Windscribe VPN",
@@ -2573,35 +2489,21 @@
     "free": true,
     "summary": "Free VPN that unblocks geo-restricted content and eliminates tracking.",
     "scoreText": "4.2",
-    "score": 4.197205
+    "score": 4.1974297
   },
   {
-    "title": "Atlas VPN: Secure & Fast Proxy",
-    "appId": "com.atlasvpn.free.android.proxy.secure",
-    "url": "https://play.google.com/store/apps/details?id=com.atlasvpn.free.android.proxy.secure",
-    "icon": "https://play-lh.googleusercontent.com/55vEiIJdUbBeGT9z4Gm40CRzN1xt_z5m2uw8LK4DaQV-QfpSzexTV22fGic39kPJfUQ",
-    "developer": "Atlas VPN",
-    "developerId": "6507867121064427148",
+    "title": "Shadowsocks",
+    "appId": "com.github.shadowsocks",
+    "url": "https://play.google.com/store/apps/details?id=com.github.shadowsocks",
+    "icon": "https://play-lh.googleusercontent.com/ZfcrP3bgiRW3Yx1lyFY0SgD65K3bRGzkcjSnr9g2-wSlKDCmqTsZSaFMtDWxKM5vSMN6",
+    "developer": "Max Lv",
+    "developerId": "Max+Lv",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Change your IP, encrypt traffic and unblock content with safe &amp; no ad VPN tunnel",
-    "scoreText": "4.6",
-    "score": 4.5626297
-  },
-  {
-    "title": "Mi Home",
-    "appId": "com.xiaomi.smarthome",
-    "url": "https://play.google.com/store/apps/details?id=com.xiaomi.smarthome",
-    "icon": "https://play-lh.googleusercontent.com/ryMAPbVAuWWLHBiOy4s6khTjyx87pIwLqMc9Yikuv2cm1m6VlrlsjX9XKEV9RZk8iCCl",
-    "developer": "Xiaomi Inc.",
-    "developerId": "5113340212256272297",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Mi Home is the official Android app for Xiaomi Home.",
-    "scoreText": "4.4",
-    "score": 4.434362
+    "summary": "Shadowsocks: a secure socks5 proxy.",
+    "scoreText": "4.0",
+    "score": 3.95182
   },
   {
     "title": "BBC Learning English",
@@ -2615,7 +2517,63 @@
     "free": true,
     "summary": "Learn English with the official BBC Learning English app!",
     "scoreText": "4.4",
-    "score": 4.405488
+    "score": 4.399757
+  },
+  {
+    "title": "KMPlayer - All Video Player",
+    "appId": "com.kmplayer",
+    "url": "https://play.google.com/store/apps/details?id=com.kmplayer",
+    "icon": "https://play-lh.googleusercontent.com/c50C3ph3Sm4u4NtSzp1f5dp4_-8KOy-Xj0fMKnI9noJ5Q0s9XKzElgDXgMZ-_5Il7Usq",
+    "developer": "PANDORA.TV",
+    "developerId": "7605759772428498531",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Plays many videos flawlessly. HD, FHD, UHD, 4K, 8K - Support all format files",
+    "scoreText": "4.2",
+    "score": 4.1615434
+  },
+  {
+    "title": "Video Downloader for TikTok",
+    "appId": "tiktok.tiktokvideodownloader.savetiktokvideo.nowatermark",
+    "url": "https://play.google.com/store/apps/details?id=tiktok.tiktokvideodownloader.savetiktokvideo.nowatermark",
+    "icon": "https://play-lh.googleusercontent.com/1ozFbZNZSc_yXv6uaHpKN_X56pcD1Osh5CRJmwPyfFflWL51uG7fstZfxxRPQ3xFCcUf",
+    "developer": "Black Technology Tools",
+    "developerId": "Black+Technology+Tools",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Video Downloader for TikTok with no watermark, share favorite video to friends.",
+    "scoreText": "4.5",
+    "score": 4.54902
+  },
+  {
+    "title": "CamScanner - PDF Scanner App",
+    "appId": "com.intsig.camscanner",
+    "url": "https://play.google.com/store/apps/details?id=com.intsig.camscanner",
+    "icon": "https://play-lh.googleusercontent.com/eWYNxjXiub6-HqtwoS2d4bl-NkqcKgOHansSnXXqje8-K9XLRwflOgEYwSzPMicdAA",
+    "developer": "CamSoft Information",
+    "developerId": "CamSoft+Information",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Scan paperwork into PDF/JPG, generate your own e-signature and send fax or email",
+    "scoreText": "4.8",
+    "score": 4.8037663
+  },
+  {
+    "title": "Lose Weight App for Men",
+    "appId": "menloseweight.loseweightappformen.weightlossformen",
+    "url": "https://play.google.com/store/apps/details?id=menloseweight.loseweightappformen.weightlossformen",
+    "icon": "https://play-lh.googleusercontent.com/ZC_z7M7rdlKutl8hOiXcNKBSxwnPnbTWG_QsBfnhfIAVsVAB6WjWGYgZ3qXHy1N5XEM",
+    "developer": "Leap Fitness Group",
+    "developerId": "Leap+Fitness+Group",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Lose Weight and Burn Belly Fat at home with workout for men in 30 days.",
+    "scoreText": "4.9",
+    "score": 4.916332
   },
   {
     "title": "Cake: Lesson updates every day",
@@ -2629,49 +2587,21 @@
     "free": true,
     "summary": "Learn real English from videos",
     "scoreText": "4.8",
-    "score": 4.799615
+    "score": 4.799453
   },
   {
-    "title": "Google Podcasts",
-    "appId": "com.google.android.apps.podcasts",
-    "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.podcasts",
-    "icon": "https://play-lh.googleusercontent.com/BQUYd1Th9Z_XI5wtklPQDHmiNkSOzBakOnpk-Ni8CBTyHb0E7UM5LpyjRW9BWs4fUuVD",
-    "developer": "Google LLC",
-    "developerId": "5700313618786177705",
+    "title": "Seagull VPN-Easy and reliable!",
+    "appId": "tool.seagull.v",
+    "url": "https://play.google.com/store/apps/details?id=tool.seagull.v",
+    "icon": "https://play-lh.googleusercontent.com/9QJymX68rz9KMsuySHHK8lQ-pfCXgNhGdfSiF9Q8ZKrYqffKyuv_TZWDNdB56fkTHiA",
+    "developer": "service365",
+    "developerId": "service365",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "A podcast player, from Google. Listen and subscribe to the world’s podcasts.",
-    "scoreText": "4.5",
-    "score": 4.5320973
-  },
-  {
-    "title": "Video Downloader & Video Saver & Private Browser",
-    "appId": "privatebrowser.videodownloader.downloadvideo.videoeditor",
-    "url": "https://play.google.com/store/apps/details?id=privatebrowser.videodownloader.downloadvideo.videoeditor",
-    "icon": "https://play-lh.googleusercontent.com/4QhcHn2nTmUl18wbnRhVBXOFVfk_DHRFye6sdKWoMYZOj8E6z3v2bPaRqLEGuLCCYA",
-    "developer": "Video Downloader & Video Editor & Video Player",
-    "developerId": "Video+Downloader+%26+Video+Editor+%26+Video+Player",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "FREE Video Downloader and Browser, Download and Save HD Video from favorite site",
-    "scoreText": "4.2",
-    "score": 4.207317
-  },
-  {
-    "title": "GPS, Maps, Voice Navigation & Directions",
-    "appId": "com.maps.voice.navigation.traffic.gps.location.route.driving.directions",
-    "url": "https://play.google.com/store/apps/details?id=com.maps.voice.navigation.traffic.gps.location.route.driving.directions",
-    "icon": "https://play-lh.googleusercontent.com/NrK0b-e6cpj4yYkDuNZJHO9KUAl8pSj9TGi4Xw4GbPZ6UVsnAlLBH2AZuEMpb24Xig",
-    "developer": "AppStar Studios",
-    "developerId": "8955738419362599046",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Best Maps app with GPS, Directions, Navigation, Offline Maps &amp; Traffic Alerts.",
-    "scoreText": "4.0",
-    "score": 4.0051465
+    "summary": "Seagull VPN provides dozens of servers from global and it's free forever!",
+    "scoreText": "4.6",
+    "score": 4.5985403
   },
   {
     "title": "Download Twitter Videos - Twitter video downloader",
@@ -2685,49 +2615,91 @@
     "free": true,
     "summary": "Download Twitter videos and gif, play or share the video with your friends❤️❤️❤️",
     "scoreText": "4.6",
-    "score": 4.5888042
+    "score": 4.5890145
   },
   {
-    "title": "Economist",
-    "appId": "com.economist.lamarr",
-    "url": "https://play.google.com/store/apps/details?id=com.economist.lamarr",
-    "icon": "https://play-lh.googleusercontent.com/v0mG0DW6yEJ1fnNqNLIcfVhyZah-WzMlkPZeNLTlMD6shNuIFP102fORwbFKo6fGifM",
-    "developer": "The Economist Newspaper",
-    "developerId": "5059535972638766074",
+    "title": "Mi Home",
+    "appId": "com.xiaomi.smarthome",
+    "url": "https://play.google.com/store/apps/details?id=com.xiaomi.smarthome",
+    "icon": "https://play-lh.googleusercontent.com/ryMAPbVAuWWLHBiOy4s6khTjyx87pIwLqMc9Yikuv2cm1m6VlrlsjX9XKEV9RZk8iCCl",
+    "developer": "Xiaomi Inc.",
+    "developerId": "5113340212256272297",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Daily and weekly analysis of world news, from business to politics and science",
-    "scoreText": "4.7",
-    "score": 4.74019
+    "summary": "Mi Home is the official Android app for Xiaomi Home.",
+    "scoreText": "4.4",
+    "score": 4.4346876
   },
   {
-    "title": "OpenVPN Connect – Fast & Safe SSL VPN Client",
-    "appId": "net.openvpn.openvpn",
-    "url": "https://play.google.com/store/apps/details?id=net.openvpn.openvpn",
-    "icon": "https://play-lh.googleusercontent.com/E9DIOxBPab_nMUfmf2fhzNcEAmjOx-wstIak5zwJpZm7184nd8fUPGBeWMvBMnkOHg",
-    "developer": "OpenVPN",
-    "developerId": "OpenVPN",
+    "title": "GPS, Maps, Voice Navigation & Directions",
+    "appId": "com.maps.voice.navigation.traffic.gps.location.route.driving.directions",
+    "url": "https://play.google.com/store/apps/details?id=com.maps.voice.navigation.traffic.gps.location.route.driving.directions",
+    "icon": "https://play-lh.googleusercontent.com/NrK0b-e6cpj4yYkDuNZJHO9KUAl8pSj9TGi4Xw4GbPZ6UVsnAlLBH2AZuEMpb24Xig",
+    "developer": "AppStar Studios",
+    "developerId": "8955738419362599046",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Official secure client for Access Server &amp; any OpenVPN service",
+    "summary": "Best Maps app with GPS, Directions, Navigation, Offline Maps &amp; Traffic Alerts.",
+    "scoreText": "4.0",
+    "score": 4.0038037
+  },
+  {
+    "title": "Google Podcasts",
+    "appId": "com.google.android.apps.podcasts",
+    "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.podcasts",
+    "icon": "https://play-lh.googleusercontent.com/BQUYd1Th9Z_XI5wtklPQDHmiNkSOzBakOnpk-Ni8CBTyHb0E7UM5LpyjRW9BWs4fUuVD",
+    "developer": "Google LLC",
+    "developerId": "5700313618786177705",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "A podcast player, from Google. Listen and subscribe to the world’s podcasts.",
+    "scoreText": "4.5",
+    "score": 4.5323086
+  },
+  {
+    "title": "Always On: Edge Music Lighting",
+    "appId": "com.sparkine.muvizedge",
+    "url": "https://play.google.com/store/apps/details?id=com.sparkine.muvizedge",
+    "icon": "https://play-lh.googleusercontent.com/E96ZS3BK8pOiO_38Yz4nagnRXhIaXonc9XLIHna0aFWIAXpI9rNb5zeKtb4upsLuiLI",
+    "developer": "Sparkine Labs",
+    "developerId": "5082124330936703177",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Edge Music Visualizer &amp; Always On Displays (AOD) from the creators of Muviz",
+    "scoreText": "4.5",
+    "score": 4.5038943
+  },
+  {
+    "title": "Video Downloader & Video Saver & Private Browser",
+    "appId": "privatebrowser.videodownloader.downloadvideo.videoeditor",
+    "url": "https://play.google.com/store/apps/details?id=privatebrowser.videodownloader.downloadvideo.videoeditor",
+    "icon": "https://play-lh.googleusercontent.com/4QhcHn2nTmUl18wbnRhVBXOFVfk_DHRFye6sdKWoMYZOj8E6z3v2bPaRqLEGuLCCYA",
+    "developer": "Video Downloader & Video Editor & Video Player",
+    "developerId": "Video+Downloader+%26+Video+Editor+%26+Video+Player",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "FREE Video Downloader and Browser, Download and Save HD Video from favorite site",
     "scoreText": "4.2",
-    "score": 4.153446
+    "score": 4.223242
   },
   {
-    "title": "QQmail",
-    "appId": "com.tencent.androidqqmail",
-    "url": "https://play.google.com/store/apps/details?id=com.tencent.androidqqmail",
-    "icon": "https://play-lh.googleusercontent.com/i_lfkfxkGt_v47PUT195nWFcMQEhH0KEGki-oIs4B50n78ILEuYt5mHySwZTEyOe1A",
-    "developer": "Tencent Technology (Shenzhen) Company Ltd.",
-    "developerId": "Tencent+Technology+(Shenzhen)+Company+Ltd.",
+    "title": "IMDb: Your guide to movies, TV shows, celebrities",
+    "appId": "com.imdb.mobile",
+    "url": "https://play.google.com/store/apps/details?id=com.imdb.mobile",
+    "icon": "https://play-lh.googleusercontent.com/sb30umyAPj9A4ixl4jnPJO15ET-mo4TihKOI0xwFzRbxOfZo6fozeKmAjf8Lhl3mqHY",
+    "developer": "IMDb",
+    "developerId": "IMDb",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "QQmail，A Mail app",
-    "scoreText": "4.1",
-    "score": 4.063279
+    "summary": "IMDb — the world’s most popular source of movie, TV, and celebrity information",
+    "scoreText": "4.3",
+    "score": 4.316648
   },
   {
     "title": "gate.io - Buy BTC,ETH,SHIB",
@@ -2741,35 +2713,7 @@
     "free": true,
     "summary": "Buy&amp;Sell, long&amp;Shot hundreds of popular cryptocurrencies and blockchain assets.",
     "scoreText": "3.9",
-    "score": 3.8806036
-  },
-  {
-    "title": "百度地图",
-    "appId": "com.baidu.BaiduMap",
-    "url": "https://play.google.com/store/apps/details?id=com.baidu.BaiduMap",
-    "icon": "https://play-lh.googleusercontent.com/AqDPC657JlwJUG5oJ0k7PiUWGXGmmNmWRNORW6Wk8oetgeMqGIgTjp5yGOT0vfaXzu6P",
-    "developer": "Baidu Map",
-    "developerId": "Baidu+Map",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Science and technology to make travel easier. Intelligent maps new upgrade, immediately turn your simple travel.",
-    "scoreText": "3.4",
-    "score": 3.418251
-  },
-  {
-    "title": "Wallpapers",
-    "appId": "com.google.android.apps.wallpaper",
-    "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.wallpaper",
-    "icon": "https://play-lh.googleusercontent.com/2aJfB6trLglywvIh6MSN58qh-r2b-_2GoXk4dWL5fIZmMAWdTN3f98Ugpi6U_glIm0w",
-    "developer": "Google LLC",
-    "developerId": "5700313618786177705",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Make the most of your display with beautiful wallpapers and advanced features.",
-    "scoreText": "4.1",
-    "score": 4.1041727
+    "score": 3.8777583
   },
   {
     "title": "spacedesk (multi monitor display extension screen)",
@@ -2783,7 +2727,63 @@
     "free": true,
     "summary": "Android Device as Display Monitor for Windows Desktop Extension or Video-Wall",
     "scoreText": "4.0",
-    "score": 3.9879246
+    "score": 3.9872468
+  },
+  {
+    "title": "Solo VPN - One Tap Proxy",
+    "appId": "co.solovpn",
+    "url": "https://play.google.com/store/apps/details?id=co.solovpn",
+    "icon": "https://play-lh.googleusercontent.com/qJfN1Ql5vHQirAfxdT8FJ6GlwxN4odxQzUx_wVueVsUGvaQes-QGggzQIZcqFKpPBaFo",
+    "developer": "SoloVPN & NCleaner & Radio",
+    "developerId": "SoloVPN+%26+NCleaner+%26+Radio",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Free and Unlimited VPN Proxy, One Tap Connect",
+    "scoreText": "4.2",
+    "score": 4.2470856
+  },
+  {
+    "title": "QQmail",
+    "appId": "com.tencent.androidqqmail",
+    "url": "https://play.google.com/store/apps/details?id=com.tencent.androidqqmail",
+    "icon": "https://play-lh.googleusercontent.com/i_lfkfxkGt_v47PUT195nWFcMQEhH0KEGki-oIs4B50n78ILEuYt5mHySwZTEyOe1A",
+    "developer": "Tencent Technology (Shenzhen) Company Ltd.",
+    "developerId": "Tencent+Technology+(Shenzhen)+Company+Ltd.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "QQmail，A Mail app",
+    "scoreText": "4.1",
+    "score": 4.064176
+  },
+  {
+    "title": "蝦皮購物｜3.18品牌狂購月",
+    "appId": "com.shopee.tw",
+    "url": "https://play.google.com/store/apps/details?id=com.shopee.tw",
+    "icon": "https://play-lh.googleusercontent.com/6dsOFDFpwL9eN7apHyB3JdMri39Vk2AeafzqOg0JLqtn-cTDMbQ41sh4cBpD4q2RaA",
+    "developer": "Shopee",
+    "developerId": "Shopee",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Free shipping for everyone | Shopee Mall Super Discount | Brand Rewards to Save Money",
+    "scoreText": "4.5",
+    "score": 4.5246873
+  },
+  {
+    "title": "Ultimate VPN",
+    "appId": "com.open.hotspot.vpn.free",
+    "url": "https://play.google.com/store/apps/details?id=com.open.hotspot.vpn.free",
+    "icon": "https://play-lh.googleusercontent.com/xqXWCwIrCqiAH0eGPa5EA2Xx2Onr24wE_jQPBKcc1NCJI9SZmg9eBIFyQqLo_UWxeXw",
+    "developer": "Ultimate VPN Inc",
+    "developerId": "6290904209461302610",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Fast and Secure, Unblocking All Content",
+    "scoreText": "4.2",
+    "score": 4.214204
   },
   {
     "title": "Phone by Google",
@@ -2797,6 +2797,6 @@
     "free": true,
     "summary": "Reliable phone calls with spam protection, caller ID and more helpful features",
     "scoreText": "4.4",
-    "score": 4.435913
+    "score": 4.4354396
   }
 ]
