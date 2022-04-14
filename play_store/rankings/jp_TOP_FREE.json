@@ -11,7 +11,7 @@
     "free": true,
     "summary": "This app from MHLW notifies you of close contacts with COVID-19 positive users.",
     "scoreText": "2.3",
-    "score": 2.2527382
+    "score": 2.257582
   },
   {
     "title": "TVer(ティーバー) 民放公式テレビ配信サービス",
@@ -25,7 +25,7 @@
     "free": true,
     "summary": "Video distribution app for TV programs! In addition to TV videos such as dramas / animations / variety shows, enjoy watching videos with the video-on-demand service where you can watch TV program listings.",
     "scoreText": "3.4",
-    "score": 3.4343905
+    "score": 3.4322042
   },
   {
     "title": "Instagram",
@@ -39,7 +39,7 @@
     "free": true,
     "summary": "Bringing you closer to the people and things you love.",
     "scoreText": "3.9",
-    "score": 3.8782487
+    "score": 3.8787885
   },
   {
     "title": "TikTok",
@@ -53,7 +53,7 @@
     "free": true,
     "summary": "global video community",
     "scoreText": "4.1",
-    "score": 4.1020546
+    "score": 4.101692
   },
   {
     "title": "すごい時間割 - 大学生の時間割アプリ",
@@ -70,34 +70,6 @@
     "score": 4.229885
   },
   {
-    "title": "Amazon Prime Video",
-    "appId": "com.amazon.avod.thirdpartyclient",
-    "url": "https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient",
-    "icon": "https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y",
-    "developer": "Amazon Mobile LLC",
-    "developerId": "Amazon+Mobile+LLC",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Watch TV shows and movies including award-winning Amazon exclusives.",
-    "scoreText": "4.3",
-    "score": 4.2965117
-  },
-  {
-    "title": "Bravo Cleaner: Speed Booster",
-    "appId": "com.engro.cleanerforsns",
-    "url": "https://play.google.com/store/apps/details?id=com.engro.cleanerforsns",
-    "icon": "https://play-lh.googleusercontent.com/1xVolUoHWdLG5NONEdDXwxpStu3Kok3c9w_sRCkO5_KkCmDv7D4V8wmTU8FXEwbMdQ",
-    "developer": "Bravo GmbH",
-    "developerId": "8157018098813273177",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Make Android phone faster &amp; smoother, CPU cooler &amp; battery saver to boost mobile",
-    "scoreText": "3.6",
-    "score": 3.58
-  },
-  {
     "title": "Powerful Cleaner",
     "appId": "com.tool.power.sweep.clean",
     "url": "https://play.google.com/store/apps/details?id=com.tool.power.sweep.clean",
@@ -109,7 +81,21 @@
     "free": true,
     "summary": "Powerful Cleaner is an useful mobile phone management tool.",
     "scoreText": "3.5",
-    "score": 3.5
+    "score": 3.50137
+  },
+  {
+    "title": "Amazon Prime Video",
+    "appId": "com.amazon.avod.thirdpartyclient",
+    "url": "https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient",
+    "icon": "https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y",
+    "developer": "Amazon Mobile LLC",
+    "developerId": "Amazon+Mobile+LLC",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Watch TV shows and movies including award-winning Amazon exclusives.",
+    "scoreText": "4.3",
+    "score": 4.2962875
   },
   {
     "title": "LINE: Calls & Messages",
@@ -123,7 +109,7 @@
     "free": true,
     "summary": "Stay in touch with your friends and family using LINE!",
     "scoreText": "3.4",
-    "score": 3.403616
+    "score": 3.4033132
   },
   {
     "title": "QR & Barcode Scanner",
@@ -137,7 +123,21 @@
     "free": true,
     "summary": "The fastest QR code reader and Barcode scanner.",
     "scoreText": "4.4",
-    "score": 4.3514214
+    "score": 4.353846
+  },
+  {
+    "title": "Bravo Cleaner: Speed Booster",
+    "appId": "com.engro.cleanerforsns",
+    "url": "https://play.google.com/store/apps/details?id=com.engro.cleanerforsns",
+    "icon": "https://play-lh.googleusercontent.com/1xVolUoHWdLG5NONEdDXwxpStu3Kok3c9w_sRCkO5_KkCmDv7D4V8wmTU8FXEwbMdQ",
+    "developer": "Bravo GmbH",
+    "developerId": "8157018098813273177",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Make Android phone faster &amp; smoother, CPU cooler &amp; battery saver to boost mobile",
+    "scoreText": "3.6",
+    "score": 3.6039605
   },
   {
     "title": "Hyper File Manager - Cleaner",
@@ -151,7 +151,7 @@
     "free": true,
     "summary": "File management, clean file fragments, memory boost, phone optimize and secure",
     "scoreText": "3.6",
-    "score": 3.5555556
+    "score": 3.5714285
   },
   {
     "title": "ピッコマ - 独占先行配信のマンガが待てば読める漫画アプリ",
@@ -165,49 +165,7 @@
     "free": true,
     "summary": "Over 32 million DL! A manga app that you can enjoy for free if you wait! Updated daily from media-based comics to original manga and light novels!",
     "scoreText": "4.1",
-    "score": 4.0936
-  },
-  {
-    "title": "Maneki Nekko Stickers",
-    "appId": "org.artsplanet.android.manekinekkostamp",
-    "url": "https://play.google.com/store/apps/details?id=org.artsplanet.android.manekinekkostamp",
-    "icon": "https://play-lh.googleusercontent.com/tsCQH5dQABGVFErDsQPo_i7XOdfGUc35UumJVAk92pn6SLyLOjc7E5Lbic6c3IMo9cc",
-    "developer": "ArtsPlanet",
-    "developerId": "7276248274029317959",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "A lot of stickers",
-    "scoreText": "4.0",
-    "score": 3.99
-  },
-  {
-    "title": "Smart Cleaner",
-    "appId": "com.tool.fast.smart.cleaner",
-    "url": "https://play.google.com/store/apps/details?id=com.tool.fast.smart.cleaner",
-    "icon": "https://play-lh.googleusercontent.com/YC732eA9VZt4VnpQJrGuoURf77oON3fl1HclN9zeYpE0u4rBckpIkHuoS8xl3jlvFw",
-    "developer": "annajiao",
-    "developerId": "annajiao",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Smart Cleaner is a professional and easy-to-use cleaning management tool",
-    "scoreText": "3.8",
-    "score": 3.7973568
-  },
-  {
-    "title": "Yahoo! JAPAN",
-    "appId": "jp.co.yahoo.android.yjtop",
-    "url": "https://play.google.com/store/apps/details?id=jp.co.yahoo.android.yjtop",
-    "icon": "https://play-lh.googleusercontent.com/v_p-EH3NHOQYIEV8Xgy1x4VFr_80V2fa6IhpO-_Zc3shjx5ZQhctLyG8_0XSFj8h6Cw",
-    "developer": "Yahoo Japan Corp.",
-    "developerId": "9059031076674808747",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Free all-in-one app",
-    "scoreText": "4.2",
-    "score": 4.170043
+    "score": 4.093563
   },
   {
     "title": "Bravo Booster: One-tap Cleaner",
@@ -224,6 +182,34 @@
     "score": 3.7741935
   },
   {
+    "title": "Smart Cleaner",
+    "appId": "com.tool.fast.smart.cleaner",
+    "url": "https://play.google.com/store/apps/details?id=com.tool.fast.smart.cleaner",
+    "icon": "https://play-lh.googleusercontent.com/YC732eA9VZt4VnpQJrGuoURf77oON3fl1HclN9zeYpE0u4rBckpIkHuoS8xl3jlvFw",
+    "developer": "annajiao",
+    "developerId": "annajiao",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Smart Cleaner is a professional and easy-to-use cleaning management tool",
+    "scoreText": "3.8",
+    "score": 3.78125
+  },
+  {
+    "title": "Maneki Nekko Stickers",
+    "appId": "org.artsplanet.android.manekinekkostamp",
+    "url": "https://play.google.com/store/apps/details?id=org.artsplanet.android.manekinekkostamp",
+    "icon": "https://play-lh.googleusercontent.com/tsCQH5dQABGVFErDsQPo_i7XOdfGUc35UumJVAk92pn6SLyLOjc7E5Lbic6c3IMo9cc",
+    "developer": "ArtsPlanet",
+    "developerId": "7276248274029317959",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "A lot of stickers",
+    "scoreText": "4.0",
+    "score": 3.9906542
+  },
+  {
     "title": "Tiny File Explorer & Cleaner",
     "appId": "com.tiny.rock.file.explorer.manager",
     "url": "https://play.google.com/store/apps/details?id=com.tiny.rock.file.explorer.manager",
@@ -235,21 +221,21 @@
     "free": true,
     "summary": "Powerful file manager with phone booster, cleaner, file management",
     "scoreText": "3.4",
-    "score": 3.4257426
+    "score": 3.4
   },
   {
-    "title": "SmartNews: Local Breaking News",
-    "appId": "jp.gocro.smartnews.android",
-    "url": "https://play.google.com/store/apps/details?id=jp.gocro.smartnews.android",
-    "icon": "https://play-lh.googleusercontent.com/JgxjX_zgsfKX0jqShm5njq1XC3rkXgl5-LCprgli4uuLc_w5skyYU-4ZI0My9W5n",
-    "developer": "SmartNews, Inc.",
-    "developerId": "SmartNews,+Inc.",
+    "title": "Yahoo! JAPAN",
+    "appId": "jp.co.yahoo.android.yjtop",
+    "url": "https://play.google.com/store/apps/details?id=jp.co.yahoo.android.yjtop",
+    "icon": "https://play-lh.googleusercontent.com/v_p-EH3NHOQYIEV8Xgy1x4VFr_80V2fa6IhpO-_Zc3shjx5ZQhctLyG8_0XSFj8h6Cw",
+    "developer": "Yahoo Japan Corp.",
+    "developerId": "9059031076674808747",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Breaking local news and weather forecasts from your neighborhood.",
-    "scoreText": "3.9",
-    "score": 3.8958828
+    "summary": "Free all-in-one app",
+    "scoreText": "4.2",
+    "score": 4.1697364
   },
   {
     "title": "ヤンジャン！",
@@ -263,7 +249,21 @@
     "free": true,
     "summary": "Many popular seinen manga from Shueisha! Young Jump Official Manga App",
     "scoreText": "3.8",
-    "score": 3.8116884
+    "score": 3.812095
+  },
+  {
+    "title": "SmartNews: Local Breaking News",
+    "appId": "jp.gocro.smartnews.android",
+    "url": "https://play.google.com/store/apps/details?id=jp.gocro.smartnews.android",
+    "icon": "https://play-lh.googleusercontent.com/JgxjX_zgsfKX0jqShm5njq1XC3rkXgl5-LCprgli4uuLc_w5skyYU-4ZI0My9W5n",
+    "developer": "SmartNews, Inc.",
+    "developerId": "SmartNews,+Inc.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Breaking local news and weather forecasts from your neighborhood.",
+    "scoreText": "3.9",
+    "score": 3.8961494
   },
   {
     "title": "Google Classroom",
@@ -277,21 +277,7 @@
     "free": true,
     "summary": "Connect with your classes and do assignments on the go.",
     "scoreText": "2.7",
-    "score": 2.6732025
-  },
-  {
-    "title": "QR Scanner",
-    "appId": "com.kitkats.qrscanner",
-    "url": "https://play.google.com/store/apps/details?id=com.kitkats.qrscanner",
-    "icon": "https://play-lh.googleusercontent.com/FPwiKTeFsD4RbqtzTej5c7L0rGCEGVuNH3v-1ShH4y0PA4gIynBsd02OPqa8Ov4QQaY",
-    "developer": "1MB",
-    "developerId": "7508913079769971438",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Fastest and easy to use!",
-    "scoreText": "3.7",
-    "score": 3.6648722
+    "score": 2.6818182
   },
   {
     "title": "ZOOM Cloud Meetings",
@@ -305,7 +291,7 @@
     "free": true,
     "summary": "Zoom is a free HD meeting app with video and screen sharing for up to 100 people",
     "scoreText": "3.9",
-    "score": 3.946712
+    "score": 3.9483945
   },
   {
     "title": "PayPay-ペイペイ(キャッシュレスでスマートにお支払い)",
@@ -319,7 +305,21 @@
     "free": true,
     "summary": "Easy and advantageous smartphone payment application",
     "scoreText": "4.2",
-    "score": 4.2124043
+    "score": 4.2116823
+  },
+  {
+    "title": "QR Scanner",
+    "appId": "com.kitkats.qrscanner",
+    "url": "https://play.google.com/store/apps/details?id=com.kitkats.qrscanner",
+    "icon": "https://play-lh.googleusercontent.com/FPwiKTeFsD4RbqtzTej5c7L0rGCEGVuNH3v-1ShH4y0PA4gIynBsd02OPqa8Ov4QQaY",
+    "developer": "1MB",
+    "developerId": "7508913079769971438",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Fastest and easy to use!",
+    "scoreText": "3.7",
+    "score": 3.669837
   },
   {
     "title": "あんしんメール",
@@ -333,7 +333,7 @@
     "free": true,
     "summary": "Safe email for use at over 3,500 facilities and groups nationwide!",
     "scoreText": "3.3",
-    "score": 3.31
+    "score": 3.32
   },
   {
     "title": "出前館",
@@ -347,21 +347,7 @@
     "free": true,
     "summary": "The app of the largest domestic delivery site [demaekan] has become much easier to use with a major renewal!",
     "scoreText": "3.6",
-    "score": 3.6234155
-  },
-  {
-    "title": "PayPayフリマ - かんたん・安心フリマアプリ",
-    "appId": "jp.co.yahoo.android.paypayfleamarket",
-    "url": "https://play.google.com/store/apps/details?id=jp.co.yahoo.android.paypayfleamarket",
-    "icon": "https://play-lh.googleusercontent.com/kgPFv9J4iCtAhJ5d47wUX1BKn7uBZrWGX0JxF3_rCgmkA-o4g9cnoBYo9-l5GK4TvTJ2",
-    "developer": "Yahoo Japan Corp.",
-    "developerId": "9059031076674808747",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "あのPayPayからフリマアプリが登場！\nPayPayフリマは、スマホでフリーマーケットのように個人間でさまざまな商品をカンタン・おトクに売買できるアプリです。",
-    "scoreText": "4.3",
-    "score": 4.308831
+    "score": 3.6171172
   },
   {
     "title": "SHEIN-Fashion Shopping Online",
@@ -375,7 +361,7 @@
     "free": true,
     "summary": "Meet the SHEIN app - Your one-stop shop for trends at prices you'll Love!",
     "scoreText": "4.4",
-    "score": 4.4249363
+    "score": 4.4175
   },
   {
     "title": "Spotify: Music and Podcasts",
@@ -389,7 +375,7 @@
     "free": true,
     "summary": "Listen to songs, play podcasts, create playlists, and discover music you'll love",
     "scoreText": "4.3",
-    "score": 4.3242917
+    "score": 4.3234468
   },
   {
     "title": "Twitter",
@@ -403,7 +389,7 @@
     "free": true,
     "summary": "Now with Twitter spaces: Join, listen, and speak in live audio conversations",
     "scoreText": "3.6",
-    "score": 3.5919805
+    "score": 3.592078
   },
   {
     "title": "d Point Club",
@@ -417,7 +403,7 @@
     "free": true,
     "summary": "The d Point app allows you to check your d point and receive various bonuses.",
     "scoreText": "3.5",
-    "score": 3.503519
+    "score": 3.5021088
   },
   {
     "title": "新型コロナワクチン接種証明書アプリ",
@@ -431,21 +417,7 @@
     "free": true,
     "summary": "It is an application that can obtain the new corona vaccination certificate officially provided by the Japanese government. My number card is required to obtain the vaccination certificate with the app.",
     "scoreText": "3.4",
-    "score": 3.371134
-  },
-  {
-    "title": "Mynaportal",
-    "appId": "jp.go.cas.mpa",
-    "url": "https://play.google.com/store/apps/details?id=jp.go.cas.mpa",
-    "icon": "https://play-lh.googleusercontent.com/_3UIqPFGjE6wo_sm729X4eDrleXCH6ZPhNPwXM2jODJe_vMXnUl10vw4J9UYKHg_O9La",
-    "developer": "デジタル庁",
-    "developerId": "%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%BA%81",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "You can use various services using your Individual Number Card.",
-    "scoreText": "2.4",
-    "score": 2.4230769
+    "score": 3.377551
   },
   {
     "title": "LINEマンガ",
@@ -459,21 +431,35 @@
     "free": true,
     "summary": "You can read LINE Manga for free every day! If you wait for popular works of shōnen manga and shojo manga, the number one free download manga app",
     "scoreText": "4.2",
-    "score": 4.228236
+    "score": 4.227653
   },
   {
-    "title": "AIO File Manager - Cleaner",
-    "appId": "com.manager.files.super.cleaner",
-    "url": "https://play.google.com/store/apps/details?id=com.manager.files.super.cleaner",
-    "icon": "https://play-lh.googleusercontent.com/F78erD4_RKiajMFUbNLvhpTCI1LHEsX48FZrks9q4psdc5wmBari2A2Mk9b3yqMf6g",
-    "developer": "Lakesha  Ward",
-    "developerId": "4756382006390927709",
+    "title": "Mynaportal",
+    "appId": "jp.go.cas.mpa",
+    "url": "https://play.google.com/store/apps/details?id=jp.go.cas.mpa",
+    "icon": "https://play-lh.googleusercontent.com/_3UIqPFGjE6wo_sm729X4eDrleXCH6ZPhNPwXM2jODJe_vMXnUl10vw4J9UYKHg_O9La",
+    "developer": "デジタル庁",
+    "developerId": "%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%BA%81",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "One of the most effective file manager and phone boost application for Android",
-    "scoreText": "3.5",
-    "score": 3.522388
+    "summary": "You can use various services using your Individual Number Card.",
+    "scoreText": "2.4",
+    "score": 2.4185305
+  },
+  {
+    "title": "PayPayフリマ - かんたん・安心フリマアプリ",
+    "appId": "jp.co.yahoo.android.paypayfleamarket",
+    "url": "https://play.google.com/store/apps/details?id=jp.co.yahoo.android.paypayfleamarket",
+    "icon": "https://play-lh.googleusercontent.com/kgPFv9J4iCtAhJ5d47wUX1BKn7uBZrWGX0JxF3_rCgmkA-o4g9cnoBYo9-l5GK4TvTJ2",
+    "developer": "Yahoo Japan Corp.",
+    "developerId": "9059031076674808747",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "あのPayPayからフリマアプリが登場！\nPayPayフリマは、スマホでフリーマーケットのように個人間でさまざまな商品をカンタン・おトクに売買できるアプリです。",
+    "scoreText": "4.3",
+    "score": 4.3078136
   },
   {
     "title": "Power File Manager & Cleaner",
@@ -487,7 +473,21 @@
     "free": true,
     "summary": "Powerful File Manager  is a device manager and optimization tool",
     "scoreText": "3.6",
-    "score": 3.5742574
+    "score": 3.5882354
+  },
+  {
+    "title": "AIO File Manager - Cleaner",
+    "appId": "com.manager.files.super.cleaner",
+    "url": "https://play.google.com/store/apps/details?id=com.manager.files.super.cleaner",
+    "icon": "https://play-lh.googleusercontent.com/F78erD4_RKiajMFUbNLvhpTCI1LHEsX48FZrks9q4psdc5wmBari2A2Mk9b3yqMf6g",
+    "developer": "Lakesha  Ward",
+    "developerId": "4756382006390927709",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "One of the most effective file manager and phone boost application for Android",
+    "scoreText": "3.5",
+    "score": 3.5277777
   },
   {
     "title": "Microsoft Teams",
@@ -501,7 +501,7 @@
     "free": true,
     "summary": "Chat, call, and collaborate to achieve more together, all in one place on Teams",
     "scoreText": "4.2",
-    "score": 4.23109
+    "score": 4.22913
   },
   {
     "title": "LINE MUSIC 音楽はラインミュージック",
@@ -515,7 +515,7 @@
     "free": true,
     "summary": "After downloading, enjoy music with offline playback without worrying about giga. There are more than 90 million songs in a wide variety of genres. Free trials are now underway!",
     "scoreText": "3.4",
-    "score": 3.3726742
+    "score": 3.3720436
   },
   {
     "title": "メルカリ(メルペイ) フリマアプリ&スマホ決済",
@@ -529,21 +529,7 @@
     "free": true,
     "summary": "Japan's largest selling flea market and smartphone payment in one! Why don't you sell items that you no longer use in your room to Mercari?",
     "scoreText": "4.3",
-    "score": 4.3191476
-  },
-  {
-    "title": "Classiホーム",
-    "appId": "jp.classi.portal",
-    "url": "https://play.google.com/store/apps/details?id=jp.classi.portal",
-    "icon": "https://play-lh.googleusercontent.com/ksAmrrdLUAGaMDfLEcA01g5OF4pAKXtz1Ma5VDkQA_HhEHa3lJ7OymB3_67_xfOSg88",
-    "developer": "Classi Corp.",
-    "developerId": "Classi+Corp.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Login is unnecessary each time, do not overlook contact from school",
-    "scoreText": "2.2",
-    "score": 2.24
+    "score": 4.3182006
   },
   {
     "title": "Speedy Cleaner & Power Boost",
@@ -557,21 +543,7 @@
     "free": true,
     "summary": "Speedy Cleaner: It is a practical and magical mobile phone optimization guard.",
     "scoreText": "3.7",
-    "score": 3.6782608
-  },
-  {
-    "title": "Fast Cleaner & CPU Cooler",
-    "appId": "com.fast.cleaner.cpu.cool.powerful",
-    "url": "https://play.google.com/store/apps/details?id=com.fast.cleaner.cpu.cool.powerful",
-    "icon": "https://play-lh.googleusercontent.com/YHtaUjS6GgA4LeSZYeMI_riuo-obTBis-Lav5XYg0SogMAKgBc3PTEye1_1rfrKxFQ8",
-    "developer": "moon live studio",
-    "developerId": "moon+live+studio",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Fast Cleaner： A necessary app with small size and strong functions.",
-    "scoreText": "3.9",
-    "score": 3.8526785
+    "score": 3.6909091
   },
   {
     "title": "Yahoo!ブラウザー-ヤフーのブラウザ",
@@ -585,49 +557,35 @@
     "free": true,
     "summary": "-Free-Yahoo official browser. A safe and comfortable app for automatic optimization, security, search, etc.",
     "scoreText": "4.2",
-    "score": 4.1927853
+    "score": 4.193495
   },
   {
-    "title": "楽天市場 ショッピングアプリ",
-    "appId": "jp.co.rakuten.android",
-    "url": "https://play.google.com/store/apps/details?id=jp.co.rakuten.android",
-    "icon": "https://play-lh.googleusercontent.com/5Jb48uroahazT9k8LnRSjGwtqhVUB8iaet0pPxylzGYUy1fqPs4ltbCloTFRkWLEI8M",
-    "developer": "Rakuten Group, Inc.",
-    "developerId": "Rakuten+Group,+Inc.",
+    "title": "Classiホーム",
+    "appId": "jp.classi.portal",
+    "url": "https://play.google.com/store/apps/details?id=jp.classi.portal",
+    "icon": "https://play-lh.googleusercontent.com/ksAmrrdLUAGaMDfLEcA01g5OF4pAKXtz1Ma5VDkQA_HhEHa3lJ7OymB3_67_xfOSg88",
+    "developer": "Classi Corp.",
+    "developerId": "Classi+Corp.",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Shop at over 40,000 stores nationwide. Japan's largest mail order app! Check popular products from the ranking. Earn points daily with an app-only campaign!",
-    "scoreText": "4.3",
-    "score": 4.265253
+    "summary": "Login is unnecessary each time, do not overlook contact from school",
+    "scoreText": "2.2",
+    "score": 2.227723
   },
   {
-    "title": "かんたんnetprint－PDFも写真もコンビニですぐ印刷",
-    "appId": "com.fujifilm.fb.netprint.kantan",
-    "url": "https://play.google.com/store/apps/details?id=com.fujifilm.fb.netprint.kantan",
-    "icon": "https://play-lh.googleusercontent.com/7rEg0bxwJguH4txNQH3-jE9xfEgfcMJXIGmzZrJGGwbGWnOIR02P6AQymchdlpBuISQ",
-    "developer": "FUJIFILM Business Innovation Corp.",
-    "developerId": "8533170889021817206",
+    "title": "Fast Cleaner & CPU Cooler",
+    "appId": "com.fast.cleaner.cpu.cool.powerful",
+    "url": "https://play.google.com/store/apps/details?id=com.fast.cleaner.cpu.cool.powerful",
+    "icon": "https://play-lh.googleusercontent.com/YHtaUjS6GgA4LeSZYeMI_riuo-obTBis-Lav5XYg0SogMAKgBc3PTEye1_1rfrKxFQ8",
+    "developer": "moon live studio",
+    "developerId": "moon+live+studio",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "■ No membership registration required ■ PDF and photos ■ Easy operation ■ \"Immediately on the spot\" print ■ \"Anytime\" at the nearest 7-Eleven ■ Print out with a multi-copy machine at the store",
-    "scoreText": "3.8",
-    "score": 3.8252428
-  },
-  {
-    "title": "what3words",
-    "appId": "com.what3words.android",
-    "url": "https://play.google.com/store/apps/details?id=com.what3words.android",
-    "icon": "https://play-lh.googleusercontent.com/wd4zcCd_VF36KAFTyKO9hh_HrXUjfebD5wuwFdK4ZWHuwsA4p5RatR24dfJaQkWjnR0",
-    "developer": "what3words",
-    "developerId": "5394589464617666288",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "This app helps you find, share and navigate to any precise location",
-    "scoreText": "3.4",
-    "score": 3.368932
+    "summary": "Fast Cleaner： A necessary app with small size and strong functions.",
+    "scoreText": "3.9",
+    "score": 3.8552632
   },
   {
     "title": "QR Code Scanner & Scanner App",
@@ -644,18 +602,18 @@
     "score": 4.267327
   },
   {
-    "title": "NHK Plus",
-    "appId": "jp.nhk.plus",
-    "url": "https://play.google.com/store/apps/details?id=jp.nhk.plus",
-    "icon": "https://play-lh.googleusercontent.com/zSEgduLxc7DzHS-vvcq9vxnkOkZLs8HWpN99R2MNuqdI3mv8LQ2OjqVwkR2TdDlOatpS",
-    "developer": "NHK (JAPAN BROADCASTING CORP.)",
-    "developerId": "NHK+(JAPAN+BROADCASTING+CORP.)",
+    "title": "Blood Pressure App",
+    "appId": "bloodpressure.bloodpressureapp.bloodpressuretracker",
+    "url": "https://play.google.com/store/apps/details?id=bloodpressure.bloodpressureapp.bloodpressuretracker",
+    "icon": "https://play-lh.googleusercontent.com/QTjNQMKixbumI-kOezNuLmtSXo-VqfW1dHH1myU76ZqXi1oKWIMTCM9D9G2xjSauh2s",
+    "developer": "QR Code Scanner.",
+    "developerId": "QR+Code+Scanner.",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "App to watch TV programs of NHK",
-    "scoreText": "3.9",
-    "score": 3.9204152
+    "summary": "Track your blood pressure easily and know reliable BP information.",
+    "scoreText": "4.3",
+    "score": 4.287037
   },
   {
     "title": "Amazon Shopping",
@@ -669,35 +627,21 @@
     "free": true,
     "summary": "Browse, search &amp; buy millions of products right from your Android device.",
     "scoreText": "3.6",
-    "score": 3.5982797
+    "score": 3.6024508
   },
   {
-    "title": "Blood Pressure App",
-    "appId": "bloodpressure.bloodpressureapp.bloodpressuretracker",
-    "url": "https://play.google.com/store/apps/details?id=bloodpressure.bloodpressureapp.bloodpressuretracker",
-    "icon": "https://play-lh.googleusercontent.com/QTjNQMKixbumI-kOezNuLmtSXo-VqfW1dHH1myU76ZqXi1oKWIMTCM9D9G2xjSauh2s",
-    "developer": "QR Code Scanner.",
-    "developerId": "QR+Code+Scanner.",
+    "title": "NHK Plus",
+    "appId": "jp.nhk.plus",
+    "url": "https://play.google.com/store/apps/details?id=jp.nhk.plus",
+    "icon": "https://play-lh.googleusercontent.com/zSEgduLxc7DzHS-vvcq9vxnkOkZLs8HWpN99R2MNuqdI3mv8LQ2OjqVwkR2TdDlOatpS",
+    "developer": "NHK (JAPAN BROADCASTING CORP.)",
+    "developerId": "NHK+(JAPAN+BROADCASTING+CORP.)",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Track your blood pressure easily and know reliable BP information.",
-    "scoreText": "4.3",
-    "score": 4.252427
-  },
-  {
-    "title": "ABEMA（アベマ）新しい未来のテレビ",
-    "appId": "tv.abema",
-    "url": "https://play.google.com/store/apps/details?id=tv.abema",
-    "icon": "https://play-lh.googleusercontent.com/99iRxXrWvtcRc-Gpps5Cb6bQ0ghboJiXpMXgLq6XCgYODsCpuivPHjzcm5qNnXkIrA",
-    "developer": "AbemaTV, Inc.",
-    "developerId": "6759178670051565700",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "ABEMA is a video app that allows you to watch TV shows, anime, movies and dramas for free.",
-    "scoreText": "3.7",
-    "score": 3.694356
+    "summary": "App to watch TV programs of NHK",
+    "scoreText": "3.9",
+    "score": 3.9116607
   },
   {
     "title": "Laser File Explorer - Cleaner",
@@ -711,7 +655,35 @@
     "free": true,
     "summary": "Powerful file manager with booster, cleaner, file vault and remote transfer.",
     "scoreText": "3.9",
-    "score": 3.917749
+    "score": 3.9181035
+  },
+  {
+    "title": "ABEMA（アベマ）新しい未来のテレビ",
+    "appId": "tv.abema",
+    "url": "https://play.google.com/store/apps/details?id=tv.abema",
+    "icon": "https://play-lh.googleusercontent.com/99iRxXrWvtcRc-Gpps5Cb6bQ0ghboJiXpMXgLq6XCgYODsCpuivPHjzcm5qNnXkIrA",
+    "developer": "AbemaTV, Inc.",
+    "developerId": "6759178670051565700",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "ABEMA is a video app that allows you to watch TV shows, anime, movies and dramas for free.",
+    "scoreText": "3.7",
+    "score": 3.6923323
+  },
+  {
+    "title": "セブン-イレブンアプリ",
+    "appId": "jp.co.sej.app",
+    "url": "https://play.google.com/store/apps/details?id=jp.co.sej.app",
+    "icon": "https://play-lh.googleusercontent.com/EEX7U_o2Q9o4kjuo1j1IR4JCm6LO29BifTdi404TFFQxnQsB8sGFXONbTDC6Yko3iik",
+    "developer": "株式会社セブン-イレブン・ジャパン",
+    "developerId": "%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%BB%E3%83%96%E3%83%B3-%E3%82%A4%E3%83%AC%E3%83%96%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Best app in the daily convenience store",
+    "scoreText": "4.1",
+    "score": 4.0891337
   },
   {
     "title": "災害時でも学校の状況をリアルタイムに受信！マチコミメール",
@@ -728,32 +700,32 @@
     "score": 3.3346007
   },
   {
-    "title": "セブン-イレブンアプリ",
-    "appId": "jp.co.sej.app",
-    "url": "https://play.google.com/store/apps/details?id=jp.co.sej.app",
-    "icon": "https://play-lh.googleusercontent.com/EEX7U_o2Q9o4kjuo1j1IR4JCm6LO29BifTdi404TFFQxnQsB8sGFXONbTDC6Yko3iik",
-    "developer": "株式会社セブン-イレブン・ジャパン",
-    "developerId": "%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%BB%E3%83%96%E3%83%B3-%E3%82%A4%E3%83%AC%E3%83%96%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3",
+    "title": "楽天市場 ショッピングアプリ",
+    "appId": "jp.co.rakuten.android",
+    "url": "https://play.google.com/store/apps/details?id=jp.co.rakuten.android",
+    "icon": "https://play-lh.googleusercontent.com/5Jb48uroahazT9k8LnRSjGwtqhVUB8iaet0pPxylzGYUy1fqPs4ltbCloTFRkWLEI8M",
+    "developer": "Rakuten Group, Inc.",
+    "developerId": "Rakuten+Group,+Inc.",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Best app in the daily convenience store",
-    "scoreText": "4.1",
-    "score": 4.0914583
+    "summary": "Shop at over 40,000 stores nationwide. Japan's largest mail order app! Check popular products from the ranking. Earn points daily with an app-only campaign!",
+    "scoreText": "4.3",
+    "score": 4.2652
   },
   {
-    "title": "スポナビ 野球速報",
-    "appId": "jp.co.yahoo.android.sports.npb.textlive",
-    "url": "https://play.google.com/store/apps/details?id=jp.co.yahoo.android.sports.npb.textlive",
-    "icon": "https://play-lh.googleusercontent.com/HESJpzcOn1xd2VtsnuV8-ZeG0G_tZ74nOdJHFsW6WG6OHtDZckQQ19GP0yHd35Pp2JI",
-    "developer": "Yahoo Japan Corp.",
-    "developerId": "9059031076674808747",
+    "title": "かんたんnetprint－PDFも写真もコンビニですぐ印刷",
+    "appId": "com.fujifilm.fb.netprint.kantan",
+    "url": "https://play.google.com/store/apps/details?id=com.fujifilm.fb.netprint.kantan",
+    "icon": "https://play-lh.googleusercontent.com/7rEg0bxwJguH4txNQH3-jE9xfEgfcMJXIGmzZrJGGwbGWnOIR02P6AQymchdlpBuISQ",
+    "developer": "FUJIFILM Business Innovation Corp.",
+    "developerId": "8533170889021817206",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Baseball fan must-have app!",
+    "summary": "■ No membership registration required ■ PDF and photos ■ Easy operation ■ \"Immediately on the spot\" print ■ \"Anytime\" at the nearest 7-Eleven ■ Print out with a multi-copy machine at the store",
     "scoreText": "3.8",
-    "score": 3.842414
+    "score": 3.83
   },
   {
     "title": "QR & Barcode Reader",
@@ -767,7 +739,7 @@
     "free": true,
     "summary": "Functional QR scanner and barcode reader that requires little storage space.",
     "scoreText": "4.2",
-    "score": 4.1732187
+    "score": 4.1731706
   },
   {
     "title": "楽天ポイントクラブ – 楽天ポイント管理アプリ",
@@ -781,7 +753,21 @@
     "free": true,
     "summary": "[Over 15 million downloads! ] You can easily check points and collect points! Earn points every day by launching the app ♪",
     "scoreText": "4.0",
-    "score": 3.9761639
+    "score": 3.9739633
+  },
+  {
+    "title": "スポナビ 野球速報",
+    "appId": "jp.co.yahoo.android.sports.npb.textlive",
+    "url": "https://play.google.com/store/apps/details?id=jp.co.yahoo.android.sports.npb.textlive",
+    "icon": "https://play-lh.googleusercontent.com/HESJpzcOn1xd2VtsnuV8-ZeG0G_tZ74nOdJHFsW6WG6OHtDZckQQ19GP0yHd35Pp2JI",
+    "developer": "Yahoo Japan Corp.",
+    "developerId": "9059031076674808747",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Baseball fan must-have app!",
+    "scoreText": "3.8",
+    "score": 3.8401558
   },
   {
     "title": "少年ジャンプ＋ 人気漫画が読める雑誌アプリ",
@@ -795,7 +781,7 @@
     "free": true,
     "summary": "All-you-can-read popular manga, Komicku, and recommended masterpiece manga serialized in magazines for free! New movie comics and original love works are updated daily. Official manga app that allows you to read all volumes and stories",
     "scoreText": "4.2",
-    "score": 4.201852
+    "score": 4.202865
   },
   {
     "title": "Simeji Japanese keyboard+Emoji",
@@ -809,7 +795,35 @@
     "free": true,
     "summary": "Simeji is a simple and easy to use Japanese input emoji keyboard.",
     "scoreText": "4.4",
-    "score": 4.3837857
+    "score": 4.383684
+  },
+  {
+    "title": "what3words",
+    "appId": "com.what3words.android",
+    "url": "https://play.google.com/store/apps/details?id=com.what3words.android",
+    "icon": "https://play-lh.googleusercontent.com/wd4zcCd_VF36KAFTyKO9hh_HrXUjfebD5wuwFdK4ZWHuwsA4p5RatR24dfJaQkWjnR0",
+    "developer": "what3words",
+    "developerId": "5394589464617666288",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "This app helps you find, share and navigate to any precise location",
+    "scoreText": "3.4",
+    "score": 3.368932
+  },
+  {
+    "title": "Phone Optimizer",
+    "appId": "com.phone.optimizer.tool.cleaner",
+    "url": "https://play.google.com/store/apps/details?id=com.phone.optimizer.tool.cleaner",
+    "icon": "https://play-lh.googleusercontent.com/Ux6Ad3FF5rktIyLDcTk_7VC8KW0ufSRmnFUd5YqisU919zpQBPCjltKyHHS9uqEqmgY",
+    "developer": "sunny66746167@gmail.com",
+    "developerId": "sunny66746167@gmail.com",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Phone Optimizer is an optimization tool for Android phones.",
+    "scoreText": "3.8",
+    "score": 3.8269231
   },
   {
     "title": "Netflix",
@@ -823,49 +837,7 @@
     "free": true,
     "summary": "Netflix is the leading subscription service for watching TV episodes and movies.",
     "scoreText": "3.8",
-    "score": 3.8384745
-  },
-  {
-    "title": "Phone Optimizer",
-    "appId": "com.phone.optimizer.tool.cleaner",
-    "url": "https://play.google.com/store/apps/details?id=com.phone.optimizer.tool.cleaner",
-    "icon": "https://play-lh.googleusercontent.com/Ux6Ad3FF5rktIyLDcTk_7VC8KW0ufSRmnFUd5YqisU919zpQBPCjltKyHHS9uqEqmgY",
-    "developer": "sunny66746167@gmail.com",
-    "developerId": "sunny66746167@gmail.com",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Phone Optimizer is an optimization tool for Android phones.",
-    "scoreText": "3.7",
-    "score": 3.7297297
-  },
-  {
-    "title": "Adobe Acrobat Reader: Edit PDF",
-    "appId": "com.adobe.reader",
-    "url": "https://play.google.com/store/apps/details?id=com.adobe.reader",
-    "icon": "https://play-lh.googleusercontent.com/Km56shk2gkIGegFGjgx552P1ZUTsw7avbXnN9-qPzreUw3HO-mbQ5g7okH-zF9orEA",
-    "developer": "Adobe",
-    "developerId": "4734916851270416020",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Send PDFs for e signatures, edit on the go &amp; help save battery with dark mode.",
-    "scoreText": "4.2",
-    "score": 4.1666665
-  },
-  {
-    "title": "楽天ペイ-楽天ポイントがいつものお支払いで使える・貯まる！",
-    "appId": "jp.co.rakuten.pay",
-    "url": "https://play.google.com/store/apps/details?id=jp.co.rakuten.pay",
-    "icon": "https://play-lh.googleusercontent.com/wcy_POBZp6Bo7pe1Y7n89-aZX1Mep-hIp9x5_YRE9O22y8bAExzIJ08zv6j5m5LBhw",
-    "developer": "Rakuten Group, Inc.",
-    "developerId": "Rakuten+Group,+Inc.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "A smartphone payment app that allows you to use Rakuten points to pay for the city! Furthermore, \"Rakuten Pay Suica\" can be used for commuting to work or school, and can be charged with Rakuten points!",
-    "scoreText": "4.1",
-    "score": 4.076521
+    "score": 3.8363228
   },
   {
     "title": "AIO Booster - Junk Cleaner",
@@ -879,7 +851,63 @@
     "free": true,
     "summary": "AIO Booster is one of the most effective  phone cleaners for Android.",
     "scoreText": "3.6",
-    "score": 3.6388888
+    "score": 3.5921052
+  },
+  {
+    "title": "楽天ペイ-楽天ポイントがいつものお支払いで使える・貯まる！",
+    "appId": "jp.co.rakuten.pay",
+    "url": "https://play.google.com/store/apps/details?id=jp.co.rakuten.pay",
+    "icon": "https://play-lh.googleusercontent.com/wcy_POBZp6Bo7pe1Y7n89-aZX1Mep-hIp9x5_YRE9O22y8bAExzIJ08zv6j5m5LBhw",
+    "developer": "Rakuten Group, Inc.",
+    "developerId": "Rakuten+Group,+Inc.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "A smartphone payment app that allows you to use Rakuten points to pay for the city! Furthermore, \"Rakuten Pay Suica\" can be used for commuting to work or school, and can be charged with Rakuten points!",
+    "scoreText": "4.1",
+    "score": 4.0729365
+  },
+  {
+    "title": "Adobe Acrobat Reader: Edit PDF",
+    "appId": "com.adobe.reader",
+    "url": "https://play.google.com/store/apps/details?id=com.adobe.reader",
+    "icon": "https://play-lh.googleusercontent.com/Km56shk2gkIGegFGjgx552P1ZUTsw7avbXnN9-qPzreUw3HO-mbQ5g7okH-zF9orEA",
+    "developer": "Adobe",
+    "developerId": "4734916851270416020",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Send PDFs for e signatures, edit on the go &amp; help save battery with dark mode.",
+    "scoreText": "4.2",
+    "score": 4.1667523
+  },
+  {
+    "title": "radiko",
+    "appId": "jp.radiko.Player",
+    "url": "https://play.google.com/store/apps/details?id=jp.radiko.Player",
+    "icon": "https://play-lh.googleusercontent.com/GvwfQwHX_bu2sQjetmfpZ0zjR1iNwC_2xTVsokCnVJrVQfWEMw9sAo2B5EaiUVpIig4",
+    "developer": "株式会社radiko",
+    "developerId": "%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEradiko",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "\"radiko\" radio streaming app   (for use in Japan only)",
+    "scoreText": "4.2",
+    "score": 4.2255397
+  },
+  {
+    "title": "Pococha Live - Live Stream & Build Your Community",
+    "appId": "com.dena.pokota",
+    "url": "https://play.google.com/store/apps/details?id=com.dena.pokota",
+    "icon": "https://play-lh.googleusercontent.com/LZPdnPMeacf1zCBhDcOlVs01XQNTrySEVlZq8yq4lsAAvHrAG3n_kz3ZqPEOKdnpnA0",
+    "developer": "DeNA Co., Ltd.",
+    "developerId": "5614074995304947897",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Build your own cozy community through this live streaming app.",
+    "scoreText": "3.8",
+    "score": 3.8308122
   },
   {
     "title": "7-Eleven Multicopy",
@@ -896,20 +924,6 @@
     "score": 2.7425742
   },
   {
-    "title": "radiko",
-    "appId": "jp.radiko.Player",
-    "url": "https://play.google.com/store/apps/details?id=jp.radiko.Player",
-    "icon": "https://play-lh.googleusercontent.com/GvwfQwHX_bu2sQjetmfpZ0zjR1iNwC_2xTVsokCnVJrVQfWEMw9sAo2B5EaiUVpIig4",
-    "developer": "株式会社radiko",
-    "developerId": "%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEradiko",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "\"radiko\" radio streaming app   (for use in Japan only)",
-    "scoreText": "4.2",
-    "score": 4.226267
-  },
-  {
     "title": "マイナポイント",
     "appId": "jp.go.soumu.mkpf.mkpfmypage",
     "url": "https://play.google.com/store/apps/details?id=jp.go.soumu.mkpf.mkpfmypage",
@@ -924,20 +938,6 @@
     "score": 2.608769
   },
   {
-    "title": "Pococha Live - Live Stream & Build Your Community",
-    "appId": "com.dena.pokota",
-    "url": "https://play.google.com/store/apps/details?id=com.dena.pokota",
-    "icon": "https://play-lh.googleusercontent.com/LZPdnPMeacf1zCBhDcOlVs01XQNTrySEVlZq8yq4lsAAvHrAG3n_kz3ZqPEOKdnpnA0",
-    "developer": "DeNA Co., Ltd.",
-    "developerId": "5614074995304947897",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Build your own cozy community through this live streaming app.",
-    "scoreText": "3.8",
-    "score": 3.8302417
-  },
-  {
     "title": "Google Fit: Activity Tracking",
     "appId": "com.google.android.apps.fitness",
     "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.fitness",
@@ -949,7 +949,7 @@
     "free": true,
     "summary": "Want to take charge of your health? Let Google Fit help you reach your goals.",
     "scoreText": "3.0",
-    "score": 2.9928935
+    "score": 3
   },
   {
     "title": "Ponta",
@@ -963,7 +963,7 @@
     "free": true,
     "summary": "Ponta app that allows you to use Ponta cards on your smartphone. Even if you don't carry a card, you can show your smartphone and collect points.",
     "scoreText": "3.7",
-    "score": 3.6620553
+    "score": 3.6588004
   },
   {
     "title": "Marup's Stickers",
@@ -977,7 +977,7 @@
     "free": true,
     "summary": "A lot of stickers",
     "scoreText": "4.3",
-    "score": 4.275
+    "score": 4.283951
   },
   {
     "title": "QR Code Reader - Barcode Scan",
@@ -991,7 +991,7 @@
     "free": true,
     "summary": "Quick QR code scanner. Easy UPC code scanner, food barcode scanner &amp; more!",
     "scoreText": "4.3",
-    "score": 4.268786
+    "score": 4.264249
   },
   {
     "title": "バイトル アルバイト選び・バイト探し、パート・正社員求人情報",
@@ -1005,7 +1005,7 @@
     "free": true,
     "summary": "Job postings for trial work and tours are being posted! You can find the job that suits you best from 700,000! It is updated every hour every day, so you can see the latest job information as soon as possible!",
     "scoreText": "4.1",
-    "score": 4.076684
+    "score": 4.0776396
   },
   {
     "title": "My docomo - 料金・通信量の確認",
@@ -1019,7 +1019,7 @@
     "free": true,
     "summary": "[DOCOMO Official App] An app that allows you to easily check the amount of data communication, charges, and d points you care about is now available! You can also check the amount of communication until the speed drops.",
     "scoreText": "3.6",
-    "score": 3.5618145
+    "score": 3.5620818
   },
   {
     "title": "Disney+",
@@ -1033,35 +1033,21 @@
     "free": true,
     "summary": "Stream and download your favorite movies, TV shows &amp; Originals on Disney+",
     "scoreText": "3.8",
-    "score": 3.7651007
+    "score": 3.754591
   },
   {
-    "title": "めちゃコミックの毎日連載マンガアプリ",
-    "appId": "jp.co.amutus.mechacomic.android.mangaapp",
-    "url": "https://play.google.com/store/apps/details?id=jp.co.amutus.mechacomic.android.mangaapp",
-    "icon": "https://play-lh.googleusercontent.com/-MccBQkGtYFTBNigTz4SwFqtkuFxv11FIDKlTRWHkMvGuPWCBctDL6MwgiEBXh7yTg",
-    "developer": "AMUTUS CORP",
-    "developerId": "AMUTUS+CORP",
+    "title": "Yahoo!ニュース　最新情報を速報　防災・天気・コメントも",
+    "appId": "jp.co.yahoo.android.news",
+    "url": "https://play.google.com/store/apps/details?id=jp.co.yahoo.android.news",
+    "icon": "https://play-lh.googleusercontent.com/m47a7bAoxf8a0SepEfMHdShcVUvhL4FnDowfHXvocjRhNFsF-wDGdyKbxhPN9TEvSg",
+    "developer": "Yahoo Japan Corp.",
+    "developerId": "9059031076674808747",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "\"Mecha Comic\" brand manga app is now available! Lots of love manga / shojo manga! Full of royal romantic comedies, chest-knuckle manga, and original works! You can also enjoy shōnen manga / seinen manga!",
+    "summary": "A free news app. We will notify you of disaster information such as earthquakes and heavy rains, and important news in the world by push notification. You can check the latest news on video with 24-hour live distribution.",
     "scoreText": "4.0",
-    "score": 3.9845474
-  },
-  {
-    "title": "クックパッド -みんなが作ってる料理レシピで、ご飯をおいしく",
-    "appId": "com.cookpad.android.activities",
-    "url": "https://play.google.com/store/apps/details?id=com.cookpad.android.activities",
-    "icon": "https://play-lh.googleusercontent.com/G8KxoLSAJIYrDSObg07KNi55XAij9uO4hr4VQYXTTmfCpvfHswL0SwnGgx3Zcfvj2Hk",
-    "developer": "Cookpad Inc.",
-    "developerId": "6698899737769238815",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "◆ Free recipe search app\nEasily find cooking recipes! From dinner to lunch and crazy meals, you don't have to worry about eating rice anymore!",
-    "scoreText": "4.3",
-    "score": 4.3385777
+    "score": 4.0368395
   },
   {
     "title": "Coke ON",
@@ -1075,7 +1061,7 @@
     "free": true,
     "summary": "Get a free drink ticket by collecting 15 stamps with Coke ON vending machines.",
     "scoreText": "3.9",
-    "score": 3.896489
+    "score": 3.8955035
   },
   {
     "title": "Yahoo! Mail",
@@ -1089,7 +1075,21 @@
     "free": true,
     "summary": "Fast with smooth transition and easy to use.",
     "scoreText": "3.6",
-    "score": 3.6395583
+    "score": 3.6415827
+  },
+  {
+    "title": "ファミマのアプリ「ファミペイ」",
+    "appId": "jp.co.family.familymart_app",
+    "url": "https://play.google.com/store/apps/details?id=jp.co.family.familymart_app",
+    "icon": "https://play-lh.googleusercontent.com/fsDs50ROhvKXo_6TH75xvafwkqRjsyBtz-HiJ22dPuixhaEHhbUqlOEf4fP1_Abl4sE",
+    "developer": "FamilyMart Co.,Ltd.",
+    "developerId": "FamilyMart+Co.,Ltd.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "FamilyMart convenience store app that is great just to put it out",
+    "scoreText": "4.1",
+    "score": 4.147914
   },
   {
     "title": "dカードアプリ",
@@ -1106,60 +1106,32 @@
     "score": 3.2525773
   },
   {
-    "title": "ファミマのアプリ「ファミペイ」",
-    "appId": "jp.co.family.familymart_app",
-    "url": "https://play.google.com/store/apps/details?id=jp.co.family.familymart_app",
-    "icon": "https://play-lh.googleusercontent.com/fsDs50ROhvKXo_6TH75xvafwkqRjsyBtz-HiJ22dPuixhaEHhbUqlOEf4fP1_Abl4sE",
-    "developer": "FamilyMart Co.,Ltd.",
-    "developerId": "FamilyMart+Co.,Ltd.",
+    "title": "めちゃコミックの毎日連載マンガアプリ",
+    "appId": "jp.co.amutus.mechacomic.android.mangaapp",
+    "url": "https://play.google.com/store/apps/details?id=jp.co.amutus.mechacomic.android.mangaapp",
+    "icon": "https://play-lh.googleusercontent.com/-MccBQkGtYFTBNigTz4SwFqtkuFxv11FIDKlTRWHkMvGuPWCBctDL6MwgiEBXh7yTg",
+    "developer": "AMUTUS CORP",
+    "developerId": "AMUTUS+CORP",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "FamilyMart convenience store app that is great just to put it out",
-    "scoreText": "4.1",
-    "score": 4.1414814
+    "summary": "\"Mecha Comic\" brand manga app is now available! Lots of love manga / shojo manga! Full of royal romantic comedies, chest-knuckle manga, and original works! You can also enjoy shōnen manga / seinen manga!",
+    "scoreText": "4.0",
+    "score": 3.9802198
   },
   {
-    "title": "NAVITIME - Map & Transfer Navi",
-    "appId": "com.navitime.local.navitime",
-    "url": "https://play.google.com/store/apps/details?id=com.navitime.local.navitime",
-    "icon": "https://play-lh.googleusercontent.com/cw8gJBnk7_CsKtJBpvJN43HE14F-LHJ0ARppO4fqaMz6JFg_fH-Q5LCflaNT9U1tNg",
-    "developer": "NAVITIME JAPAN CO., LTD.",
-    "developerId": "6832600765041977582",
+    "title": "クックパッド -みんなが作ってる料理レシピで、ご飯をおいしく",
+    "appId": "com.cookpad.android.activities",
+    "url": "https://play.google.com/store/apps/details?id=com.cookpad.android.activities",
+    "icon": "https://play-lh.googleusercontent.com/G8KxoLSAJIYrDSObg07KNi55XAij9uO4hr4VQYXTTmfCpvfHswL0SwnGgx3Zcfvj2Hk",
+    "developer": "Cookpad Inc.",
+    "developerId": "6698899737769238815",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "NAVITIME is one of the largest navigation service Japan .",
-    "scoreText": "4.1",
-    "score": 4.0959134
-  },
-  {
-    "title": "Discord - Chat, Talk & Hangout",
-    "appId": "com.discord",
-    "url": "https://play.google.com/store/apps/details?id=com.discord",
-    "icon": "https://play-lh.googleusercontent.com/0oO5sAneb9lJP6l8c6DH4aj6f85qNpplQVHmPmbbBxAukDnlO7DarDW0b-kEIHa8SQ",
-    "developer": "Discord Inc.",
-    "developerId": "Discord+Inc.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Chat, game, stream, share, join communities and hang out with friends.",
-    "scoreText": "4.4",
-    "score": 4.3748503
-  },
-  {
-    "title": "Amazon Music: Discover Songs",
-    "appId": "com.amazon.mp3",
-    "url": "https://play.google.com/store/apps/details?id=com.amazon.mp3",
-    "icon": "https://play-lh.googleusercontent.com/c0uMGe9aLRQxGtAXB_9xnKnG83VOGRD7NtglvnzPj9SYS3_ZYA_EYhtP86nePn0vjI0",
-    "developer": "Amazon Mobile LLC",
-    "developerId": "Amazon+Mobile+LLC",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Listen to podcasts, trending playlists, hit music, and your favorite songs",
-    "scoreText": "3.7",
-    "score": 3.7222767
+    "summary": "◆ Free recipe search app\nEasily find cooking recipes! From dinner to lunch and crazy meals, you don't have to worry about eating rice anymore!",
+    "scoreText": "4.3",
+    "score": 4.3392305
   },
   {
     "title": "トリマ-移動するだけでポイントが貯まるお小遣い稼ぎアプリ",
@@ -1173,63 +1145,35 @@
     "free": true,
     "summary": "Trimmer is a super-easy poi activity app. A must-see for those who do not have a long-lasting point site! You can earn more points just by moving as usual. Can be exchanged for electronic money and famous points!",
     "scoreText": "2.8",
-    "score": 2.8075793
+    "score": 2.8057742
   },
   {
-    "title": "Yahoo!ニュース　最新情報を速報　防災・天気・コメントも",
-    "appId": "jp.co.yahoo.android.news",
-    "url": "https://play.google.com/store/apps/details?id=jp.co.yahoo.android.news",
-    "icon": "https://play-lh.googleusercontent.com/m47a7bAoxf8a0SepEfMHdShcVUvhL4FnDowfHXvocjRhNFsF-wDGdyKbxhPN9TEvSg",
-    "developer": "Yahoo Japan Corp.",
-    "developerId": "9059031076674808747",
+    "title": "Amazon Music: Discover Songs",
+    "appId": "com.amazon.mp3",
+    "url": "https://play.google.com/store/apps/details?id=com.amazon.mp3",
+    "icon": "https://play-lh.googleusercontent.com/c0uMGe9aLRQxGtAXB_9xnKnG83VOGRD7NtglvnzPj9SYS3_ZYA_EYhtP86nePn0vjI0",
+    "developer": "Amazon Mobile LLC",
+    "developerId": "Amazon+Mobile+LLC",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "A free news app. We will notify you of disaster information such as earthquakes and heavy rains, and important news in the world by push notification. You can check the latest news on video with 24-hour live distribution.",
-    "scoreText": "4.0",
-    "score": 4.035652
+    "summary": "Listen to podcasts, trending playlists, hit music, and your favorite songs",
+    "scoreText": "3.7",
+    "score": 3.7200727
   },
   {
-    "title": "Uber Eats: Food Delivery",
-    "appId": "com.ubercab.eats",
-    "url": "https://play.google.com/store/apps/details?id=com.ubercab.eats",
-    "icon": "https://play-lh.googleusercontent.com/MMBG4AZmpMhSfhF5k7QnFmhvFbaF5ZC_BtEOIKRt9TIkUZjul2lWwPZV75PwTfoSm23-jgMxkroRGA-vkDg",
-    "developer": "Uber Technologies, Inc.",
-    "developerId": "7908612043055486674",
+    "title": "Discord - Chat, Talk & Hangout",
+    "appId": "com.discord",
+    "url": "https://play.google.com/store/apps/details?id=com.discord",
+    "icon": "https://play-lh.googleusercontent.com/0oO5sAneb9lJP6l8c6DH4aj6f85qNpplQVHmPmbbBxAukDnlO7DarDW0b-kEIHa8SQ",
+    "developer": "Discord Inc.",
+    "developerId": "Discord+Inc.",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Food &amp; Grocery Delivery App. Order Pizza, Sushi, Burger, Tacos to your door!",
-    "scoreText": "3.9",
-    "score": 3.9040396
-  },
-  {
-    "title": "d払い－スマホ決済アプリ、キャッシュレスでお支払い",
-    "appId": "com.nttdocomo.keitai.payment",
-    "url": "https://play.google.com/store/apps/details?id=com.nttdocomo.keitai.payment",
-    "icon": "https://play-lh.googleusercontent.com/EwuYXEnyOJyW1-y34fsgR9AllkR71wtQ3dwgqj8K3cPcljxtJkdW1sGjmdf0U0z0yn8-",
-    "developer": "NTT DOCOMO",
-    "developerId": "NTT+DOCOMO",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "A smartphone payment app that allows you to collect and use d points each time you make a payment! If you have a doCoMo line contract, pay with the monthly mobile phone charge! Save even more by linking your credit card!",
-    "scoreText": "4.1",
-    "score": 4.0879765
-  },
-  {
-    "title": "楽天カード：明細確認・家計簿レシート撮影アプリ",
-    "appId": "jp.co.rakuten.kc.rakutencardapp.android",
-    "url": "https://play.google.com/store/apps/details?id=jp.co.rakuten.kc.rakutencardapp.android",
-    "icon": "https://play-lh.googleusercontent.com/OgJnFGtgbKF_SePfA7gpxAfG0O1-r435SLyHQuBIAFZXICnEqed7jS4DXQKIY0GSIg",
-    "developer": "Rakuten Card Co., Ltd.",
-    "developerId": "Rakuten+Card+Co.,+Ltd.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Easy to check details and manage expenses",
-    "scoreText": "4.1",
-    "score": 4.12183
+    "summary": "Chat, game, stream, share, join communities and hang out with friends.",
+    "scoreText": "4.4",
+    "score": 4.375931
   },
   {
     "title": "グノシー - 重要ニュースを逃さない、定番ニュースアプリ",
@@ -1243,21 +1187,63 @@
     "free": true,
     "summary": "A completely free classic news app. We are delivering 5 line news that you can see important news at a glance, news summary that you can \"listen while listening\" by voice, coupons that are profitable every day, etc.!",
     "scoreText": "3.6",
-    "score": 3.631543
+    "score": 3.6315935
   },
   {
-    "title": "QR & Barcode Scanner - Fast, Efficient, Small",
-    "appId": "com.rock.wash.reader",
-    "url": "https://play.google.com/store/apps/details?id=com.rock.wash.reader",
-    "icon": "https://play-lh.googleusercontent.com/SbvG_7leJzzxElxN9jNB9R6XAyhxiF0YeiQGzkBmxbS-WmhljjDFgZbG10ufdXi60A",
-    "developer": "Blue Laser Studio",
-    "developerId": "8099065719677500531",
+    "title": "NAVITIME - Map & Transfer Navi",
+    "appId": "com.navitime.local.navitime",
+    "url": "https://play.google.com/store/apps/details?id=com.navitime.local.navitime",
+    "icon": "https://play-lh.googleusercontent.com/cw8gJBnk7_CsKtJBpvJN43HE14F-LHJ0ARppO4fqaMz6JFg_fH-Q5LCflaNT9U1tNg",
+    "developer": "NAVITIME JAPAN CO., LTD.",
+    "developerId": "6832600765041977582",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Scan QR code and create yours, easy to use!",
-    "scoreText": "3.3",
-    "score": 3.33
+    "summary": "NAVITIME is one of the largest navigation service Japan .",
+    "scoreText": "4.1",
+    "score": 4.0955048
+  },
+  {
+    "title": "Uber Eats: Food Delivery",
+    "appId": "com.ubercab.eats",
+    "url": "https://play.google.com/store/apps/details?id=com.ubercab.eats",
+    "icon": "https://play-lh.googleusercontent.com/MMBG4AZmpMhSfhF5k7QnFmhvFbaF5ZC_BtEOIKRt9TIkUZjul2lWwPZV75PwTfoSm23-jgMxkroRGA-vkDg",
+    "developer": "Uber Technologies, Inc.",
+    "developerId": "7908612043055486674",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Food &amp; Grocery Delivery App. Order Pizza, Sushi, Burger, Tacos to your door!",
+    "scoreText": "3.9",
+    "score": 3.9048026
+  },
+  {
+    "title": "d払い－スマホ決済アプリ、キャッシュレスでお支払い",
+    "appId": "com.nttdocomo.keitai.payment",
+    "url": "https://play.google.com/store/apps/details?id=com.nttdocomo.keitai.payment",
+    "icon": "https://play-lh.googleusercontent.com/EwuYXEnyOJyW1-y34fsgR9AllkR71wtQ3dwgqj8K3cPcljxtJkdW1sGjmdf0U0z0yn8-",
+    "developer": "NTT DOCOMO",
+    "developerId": "NTT+DOCOMO",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "A smartphone payment app that allows you to collect and use d points each time you make a payment! If you have a doCoMo line contract, pay with the monthly mobile phone charge! Save even more by linking your credit card!",
+    "scoreText": "4.1",
+    "score": 4.0886846
+  },
+  {
+    "title": "楽天カード：明細確認・家計簿レシート撮影アプリ",
+    "appId": "jp.co.rakuten.kc.rakutencardapp.android",
+    "url": "https://play.google.com/store/apps/details?id=jp.co.rakuten.kc.rakutencardapp.android",
+    "icon": "https://play-lh.googleusercontent.com/OgJnFGtgbKF_SePfA7gpxAfG0O1-r435SLyHQuBIAFZXICnEqed7jS4DXQKIY0GSIg",
+    "developer": "Rakuten Card Co., Ltd.",
+    "developerId": "Rakuten+Card+Co.,+Ltd.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Easy to check details and manage expenses",
+    "scoreText": "4.1",
+    "score": 4.1225657
   },
   {
     "title": "Pedometer - Step Counter App",
@@ -1271,21 +1257,21 @@
     "free": true,
     "summary": "Pedometer App will automatically keep track of the number of your steps",
     "scoreText": "4.6",
-    "score": 4.5955267
+    "score": 4.595455
   },
   {
-    "title": "GYAO! - 動画アプリ",
-    "appId": "jp.co.yahoo.gyao.android.app",
-    "url": "https://play.google.com/store/apps/details?id=jp.co.yahoo.gyao.android.app",
-    "icon": "https://play-lh.googleusercontent.com/c6NYG76c05WV-_fkau-qP2difJRagu-_OcBEQiY6ah5IrKtNqq85J-dM16Lz_SpZTkA",
-    "developer": "Yahoo Japan Corp.",
-    "developerId": "9059031076674808747",
+    "title": "QR & Barcode Scanner - Fast, Efficient, Small",
+    "appId": "com.rock.wash.reader",
+    "url": "https://play.google.com/store/apps/details?id=com.rock.wash.reader",
+    "icon": "https://play-lh.googleusercontent.com/SbvG_7leJzzxElxN9jNB9R6XAyhxiF0YeiQGzkBmxbS-WmhljjDFgZbG10ufdXi60A",
+    "developer": "Blue Laser Studio",
+    "developerId": "8099065719677500531",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "GYAO! Is a video app that allows you to watch TV programs, anime, movies, and music without registering as a member.",
-    "scoreText": "3.9",
-    "score": 3.9464152
+    "summary": "Scan QR code and create yours, easy to use!",
+    "scoreText": "3.3",
+    "score": 3.35
   },
   {
     "title": "Amazon Kindle",
@@ -1299,21 +1285,7 @@
     "free": true,
     "summary": "Your library in your pocket. Anytime, anywhere.",
     "scoreText": "4.3",
-    "score": 4.2835507
-  },
-  {
-    "title": "ゆうちょ認証アプリ",
-    "appId": "jp.japanpost.jp_bank.FIDOapp",
-    "url": "https://play.google.com/store/apps/details?id=jp.japanpost.jp_bank.FIDOapp",
-    "icon": "https://play-lh.googleusercontent.com/tbNQiEc99cZxNAdLLkf2CHkTNf29_RTmLLR2opuZ-NfXEol0vFdki71mabXKBlzU-ebO",
-    "developer": "ゆうちょ銀行",
-    "developerId": "%E3%82%86%E3%81%86%E3%81%A1%E3%82%87%E9%8A%80%E8%A1%8C",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "An app dedicated to personal authentication of smartphones. You can use it easily and free of charge as a personal authentication function when logging in and sending money to Yucho Direct.",
-    "scoreText": "2.2",
-    "score": 2.204023
+    "score": 4.2840652
   },
   {
     "title": "Chatwork - Business Chat App",
@@ -1326,50 +1298,22 @@
     "price": 0,
     "free": true,
     "summary": "The cloud-based business chat tool Chatwork's Android app is here!",
-    "scoreText": "3.3",
-    "score": 3.344
+    "scoreText": "3.4",
+    "score": 3.36
   },
   {
-    "title": "Tポイント",
-    "appId": "jp.co.ccc.Tsite",
-    "url": "https://play.google.com/store/apps/details?id=jp.co.ccc.Tsite",
-    "icon": "https://play-lh.googleusercontent.com/h2m_vUXm8mNhUSKGxHb9Mo6VSZwnFy8Up2pjup30oJHvdROpV8Gb3yX8X7Dy01PDAYw",
-    "developer": "Culture Convenience Club Co.,Ltd.",
-    "developerId": "Culture+Convenience+Club+Co.,Ltd.",
+    "title": "GYAO! - 動画アプリ",
+    "appId": "jp.co.yahoo.gyao.android.app",
+    "url": "https://play.google.com/store/apps/details?id=jp.co.yahoo.gyao.android.app",
+    "icon": "https://play-lh.googleusercontent.com/c6NYG76c05WV-_fkau-qP2difJRagu-_OcBEQiY6ah5IrKtNqq85J-dM16Lz_SpZTkA",
+    "developer": "Yahoo Japan Corp.",
+    "developerId": "9059031076674808747",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "■ Your smartphone becomes a T card! It can also be used by those who do not have a T card.\n■ Profitable coupons are being delivered!\n■ You can check the number of T points and usage history immediately.",
-    "scoreText": "3.7",
-    "score": 3.6899917
-  },
-  {
-    "title": "QR Code & Barcode Scanner",
-    "appId": "com.scanteam.qrcodereader",
-    "url": "https://play.google.com/store/apps/details?id=com.scanteam.qrcodereader",
-    "icon": "https://play-lh.googleusercontent.com/ZKpCCHcOdPiEo9AJIwYCgHfkVW0b6iaWKdJZylzVf8MeY-DgrthXyHGcSGO9y7pcqi7I",
-    "developer": "QR SCAN Team",
-    "developerId": "QR+SCAN+Team",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Instantly scan QR codes and barcodes! 100% Free and Safe to use!",
-    "scoreText": "4.6",
-    "score": 4.55
-  },
-  {
-    "title": "マガポケ -週刊少年マガジン公式アプリ「マガジンポケット」",
-    "appId": "jp.co.kodansha.android.magazinepocket",
-    "url": "https://play.google.com/store/apps/details?id=jp.co.kodansha.android.magazinepocket",
-    "icon": "https://play-lh.googleusercontent.com/C3v7yJomwjp306673eNUIZEJOcI2frcjZr6TotuNloKoXZgHx8HglotHK-gIBX12Ggc",
-    "developer": "Kodansha Ltd.",
-    "developerId": "Kodansha+Ltd.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "\"Weekly Shonen Magazine\" \"Separate Shonen Magazine\" official! Free-to-read unlimited daily reading of popular series and popular manga!\nFull of original works that can only be read here!",
-    "scoreText": "4.2",
-    "score": 4.20178
+    "summary": "GYAO! Is a video app that allows you to watch TV programs, anime, movies, and music without registering as a member.",
+    "scoreText": "3.9",
+    "score": 3.9462245
   },
   {
     "title": "GO タクシーが呼べるアプリ 旧MOV×JapanTaxi",
@@ -1383,35 +1327,49 @@
     "free": true,
     "summary": "You can make a lump-sum arrangement for the former MOV and Japan Taxi tie-up vehicles and call a taxi immediately. Payment is cashless.",
     "scoreText": "4.3",
-    "score": 4.3350286
+    "score": 4.3346057
   },
   {
-    "title": "スキマバイトはタイミー /お金がすぐにもらえる",
-    "appId": "jp.co.taimee",
-    "url": "https://play.google.com/store/apps/details?id=jp.co.taimee",
-    "icon": "https://play-lh.googleusercontent.com/XYdpo002bNyCiqYxVc1Rxa0fYJSZI_GZt36MsJ_LeV4dItBpHB-SiTUgqVuqVfdwuA",
-    "developer": "Timee, inc.",
-    "developerId": "Timee,+inc.",
+    "title": "マガポケ -週刊少年マガジン公式アプリ「マガジンポケット」",
+    "appId": "jp.co.kodansha.android.magazinepocket",
+    "url": "https://play.google.com/store/apps/details?id=jp.co.kodansha.android.magazinepocket",
+    "icon": "https://play-lh.googleusercontent.com/C3v7yJomwjp306673eNUIZEJOcI2frcjZr6TotuNloKoXZgHx8HglotHK-gIBX12Ggc",
+    "developer": "Kodansha Ltd.",
+    "developerId": "Kodansha+Ltd.",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Skimming byte app No.1 \"Timee\" You can work immediately and get money immediately. No need for an interview or resume.",
-    "scoreText": "4.1",
-    "score": 4.075
-  },
-  {
-    "title": "Zenly - Your map, your people",
-    "appId": "app.zenly.locator",
-    "url": "https://play.google.com/store/apps/details?id=app.zenly.locator",
-    "icon": "https://play-lh.googleusercontent.com/ynj13-AW8J_AEpNyODc4L1gutNuND7_35xTNOCK8ZJ_5UTZKILHORvsAgUDoPFl1w1k",
-    "developer": "ZENLY",
-    "developerId": "ZENLY",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "From Snap Inc.",
+    "summary": "\"Weekly Shonen Magazine\" \"Separate Shonen Magazine\" official! Free-to-read unlimited daily reading of popular series and popular manga!\nFull of original works that can only be read here!",
     "scoreText": "4.2",
-    "score": 4.2243714
+    "score": 4.2021055
+  },
+  {
+    "title": "ゆうちょ認証アプリ",
+    "appId": "jp.japanpost.jp_bank.FIDOapp",
+    "url": "https://play.google.com/store/apps/details?id=jp.japanpost.jp_bank.FIDOapp",
+    "icon": "https://play-lh.googleusercontent.com/tbNQiEc99cZxNAdLLkf2CHkTNf29_RTmLLR2opuZ-NfXEol0vFdki71mabXKBlzU-ebO",
+    "developer": "ゆうちょ銀行",
+    "developerId": "%E3%82%86%E3%81%86%E3%81%A1%E3%82%87%E9%8A%80%E8%A1%8C",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "An app dedicated to personal authentication of smartphones. You can use it easily and free of charge as a personal authentication function when logging in and sending money to Yucho Direct.",
+    "scoreText": "2.2",
+    "score": 2.194203
+  },
+  {
+    "title": "QR Code & Barcode Scanner",
+    "appId": "com.scanteam.qrcodereader",
+    "url": "https://play.google.com/store/apps/details?id=com.scanteam.qrcodereader",
+    "icon": "https://play-lh.googleusercontent.com/ZKpCCHcOdPiEo9AJIwYCgHfkVW0b6iaWKdJZylzVf8MeY-DgrthXyHGcSGO9y7pcqi7I",
+    "developer": "QR SCAN Team",
+    "developerId": "QR+SCAN+Team",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Instantly scan QR codes and barcodes! 100% Free and Safe to use!",
+    "scoreText": "4.6",
+    "score": 4.5588236
   },
   {
     "title": "マンガBANG！",
@@ -1425,7 +1383,63 @@
     "free": true,
     "summary": "人気の青年マンガ・少年マンガなど話題作となったコミックも読める漫画アプリ。漫画アプリで人気のマンガも無料で楽しめる。毎日読める無料漫画も掲載中！",
     "scoreText": "4.1",
-    "score": 4.072171
+    "score": 4.0720816
+  },
+  {
+    "title": "スキマバイトはタイミー /お金がすぐにもらえる",
+    "appId": "jp.co.taimee",
+    "url": "https://play.google.com/store/apps/details?id=jp.co.taimee",
+    "icon": "https://play-lh.googleusercontent.com/XYdpo002bNyCiqYxVc1Rxa0fYJSZI_GZt36MsJ_LeV4dItBpHB-SiTUgqVuqVfdwuA",
+    "developer": "Timee, inc.",
+    "developerId": "Timee,+inc.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Skimming byte app No.1 \"Timee\" You can work immediately and get money immediately. No need for an interview or resume.",
+    "scoreText": "4.1",
+    "score": 4.081818
+  },
+  {
+    "title": "PictureThis - Plant Identifier",
+    "appId": "cn.danatech.xingseus",
+    "url": "https://play.google.com/store/apps/details?id=cn.danatech.xingseus",
+    "icon": "https://play-lh.googleusercontent.com/2dcJOJptNfz3oVeNtHqC-SyKJ-lWDafOzLlUTgOGCpl7KarBjDxnIckL20PStVmYFg",
+    "developer": "Glority LLC",
+    "developerId": "Glority+LLC",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Identify plants, flowers, weeds, trees; interesting details and snap now",
+    "scoreText": "4.2",
+    "score": 4.1641793
+  },
+  {
+    "title": "Zenly - Your map, your people",
+    "appId": "app.zenly.locator",
+    "url": "https://play.google.com/store/apps/details?id=app.zenly.locator",
+    "icon": "https://play-lh.googleusercontent.com/ynj13-AW8J_AEpNyODc4L1gutNuND7_35xTNOCK8ZJ_5UTZKILHORvsAgUDoPFl1w1k",
+    "developer": "ZENLY",
+    "developerId": "ZENLY",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "From Snap Inc.",
+    "scoreText": "4.2",
+    "score": 4.2271414
+  },
+  {
+    "title": "楽天ポイントカード-楽天ポイントが使える！貯まる！",
+    "appId": "jp.co.rakuten.pointpartner.app",
+    "url": "https://play.google.com/store/apps/details?id=jp.co.rakuten.pointpartner.app",
+    "icon": "https://play-lh.googleusercontent.com/S6BZEGCFBZIbAFaP87ZxzMjT_s4ysdCneM0t2fLHraJK_HIH6yArcj8jFeDGrXhDhg",
+    "developer": "Rakuten Group, Inc.",
+    "developerId": "Rakuten+Group,+Inc.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Download for free! Even point can be used only in the shopping of the city presents a bar code screen of the app! Earn!",
+    "scoreText": "4.0",
+    "score": 4.005417
   },
   {
     "title": "さくら連絡網",
@@ -1442,46 +1456,18 @@
     "score": 2.78
   },
   {
-    "title": "PictureThis - Plant Identifier",
-    "appId": "cn.danatech.xingseus",
-    "url": "https://play.google.com/store/apps/details?id=cn.danatech.xingseus",
-    "icon": "https://play-lh.googleusercontent.com/2dcJOJptNfz3oVeNtHqC-SyKJ-lWDafOzLlUTgOGCpl7KarBjDxnIckL20PStVmYFg",
-    "developer": "Glority LLC",
-    "developerId": "Glority+LLC",
+    "title": "VirusBuster Mobile",
+    "appId": "com.trendmicro.tmmspersonal.jp.googleplayversion",
+    "url": "https://play.google.com/store/apps/details?id=com.trendmicro.tmmspersonal.jp.googleplayversion",
+    "icon": "https://play-lh.googleusercontent.com/OzcF0OjU-UVZ6ytgiF9rLHXAB07BmW47P1IP5QP_N5wc3Q29KQq78tEI5hjOzz50kEc",
+    "developer": "Trend Micro Inc. / トレンドマイクロ株式会社",
+    "developerId": "4793923721944688967",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Identify plants, flowers, weeds, trees; interesting details and snap now",
+    "summary": "Trend Micro VirusBuster Mobile is a simple, reliable security solution.",
     "scoreText": "4.2",
-    "score": 4.1567163
-  },
-  {
-    "title": "楽天ポイントカード-楽天ポイントが使える！貯まる！",
-    "appId": "jp.co.rakuten.pointpartner.app",
-    "url": "https://play.google.com/store/apps/details?id=jp.co.rakuten.pointpartner.app",
-    "icon": "https://play-lh.googleusercontent.com/S6BZEGCFBZIbAFaP87ZxzMjT_s4ysdCneM0t2fLHraJK_HIH6yArcj8jFeDGrXhDhg",
-    "developer": "Rakuten Group, Inc.",
-    "developerId": "Rakuten+Group,+Inc.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Download for free! Even point can be used only in the shopping of the city presents a bar code screen of the app! Earn!",
-    "scoreText": "4.0",
-    "score": 4.0057335
-  },
-  {
-    "title": "ゆうちょ通帳アプリ",
-    "appId": "jp.japanpost.jp_bank.bankbookapp",
-    "url": "https://play.google.com/store/apps/details?id=jp.japanpost.jp_bank.bankbookapp",
-    "icon": "https://play-lh.googleusercontent.com/pHDhGjmtwOrgrg3XXP_vL99pCngi-7ED93InYG5zQpJjJQmIwfYGlo0zAC39NYOKggA",
-    "developer": "ゆうちょ銀行",
-    "developerId": "%E3%82%86%E3%81%86%E3%81%A1%E3%82%87%E9%8A%80%E8%A1%8C",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "An app that allows you to check your current amount and deposit / withdrawal details at any time on your smartphone. Customers using a general account (regular savings / regular savings savings) can use the app.",
-    "scoreText": "3.3",
-    "score": 3.3396227
+    "score": 4.185203
   },
   {
     "title": "Yahoo!乗換案内　時刻表、運行情報、乗り換え検索",
@@ -1495,21 +1481,7 @@
     "free": true,
     "summary": "【累計4500万ダウンロード達成】すべて無料！定期代の検索や乗降アラームなど充実の機能。目的地まで「ドアtoドア」でご案内する乗換ナビアプリの決定版。",
     "scoreText": "4.1",
-    "score": 4.052835
-  },
-  {
-    "title": "VirusBuster Mobile",
-    "appId": "com.trendmicro.tmmspersonal.jp.googleplayversion",
-    "url": "https://play.google.com/store/apps/details?id=com.trendmicro.tmmspersonal.jp.googleplayversion",
-    "icon": "https://play-lh.googleusercontent.com/OzcF0OjU-UVZ6ytgiF9rLHXAB07BmW47P1IP5QP_N5wc3Q29KQq78tEI5hjOzz50kEc",
-    "developer": "Trend Micro Inc. / トレンドマイクロ株式会社",
-    "developerId": "4793923721944688967",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Trend Micro VirusBuster Mobile is a simple, reliable security solution.",
-    "scoreText": "4.2",
-    "score": 4.184802
+    "score": 4.052913
   },
   {
     "title": "テレ東動画 by ネットもテレ東",
@@ -1523,63 +1495,7 @@
     "free": true,
     "summary": "[Official video app for TV TOKYO] Unlimited viewing of popular programs such as Godtan and Cambria Palace! Popular news, anime, and dramas will be delivered immediately after broadcasting! Missed delivery on TV!",
     "scoreText": "4.3",
-    "score": 4.273747
-  },
-  {
-    "title": "三井住友カード Vpassアプリ",
-    "appId": "com.smbc_card.vpass",
-    "url": "https://play.google.com/store/apps/details?id=com.smbc_card.vpass",
-    "icon": "https://play-lh.googleusercontent.com/R5IT9KSKbjVP1AO2PmzGWQxMBlvIwXzB1Z6Y9EDEAi1oV7JEnqRSTbC_04vxjh-UVA",
-    "developer": "三井住友カード株式会社",
-    "developerId": "%E4%B8%89%E4%BA%95%E4%BD%8F%E5%8F%8B%E3%82%AB%E3%83%BC%E3%83%89%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "You can check the credit card usage status, points, and the balance of the withdrawal account.",
-    "scoreText": "4.0",
-    "score": 4.0457077
-  },
-  {
-    "title": "マツモトキヨシ公式アプリ",
-    "appId": "jp.co.matsukiyo.app",
-    "url": "https://play.google.com/store/apps/details?id=jp.co.matsukiyo.app",
-    "icon": "https://play-lh.googleusercontent.com/G1V2axKIpxa8GSPyVndGGNeKRz5nC4MPRFXXD8m1FeNWJj9gUNYsS0uau8PtOBW6st0T",
-    "developer": "株式会社マツモトキヨシグループ",
-    "developerId": "%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9E%E3%83%84%E3%83%A2%E3%83%88%E3%82%AD%E3%83%A8%E3%82%B7%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "The official application MatsumotoKiyoshi provides.",
-    "scoreText": "3.1",
-    "score": 3.129758
-  },
-  {
-    "title": "運がいい日がわかるカレンダー",
-    "appId": "com.zappallas.totsuura",
-    "url": "https://play.google.com/store/apps/details?id=com.zappallas.totsuura",
-    "icon": "https://play-lh.googleusercontent.com/_zVdtLSCr15V2uo50OaE6tyOml9V7I426wv_le86FwGjUaqmNrCXZu2aBdMb0gwenKI8",
-    "developer": "ZAPPALLAS, INC.",
-    "developerId": "ZAPPALLAS,+INC.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Fuji TV system Wednesday from 10 o'clock during the broadcast, suddenly, is it okay to forge? Calendar app from. You can easily find the lucky days such as one grain ten thousand times day, heavenly day, Da'an, new moon, full moon.",
-    "scoreText": "3.7",
-    "score": 3.712766
-  },
-  {
-    "title": "Hulu / フールー　人気ドラマ・映画・アニメなどが見放題",
-    "appId": "jp.happyon.android",
-    "url": "https://play.google.com/store/apps/details?id=jp.happyon.android",
-    "icon": "https://play-lh.googleusercontent.com/8TBOOyggqoNajj2LZy9h_v89yQw5wOxLCvXktk7u4FSf6I14OhTxVekkQVaM201Mw9Y9",
-    "developer": "HJ Holdings",
-    "developerId": "HJ+Holdings",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Video distribution service with unlimited viewing of movies, dramas, anime, and variety shows! Video distribution of popular dramas and animations being broadcast on TV, overlooked variety shows, and linked works!",
-    "scoreText": "3.4",
-    "score": 3.3882575
+    "score": 4.2732034
   },
   {
     "title": "Fast Clean-Booster&Optimizer",
@@ -1596,18 +1512,60 @@
     "score": 4.2
   },
   {
-    "title": "Smart Cleaner - Phone Run as Smoothly as New",
-    "appId": "com.riverever.smartcleaner.boost.optimizetool",
-    "url": "https://play.google.com/store/apps/details?id=com.riverever.smartcleaner.boost.optimizetool",
-    "icon": "https://play-lh.googleusercontent.com/Zdn3raTulL76KBhFIJoDS4-9Xv37PuUFQBUUYRzdQtYGsRveDdnf_B9-k14LnZ4dfw",
-    "developer": "Lovie Arthur",
-    "developerId": "Lovie+Arthur",
+    "title": "三井住友カード Vpassアプリ",
+    "appId": "com.smbc_card.vpass",
+    "url": "https://play.google.com/store/apps/details?id=com.smbc_card.vpass",
+    "icon": "https://play-lh.googleusercontent.com/R5IT9KSKbjVP1AO2PmzGWQxMBlvIwXzB1Z6Y9EDEAi1oV7JEnqRSTbC_04vxjh-UVA",
+    "developer": "三井住友カード株式会社",
+    "developerId": "%E4%B8%89%E4%BA%95%E4%BD%8F%E5%8F%8B%E3%82%AB%E3%83%BC%E3%83%89%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Phone Cleaner, Phone Booster and CPU Cooler",
-    "scoreText": "3.9",
-    "score": 3.87
+    "summary": "You can check the credit card usage status, points, and the balance of the withdrawal account.",
+    "scoreText": "4.0",
+    "score": 4.049396
+  },
+  {
+    "title": "Hulu / フールー　人気ドラマ・映画・アニメなどが見放題",
+    "appId": "jp.happyon.android",
+    "url": "https://play.google.com/store/apps/details?id=jp.happyon.android",
+    "icon": "https://play-lh.googleusercontent.com/8TBOOyggqoNajj2LZy9h_v89yQw5wOxLCvXktk7u4FSf6I14OhTxVekkQVaM201Mw9Y9",
+    "developer": "HJ Holdings",
+    "developerId": "HJ+Holdings",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Video distribution service with unlimited viewing of movies, dramas, anime, and variety shows! Video distribution of popular dramas and animations being broadcast on TV, overlooked variety shows, and linked works!",
+    "scoreText": "3.4",
+    "score": 3.3882575
+  },
+  {
+    "title": "運がいい日がわかるカレンダー",
+    "appId": "com.zappallas.totsuura",
+    "url": "https://play.google.com/store/apps/details?id=com.zappallas.totsuura",
+    "icon": "https://play-lh.googleusercontent.com/_zVdtLSCr15V2uo50OaE6tyOml9V7I426wv_le86FwGjUaqmNrCXZu2aBdMb0gwenKI8",
+    "developer": "ZAPPALLAS, INC.",
+    "developerId": "ZAPPALLAS,+INC.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Fuji TV system Wednesday from 10 o'clock during the broadcast, suddenly, is it okay to forge? Calendar app from. You can easily find the lucky days such as one grain ten thousand times day, heavenly day, Da'an, new moon, full moon.",
+    "scoreText": "3.7",
+    "score": 3.712766
+  },
+  {
+    "title": "マツモトキヨシ公式アプリ",
+    "appId": "jp.co.matsukiyo.app",
+    "url": "https://play.google.com/store/apps/details?id=jp.co.matsukiyo.app",
+    "icon": "https://play-lh.googleusercontent.com/G1V2axKIpxa8GSPyVndGGNeKRz5nC4MPRFXXD8m1FeNWJj9gUNYsS0uau8PtOBW6st0T",
+    "developer": "株式会社マツモトキヨシグループ",
+    "developerId": "%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%9E%E3%83%84%E3%83%A2%E3%83%88%E3%82%AD%E3%83%A8%E3%82%B7%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "The official application MatsumotoKiyoshi provides.",
+    "scoreText": "3.1",
+    "score": 3.129758
   },
   {
     "title": "Microsoft Outlook",
@@ -1621,21 +1579,35 @@
     "free": true,
     "summary": "Manage your email &amp; calendars on Outlook &amp; collaborate with anyone, anywhere",
     "scoreText": "4.2",
-    "score": 4.185402
+    "score": 4.1841183
   },
   {
-    "title": "Akinator",
-    "appId": "com.digidust.elokence.akinator.freemium",
-    "url": "https://play.google.com/store/apps/details?id=com.digidust.elokence.akinator.freemium",
-    "icon": "https://play-lh.googleusercontent.com/rjX8LZCV-MaY3o927R59GkEwDOIRLGCXFphaOTeFFzNiYY6SQ4a-B_5t7eUPlGANrcw",
-    "developer": "Elokence SAS",
-    "developerId": "9041369024808341661",
+    "title": "Lemon8",
+    "appId": "com.bd.nproject",
+    "url": "https://play.google.com/store/apps/details?id=com.bd.nproject",
+    "icon": "https://play-lh.googleusercontent.com/ff5NWwl4ZwboOPK-1zvEjeTW607lTIxSDkfcxiMXg0LN2XmhniLzIMludUtJwEIGe0g",
+    "developer": "Bytedance K.K",
+    "developerId": "Bytedance+K.K",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Akinator can read your mind and tell you what character you are thinking of!",
-    "scoreText": "4.3",
-    "score": 4.3084946
+    "summary": "Lifestyle community app",
+    "scoreText": "4.2",
+    "score": 4.211454
+  },
+  {
+    "title": "Tポイント",
+    "appId": "jp.co.ccc.Tsite",
+    "url": "https://play.google.com/store/apps/details?id=jp.co.ccc.Tsite",
+    "icon": "https://play-lh.googleusercontent.com/h2m_vUXm8mNhUSKGxHb9Mo6VSZwnFy8Up2pjup30oJHvdROpV8Gb3yX8X7Dy01PDAYw",
+    "developer": "Culture Convenience Club Co.,Ltd.",
+    "developerId": "Culture+Convenience+Club+Co.,Ltd.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "■ Your smartphone becomes a T card! It can also be used by those who do not have a T card.\n■ Profitable coupons are being delivered!\n■ You can check the number of T points and usage history immediately.",
+    "scoreText": "3.7",
+    "score": 3.6902242
   },
   {
     "title": "Relax - Meet your future",
@@ -1652,6 +1624,48 @@
     "score": 3.45
   },
   {
+    "title": "ゆうちょ通帳アプリ",
+    "appId": "jp.japanpost.jp_bank.bankbookapp",
+    "url": "https://play.google.com/store/apps/details?id=jp.japanpost.jp_bank.bankbookapp",
+    "icon": "https://play-lh.googleusercontent.com/pHDhGjmtwOrgrg3XXP_vL99pCngi-7ED93InYG5zQpJjJQmIwfYGlo0zAC39NYOKggA",
+    "developer": "ゆうちょ銀行",
+    "developerId": "%E3%82%86%E3%81%86%E3%81%A1%E3%82%87%E9%8A%80%E8%A1%8C",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "An app that allows you to check your current amount and deposit / withdrawal details at any time on your smartphone. Customers using a general account (regular savings / regular savings savings) can use the app.",
+    "scoreText": "3.3",
+    "score": 3.34278
+  },
+  {
+    "title": "Akinator",
+    "appId": "com.digidust.elokence.akinator.freemium",
+    "url": "https://play.google.com/store/apps/details?id=com.digidust.elokence.akinator.freemium",
+    "icon": "https://play-lh.googleusercontent.com/rjX8LZCV-MaY3o927R59GkEwDOIRLGCXFphaOTeFFzNiYY6SQ4a-B_5t7eUPlGANrcw",
+    "developer": "Elokence SAS",
+    "developerId": "9041369024808341661",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Akinator can read your mind and tell you what character you are thinking of!",
+    "scoreText": "4.3",
+    "score": 4.3095503
+  },
+  {
+    "title": "Smart Cleaner - Phone Run as Smoothly as New",
+    "appId": "com.riverever.smartcleaner.boost.optimizetool",
+    "url": "https://play.google.com/store/apps/details?id=com.riverever.smartcleaner.boost.optimizetool",
+    "icon": "https://play-lh.googleusercontent.com/Zdn3raTulL76KBhFIJoDS4-9Xv37PuUFQBUUYRzdQtYGsRveDdnf_B9-k14LnZ4dfw",
+    "developer": "Lovie Arthur",
+    "developerId": "Lovie+Arthur",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Phone Cleaner, Phone Booster and CPU Cooler",
+    "scoreText": "3.9",
+    "score": 3.9
+  },
+  {
     "title": "ポケカラ－Pokekara 本格採点カラオケアプリ",
     "appId": "com.maetimes.android.pokekara",
     "url": "https://play.google.com/store/apps/details?id=com.maetimes.android.pokekara",
@@ -1663,35 +1677,21 @@
     "free": true,
     "summary": "Pokekara is a karaoke scoring app with lyrics. Enjoy as much as you like with Pokekara from the latest songs to hot songs! Besides, you can enjoy karaoke more in various ways!",
     "scoreText": "3.4",
-    "score": 3.3897364
+    "score": 3.38994
   },
   {
-    "title": "Lemon8",
-    "appId": "com.bd.nproject",
-    "url": "https://play.google.com/store/apps/details?id=com.bd.nproject",
-    "icon": "https://play-lh.googleusercontent.com/ff5NWwl4ZwboOPK-1zvEjeTW607lTIxSDkfcxiMXg0LN2XmhniLzIMludUtJwEIGe0g",
-    "developer": "Bytedance K.K",
-    "developerId": "Bytedance+K.K",
+    "title": "楽天シニア -歩いて楽天ポイント貯まる-",
+    "appId": "jp.co.rakuten.senior.app",
+    "url": "https://play.google.com/store/apps/details?id=jp.co.rakuten.senior.app",
+    "icon": "https://play-lh.googleusercontent.com/mR-fI_6V8_InhMCAiX__p4miahVqQrltcSQuDINPLWPI_1dUXjlI6cmPAzrgbWHVVtE",
+    "developer": "Rakuten Group, Inc.",
+    "developerId": "Rakuten+Group,+Inc.",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Lifestyle community app",
-    "scoreText": "4.2",
-    "score": 4.213333
-  },
-  {
-    "title": "ibis Paint X",
-    "appId": "jp.ne.ibis.ibispaintx.app",
-    "url": "https://play.google.com/store/apps/details?id=jp.ne.ibis.ibispaintx.app",
-    "icon": "https://play-lh.googleusercontent.com/QcfhlXm32JDnj3WM2-TSL78ad99x4slovX4OzCSLSPU3uRN-mGXpKyM_yeXiewhz0Lk",
-    "developer": "ibis inc.",
-    "developerId": "ibis+inc.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Share the joy of painting with ibis Paint X! Drawing anime and manga art.",
-    "scoreText": "4.5",
-    "score": 4.4802065
+    "summary": "It is an application that can search and book various event information of your neighborhood.\nYou can also check how many steps you walk each day.",
+    "scoreText": "3.5",
+    "score": 3.452316
   },
   {
     "title": "ローソン",
@@ -1705,63 +1705,21 @@
     "free": true,
     "summary": "Great value and convenience for daily shopping at convenience stores! You can use various coupons. By registering as a member, you can apply for even more advantageous coupons and app-only campaigns.",
     "scoreText": "4.1",
-    "score": 4.051557
+    "score": 4.051027
   },
   {
-    "title": "楽天シニア -歩いて楽天ポイント貯まる-",
-    "appId": "jp.co.rakuten.senior.app",
-    "url": "https://play.google.com/store/apps/details?id=jp.co.rakuten.senior.app",
-    "icon": "https://play-lh.googleusercontent.com/mR-fI_6V8_InhMCAiX__p4miahVqQrltcSQuDINPLWPI_1dUXjlI6cmPAzrgbWHVVtE",
-    "developer": "Rakuten Group, Inc.",
-    "developerId": "Rakuten+Group,+Inc.",
+    "title": "ibis Paint X",
+    "appId": "jp.ne.ibis.ibispaintx.app",
+    "url": "https://play.google.com/store/apps/details?id=jp.ne.ibis.ibispaintx.app",
+    "icon": "https://play-lh.googleusercontent.com/QcfhlXm32JDnj3WM2-TSL78ad99x4slovX4OzCSLSPU3uRN-mGXpKyM_yeXiewhz0Lk",
+    "developer": "ibis inc.",
+    "developerId": "ibis+inc.",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "It is an application that can search and book various event information of your neighborhood.\nYou can also check how many steps you walk each day.",
-    "scoreText": "3.4",
-    "score": 3.449315
-  },
-  {
-    "title": "Google Translate",
-    "appId": "com.google.android.apps.translate",
-    "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.translate",
-    "icon": "https://play-lh.googleusercontent.com/ZrNeuKthBirZN7rrXPN1JmUbaG8ICy3kZSHt-WgSnREsJzo2txzCzjIoChlevMIQEA",
-    "developer": "Google LLC",
-    "developerId": "5700313618786177705",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "The world is closer than ever with over 100 languages",
-    "scoreText": "3.8",
-    "score": 3.7760608
-  },
-  {
-    "title": "U-NEXT／ユーネクスト：映画、ドラマ、アニメなどが見放題",
-    "appId": "jp.unext.mediaplayer",
-    "url": "https://play.google.com/store/apps/details?id=jp.unext.mediaplayer",
-    "icon": "https://play-lh.googleusercontent.com/fjOsrpS9bsME5T65XN7dzIU0f_X1J0TpVnu2wsUp6H4hRiMsjwsRnPtMjfROYGMHyQA",
-    "developer": "U-NEXT",
-    "developerId": "U-NEXT",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Enjoy 220,000 movies, dramas, animations and more for free for 31 days! U-NEXT, the video distribution service with the largest number of unlimited viewing works.",
-    "scoreText": "4.2",
-    "score": 4.186395
-  },
-  {
-    "title": "Novis Clean - cleaner, booster",
-    "appId": "com.newclean.cleaner.security.booster.boost",
-    "url": "https://play.google.com/store/apps/details?id=com.newclean.cleaner.security.booster.boost",
-    "icon": "https://play-lh.googleusercontent.com/S3mTsuHhbLwFU4mmnP7hoZWpkV7C_KTseS-CgfUNusc6VksC3EzYXzC5dkdKjrVi9Pw",
-    "developer": "Coloring Library",
-    "developerId": "Coloring+Library",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Fast &amp; safe junk cleaner, helps cool down CPU and save battery, tools in one",
-    "scoreText": "4.1",
-    "score": 4.079208
+    "summary": "Share the joy of painting with ibis Paint X! Drawing anime and manga art.",
+    "scoreText": "4.5",
+    "score": 4.480781
   },
   {
     "title": "McDonald's Japan",
@@ -1775,7 +1733,35 @@
     "free": true,
     "summary": "Order right from the phone with contactless payment and access to coupons.",
     "scoreText": "4.0",
-    "score": 3.9722335
+    "score": 3.9727685
+  },
+  {
+    "title": "U-NEXT／ユーネクスト：映画、ドラマ、アニメなどが見放題",
+    "appId": "jp.unext.mediaplayer",
+    "url": "https://play.google.com/store/apps/details?id=jp.unext.mediaplayer",
+    "icon": "https://play-lh.googleusercontent.com/fjOsrpS9bsME5T65XN7dzIU0f_X1J0TpVnu2wsUp6H4hRiMsjwsRnPtMjfROYGMHyQA",
+    "developer": "U-NEXT",
+    "developerId": "U-NEXT",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Enjoy 220,000 movies, dramas, animations and more for free for 31 days! U-NEXT, the video distribution service with the largest number of unlimited viewing works.",
+    "scoreText": "4.2",
+    "score": 4.1859903
+  },
+  {
+    "title": "GPS, Maps, Voice Navigation & Directions",
+    "appId": "com.maps.voice.navigation.traffic.gps.location.route.driving.directions",
+    "url": "https://play.google.com/store/apps/details?id=com.maps.voice.navigation.traffic.gps.location.route.driving.directions",
+    "icon": "https://play-lh.googleusercontent.com/NrK0b-e6cpj4yYkDuNZJHO9KUAl8pSj9TGi4Xw4GbPZ6UVsnAlLBH2AZuEMpb24Xig",
+    "developer": "AppStar Studios",
+    "developerId": "8955738419362599046",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Best Maps app with GPS, Directions, Navigation, Offline Maps &amp; Traffic Alerts.",
+    "scoreText": "3.4",
+    "score": 3.411215
   },
   {
     "title": "スギ薬局・薬局やドラッグストアのお店で便利なクーポンアプリ",
@@ -1789,77 +1775,7 @@
     "free": true,
     "summary": "With the Sugi Pharmacy App, you can also get discount coupons that can be used for free at drug stores and pharmacies, as well as coupons for download benefits! Shopping app that can be used at Sugi Pharmacy and drug stores",
     "scoreText": "3.6",
-    "score": 3.6033058
-  },
-  {
-    "title": "マンガＵＰ！異世界マンガや名作マンガが毎日読める漫画アプリ",
-    "appId": "com.square_enix.android_googleplay.mangaup_jp",
-    "url": "https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.mangaup_jp",
-    "icon": "https://play-lh.googleusercontent.com/Sb3FRI4XfFjA2YdKnwH12spJ8q9OLBXVnhdvPcSdVcC5kU1kxPFsfJwgtsb16EyaV7vT",
-    "developer": "SQUARE ENIX Co.,Ltd.",
-    "developerId": "8026010256970589886",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Introducing a manga app that boasts the largest number of works in Japan! From super masterpieces to the latest works! If you want to read manga, \"Manga UP! 』\\",
-    "scoreText": "4.1",
-    "score": 4.142752
-  },
-  {
-    "title": "ココカラファイン-ドラッグストアのクーポンやアプリポイント",
-    "appId": "jp.co.cocokarafine.official",
-    "url": "https://play.google.com/store/apps/details?id=jp.co.cocokarafine.official",
-    "icon": "https://play-lh.googleusercontent.com/8bsAd61QGMUOSL8Rm3OLA4aWBJBBlvCHB0-tBGh9Pt-tV0g9LZOxZm__zK96lXzNlw",
-    "developer": "cocokara fine Inc.",
-    "developerId": "cocokara+fine+Inc.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "You can receive application points daily ♪ 10% OFF Coupon gifts! Drug store · pharmacy's Coco Color Fine official application will support your shopping.",
-    "scoreText": "3.8",
-    "score": 3.8112676
-  },
-  {
-    "title": "スシロー",
-    "appId": "jp.co.akindo_sushiro.sushiroapp",
-    "url": "https://play.google.com/store/apps/details?id=jp.co.akindo_sushiro.sushiroapp",
-    "icon": "https://play-lh.googleusercontent.com/DSY3CyibKuwmH1ZhgoDqjPYVwA7AkPJa7rda4SKxtyd2HbNMG8aw-lWCW4ikok6yFDdP",
-    "developer": "株式会社あきんどスシロー",
-    "developerId": "%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%82%E3%81%8D%E3%82%93%E3%81%A9%E3%82%B9%E3%82%B7%E3%83%AD%E3%83%BC",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "The official app of the rotating sushi \"merchant Sushiro\"\nSushiro app.\nBook acceptance function or ordering take-out sushi,\nYou can enjoy and Fair information.",
-    "scoreText": "4.0",
-    "score": 3.9780018
-  },
-  {
-    "title": "ニトリアプリ　家具・インテリアの欲しいが見つかる！家具やインテリアのコーディネートも解決",
-    "appId": "jp.co.nitori",
-    "url": "https://play.google.com/store/apps/details?id=jp.co.nitori",
-    "icon": "https://play-lh.googleusercontent.com/aqnqX0fYYlV1rEPP_shr6YGyzSB3nI_s82nmc5EqPZMEooNBDQCvvopGn9boxRjnZQ",
-    "developer": "Nitori Holdings Co., Ltd.",
-    "developerId": "Nitori+Holdings+Co.,+Ltd.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "More convenient shopping for furniture and interiors You can display the member's membership card that can be used at Nitori nationwide, and you can check the points you have accumulated. Coordination of furniture and interior is also solved",
-    "scoreText": "3.7",
-    "score": 3.7339246
-  },
-  {
-    "title": "Norton 360: Mobile Security",
-    "appId": "com.symantec.mobilesecurity",
-    "url": "https://play.google.com/store/apps/details?id=com.symantec.mobilesecurity",
-    "icon": "https://play-lh.googleusercontent.com/vAZIEwpzCDEHZP5Ia57OXTeuXib9TPnxAjfeBXaCfIU4giGZSUUp_0Fc-04R0uWJmDFl",
-    "developer": "NortonMobile",
-    "developerId": "5096233774909251047",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Trust Norton’s experience in cyber security to help keep your device safe.",
-    "scoreText": "4.3",
-    "score": 4.341056
+    "score": 3.6049528
   },
   {
     "title": "Pastel(パステル)-韓国ファッション通販まとめ",
@@ -1887,63 +1803,77 @@
     "free": true,
     "summary": "お店選びで失敗したくない人のためのグルメアプリ。ネット予約も簡単。ユーザー評価に基づくランキングやグルメな人の口コミで美味しいレストランやランチを検索できます。",
     "scoreText": "3.7",
-    "score": 3.6677942
+    "score": 3.6725245
   },
   {
-    "title": "DAZN: Stream Live Sports",
-    "appId": "com.dazn",
-    "url": "https://play.google.com/store/apps/details?id=com.dazn",
-    "icon": "https://play-lh.googleusercontent.com/GAqHuE8X7xZVAYIor9cx1_J7JJZM7ANsu_zXeuADf9awjQHy4QVMVRql9thDAkZKUQk",
-    "developer": "DAZN",
-    "developerId": "DAZN",
+    "title": "ココカラファイン-ドラッグストアのクーポンやアプリポイント",
+    "appId": "jp.co.cocokarafine.official",
+    "url": "https://play.google.com/store/apps/details?id=jp.co.cocokarafine.official",
+    "icon": "https://play-lh.googleusercontent.com/8bsAd61QGMUOSL8Rm3OLA4aWBJBBlvCHB0-tBGh9Pt-tV0g9LZOxZm__zK96lXzNlw",
+    "developer": "cocokara fine Inc.",
+    "developerId": "cocokara+fine+Inc.",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Watch Boxing and UWCL live and on-demand on any device",
-    "scoreText": "3.6",
-    "score": 3.5890014
+    "summary": "You can receive application points daily ♪ 10% OFF Coupon gifts! Drug store · pharmacy's Coco Color Fine official application will support your shopping.",
+    "scoreText": "3.8",
+    "score": 3.8112676
   },
   {
-    "title": "UNIQLOアプリ - ユニクロアプリ",
-    "appId": "com.uniqlo.ja.catalogue",
-    "url": "https://play.google.com/store/apps/details?id=com.uniqlo.ja.catalogue",
-    "icon": "https://play-lh.googleusercontent.com/ajJyxY3MLcZE5vh5IgZF5YHpwLtD4SMPMmnbiwymkT_3jGLdHMk6WDst0oPvPECcR2I",
-    "developer": "UNIQLO CO., LTD.",
-    "developerId": "UNIQLO+CO.,+LTD.",
+    "title": "スシロー",
+    "appId": "jp.co.akindo_sushiro.sushiroapp",
+    "url": "https://play.google.com/store/apps/details?id=jp.co.akindo_sushiro.sushiroapp",
+    "icon": "https://play-lh.googleusercontent.com/DSY3CyibKuwmH1ZhgoDqjPYVwA7AkPJa7rda4SKxtyd2HbNMG8aw-lWCW4ikok6yFDdP",
+    "developer": "株式会社あきんどスシロー",
+    "developerId": "%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%82%E3%81%8D%E3%82%93%E3%81%A9%E3%82%B9%E3%82%B7%E3%83%AD%E3%83%BC",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Be good at shopping with the UNIQLO app. Packed with convenient functions to support shopping!",
+    "summary": "The official app of the rotating sushi \"merchant Sushiro\"\nSushiro app.\nBook acceptance function or ordering take-out sushi,\nYou can enjoy and Fair information.",
+    "scoreText": "4.0",
+    "score": 3.9768827
+  },
+  {
+    "title": "マンガＵＰ！異世界マンガや名作マンガが毎日読める漫画アプリ",
+    "appId": "com.square_enix.android_googleplay.mangaup_jp",
+    "url": "https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.mangaup_jp",
+    "icon": "https://play-lh.googleusercontent.com/Sb3FRI4XfFjA2YdKnwH12spJ8q9OLBXVnhdvPcSdVcC5kU1kxPFsfJwgtsb16EyaV7vT",
+    "developer": "SQUARE ENIX Co.,Ltd.",
+    "developerId": "8026010256970589886",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Introducing a manga app that boasts the largest number of works in Japan! From super masterpieces to the latest works! If you want to read manga, \"Manga UP! 』\\",
     "scoreText": "4.1",
-    "score": 4.136195
+    "score": 4.1436443
   },
   {
-    "title": "CapCut - Video Editor",
-    "appId": "com.lemon.lvoverseas",
-    "url": "https://play.google.com/store/apps/details?id=com.lemon.lvoverseas",
-    "icon": "https://play-lh.googleusercontent.com/Pfck8XXM4wRBgUbDnkXl3CZMWCdqZ7tEgKrhTp95OfawYCMSVpLYTNDKLWlC7E_jmQ",
-    "developer": "Bytedance Pte. Ltd.",
-    "developerId": "Bytedance+Pte.+Ltd.",
+    "title": "ニトリアプリ　家具・インテリアの欲しいが見つかる！家具やインテリアのコーディネートも解決",
+    "appId": "jp.co.nitori",
+    "url": "https://play.google.com/store/apps/details?id=jp.co.nitori",
+    "icon": "https://play-lh.googleusercontent.com/aqnqX0fYYlV1rEPP_shr6YGyzSB3nI_s82nmc5EqPZMEooNBDQCvvopGn9boxRjnZQ",
+    "developer": "Nitori Holdings Co., Ltd.",
+    "developerId": "Nitori+Holdings+Co.,+Ltd.",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Capture the moment and Cut",
-    "scoreText": "4.1",
-    "score": 4.0533333
-  },
-  {
-    "title": "au PAY(旧 au WALLET)",
-    "appId": "jp.auone.wallet",
-    "url": "https://play.google.com/store/apps/details?id=jp.auone.wallet",
-    "icon": "https://play-lh.googleusercontent.com/N_zOOwoR86cuKnmqhUyf8sCsxyxssDyCWQvcJcR6b6spKOe9NcvEfln_jPSQo9m5vw",
-    "developer": "KDDI株式会社",
-    "developerId": "KDDI%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "au PAY code payment, au PAY prepaid card, au PAY card (formerly au WALLET credit card) is an application to conveniently use.",
+    "summary": "More convenient shopping for furniture and interiors You can display the member's membership card that can be used at Nitori nationwide, and you can check the points you have accumulated. Coordination of furniture and interior is also solved",
     "scoreText": "3.7",
-    "score": 3.6577709
+    "score": 3.7314918
+  },
+  {
+    "title": "Norton 360: Mobile Security",
+    "appId": "com.symantec.mobilesecurity",
+    "url": "https://play.google.com/store/apps/details?id=com.symantec.mobilesecurity",
+    "icon": "https://play-lh.googleusercontent.com/vAZIEwpzCDEHZP5Ia57OXTeuXib9TPnxAjfeBXaCfIU4giGZSUUp_0Fc-04R0uWJmDFl",
+    "developer": "NortonMobile",
+    "developerId": "5096233774909251047",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Trust Norton’s experience in cyber security to help keep your device safe.",
+    "scoreText": "4.3",
+    "score": 4.3409057
   },
   {
     "title": "Super Point Screen - Rewards",
@@ -1957,63 +1887,35 @@
     "free": true,
     "summary": "Super Point Screen shows useful information on your lockscreen and rewards you",
     "scoreText": "4.2",
-    "score": 4.1551995
+    "score": 4.1540623
   },
   {
-    "title": "TimeTree - Shared Calendar",
-    "appId": "works.jubilee.timetree",
-    "url": "https://play.google.com/store/apps/details?id=works.jubilee.timetree",
-    "icon": "https://play-lh.googleusercontent.com/RzsC6xp_XqGNHyg4GG1jIhq9HqvO7IsTdGGPzwB2nVRqX1K8JYdouxJ1JW_GKQV1CKcX",
-    "developer": "TimeTree, Inc.",
-    "developerId": "8947382658515887620",
+    "title": "UNIQLOアプリ - ユニクロアプリ",
+    "appId": "com.uniqlo.ja.catalogue",
+    "url": "https://play.google.com/store/apps/details?id=com.uniqlo.ja.catalogue",
+    "icon": "https://play-lh.googleusercontent.com/ajJyxY3MLcZE5vh5IgZF5YHpwLtD4SMPMmnbiwymkT_3jGLdHMk6WDst0oPvPECcR2I",
+    "developer": "UNIQLO CO., LTD.",
+    "developerId": "UNIQLO+CO.,+LTD.",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Create a shared calendar in 60 seconds",
-    "scoreText": "4.2",
-    "score": 4.166085
+    "summary": "Be good at shopping with the UNIQLO app. Packed with convenient functions to support shopping!",
+    "scoreText": "4.1",
+    "score": 4.137004
   },
   {
-    "title": "ZOZOTOWN for Android",
-    "appId": "jp.zozo.android.town",
-    "url": "https://play.google.com/store/apps/details?id=jp.zozo.android.town",
-    "icon": "https://play-lh.googleusercontent.com/Bl1-OxKjWJe2N13B6OYIBX9BrDSpll1rFlBxp94npEtpqgCtKXpHtzV1aIorl_PGbqxN",
-    "developer": "ZOZO, Inc.",
-    "developerId": "ZOZO,+Inc.",
+    "title": "DAZN: Stream Live Sports",
+    "appId": "com.dazn",
+    "url": "https://play.google.com/store/apps/details?id=com.dazn",
+    "icon": "https://play-lh.googleusercontent.com/GAqHuE8X7xZVAYIor9cx1_J7JJZM7ANsu_zXeuADf9awjQHy4QVMVRql9thDAkZKUQk",
+    "developer": "DAZN",
+    "developerId": "DAZN",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Japan's largest online fashion store, ZOZOTOWN!Its mobile application is now.",
-    "scoreText": "4.4",
-    "score": 4.352296
-  },
-  {
-    "title": "GPS, Maps, Voice Navigation & Directions",
-    "appId": "com.maps.voice.navigation.traffic.gps.location.route.driving.directions",
-    "url": "https://play.google.com/store/apps/details?id=com.maps.voice.navigation.traffic.gps.location.route.driving.directions",
-    "icon": "https://play-lh.googleusercontent.com/NrK0b-e6cpj4yYkDuNZJHO9KUAl8pSj9TGi4Xw4GbPZ6UVsnAlLBH2AZuEMpb24Xig",
-    "developer": "AppStar Studios",
-    "developerId": "8955738419362599046",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Best Maps app with GPS, Directions, Navigation, Offline Maps &amp; Traffic Alerts.",
-    "scoreText": "3.4",
-    "score": 3.411215
-  },
-  {
-    "title": "majica～電子マネー公式アプリ～",
-    "appId": "com.donki.majica",
-    "url": "https://play.google.com/store/apps/details?id=com.donki.majica",
-    "icon": "https://play-lh.googleusercontent.com/n6jPmp3J5jqqmq4EEf4Kcw7DgWQSv_D4mhyjlQIEoSv0obwExGXz_I3aIdVv8HyE7PlI",
-    "developer": "（株）ドン・キホーテ",
-    "developerId": "%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%89%E3%83%B3%E3%83%BB%E3%82%AD%E3%83%9B%E3%83%BC%E3%83%86",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "This is the official app of electronic money \"majica\" that conveniently and profitably supports shopping at majica member stores including Don Quijote, Apita, and Piago in Japan.",
-    "scoreText": "3.5",
-    "score": 3.5105708
+    "summary": "Watch Boxing and UWCL live and on-demand on any device",
+    "scoreText": "3.6",
+    "score": 3.585044
   },
   {
     "title": "JUKUSUI:Sleep log, Alarm clock",
@@ -2027,7 +1929,63 @@
     "free": true,
     "summary": "Easy Steps for Getting Better Sleep \nJust tap \"Bedtime\" button and get to sleep",
     "scoreText": "4.5",
-    "score": 4.499398
+    "score": 4.4991975
+  },
+  {
+    "title": "CapCut - Video Editor",
+    "appId": "com.lemon.lvoverseas",
+    "url": "https://play.google.com/store/apps/details?id=com.lemon.lvoverseas",
+    "icon": "https://play-lh.googleusercontent.com/Pfck8XXM4wRBgUbDnkXl3CZMWCdqZ7tEgKrhTp95OfawYCMSVpLYTNDKLWlC7E_jmQ",
+    "developer": "Bytedance Pte. Ltd.",
+    "developerId": "Bytedance+Pte.+Ltd.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Capture the moment and Cut",
+    "scoreText": "4.1",
+    "score": 4.0514097
+  },
+  {
+    "title": "ZOZOTOWN for Android",
+    "appId": "jp.zozo.android.town",
+    "url": "https://play.google.com/store/apps/details?id=jp.zozo.android.town",
+    "icon": "https://play-lh.googleusercontent.com/Bl1-OxKjWJe2N13B6OYIBX9BrDSpll1rFlBxp94npEtpqgCtKXpHtzV1aIorl_PGbqxN",
+    "developer": "ZOZO, Inc.",
+    "developerId": "ZOZO,+Inc.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Japan's largest online fashion store, ZOZOTOWN!Its mobile application is now.",
+    "scoreText": "4.4",
+    "score": 4.35274
+  },
+  {
+    "title": "au PAY(旧 au WALLET)",
+    "appId": "jp.auone.wallet",
+    "url": "https://play.google.com/store/apps/details?id=jp.auone.wallet",
+    "icon": "https://play-lh.googleusercontent.com/N_zOOwoR86cuKnmqhUyf8sCsxyxssDyCWQvcJcR6b6spKOe9NcvEfln_jPSQo9m5vw",
+    "developer": "KDDI株式会社",
+    "developerId": "KDDI%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "au PAY code payment, au PAY prepaid card, au PAY card (formerly au WALLET credit card) is an application to conveniently use.",
+    "scoreText": "3.7",
+    "score": 3.6586416
+  },
+  {
+    "title": "TimeTree - Shared Calendar",
+    "appId": "works.jubilee.timetree",
+    "url": "https://play.google.com/store/apps/details?id=works.jubilee.timetree",
+    "icon": "https://play-lh.googleusercontent.com/RzsC6xp_XqGNHyg4GG1jIhq9HqvO7IsTdGGPzwB2nVRqX1K8JYdouxJ1JW_GKQV1CKcX",
+    "developer": "TimeTree, Inc.",
+    "developerId": "8947382658515887620",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Create a shared calendar in 60 seconds",
+    "scoreText": "4.2",
+    "score": 4.1666303
   },
   {
     "title": "Easy Voice Recorder",
@@ -2041,21 +1999,7 @@
     "free": true,
     "summary": "Easy Voice Recorder is your everyday companion to record important moments.",
     "scoreText": "4.5",
-    "score": 4.4773717
-  },
-  {
-    "title": "Move to iOS",
-    "appId": "com.apple.movetoios",
-    "url": "https://play.google.com/store/apps/details?id=com.apple.movetoios",
-    "icon": "https://play-lh.googleusercontent.com/7oYf_DNF77eJr9bIoY_GuN1OmYbgQL2VkZLTUfVI4TAspf8qdSjeJpIYbNQe-Va3FJlk",
-    "developer": "Apple",
-    "developerId": "Apple",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Move to iOS transfers your data securely from Android to iPhone or iPad.",
-    "scoreText": "2.9",
-    "score": 2.908397
+    "score": 4.47588
   },
   {
     "title": "QR Scanner - Barcode Scanner",
@@ -2072,18 +2016,32 @@
     "score": 3.7
   },
   {
-    "title": "Paidy",
-    "appId": "com.paidy.paidy",
-    "url": "https://play.google.com/store/apps/details?id=com.paidy.paidy",
-    "icon": "https://play-lh.googleusercontent.com/EkkoguMmEO05diHDKvTkL2h6KHUTiyp3YRSHJrxfwkToPdKP1PMOnbhC014cPayNHVf2",
-    "developer": "Paidy Inc.",
-    "developerId": "Paidy+Inc.",
+    "title": "majica～電子マネー公式アプリ～",
+    "appId": "com.donki.majica",
+    "url": "https://play.google.com/store/apps/details?id=com.donki.majica",
+    "icon": "https://play-lh.googleusercontent.com/n6jPmp3J5jqqmq4EEf4Kcw7DgWQSv_D4mhyjlQIEoSv0obwExGXz_I3aIdVv8HyE7PlI",
+    "developer": "（株）ドン・キホーテ",
+    "developerId": "%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%89%E3%83%B3%E3%83%BB%E3%82%AD%E3%83%9B%E3%83%BC%E3%83%86",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Paidy is a buy-now-pay-later service. Shop now with only email and phone number.",
-    "scoreText": "3.0",
-    "score": 2.9937186
+    "summary": "This is the official app of electronic money \"majica\" that conveniently and profitably supports shopping at majica member stores including Don Quijote, Apita, and Piago in Japan.",
+    "scoreText": "3.5",
+    "score": 3.508421
+  },
+  {
+    "title": "Google Translate",
+    "appId": "com.google.android.apps.translate",
+    "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.translate",
+    "icon": "https://play-lh.googleusercontent.com/ZrNeuKthBirZN7rrXPN1JmUbaG8ICy3kZSHt-WgSnREsJzo2txzCzjIoChlevMIQEA",
+    "developer": "Google LLC",
+    "developerId": "5700313618786177705",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "The world is closer than ever with over 100 languages",
+    "scoreText": "3.8",
+    "score": 3.7755702
   },
   {
     "title": "Notepad - notes & memo app",
@@ -2097,7 +2055,35 @@
     "free": true,
     "summary": "Simple note organizer &amp; memo pad. Write quick notes. Easy to save &amp; keep notes!",
     "scoreText": "4.4",
-    "score": 4.404526
+    "score": 4.404558
+  },
+  {
+    "title": "Paidy",
+    "appId": "com.paidy.paidy",
+    "url": "https://play.google.com/store/apps/details?id=com.paidy.paidy",
+    "icon": "https://play-lh.googleusercontent.com/EkkoguMmEO05diHDKvTkL2h6KHUTiyp3YRSHJrxfwkToPdKP1PMOnbhC014cPayNHVf2",
+    "developer": "Paidy Inc.",
+    "developerId": "Paidy+Inc.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Paidy is a buy-now-pay-later service. Shop now with only email and phone number.",
+    "scoreText": "3.0",
+    "score": 2.9925
+  },
+  {
+    "title": "Move to iOS",
+    "appId": "com.apple.movetoios",
+    "url": "https://play.google.com/store/apps/details?id=com.apple.movetoios",
+    "icon": "https://play-lh.googleusercontent.com/7oYf_DNF77eJr9bIoY_GuN1OmYbgQL2VkZLTUfVI4TAspf8qdSjeJpIYbNQe-Va3FJlk",
+    "developer": "Apple",
+    "developerId": "Apple",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Move to iOS transfers your data securely from Android to iPhone or iPad.",
+    "scoreText": "3.0",
+    "score": 2.9694657
   },
   {
     "title": "Yahoo!ショッピング-アプリでお得で便利にお買い物",
@@ -2111,7 +2097,21 @@
     "free": true,
     "summary": "If you are new to the app, you will get 2% back! If you don't buy with the app, you will lose! Japan's largest online shopping with 860,000 stores and 300 million items.",
     "scoreText": "4.3",
-    "score": 4.2756147
+    "score": 4.2741146
+  },
+  {
+    "title": "au Wi-Fi アクセス",
+    "appId": "jp.ne.wi2.auwifiaccess",
+    "url": "https://play.google.com/store/apps/details?id=jp.ne.wi2.auwifiaccess",
+    "icon": "https://play-lh.googleusercontent.com/TP08DZ2NEMRfEcnjhW3l4aYjnegNh1t7BHCYRN93_5HVyBiF4T1SiYy3Y_Qrjlok_g",
+    "developer": "KDDI株式会社",
+    "developerId": "KDDI%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "If you are an \"au PAY\" or \"au Smart Pass Premium\" member, you can automatically connect to a safe and secure au Wi-Fi spot!",
+    "scoreText": "3.8",
+    "score": 3.7593458
   },
   {
     "title": "クラシル - 料理をレシピ動画で簡単に",
@@ -2156,46 +2156,32 @@
     "score": 2.94
   },
   {
-    "title": "Step Counter - Pedometer, MStep",
-    "appId": "pedometer.steptracker.calorieburner.stepcounter",
-    "url": "https://play.google.com/store/apps/details?id=pedometer.steptracker.calorieburner.stepcounter",
-    "icon": "https://play-lh.googleusercontent.com/6B_37hQJmTvR9FjXKU0aR9jB36MKwzBdgtBT5p922jUULOGs0H4nd0KjbC8fcL2CWWk",
-    "developer": "Leap Fitness Group",
-    "developerId": "Leap+Fitness+Group",
+    "title": "マンガアプリ - コミックシーモア本棚",
+    "appId": "jp.co.nttsolmare.cmoatab",
+    "url": "https://play.google.com/store/apps/details?id=jp.co.nttsolmare.cmoatab",
+    "icon": "https://play-lh.googleusercontent.com/hQX2j29V6ByaT83nIwSY6QAbeEELm9IB9CHKbOJK7FLOmIZIpkrZMEag-wtJrdkpd6s",
+    "developer": "cmoa",
+    "developerId": "cmoa",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Daily step counter, Free Pedometer &amp; Easy 🔥Calorie Counter help Lose Weight",
-    "scoreText": "4.7",
-    "score": 4.6511626
+    "summary": "Ryoma Takeuchi and Ayami Nakajo CM on air ◆ Comic Seymour Bookshelf App ◆ You can read 13,000 popular comics for free ♪ Boys, girls, TL, BL, light novels, etc.",
+    "scoreText": "3.3",
+    "score": 3.2863157
   },
   {
-    "title": "au Wi-Fi アクセス",
-    "appId": "jp.ne.wi2.auwifiaccess",
-    "url": "https://play.google.com/store/apps/details?id=jp.ne.wi2.auwifiaccess",
-    "icon": "https://play-lh.googleusercontent.com/TP08DZ2NEMRfEcnjhW3l4aYjnegNh1t7BHCYRN93_5HVyBiF4T1SiYy3Y_Qrjlok_g",
-    "developer": "KDDI株式会社",
-    "developerId": "KDDI%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE",
+    "title": "Novis Clean - cleaner, booster",
+    "appId": "com.newclean.cleaner.security.booster.boost",
+    "url": "https://play.google.com/store/apps/details?id=com.newclean.cleaner.security.booster.boost",
+    "icon": "https://play-lh.googleusercontent.com/S3mTsuHhbLwFU4mmnP7hoZWpkV7C_KTseS-CgfUNusc6VksC3EzYXzC5dkdKjrVi9Pw",
+    "developer": "Coloring Library",
+    "developerId": "Coloring+Library",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "If you are an \"au PAY\" or \"au Smart Pass Premium\" member, you can automatically connect to a safe and secure au Wi-Fi spot!",
-    "scoreText": "3.8",
-    "score": 3.7532468
-  },
-  {
-    "title": "ジーユー",
-    "appId": "com.osharemaker",
-    "url": "https://play.google.com/store/apps/details?id=com.osharemaker",
-    "icon": "https://play-lh.googleusercontent.com/PYB-W5jOUkJJxP7UfopEXwbengEq_Q-fqRhNsTdk80FS-YpBSuXxYbVCiQkgjHuwTOM",
-    "developer": "GU.CO.,LTD.",
-    "developerId": "GU.CO.,LTD.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Favorite products and styling is found. Enjoy discount wisely the latest trends in Jiyuapuri.",
-    "scoreText": "3.8",
-    "score": 3.770647
+    "summary": "Fast &amp; safe junk cleaner, helps cool down CPU and save battery, tools in one",
+    "scoreText": "4.1",
+    "score": 4.079208
   },
   {
     "title": "スタディサプリ 中学/高校/大学受験講座",
@@ -2209,35 +2195,35 @@
     "free": true,
     "summary": "大学受験対策や試験勉強対策ならスタディサプリ！第一志望校合格を勝ち取ろう！塾・予備校で1年かかる講義を最短1か月で！テスト勉強・ニガテ対策にもなります！",
     "scoreText": "2.7",
-    "score": 2.7007298
+    "score": 2.6923077
   },
   {
-    "title": "マンガアプリ - コミックシーモア本棚",
-    "appId": "jp.co.nttsolmare.cmoatab",
-    "url": "https://play.google.com/store/apps/details?id=jp.co.nttsolmare.cmoatab",
-    "icon": "https://play-lh.googleusercontent.com/hQX2j29V6ByaT83nIwSY6QAbeEELm9IB9CHKbOJK7FLOmIZIpkrZMEag-wtJrdkpd6s",
-    "developer": "cmoa",
-    "developerId": "cmoa",
+    "title": "Step Counter - Pedometer, MStep",
+    "appId": "pedometer.steptracker.calorieburner.stepcounter",
+    "url": "https://play.google.com/store/apps/details?id=pedometer.steptracker.calorieburner.stepcounter",
+    "icon": "https://play-lh.googleusercontent.com/6B_37hQJmTvR9FjXKU0aR9jB36MKwzBdgtBT5p922jUULOGs0H4nd0KjbC8fcL2CWWk",
+    "developer": "Leap Fitness Group",
+    "developerId": "Leap+Fitness+Group",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Ryoma Takeuchi and Ayami Nakajo CM on air ◆ Comic Seymour Bookshelf App ◆ You can read 13,000 popular comics for free ♪ Boys, girls, TL, BL, light novels, etc.",
-    "scoreText": "3.3",
-    "score": 3.3
+    "summary": "Daily step counter, Free Pedometer &amp; Easy 🔥Calorie Counter help Lose Weight",
+    "scoreText": "4.7",
+    "score": 4.653179
   },
   {
-    "title": "UQ mobile ポータル",
-    "appId": "jp.uqmobile.uqmobileportalapp",
-    "url": "https://play.google.com/store/apps/details?id=jp.uqmobile.uqmobileportalapp",
-    "icon": "https://play-lh.googleusercontent.com/8E4L66fAfiig6Bl88a_auCoGiH5Qo1OjBB-3qGNlPWjimuVb1SLl_sqY94R2h7DWRw",
-    "developer": "KDDI株式会社",
-    "developerId": "KDDI%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE",
+    "title": "ジーユー",
+    "appId": "com.osharemaker",
+    "url": "https://play.google.com/store/apps/details?id=com.osharemaker",
+    "icon": "https://play-lh.googleusercontent.com/PYB-W5jOUkJJxP7UfopEXwbengEq_Q-fqRhNsTdk80FS-YpBSuXxYbVCiQkgjHuwTOM",
+    "developer": "GU.CO.,LTD.",
+    "developerId": "GU.CO.,LTD.",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "This app is for UQ mobile subscribers who can easily switch data communication modes, check the remaining amount of data / billed amount, and check / change contract details and optional services.",
-    "scoreText": "4.0",
-    "score": 3.983027
+    "summary": "Favorite products and styling is found. Enjoy discount wisely the latest trends in Jiyuapuri.",
+    "scoreText": "3.8",
+    "score": 3.7731578
   },
   {
     "title": "PrintSmash",
@@ -2251,35 +2237,49 @@
     "free": true,
     "summary": "You can print photos and PDF files in the smartphone from a convenience store!",
     "scoreText": "2.6",
-    "score": 2.577342
+    "score": 2.5689278
   },
   {
-    "title": "ケーズデンキあんしんパスポート",
-    "appId": "com.ksdenki",
-    "url": "https://play.google.com/store/apps/details?id=com.ksdenki",
-    "icon": "https://play-lh.googleusercontent.com/2iwflJAanerXtdTwucn-Cr3ygh_wkTltLZO4vIGxR9X1reSID9T5bl1K3CxKe8X4tQ",
-    "developer": "LocationValue Inc.",
-    "developerId": "8856722748060887415",
+    "title": "UQ mobile ポータル",
+    "appId": "jp.uqmobile.uqmobileportalapp",
+    "url": "https://play.google.com/store/apps/details?id=jp.uqmobile.uqmobileportalapp",
+    "icon": "https://play-lh.googleusercontent.com/8E4L66fAfiig6Bl88a_auCoGiH5Qo1OjBB-3qGNlPWjimuVb1SLl_sqY94R2h7DWRw",
+    "developer": "KDDI株式会社",
+    "developerId": "KDDI%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "K's Denki relief passport is now smartphone app. Store information and K's Denki, deals members-only coupons, such as campaign information can be confirmed.",
+    "summary": "This app is for UQ mobile subscribers who can easily switch data communication modes, check the remaining amount of data / billed amount, and check / change contract details and optional services.",
+    "scoreText": "4.0",
+    "score": 3.982621
+  },
+  {
+    "title": "GPS Live Navigation, Maps, Directions and Explore",
+    "appId": "com.jvstudios.gpstracker",
+    "url": "https://play.google.com/store/apps/details?id=com.jvstudios.gpstracker",
+    "icon": "https://play-lh.googleusercontent.com/0cHr7wsqCKtwqs4MgvVKmJYvkN4WHiddsgQK3AZSM23FWJKESVuRIrm-bthPaYZZxzc",
+    "developer": "JVSTUDIOS",
+    "developerId": "6678595307987024591",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Live traffic updates, voice navigation, find location, weather &amp; transit info.",
     "scoreText": "3.6",
-    "score": 3.570707
+    "score": 3.6197917
   },
   {
-    "title": "Google Earth",
-    "appId": "com.google.earth",
-    "url": "https://play.google.com/store/apps/details?id=com.google.earth",
-    "icon": "https://play-lh.googleusercontent.com/9ORDOmn8l9dh-j4Sg3_S7CLcy0RRAI_wWt5jZtJOPztwnEkQ4y7mmGgoSYqbFR5jTc3m",
-    "developer": "Google LLC",
-    "developerId": "5700313618786177705",
+    "title": "Bravo Security: boost cleaner",
+    "appId": "com.topsecurity.android",
+    "url": "https://play.google.com/store/apps/details?id=com.topsecurity.android",
+    "icon": "https://play-lh.googleusercontent.com/uRMplCYFdYDevx2J9rMYNey0ak23jfsE5fs7sbC-8DLUBC2BRAQ1k8oCiJ6xIst_YTc",
+    "developer": "Bravo GmbH",
+    "developerId": "8157018098813273177",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Find satellite images of any location. Discover cities and mountains with tours.",
-    "scoreText": "4.1",
-    "score": 4.1206846
+    "summary": "Virus cleaner for Android phone, master junk clean, speed boost &amp; battery saver",
+    "scoreText": "0.0",
+    "score": 0
   },
   {
     "title": "LINE Sticker Maker",
@@ -2294,20 +2294,6 @@
     "summary": "Make your own stickers in a snap",
     "scoreText": "4.4",
     "score": 4.4482174
-  },
-  {
-    "title": "GPS Live Navigation, Maps, Directions and Explore",
-    "appId": "com.jvstudios.gpstracker",
-    "url": "https://play.google.com/store/apps/details?id=com.jvstudios.gpstracker",
-    "icon": "https://play-lh.googleusercontent.com/0cHr7wsqCKtwqs4MgvVKmJYvkN4WHiddsgQK3AZSM23FWJKESVuRIrm-bthPaYZZxzc",
-    "developer": "JVSTUDIOS",
-    "developerId": "6678595307987024591",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Live traffic updates, voice navigation, find location, weather &amp; transit info.",
-    "scoreText": "3.6",
-    "score": 3.618799
   },
   {
     "title": "リクナビ2024 インターン情報・就活準備・就職準備アプリ",
@@ -2338,20 +2324,6 @@
     "score": 4.25
   },
   {
-    "title": "LEBER リーバー",
-    "appId": "com.leber",
-    "url": "https://play.google.com/store/apps/details?id=com.leber",
-    "icon": "https://play-lh.googleusercontent.com/iGxehpExkOU7dRNb6GZ0iICrcaykwtXtXKCBDwMgtd9JyqJdWLpnGByKdE-fC-rEz4ne",
-    "developer": "LEBER Inc.",
-    "developerId": "LEBER+Inc.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Introducing medical institutions and over-the-counter drugs that doctors interview remotely to meet their health conditions and symptoms",
-    "scoreText": "2.1",
-    "score": 2.09901
-  },
-  {
     "title": "Tokyo Disney Resort App",
     "appId": "jp.tokyodisneyresort.portalapp",
     "url": "https://play.google.com/store/apps/details?id=jp.tokyodisneyresort.portalapp",
@@ -2366,32 +2338,18 @@
     "score": 3.7942238
   },
   {
-    "title": "エディオンアプリ",
-    "appId": "com.edion.members",
-    "url": "https://play.google.com/store/apps/details?id=com.edion.members",
-    "icon": "https://play-lh.googleusercontent.com/dzFVJpqRYeBZ6_Y5qhSfgPxWdVBvN6Da0zvQ9_-XCGg5KgGz_U5kBCFiKCKMHRsF18s",
-    "developer": "EDION Corporation",
-    "developerId": "EDION+Corporation",
+    "title": "LEBER リーバー",
+    "appId": "com.leber",
+    "url": "https://play.google.com/store/apps/details?id=com.leber",
+    "icon": "https://play-lh.googleusercontent.com/iGxehpExkOU7dRNb6GZ0iICrcaykwtXtXKCBDwMgtd9JyqJdWLpnGByKdE-fC-rEz4ne",
+    "developer": "LEBER Inc.",
+    "developerId": "LEBER+Inc.",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Apply for campaigns with daily accumulated coins, check purchase history, etc.",
-    "scoreText": "3.5",
-    "score": 3.5060449
-  },
-  {
-    "title": "Bravo Security: boost cleaner",
-    "appId": "com.topsecurity.android",
-    "url": "https://play.google.com/store/apps/details?id=com.topsecurity.android",
-    "icon": "https://play-lh.googleusercontent.com/uRMplCYFdYDevx2J9rMYNey0ak23jfsE5fs7sbC-8DLUBC2BRAQ1k8oCiJ6xIst_YTc",
-    "developer": "Bravo GmbH",
-    "developerId": "8157018098813273177",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Virus cleaner for Android phone, master junk clean, speed boost &amp; battery saver",
-    "scoreText": "0.0",
-    "score": 0
+    "summary": "Introducing medical institutions and over-the-counter drugs that doctors interview remotely to meet their health conditions and symptoms",
+    "scoreText": "2.1",
+    "score": 2.09901
   },
   {
     "title": "モバイルSuica　-いつものSuicaがスマホで便利に-",
@@ -2405,7 +2363,7 @@
     "free": true,
     "summary": "Suica's app service that allows you to charge with a credit card anywhere. You can use it for trains, buses, taxis, and shopping at Suica stores nationwide.",
     "scoreText": "2.8",
-    "score": 2.7642338
+    "score": 2.7657208
   },
   {
     "title": "バイトアプリ/バイト探しはタウンワーク",
@@ -2419,7 +2377,35 @@
     "free": true,
     "summary": "The byte app is Townwork. Great for finding a part-time job! Lots of attractive part-time jobs and job offers! A part-time job search app with the largest number of users, full of short-term part-time jobs, one-time jobs, dispatched labor and part-time information.",
     "scoreText": "4.1",
-    "score": 4.095238
+    "score": 4.0991774
+  },
+  {
+    "title": "Google Earth",
+    "appId": "com.google.earth",
+    "url": "https://play.google.com/store/apps/details?id=com.google.earth",
+    "icon": "https://play-lh.googleusercontent.com/9ORDOmn8l9dh-j4Sg3_S7CLcy0RRAI_wWt5jZtJOPztwnEkQ4y7mmGgoSYqbFR5jTc3m",
+    "developer": "Google LLC",
+    "developerId": "5700313618786177705",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Find satellite images of any location. Discover cities and mountains with tours.",
+    "scoreText": "4.1",
+    "score": 4.1206145
+  },
+  {
+    "title": "電子マネー「nanaco」",
+    "appId": "jp.nanaco.android",
+    "url": "https://play.google.com/store/apps/details?id=jp.nanaco.android",
+    "icon": "https://play-lh.googleusercontent.com/SPn2xXmP7bbTRkKrKTQNy_7sjmnfvdnEr-0eGkzFJVSbP4f30w6vL1vvprE7ifFL_1Vj",
+    "developer": "株式会社セブン・カードサービス",
+    "developerId": "%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%BB%E3%83%96%E3%83%B3%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Electronic money \"nanaco\" in your smartphone!\n\"Nanaco mobile\" is electronic money that point accumulation\nIssue commission annual fee!",
+    "scoreText": "3.1",
+    "score": 3.1396449
   },
   {
     "title": "ミマモルメ　お子様の見守り,位置情報を通知",
@@ -2436,6 +2422,76 @@
     "score": 2.59
   },
   {
+    "title": "Fast Cleaner - Freeup phone space, junk& boost ram",
+    "appId": "com.cleaner.boost.junk.system",
+    "url": "https://play.google.com/store/apps/details?id=com.cleaner.boost.junk.system",
+    "icon": "https://play-lh.googleusercontent.com/SX63RUqq-egq7toPACRO8_AllSGS9TWC9XqdSWlJ3fy50PKacCGRfgHRSDB2LS8Bb48",
+    "developer": "Super Cleaner & Free up Space",
+    "developerId": "Super+Cleaner+%26+Free+up+Space",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Cleaner: Android APP for cleaning cache, ram booster and optimize phone speed",
+    "scoreText": "3.8",
+    "score": 3.8125
+  },
+  {
+    "title": "バンドルカード:誰でも発行できるVisaプリカ",
+    "appId": "jp.kanmu.vandle.android",
+    "url": "https://play.google.com/store/apps/details?id=jp.kanmu.vandle.android",
+    "icon": "https://play-lh.googleusercontent.com/vjbpQQ_xkADO-HbYcR7OnTMGnh7rqpa-xpIKbpuQwDOYCKPUMfcFe4fRvw47-bmSKQ",
+    "developer": "Kanmu, Inc.",
+    "developerId": "Kanmu,+Inc.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "500万ダウンロード突破のVisaプリペイドカード！審査や年齢制限なく、誰でも電話番号だけで無料で使える！後払い機能で手元にお金が無くても即日チャージも可能！",
+    "scoreText": "4.1",
+    "score": 4.1449046
+  },
+  {
+    "title": "Facebook",
+    "appId": "com.facebook.katana",
+    "url": "https://play.google.com/store/apps/details?id=com.facebook.katana",
+    "icon": "https://play-lh.googleusercontent.com/ccWDU4A7fX1R24v-vvT480ySh26AYp97g1VrIB_FIdjRcuQB2JP2WdY7h_wVVAeSpg",
+    "developer": "Meta Platforms, Inc.",
+    "developerId": "Meta+Platforms,+Inc.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Find friends, watch live videos, play games &amp; save photos in your social network",
+    "scoreText": "3.2",
+    "score": 3.2309828
+  },
+  {
+    "title": "ヘア&ビューティーサロン検索/ホットペッパービューティー",
+    "appId": "jp.hotpepper.android.beauty.hair",
+    "url": "https://play.google.com/store/apps/details?id=jp.hotpepper.android.beauty.hair",
+    "icon": "https://play-lh.googleusercontent.com/xps3gneCq0NxxzfhiA2oVfwKH5Fu0dZZoj9elKlORcPyKJAyWlIyhbEOScqZWdRyZg",
+    "developer": "Recruit Co.,Ltd.",
+    "developerId": "7318129576372072658",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Android app of \"Hot Pepper Beauty\", the largest hair salon reservation site in Japan! Browse hair catalogs, find a salon, and make a reservation.",
+    "scoreText": "4.5",
+    "score": 4.4782915
+  },
+  {
+    "title": "NHK Radio RADIRU*RADIRU",
+    "appId": "jp.nhk.netradio",
+    "url": "https://play.google.com/store/apps/details?id=jp.nhk.netradio",
+    "icon": "https://play-lh.googleusercontent.com/yNy0lElvpBz6GJxobrq3_VhlV1ySrQzDl7tstNez0IQejyDMVyBWfRm-E9_qvULWgnb2",
+    "developer": "NHK (JAPAN BROADCASTING CORP.)",
+    "developerId": "NHK+(JAPAN+BROADCASTING+CORP.)",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Everyday, Everywhere, Listen to RADIRU*RADIRU.",
+    "scoreText": "3.6",
+    "score": 3.6297274
+  },
+  {
     "title": "au PAY マーケット　ポイントがたまるショッピングアプリ",
     "appId": "jp.wowma.app",
     "url": "https://play.google.com/store/apps/details?id=jp.wowma.app",
@@ -2447,21 +2503,21 @@
     "free": true,
     "summary": "Enjoy mail order and online shopping at the au PAY market! Accumulate Ponta points! You can use it! au Smart Pass Premium is an even more advantageous shopping site",
     "scoreText": "3.6",
-    "score": 3.608902
+    "score": 3.6075873
   },
   {
-    "title": "電子マネー「nanaco」",
-    "appId": "jp.nanaco.android",
-    "url": "https://play.google.com/store/apps/details?id=jp.nanaco.android",
-    "icon": "https://play-lh.googleusercontent.com/SPn2xXmP7bbTRkKrKTQNy_7sjmnfvdnEr-0eGkzFJVSbP4f30w6vL1vvprE7ifFL_1Vj",
-    "developer": "株式会社セブン・カードサービス",
-    "developerId": "%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%BB%E3%83%96%E3%83%B3%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9",
+    "title": "マンガがうがう～異世界漫画・悪役令嬢まんがが読める～",
+    "appId": "jp.futabanet.gaugau.app",
+    "url": "https://play.google.com/store/apps/details?id=jp.futabanet.gaugau.app",
+    "icon": "https://play-lh.googleusercontent.com/q6wPTR8fPVOEMDk2TR5Ycz5X4TtKCBv-BpwIG9LM6Qfe_o2gcq0mm7w2dhQJBVHp5w",
+    "developer": "Futabasha Publishers Ltd.",
+    "developerId": "Futabasha+Publishers+Ltd.",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Electronic money \"nanaco\" in your smartphone!\n\"Nanaco mobile\" is electronic money that point accumulation\nIssue commission annual fee!",
-    "scoreText": "3.1",
-    "score": 3.1387079
+    "summary": "A manga app that allows you to read Futabasha's popular manga every day!",
+    "scoreText": "4.0",
+    "score": 4.047486
   },
   {
     "title": "はま寿司",
@@ -2478,116 +2534,46 @@
     "score": 4.1996126
   },
   {
-    "title": "バンドルカード:誰でも発行できるVisaプリカ",
-    "appId": "jp.kanmu.vandle.android",
-    "url": "https://play.google.com/store/apps/details?id=jp.kanmu.vandle.android",
-    "icon": "https://play-lh.googleusercontent.com/vjbpQQ_xkADO-HbYcR7OnTMGnh7rqpa-xpIKbpuQwDOYCKPUMfcFe4fRvw47-bmSKQ",
-    "developer": "Kanmu, Inc.",
-    "developerId": "Kanmu,+Inc.",
+    "title": "ONE(ワン) レシート撮影！お金がもらえる買取アプリ",
+    "appId": "jp.onefinancial.one",
+    "url": "https://play.google.com/store/apps/details?id=jp.onefinancial.one",
+    "icon": "https://play-lh.googleusercontent.com/lTExOQu7LjBEASCwZBUGnetbI8AaTq2dqcQLMobklX37unl2aJ6D4HEJtSf8i9ytR6Dd",
+    "developer": "WED, Inc.",
+    "developerId": "WED,+Inc.",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "500万ダウンロード突破のVisaプリペイドカード！審査や年齢制限なく、誰でも電話番号だけで無料で使える！後払い機能で手元にお金が無くても即日チャージも可能！",
-    "scoreText": "4.1",
-    "score": 4.144368
-  },
-  {
-    "title": "Facebook",
-    "appId": "com.facebook.katana",
-    "url": "https://play.google.com/store/apps/details?id=com.facebook.katana",
-    "icon": "https://play-lh.googleusercontent.com/ccWDU4A7fX1R24v-vvT480ySh26AYp97g1VrIB_FIdjRcuQB2JP2WdY7h_wVVAeSpg",
-    "developer": "Meta Platforms, Inc.",
-    "developerId": "Meta+Platforms,+Inc.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Find friends, watch live videos, play games &amp; save photos in your social network",
-    "scoreText": "3.2",
-    "score": 3.2309074
-  },
-  {
-    "title": "Files by Google",
-    "appId": "com.google.android.apps.nbu.files",
-    "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files",
-    "icon": "https://play-lh.googleusercontent.com/1nfAdJs2Ep2q1skM7QwJ1uHooWSbpFkbIBHhAX6EmdzEKmtk42713TiTU28mWlkcFKPA",
-    "developer": "Google LLC",
-    "developerId": "5700313618786177705",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Clean up your phone, find files fast &amp; share files offline",
-    "scoreText": "4.2",
-    "score": 4.2053742
-  },
-  {
-    "title": "Canon PRINT Inkjet/SELPHY",
-    "appId": "jp.co.canon.bsd.ad.pixmaprint",
-    "url": "https://play.google.com/store/apps/details?id=jp.co.canon.bsd.ad.pixmaprint",
-    "icon": "https://play-lh.googleusercontent.com/CL2URS2mlzwo5VrG4gfAXwdEhZJz9O6ByiciWljhyelGXInUDqCLEd807h-G2tKC-jw",
-    "developer": "Canon Inc.",
-    "developerId": "Canon+Inc.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "FREE app for PIXMA &amp; MAXIFY, SELPHY by Canon\nPrint from your smart device easily",
-    "scoreText": "4.4",
-    "score": 4.3813972
-  },
-  {
-    "title": "ヘア&ビューティーサロン検索/ホットペッパービューティー",
-    "appId": "jp.hotpepper.android.beauty.hair",
-    "url": "https://play.google.com/store/apps/details?id=jp.hotpepper.android.beauty.hair",
-    "icon": "https://play-lh.googleusercontent.com/xps3gneCq0NxxzfhiA2oVfwKH5Fu0dZZoj9elKlORcPyKJAyWlIyhbEOScqZWdRyZg",
-    "developer": "Recruit Co.,Ltd.",
-    "developerId": "7318129576372072658",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Android app of \"Hot Pepper Beauty\", the largest hair salon reservation site in Japan! Browse hair catalogs, find a salon, and make a reservation.",
-    "scoreText": "4.5",
-    "score": 4.4772887
-  },
-  {
-    "title": "NHK Radio RADIRU*RADIRU",
-    "appId": "jp.nhk.netradio",
-    "url": "https://play.google.com/store/apps/details?id=jp.nhk.netradio",
-    "icon": "https://play-lh.googleusercontent.com/yNy0lElvpBz6GJxobrq3_VhlV1ySrQzDl7tstNez0IQejyDMVyBWfRm-E9_qvULWgnb2",
-    "developer": "NHK (JAPAN BROADCASTING CORP.)",
-    "developerId": "NHK+(JAPAN+BROADCASTING+CORP.)",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Everyday, Everywhere, Listen to RADIRU*RADIRU.",
-    "scoreText": "3.6",
-    "score": 3.631162
-  },
-  {
-    "title": "マンガがうがう～異世界漫画・悪役令嬢まんがが読める～",
-    "appId": "jp.futabanet.gaugau.app",
-    "url": "https://play.google.com/store/apps/details?id=jp.futabanet.gaugau.app",
-    "icon": "https://play-lh.googleusercontent.com/q6wPTR8fPVOEMDk2TR5Ycz5X4TtKCBv-BpwIG9LM6Qfe_o2gcq0mm7w2dhQJBVHp5w",
-    "developer": "Futabasha Publishers Ltd.",
-    "developerId": "Futabasha+Publishers+Ltd.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "A manga app that allows you to read Futabasha's popular manga every day!",
+    "summary": "今までなかった新体験のアプリ！不要なレシートやボトルの画像などを撮影して楽しくお得にお金を貯めよう。ポイ活に興味がある方にもおすすめのレシート買取アプリです。",
     "scoreText": "4.0",
-    "score": 4.0397725
+    "score": 4.0192537
   },
   {
-    "title": "Fast Cleaner - Freeup phone space, junk& boost ram",
-    "appId": "com.cleaner.boost.junk.system",
-    "url": "https://play.google.com/store/apps/details?id=com.cleaner.boost.junk.system",
-    "icon": "https://play-lh.googleusercontent.com/SX63RUqq-egq7toPACRO8_AllSGS9TWC9XqdSWlJ3fy50PKacCGRfgHRSDB2LS8Bb48",
-    "developer": "Super Cleaner & Free up Space",
-    "developerId": "Super+Cleaner+%26+Free+up+Space",
+    "title": "Microsoft Excel: Spreadsheets",
+    "appId": "com.microsoft.office.excel",
+    "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.excel",
+    "icon": "https://play-lh.googleusercontent.com/37EzETO6gZyKmCg2kBIFX1e9gkubxZrVa5fHJ6yOaa7VvEShHjKv2RdtwnZt9Sk258s",
+    "developer": "Microsoft Corporation",
+    "developerId": "6720847872553662727",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Cleaner: Android APP for cleaning cache, ram booster and optimize phone speed",
-    "scoreText": "3.8",
-    "score": 3.7936509
+    "summary": "Create spreadsheets easily. View &amp; edit documents &amp; collaborate on the go",
+    "scoreText": "4.1",
+    "score": 4.107562
+  },
+  {
+    "title": "ウェザーニュース  天気・雨雲レーダー・台風の天気予報アプリ",
+    "appId": "wni.WeathernewsTouch.jp",
+    "url": "https://play.google.com/store/apps/details?id=wni.WeathernewsTouch.jp",
+    "icon": "https://play-lh.googleusercontent.com/9sa1LDZjQn6NAUstxbbtJ5F_gndqthH7W12oLcQbSOR-sJkofdoafdX_7vQ0VVuZUkLY",
+    "developer": "Weathernews Inc.",
+    "developerId": "Weathernews+Inc.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Cumulative total of over 30 million downloads. No. 1 comprehensive weather app in the information volume industry. You can see daily weather forecast, rain cloud radar, earthquake information and typhoon course for free.",
+    "scoreText": "4.0",
+    "score": 3.9944081
   },
   {
     "title": "Zeetle - 連絡先を一括送信 写真もクーポンも",
@@ -2615,119 +2601,7 @@
     "free": true,
     "summary": "FamilyAlbum helps you share, save, and remember your child's special moments.",
     "scoreText": "4.6",
-    "score": 4.580514
-  },
-  {
-    "title": "Microsoft Excel: Spreadsheets",
-    "appId": "com.microsoft.office.excel",
-    "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.excel",
-    "icon": "https://play-lh.googleusercontent.com/37EzETO6gZyKmCg2kBIFX1e9gkubxZrVa5fHJ6yOaa7VvEShHjKv2RdtwnZt9Sk258s",
-    "developer": "Microsoft Corporation",
-    "developerId": "6720847872553662727",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Create spreadsheets easily. View &amp; edit documents &amp; collaborate on the go",
-    "scoreText": "4.1",
-    "score": 4.1085525
-  },
-  {
-    "title": "Duolingo: language lessons",
-    "appId": "com.duolingo",
-    "url": "https://play.google.com/store/apps/details?id=com.duolingo",
-    "icon": "https://play-lh.googleusercontent.com/hSyebBlYwtE2aMjzSIHasUO9cQv9HgNAw9owy6ADO0szOKYO3rDk60r7jcyXu82Fbq1M",
-    "developer": "Duolingo",
-    "developerId": "6957685454452609502",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Learn Spanish, French, German, Italian, English and more languages for free.",
-    "scoreText": "4.0",
-    "score": 3.9847238
-  },
-  {
-    "title": "ONE(ワン) レシート撮影！お金がもらえる買取アプリ",
-    "appId": "jp.onefinancial.one",
-    "url": "https://play.google.com/store/apps/details?id=jp.onefinancial.one",
-    "icon": "https://play-lh.googleusercontent.com/lTExOQu7LjBEASCwZBUGnetbI8AaTq2dqcQLMobklX37unl2aJ6D4HEJtSf8i9ytR6Dd",
-    "developer": "WED, Inc.",
-    "developerId": "WED,+Inc.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "今までなかった新体験のアプリ！不要なレシートやボトルの画像などを撮影して楽しくお得にお金を貯めよう。ポイ活に興味がある方にもおすすめのレシート買取アプリです。",
-    "scoreText": "4.0",
-    "score": 4.0182037
-  },
-  {
-    "title": "Google Home",
-    "appId": "com.google.android.apps.chromecast.app",
-    "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.chromecast.app",
-    "icon": "https://play-lh.googleusercontent.com/vr1isZKzTtlok9P81H6cR98iqpPhkuQHJp19Z5kPej3QlhNTnLohXpqcgMqrQpyegA",
-    "developer": "Google LLC",
-    "developerId": "5700313618786177705",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Set up and control your compatible Nest, Chromecast, and Google Home devices.",
-    "scoreText": "3.6",
-    "score": 3.598842
-  },
-  {
-    "title": "e＋(イープラス)アプリ - チケット・ニュース・スマチケ",
-    "appId": "jp.eplus.android.all.app",
-    "url": "https://play.google.com/store/apps/details?id=jp.eplus.android.all.app",
-    "icon": "https://play-lh.googleusercontent.com/37TPZZcUEXwmV9Gz2f1BNQbxhfvxPjUOFoWlFxha9RJzDOiQUm1HWuEQJ1Xuwu7Fo5w",
-    "developer": "e＋(イープラス)",
-    "developerId": "e%EF%BC%8B(%E3%82%A4%E3%83%BC%E3%83%97%E3%83%A9%E3%82%B9)",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "Full of tickets and news such as live concerts, plays, sports and events! Japan's largest ticket purchasing app used by 7 million people",
-    "scoreText": "3.9",
-    "score": 3.861325
-  },
-  {
-    "title": "ダイエットアプリ あすけん カロリー計算・食事記録・体重管理",
-    "appId": "jp.co.greenhouse.asken",
-    "url": "https://play.google.com/store/apps/details?id=jp.co.greenhouse.asken",
-    "icon": "https://play-lh.googleusercontent.com/oF7heyPUSeOhalRx5QPkOnjwYtcOgLBlR2nz5ndzLa3lWFwgjHrsGBI_w4gjftozFg",
-    "developer": "asken, Inc.",
-    "developerId": "asken,+Inc.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "It is a diet support app that allows you to easily manage meals, nutrition, and recording diets just by taking a barcode or a photo!",
-    "scoreText": "4.3",
-    "score": 4.2678385
-  },
-  {
-    "title": "マンガワン-小学館のオリジナル漫画を毎日配信",
-    "appId": "jp.co.comic.mangaone",
-    "url": "https://play.google.com/store/apps/details?id=jp.co.comic.mangaone",
-    "icon": "https://play-lh.googleusercontent.com/DnytEYH5QAmkuQg6q5yFJBKYZWpLbCda6AUkyCDzfR9IAgkfCH1mGVGYRzddxL0CIX45",
-    "developer": "SHOGAKUKAN INC.",
-    "developerId": "SHOGAKUKAN+INC.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "A manga app that can read all popular works up to the latest story",
-    "scoreText": "3.5",
-    "score": 3.4650042
-  },
-  {
-    "title": "イオンお買物",
-    "appId": "jp.aeonretail.aeon_okaimono",
-    "url": "https://play.google.com/store/apps/details?id=jp.aeonretail.aeon_okaimono",
-    "icon": "https://play-lh.googleusercontent.com/7GGJ9fAaR1dSBlQgkg3LNxlrkZ6YNROE9EELX0zpQQv6m6os9DXudsDZlYSKrdP8ikw",
-    "developer": "AEON RETAIL CO., LTD.",
-    "developerId": "AEON+RETAIL+CO.,+LTD.",
-    "priceText": "FREE",
-    "price": 0,
-    "free": true,
-    "summary": "The AEON Shopping App is a simple membership registration, and is full of advantageous benefits and useful functions!\nRegistration is easy! When you register as a new member, you will also receive a coupon that you can use immediately!",
-    "scoreText": "2.8",
-    "score": 2.7701657
+    "score": 4.5808954
   },
   {
     "title": "Virus Cleaner- Booster&Cleaner",
@@ -2744,18 +2618,18 @@
     "score": 4.655738
   },
   {
-    "title": "LINE WORKS: Team Communication",
-    "appId": "com.gworks.oneapp.works",
-    "url": "https://play.google.com/store/apps/details?id=com.gworks.oneapp.works",
-    "icon": "https://play-lh.googleusercontent.com/olx9yKpsI7Yx5vi5w-n7HT2_iusfSm3R73O_UVq0paTVEVLIJzQxXM1RGSqkXL5hDA",
-    "developer": "WORKS MOBILE Corp.",
-    "developerId": "WORKS+MOBILE+Corp.",
+    "title": "Google Home",
+    "appId": "com.google.android.apps.chromecast.app",
+    "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.chromecast.app",
+    "icon": "https://play-lh.googleusercontent.com/vr1isZKzTtlok9P81H6cR98iqpPhkuQHJp19Z5kPej3QlhNTnLohXpqcgMqrQpyegA",
+    "developer": "Google LLC",
+    "developerId": "5700313618786177705",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Online Collaboration Tool",
-    "scoreText": "3.7",
-    "score": 3.7197897
+    "summary": "Set up and control your compatible Nest, Chromecast, and Google Home devices.",
+    "scoreText": "3.6",
+    "score": 3.5913978
   },
   {
     "title": "ゼブラック - ジャンプから異世界モノまで毎日読める！",
@@ -2769,7 +2643,35 @@
     "free": true,
     "summary": "All \"I want to read\" gather here!\nIn Zebrak, we are delivering from the latest story of popular work to successive hits!",
     "scoreText": "4.2",
-    "score": 4.2150207
+    "score": 4.2145047
+  },
+  {
+    "title": "イオンお買物",
+    "appId": "jp.aeonretail.aeon_okaimono",
+    "url": "https://play.google.com/store/apps/details?id=jp.aeonretail.aeon_okaimono",
+    "icon": "https://play-lh.googleusercontent.com/7GGJ9fAaR1dSBlQgkg3LNxlrkZ6YNROE9EELX0zpQQv6m6os9DXudsDZlYSKrdP8ikw",
+    "developer": "AEON RETAIL CO., LTD.",
+    "developerId": "AEON+RETAIL+CO.,+LTD.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "The AEON Shopping App is a simple membership registration, and is full of advantageous benefits and useful functions!\nRegistration is easy! When you register as a new member, you will also receive a coupon that you can use immediately!",
+    "scoreText": "2.8",
+    "score": 2.7715232
+  },
+  {
+    "title": "e＋(イープラス)アプリ - チケット・ニュース・スマチケ",
+    "appId": "jp.eplus.android.all.app",
+    "url": "https://play.google.com/store/apps/details?id=jp.eplus.android.all.app",
+    "icon": "https://play-lh.googleusercontent.com/37TPZZcUEXwmV9Gz2f1BNQbxhfvxPjUOFoWlFxha9RJzDOiQUm1HWuEQJ1Xuwu7Fo5w",
+    "developer": "e＋(イープラス)",
+    "developerId": "e%EF%BC%8B(%E3%82%A4%E3%83%BC%E3%83%97%E3%83%A9%E3%82%B9)",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Full of tickets and news such as live concerts, plays, sports and events! Japan's largest ticket purchasing app used by 7 million people",
+    "scoreText": "3.9",
+    "score": 3.8717155
   },
   {
     "title": "Pinterest",
@@ -2783,20 +2685,118 @@
     "free": true,
     "summary": "One destination for a world of inspiration.",
     "scoreText": "4.1",
-    "score": 4.0787973
+    "score": 4.0775666
   },
   {
-    "title": "ウェザーニュース  天気・雨雲レーダー・台風の天気予報アプリ",
-    "appId": "wni.WeathernewsTouch.jp",
-    "url": "https://play.google.com/store/apps/details?id=wni.WeathernewsTouch.jp",
-    "icon": "https://play-lh.googleusercontent.com/9sa1LDZjQn6NAUstxbbtJ5F_gndqthH7W12oLcQbSOR-sJkofdoafdX_7vQ0VVuZUkLY",
-    "developer": "Weathernews Inc.",
-    "developerId": "Weathernews+Inc.",
+    "title": "Yahoo!天気 - 雨雲や台風の接近がわかる天気予報アプリ",
+    "appId": "jp.co.yahoo.android.weather.type1",
+    "url": "https://play.google.com/store/apps/details?id=jp.co.yahoo.android.weather.type1",
+    "icon": "https://play-lh.googleusercontent.com/UEjRVMNDb-HS71Ct3Y3XMoilrhf1wqZ-8_i19X2bNoniwqzJ89wZKI5zO7Xf92q12g",
+    "developer": "Yahoo Japan Corp.",
+    "developerId": "9059031076674808747",
     "priceText": "FREE",
     "price": 0,
     "free": true,
-    "summary": "Cumulative total of over 30 million downloads. No. 1 comprehensive weather app in the information volume industry. You can see daily weather forecast, rain cloud radar, earthquake information and typhoon course for free.",
-    "scoreText": "4.0",
-    "score": 3.99557
+    "summary": "Yahoo Weather's Nimbus Radar is designed to let you know at a glance when it will rain, when it will stop, and how strong it will be. In addition, we will notify you when it is likely to rain.",
+    "scoreText": "4.2",
+    "score": 4.1752205
+  },
+  {
+    "title": "ダイエットアプリ あすけん カロリー計算・食事記録・体重管理",
+    "appId": "jp.co.greenhouse.asken",
+    "url": "https://play.google.com/store/apps/details?id=jp.co.greenhouse.asken",
+    "icon": "https://play-lh.googleusercontent.com/oF7heyPUSeOhalRx5QPkOnjwYtcOgLBlR2nz5ndzLa3lWFwgjHrsGBI_w4gjftozFg",
+    "developer": "asken, Inc.",
+    "developerId": "asken,+Inc.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "It is a diet support app that allows you to easily manage meals, nutrition, and recording diets just by taking a barcode or a photo!",
+    "scoreText": "4.3",
+    "score": 4.2679586
+  },
+  {
+    "title": "マンガワン-小学館のオリジナル漫画を毎日配信",
+    "appId": "jp.co.comic.mangaone",
+    "url": "https://play.google.com/store/apps/details?id=jp.co.comic.mangaone",
+    "icon": "https://play-lh.googleusercontent.com/DnytEYH5QAmkuQg6q5yFJBKYZWpLbCda6AUkyCDzfR9IAgkfCH1mGVGYRzddxL0CIX45",
+    "developer": "SHOGAKUKAN INC.",
+    "developerId": "SHOGAKUKAN+INC.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "A manga app that can read all popular works up to the latest story",
+    "scoreText": "3.5",
+    "score": 3.464529
+  },
+  {
+    "title": "SNOW",
+    "appId": "com.campmobile.snow",
+    "url": "https://play.google.com/store/apps/details?id=com.campmobile.snow",
+    "icon": "https://play-lh.googleusercontent.com/R8-LD7m5rwQwIdAit3PwUG8QgYoDecAZBSaEuPAjhTpsG6mkqo130b-RKm9RrXBj-kI",
+    "developer": "SNOW Corporation",
+    "developerId": "SNOW+Corporation",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Make every moment special with SNOW",
+    "scoreText": "3.9",
+    "score": 3.9313693
+  },
+  {
+    "title": "Rakuten Travel",
+    "appId": "jp.co.rakuten.travel.andro",
+    "url": "https://play.google.com/store/apps/details?id=jp.co.rakuten.travel.andro",
+    "icon": "https://play-lh.googleusercontent.com/e1IkcRRoEKer1rqTZi4WaB2osHvhkskUD69hnrB9qWBagDCuvIauWULWQfGs45IgeYqp",
+    "developer": "Rakuten Group, Inc.",
+    "developerId": "Rakuten+Group,+Inc.",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "With Rakuten Travel's official application, you can book a hotel right away!",
+    "scoreText": "4.3",
+    "score": 4.3408794
+  },
+  {
+    "title": "Microsoft Word: Edit Documents",
+    "appId": "com.microsoft.office.word",
+    "url": "https://play.google.com/store/apps/details?id=com.microsoft.office.word",
+    "icon": "https://play-lh.googleusercontent.com/9kABykeGovHPy-dN19lRxxnCp8IZK3Pkl8qLFNxrEe-hhKVZeiyhTBEIRUt6t-vhxQ",
+    "developer": "Microsoft Corporation",
+    "developerId": "6720847872553662727",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Powerful mobile writing app. Use Word to easily write, create, edit &amp; share docs",
+    "scoreText": "3.9",
+    "score": 3.8948853
+  },
+  {
+    "title": "Yahoo! MAP - ヤフーのナビ、地図アプリ",
+    "appId": "jp.co.yahoo.android.apps.map",
+    "url": "https://play.google.com/store/apps/details?id=jp.co.yahoo.android.apps.map",
+    "icon": "https://play-lh.googleusercontent.com/9CzIwn6GduaPQlXUuccEFXIOJopWLrmlHhp2RXpfT-R525Mgu3ysR3qjh6DvW5vIbIg",
+    "developer": "Yahoo Japan Corp.",
+    "developerId": "9059031076674808747",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "Easy-to-read map and easy-to-understand navigation Yahoo! MAP --Yahoo Map. It is a convenient app that can be used as a travel guide with a lot of information on gourmet food and outings nationwide.",
+    "scoreText": "4.2",
+    "score": 4.1973753
+  },
+  {
+    "title": "Indeed Job Search",
+    "appId": "com.indeed.android.jobsearch",
+    "url": "https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch",
+    "icon": "https://play-lh.googleusercontent.com/_sJ-ST-crO8lxIzTv44xv_hiZvA6X7X2-8jSjhha2RfYcGSgACRod38yA6dfmcJHy_M",
+    "developer": "Indeed Jobs",
+    "developerId": "Indeed+Jobs",
+    "priceText": "FREE",
+    "price": 0,
+    "free": true,
+    "summary": "The world’s #1 job search site*",
+    "scoreText": "4.1",
+    "score": 4.0747013
   }
 ]
